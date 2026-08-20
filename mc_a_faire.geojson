@@ -50,28 +50,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.867232,
-     48.013055
-    ]
-   },
-   "properties": {
-    "name": "FRA04500092 — LA_CHAPELLE_ST_SEPULCRE",
-    "description": "**WO-234264** — Activé\nDonneur d'ordre : Ensio IDF\nDAS : Acceptée (DAS-N0206239)\n\nValeur de la prise de terre supérieure au maximum admissible, l'améliorer pour qu'elle soit inferieure à 166 ohms",
-    "code_fra": "FRA04500092",
-    "wo": "WO-234264",
-    "statut": "Activé",
-    "departement": "45",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.165234,
      49.569727
     ]
@@ -138,19 +116,19 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.232771,
-     49.193093
+     -1.501855,
+     47.89412
     ]
    },
    "properties": {
-    "name": "FRA01400058 — OUILLY_LE_VICOMTE",
-    "description": "**WO-242876** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-09-01 00:00:00\nDAS : Acceptée (DAS-N0208975)\n\nAction Réaliser une VQS",
-    "code_fra": "FRA01400058",
-    "wo": "WO-242876",
-    "statut": "Travaux planifiés",
-    "departement": "14",
+    "name": "FRA03500150 — LACOUYERE",
+    "description": "**WO-242811** — Devis Envoyé\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-01 00:00:00\nDAS : Créée (DAS-N0217066)\n\nPrévoir débroussaillage du site svp",
+    "code_fra": "FRA03500150",
+    "wo": "WO-242811",
+    "statut": "Devis Envoyé",
+    "departement": "35",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -160,19 +138,41 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -0.046141,
-     49.022967
+     -0.77219,
+     48.315368
     ]
    },
    "properties": {
-    "name": "FRA01400095 — SAINT_PIERRE_SUR_DIVES",
-    "description": "**WO-237948** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-09-14 00:00:00\nDAS : Acceptée (DAS-N0203441)\nPrévenance : 15 j\n\nAction Je vous laisse planifier cette VT après l'intervention de SEE ALL svp du 27/07/2026. Accompagner la société PIP ( Global Safty) sur site pour qu'ils puissent répondre aux objectifs suivants: • D’identifier l’origine du problème car le système fonctionnait auparavant. o Est-ce un pb de montage, de conception, d’incompatibilité avec le type de pylône ou simplement un déréglage dû au temps ? • Fournir une solution technique pour résoudre le blocage à court et long terme. Contacts: Mathieu MANCUSO Head of Training & Services EMEA +33608410982 mmancuso@pipglobalsafety.com ou Abdelhadi LEMKHAYER Responsable France Système Söll / Combisafe +33 7 86 48 32 70 MOBILE abdel.lemkhayer@pipglobalsafety.com",
-    "code_fra": "FRA01400095",
-    "wo": "WO-237948",
-    "statut": "Travaux planifiés",
-    "departement": "14",
+    "name": "FRA05300015 — CHATILLON_SUR_COLMONT",
+    "description": "**WO-242825** — Devis Envoyé\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-02 00:00:00\nDAS : Créée (DAS-N0217045)\nPrévenance : 2 j\n\nEntretien terrain à prévoir en EV",
+    "code_fra": "FRA05300015",
+    "wo": "WO-242825",
+    "statut": "Devis Envoyé",
+    "departement": "53",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#2563EB",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.217546,
+     49.522249
+    ]
+   },
+   "properties": {
+    "name": "FRA07600289 — GONFREVILLE_GOURNAY",
+    "description": "**WO-238225** — Devis Envoyé\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-21 00:00:00\nDAS : Acceptée (DAS-N0213872)\n\nMerci de procéder à l'entretien des espaces verts du site car des branchages gênent l'accès aux baies et câbles",
+    "code_fra": "FRA07600289",
+    "wo": "WO-238225",
+    "statut": "Devis Envoyé",
+    "departement": "76",
+    "_umap_options": {
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -237,28 +237,6 @@
     "wo": "WO-243728",
     "statut": "Travaux planifiés",
     "departement": "24",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.540365,
-     48.513829
-    ]
-   },
-   "properties": {
-    "name": "FRA02800078 — JOUY",
-    "description": "**WO-236265** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-28 00:00:00\nDAS : Acceptée (DAS-N0213593)\nPrévenance : 2 j\n\n- MANQUE 15M DE MEPLAT PYLONE - PRESENCE DE VEGETATION AUTOUR ET SUR LA CLOTURE, PREVOIR DEBROUSSAILLAGE",
-    "code_fra": "FRA02800078",
-    "wo": "WO-236265",
-    "statut": "Travaux planifiés",
-    "departement": "28",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
@@ -402,28 +380,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.682422,
-     46.808238
-    ]
-   },
-   "properties": {
-    "name": "FRA03600001 — CHATEAUROUX_FT",
-    "description": "**WO-238230** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-27 00:00:00\nDAS : Acceptée (DAS-N0213877)\n\n- PRESENCE DE CORROSION SUR LA CLOTURE DU SITE On ne fait pas de peinture en MP, si besoin de refaire la clôture il faut le prévoir en MC. Ce n'est pas simplement de la corrosion mais de la rouille - HORS SCOPE MP - PRESENCE DE MOUSSE SUR PYLONE",
-    "code_fra": "FRA03600001",
-    "wo": "WO-238230",
-    "statut": "Travaux planifiés",
-    "departement": "36",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.843606,
      47.219448
     ]
@@ -433,28 +389,6 @@
     "description": "**WO-235687** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-14 00:00:00\nDAS : aucune\nPrévenance : 15 j\n\nActions - Reprendre la clôture en très mauvais état s _ Le portillon d’accès à nos équipements.",
     "code_fra": "FRA03700118",
     "wo": "WO-235687",
-    "statut": "Travaux planifiés",
-    "departement": "37",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.757528,
-     47.231149
-    ]
-   },
-   "properties": {
-    "name": "FRA03700122 — ST_BRANCHS",
-    "description": "**WO-236469** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-09-02 00:00:00\nDAS : Refusée (DAS-N0204174)\nPrévenance : 15 j\n\nMerci de bien vouloir procéder au nettoyage de la ZT.",
-    "code_fra": "FRA03700122",
-    "wo": "WO-236469",
     "statut": "Travaux planifiés",
     "departement": "37",
     "_umap_options": {
@@ -479,28 +413,6 @@
     "wo": "WO-238290",
     "statut": "Travaux planifiés",
     "departement": "40",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.467814,
-     47.500652
-    ]
-   },
-   "properties": {
-    "name": "FRA04100144 — CHEVERNY_CHATEAU",
-    "description": "**WO-237041** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-24 00:00:00\nDAS : Acceptée (DAS-N0213615)\n\n- MANQUE 20 M DE MÉPLAT SUR LE PYLÔNE - PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE, PRÉVOIR UN DÉBROUSSAILLAGE.",
-    "code_fra": "FRA04100144",
-    "wo": "WO-237041",
-    "statut": "Travaux planifiés",
-    "departement": "41",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
@@ -609,28 +521,6 @@
     "description": "**WO-238211** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-20 00:00:00\nDAS : Acceptée (DAS-N0211759)\nPrévenance : 10 j\n\nPRÉSENCE DE DÉGRADATIONS SUR LA CLÔTURE ZT, PRÉVOIR LE REMPLACEMENT DE 10 M DE GRILLAGE",
     "code_fra": "FRA06100007",
     "wo": "WO-238211",
-    "statut": "Travaux planifiés",
-    "departement": "61",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -0.791202,
-     48.763202
-    ]
-   },
-   "properties": {
-    "name": "FRA06100113 — ND_RS_LE_MENIL_CIBOULT_ORF",
-    "description": "**WO-238165** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-20 00:00:00\nDAS : Acceptée (DAS-N0213581)\nPrévenance : 3 j\n\nPRÉSENCE DE FIENTES DE PIGEONS SUR LE PALIER DE TRAVAIL ET SUR LES ÉQUIPEMENTS. Prévoir nettoyage",
-    "code_fra": "FRA06100113",
-    "wo": "WO-238165",
     "statut": "Travaux planifiés",
     "departement": "61",
     "_umap_options": {
@@ -754,28 +644,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.162207,
-     49.874327
-    ]
-   },
-   "properties": {
-    "name": "FRA07600220 — ST_AUBIN_LE_CAUF",
-    "description": "**WO-238206** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-20 00:00:00\nDAS : Acceptée (DAS-N0213869)\n\nAction Espace vert à traiter",
-    "code_fra": "FRA07600220",
-    "wo": "WO-238206",
-    "statut": "Travaux planifiés",
-    "departement": "76",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.107169,
      49.394106
     ]
@@ -873,28 +741,6 @@
     "description": "**WO-234206** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-04 00:00:00\nDAS : aucune\nPrévenance : 2 j\n\nDemande du bailleur : - Supprimer les arbres restant autour de la ZT Totem - Mettre en place un brise vue pour cacher les équipements sur le grillage existant ( Cf exemple en PJ ) - Proposer les colories possible pour validation mairie",
     "code_fra": "FRA09100013",
     "wo": "WO-234206",
-    "statut": "Travaux planifiés",
-    "departement": "91",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.360593,
-     48.623617
-    ]
-   },
-   "properties": {
-    "name": "FRA09100202 — BONDOUFLE_GRAND_NOYER",
-    "description": "**WO-236209** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-21 00:00:00\nDAS : Refusée (DAS-N0213728)\nPrévenance : 3 j\n\nActions identifiées à la VT suite incendie. A réaliser après autorisation d'accès par les autorités. - Matériel du bailleur à enlever - débroussaillage - serrure - Autre ?",
-    "code_fra": "FRA09100202",
-    "wo": "WO-236209",
     "statut": "Travaux planifiés",
     "departement": "91",
     "_umap_options": {
