@@ -1,0 +1,935 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.163835,
+     43.382298
+    ]
+   },
+   "properties": {
+    "name": "FRA01300308 — CHATEAUNEUF_MARTIGUES_BIS",
+    "description": "**WO-239993** — Activé\nDonneur d'ordre : TOTEM\nDAS : Acceptée (DAS-N0203443)\nPrévenance : 2 j\n\nSuite à votre intervention, vous avez pris des mesures pour le remplacement de la section d'echelle dont le barreau est tordu Merci de réintervenir afin de remettre en conformité l'echelle.",
+    "code_fra": "FRA01300308",
+    "wo": "WO-239993",
+    "statut": "Activé",
+    "departement": "13",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.886053,
+     47.860969
+    ]
+   },
+   "properties": {
+    "name": "FRA02900276 — CONCARNEAU_DOURIC",
+    "description": "**WO-236779** — Activé\nDonneur d'ordre : TOTEM\nDAS : Acceptée (DAS-N0202213)\n\nDébroussailage à prévoir car extracteur à remplacer et le lierre passe jusqu'à l'intérieur du local",
+    "code_fra": "FRA02900276",
+    "wo": "WO-236779",
+    "statut": "Activé",
+    "departement": "29",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.867232,
+     48.013055
+    ]
+   },
+   "properties": {
+    "name": "FRA04500092 — LA_CHAPELLE_ST_SEPULCRE",
+    "description": "**WO-234264** — Activé\nDonneur d'ordre : Ensio IDF\nDAS : Acceptée (DAS-N0206239)\n\nValeur de la prise de terre supérieure au maximum admissible, l'améliorer pour qu'elle soit inferieure à 166 ohms",
+    "code_fra": "FRA04500092",
+    "wo": "WO-234264",
+    "statut": "Activé",
+    "departement": "45",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.165234,
+     49.569727
+    ]
+   },
+   "properties": {
+    "name": "FRA07600281 — FONTAINE_LE_BOURG",
+    "description": "**WO-238222** — Activé\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-27 00:00:00\nDAS : aucune\n\nAction Portail à reprendre",
+    "code_fra": "FRA07600281",
+    "wo": "WO-238222",
+    "statut": "Activé",
+    "departement": "76",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.404456,
+     49.457246
+    ]
+   },
+   "properties": {
+    "name": "FRA07600386 — CROISY_SUR_ANDELLE",
+    "description": "**WO-236947** — Activé\nDonneur d'ordre : TOTEM\nDAS : Refusée (DAS-N0206370)\n\n- PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE : PRÉVOIR UN DÉBROUSSAILLAGE. - MANQUE DE PORTILLON SUR LE SITE.",
+    "code_fra": "FRA07600386",
+    "wo": "WO-236947",
+    "statut": "Activé",
+    "departement": "76",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.913402,
+     43.146241
+    ]
+   },
+   "properties": {
+    "name": "FRA08300094 — TOULON_GUYNEMER",
+    "description": "**WO-243832** — Activé\nDonneur d'ordre : TOTEM\nDAS : aucune\nPrévenance : 8 j\n\nDes travaux bailleur sont prévus en S39 et il faudrait nettoyer les fientes de pigeons sur l’infra TOTEM & Orange avant la semaine 39. Merci pour la prise en compte",
+    "code_fra": "FRA08300094",
+    "wo": "WO-243832",
+    "statut": "Activé",
+    "departement": "83",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.232771,
+     49.193093
+    ]
+   },
+   "properties": {
+    "name": "FRA01400058 — OUILLY_LE_VICOMTE",
+    "description": "**WO-242876** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-09-01 00:00:00\nDAS : Acceptée (DAS-N0208975)\n\nAction Réaliser une VQS",
+    "code_fra": "FRA01400058",
+    "wo": "WO-242876",
+    "statut": "Travaux planifiés",
+    "departement": "14",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.046141,
+     49.022967
+    ]
+   },
+   "properties": {
+    "name": "FRA01400095 — SAINT_PIERRE_SUR_DIVES",
+    "description": "**WO-237948** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-09-14 00:00:00\nDAS : Acceptée (DAS-N0203441)\nPrévenance : 15 j\n\nAction Je vous laisse planifier cette VT après l'intervention de SEE ALL svp du 27/07/2026. Accompagner la société PIP ( Global Safty) sur site pour qu'ils puissent répondre aux objectifs suivants: • D’identifier l’origine du problème car le système fonctionnait auparavant. o Est-ce un pb de montage, de conception, d’incompatibilité avec le type de pylône ou simplement un déréglage dû au temps ? • Fournir une solution technique pour résoudre le blocage à court et long terme. Contacts: Mathieu MANCUSO Head of Training & Services EMEA +33608410982 mmancuso@pipglobalsafety.com ou Abdelhadi LEMKHAYER Responsable France Système Söll / Combisafe +33 7 86 48 32 70 MOBILE abdel.lemkhayer@pipglobalsafety.com",
+    "code_fra": "FRA01400095",
+    "wo": "WO-237948",
+    "statut": "Travaux planifiés",
+    "departement": "14",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.284722,
+     49.248611
+    ]
+   },
+   "properties": {
+    "name": "FRA01400227 — BENOUVILLE",
+    "description": "**WO-236916** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-20 00:00:00\nDAS : Acceptée (DAS-N0214612)\nPrévenance : 5 j\n\n- PRESENCE DE VEGETATION SUR LE SITE ET SUR LA CLOTURE, PREVOIR DEBROUSSAILLAGE - PRESENCE DE DEGRADATION SUR 10M DE LA LA CLOTURE PREVOIR REMPALCEMENT DU GRILLAGE",
+    "code_fra": "FRA01400227",
+    "wo": "WO-236916",
+    "statut": "Travaux planifiés",
+    "departement": "14",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.326194,
+     45.315126
+    ]
+   },
+   "properties": {
+    "name": "FRA01900047 — JUILLAC_FT",
+    "description": "**WO-238312** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-26 00:00:00\nDAS : Acceptée (DAS-N0212333)\n\nBonjour, Merci de réaliser l'entretien EV du site et de faire la réparation du portail d'entrée.",
+    "code_fra": "FRA01900047",
+    "wo": "WO-238312",
+    "statut": "Travaux planifiés",
+    "departement": "19",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.740235,
+     45.179805
+    ]
+   },
+   "properties": {
+    "name": "FRA02400004 — PERIGUEUX_BEL_AIR",
+    "description": "**WO-243728** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-02 00:00:00\nDAS : Acceptée (DAS-N0215632)\nPrévenance : 1 j\n\nMerci de lancer un débroussaillage sur ce site",
+    "code_fra": "FRA02400004",
+    "wo": "WO-243728",
+    "statut": "Travaux planifiés",
+    "departement": "24",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.540365,
+     48.513829
+    ]
+   },
+   "properties": {
+    "name": "FRA02800078 — JOUY",
+    "description": "**WO-236265** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-28 00:00:00\nDAS : Acceptée (DAS-N0213593)\nPrévenance : 2 j\n\n- MANQUE 15M DE MEPLAT PYLONE - PRESENCE DE VEGETATION AUTOUR ET SUR LA CLOTURE, PREVOIR DEBROUSSAILLAGE",
+    "code_fra": "FRA02800078",
+    "wo": "WO-236265",
+    "statut": "Travaux planifiés",
+    "departement": "28",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.582693,
+     48.453691
+    ]
+   },
+   "properties": {
+    "name": "FRA02800124 — CHARTRES_GASVILLE",
+    "description": "**WO-240019** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-25 00:00:00\nDAS : Suspendue (DAS-N0213876)\nPrévenance : 10 j\n\nAction Réaliser l'espace vert sur site",
+    "code_fra": "FRA02800124",
+    "wo": "WO-240019",
+    "statut": "Travaux planifiés",
+    "departement": "28",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.072743,
+     47.982629
+    ]
+   },
+   "properties": {
+    "name": "FRA02900012 — QUIMPER_ROZOLEN",
+    "description": "**WO-238103** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-26 00:00:00\nDAS : Acceptée (DAS-N0215713)\n\nIl y a beaucoup dr ronces et de dechet pour acceder au shelter",
+    "code_fra": "FRA02900012",
+    "wo": "WO-238103",
+    "statut": "Travaux planifiés",
+    "departement": "29",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.102642,
+     48.4915
+    ]
+   },
+   "properties": {
+    "name": "FRA02900148 — GUERNEVEZ",
+    "description": "**WO-238307** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-28 00:00:00\nDAS : Acceptée (DAS-N0215709)\n\nbonjour, merci de faire l'EV du site svp",
+    "code_fra": "FRA02900148",
+    "wo": "WO-238307",
+    "statut": "Travaux planifiés",
+    "departement": "29",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.751374,
+     48.221425
+    ]
+   },
+   "properties": {
+    "name": "FRA02900175 — LANDELEAU",
+    "description": "**WO-242809** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-03 00:00:00\nDAS : Acceptée (DAS-N0215704)\n\nAction Réaliser l'espace vert",
+    "code_fra": "FRA02900175",
+    "wo": "WO-242809",
+    "statut": "Travaux planifiés",
+    "departement": "29",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.677614,
+     48.037215
+    ]
+   },
+   "properties": {
+    "name": "FRA02900224 — PLOGOFF",
+    "description": "**WO-239951** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-28 00:00:00\nDAS : Suspendue (DAS-N0215718)\nPrévenance : 3 j\n\nDébroussaillage / Elagage nécessaire pour permettre le remplacement de l'extracteur d'air HS du shelter Orange",
+    "code_fra": "FRA02900224",
+    "wo": "WO-239951",
+    "statut": "Travaux planifiés",
+    "departement": "29",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.553568,
+     44.868684
+    ]
+   },
+   "properties": {
+    "name": "FRA03300191 — BDX_DUPRE",
+    "description": "**WO-243746** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-21 00:00:00\nDAS : Acceptée (DAS-N0215794)\n\nBesoin débroussaillage sur ce site",
+    "code_fra": "FRA03300191",
+    "wo": "WO-243746",
+    "statut": "Travaux planifiés",
+    "departement": "33",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.682422,
+     46.808238
+    ]
+   },
+   "properties": {
+    "name": "FRA03600001 — CHATEAUROUX_FT",
+    "description": "**WO-238230** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-27 00:00:00\nDAS : Acceptée (DAS-N0213877)\n\n- PRESENCE DE CORROSION SUR LA CLOTURE DU SITE On ne fait pas de peinture en MP, si besoin de refaire la clôture il faut le prévoir en MC. Ce n'est pas simplement de la corrosion mais de la rouille - HORS SCOPE MP - PRESENCE DE MOUSSE SUR PYLONE",
+    "code_fra": "FRA03600001",
+    "wo": "WO-238230",
+    "statut": "Travaux planifiés",
+    "departement": "36",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.843606,
+     47.219448
+    ]
+   },
+   "properties": {
+    "name": "FRA03700118 — TAUXIGNY",
+    "description": "**WO-235687** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-14 00:00:00\nDAS : aucune\nPrévenance : 15 j\n\nActions - Reprendre la clôture en très mauvais état s _ Le portillon d’accès à nos équipements.",
+    "code_fra": "FRA03700118",
+    "wo": "WO-235687",
+    "statut": "Travaux planifiés",
+    "departement": "37",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.757528,
+     47.231149
+    ]
+   },
+   "properties": {
+    "name": "FRA03700122 — ST_BRANCHS",
+    "description": "**WO-236469** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-09-02 00:00:00\nDAS : Refusée (DAS-N0204174)\nPrévenance : 15 j\n\nMerci de bien vouloir procéder au nettoyage de la ZT.",
+    "code_fra": "FRA03700122",
+    "wo": "WO-236469",
+    "statut": "Travaux planifiés",
+    "departement": "37",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.30686,
+     43.926905
+    ]
+   },
+   "properties": {
+    "name": "FRA04000058 — VILLENEUVE_DE_MARSAN_FT",
+    "description": "**WO-238290** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-18 00:00:00\nDAS : Acceptée (DAS-N0212757)\n\nBonjour Michael, Nous avons besoin d'un débroussaillage complet du site et d'un élagage des arbres devant le site pour permettre le déploiement de la nacelle afin de contrôler les haubans. Les zones autour des haubans doivent être débroussaillées pour permettre le control. Je t'ai mis le plan de l'emplacement de la nacelle. Cordialement",
+    "code_fra": "FRA04000058",
+    "wo": "WO-238290",
+    "statut": "Travaux planifiés",
+    "departement": "40",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.467814,
+     47.500652
+    ]
+   },
+   "properties": {
+    "name": "FRA04100144 — CHEVERNY_CHATEAU",
+    "description": "**WO-237041** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-24 00:00:00\nDAS : Acceptée (DAS-N0213615)\n\n- MANQUE 20 M DE MÉPLAT SUR LE PYLÔNE - PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE, PRÉVOIR UN DÉBROUSSAILLAGE.",
+    "code_fra": "FRA04100144",
+    "wo": "WO-237041",
+    "statut": "Travaux planifiés",
+    "departement": "41",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.370172,
+     47.30324
+    ]
+   },
+   "properties": {
+    "name": "FRA04400255 — LA_BAULE_ST_SERVAIS",
+    "description": "**WO-237945** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-31 00:00:00\nDAS : Suspendue (DAS-N0216163)\nPrévenance : 10 j\n\nréaliser le débroussaillage du site",
+    "code_fra": "FRA04400255",
+    "wo": "WO-237945",
+    "statut": "Travaux planifiés",
+    "departement": "44",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.035908,
+     47.080902
+    ]
+   },
+   "properties": {
+    "name": "FRA04400426 — LA_BERNERIE_CENTRE",
+    "description": "**WO-238249** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-28 00:00:00\nDAS : Acceptée (DAS-N0215685)\n\nBonjour, pouvez-vous prévoir le nettoyage du site svp ? voir aussi si vous localisez des entrées à boucher",
+    "code_fra": "FRA04400426",
+    "wo": "WO-238249",
+    "statut": "Travaux planifiés",
+    "departement": "44",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.956598,
+     48.043294
+    ]
+   },
+   "properties": {
+    "name": "FRA05600075 — PONTIVY_SUD",
+    "description": "**WO-238316** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-01 00:00:00\nDAS : Acceptée (DAS-N0215699)\n\nbesoin, besoin de faire l'EV du site svp",
+    "code_fra": "FRA05600075",
+    "wo": "WO-238316",
+    "statut": "Travaux planifiés",
+    "departement": "56",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.817358,
+     47.91612
+    ]
+   },
+   "properties": {
+    "name": "FRA05600143 — MOREAC_BOURG",
+    "description": "**WO-238317** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-31 00:00:00\nDAS : Acceptée (DAS-N0215693)\nPrévenance : 5 j\n\nbonjour, besoin de faire l'EV du site",
+    "code_fra": "FRA05600143",
+    "wo": "WO-238317",
+    "statut": "Travaux planifiés",
+    "departement": "56",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.033519,
+     48.413402
+    ]
+   },
+   "properties": {
+    "name": "FRA06100007 — ST_BARTHELEMY_OUEST",
+    "description": "**WO-238211** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-20 00:00:00\nDAS : Acceptée (DAS-N0211759)\nPrévenance : 10 j\n\nPRÉSENCE DE DÉGRADATIONS SUR LA CLÔTURE ZT, PRÉVOIR LE REMPLACEMENT DE 10 M DE GRILLAGE",
+    "code_fra": "FRA06100007",
+    "wo": "WO-238211",
+    "statut": "Travaux planifiés",
+    "departement": "61",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.791202,
+     48.763202
+    ]
+   },
+   "properties": {
+    "name": "FRA06100113 — ND_RS_LE_MENIL_CIBOULT_ORF",
+    "description": "**WO-238165** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-20 00:00:00\nDAS : Acceptée (DAS-N0213581)\nPrévenance : 3 j\n\nPRÉSENCE DE FIENTES DE PIGEONS SUR LE PALIER DE TRAVAIL ET SUR LES ÉQUIPEMENTS. Prévoir nettoyage",
+    "code_fra": "FRA06100113",
+    "wo": "WO-238165",
+    "statut": "Travaux planifiés",
+    "departement": "61",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.003945,
+     43.090687
+    ]
+   },
+   "properties": {
+    "name": "FRA06500016 — LES_ANGLES",
+    "description": "**WO-238314** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-18 00:00:00\nDAS : Refusée (DAS-N0212753)\n\nBonjour, Présence de nombreuses guêpes au niveau de la SH et des membrures. Merci de réaliser un traitement sur tout le site et SH afin d'éradiquer la problématique. Cordialement",
+    "code_fra": "FRA06500016",
+    "wo": "WO-238314",
+    "statut": "Travaux planifiés",
+    "departement": "65",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.409957,
+     42.409693
+    ]
+   },
+   "properties": {
+    "name": "FRA06600057 — PRATS_DE_MOLLO",
+    "description": "**WO-243814** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-21 00:00:00\nDAS : Acceptée (DAS-N0216371)\n\nBonjour, Merci de débroussailler le site pour procéder au contrôle des haubans dans le cadre du programme CASH. Cordialement",
+    "code_fra": "FRA06600057",
+    "wo": "WO-243814",
+    "statut": "Travaux planifiés",
+    "departement": "66",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.898557,
+     45.78705
+    ]
+   },
+   "properties": {
+    "name": "FRA06900179 — VILLEURBANNE_ST_JEAN_BIS",
+    "description": "**WO-235130** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-30 00:00:00\nDAS : aucune\n\nBonjour, Merci d'élaguer cet arbre qui touche le pylone Cdlt Olivier",
+    "code_fra": "FRA06900179",
+    "wo": "WO-235130",
+    "statut": "Travaux planifiés",
+    "departement": "69",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.436502,
+     48.188226
+    ]
+   },
+   "properties": {
+    "name": "FRA07200037 — BONNETABLE",
+    "description": "**WO-240014** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-17 00:00:00\nDAS : Acceptée (DAS-N0212894)\n\nAction : Travaux de REAM à partir du 24/08 pouvez-vous programmer une intervention avant cette date pour traiter l'espace vert et la présence de guêpes",
+    "code_fra": "FRA07200037",
+    "wo": "WO-240014",
+    "statut": "Travaux planifiés",
+    "departement": "72",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.068728,
+     47.92346
+    ]
+   },
+   "properties": {
+    "name": "FRA07200066 — VOIVRES_BIS",
+    "description": "**WO-238125** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-14 00:00:00\nDAS : aucune\n\nBonjour, des travaux sont calés fin septembre Pouvez-vous faire intervenir pour un débroussaillage mi-septembre",
+    "code_fra": "FRA07200066",
+    "wo": "WO-238125",
+    "statut": "Travaux planifiés",
+    "departement": "72",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.162207,
+     49.874327
+    ]
+   },
+   "properties": {
+    "name": "FRA07600220 — ST_AUBIN_LE_CAUF",
+    "description": "**WO-238206** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-20 00:00:00\nDAS : Acceptée (DAS-N0213869)\n\nAction Espace vert à traiter",
+    "code_fra": "FRA07600220",
+    "wo": "WO-238206",
+    "statut": "Travaux planifiés",
+    "departement": "76",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.107169,
+     49.394106
+    ]
+   },
+   "properties": {
+    "name": "FRA07600312 — SOTTEVILLE_QUATRE_MARES",
+    "description": "**WO-236372** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-24 00:00:00\nDAS : Acceptée (DAS-N0211397)\n\nAction Espace vert",
+    "code_fra": "FRA07600312",
+    "wo": "WO-236372",
+    "statut": "Travaux planifiés",
+    "departement": "76",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.924377,
+     49.618801
+    ]
+   },
+   "properties": {
+    "name": "FRA07600355 — LIMESY_CAMPAGNETTES_FT",
+    "description": "**WO-238118** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-15 00:00:00\nDAS : Refusée (DAS-N0213306)\nPrévenance : 3 j\n\nClôture lourdement endommagée : Dégradation de la clôture (grillage simple torsion écrasé et manquant , poteau béton couché et jambe de force brisée net).",
+    "code_fra": "FRA07600355",
+    "wo": "WO-238118",
+    "statut": "Travaux planifiés",
+    "departement": "76",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.432628,
+     46.30864
+    ]
+   },
+   "properties": {
+    "name": "FRA07900003 — NIORT_CHAMPOMMIER",
+    "description": "**WO-238114** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-24 00:00:00\nDAS : Acceptée (DAS-N0212896)\n\nmerci de réaliser un débroussaillage",
+    "code_fra": "FRA07900003",
+    "wo": "WO-238114",
+    "statut": "Travaux planifiés",
+    "departement": "79",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.1475,
+     43.065833
+    ]
+   },
+   "properties": {
+    "name": "FRA08300181 — LA_CAPTE",
+    "description": "**WO-242808** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-03 00:00:00\nDAS : aucune\nPrévenance : 10 j\n\nsite insallubre presence de fiancre d'oiseaux",
+    "code_fra": "FRA08300181",
+    "wo": "WO-242808",
+    "statut": "Travaux planifiés",
+    "departement": "83",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.385671,
+     48.615879
+    ]
+   },
+   "properties": {
+    "name": "FRA09100013 — BONDOUFLE_BIS",
+    "description": "**WO-234206** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-09-04 00:00:00\nDAS : aucune\nPrévenance : 2 j\n\nDemande du bailleur : - Supprimer les arbres restant autour de la ZT Totem - Mettre en place un brise vue pour cacher les équipements sur le grillage existant ( Cf exemple en PJ ) - Proposer les colories possible pour validation mairie",
+    "code_fra": "FRA09100013",
+    "wo": "WO-234206",
+    "statut": "Travaux planifiés",
+    "departement": "91",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.360593,
+     48.623617
+    ]
+   },
+   "properties": {
+    "name": "FRA09100202 — BONDOUFLE_GRAND_NOYER",
+    "description": "**WO-236209** — Travaux planifiés\nDonneur d'ordre : Ensio IDF\nPlanifié le : 2026-08-21 00:00:00\nDAS : Refusée (DAS-N0213728)\nPrévenance : 3 j\n\nActions identifiées à la VT suite incendie. A réaliser après autorisation d'accès par les autorités. - Matériel du bailleur à enlever - débroussaillage - serrure - Autre ?",
+    "code_fra": "FRA09100202",
+    "wo": "WO-236209",
+    "statut": "Travaux planifiés",
+    "departement": "91",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.411252,
+     48.966511
+    ]
+   },
+   "properties": {
+    "name": "FRA09500028 — GARGES_LES_GONESSE",
+    "description": "**WO-238285** — Travaux planifiés\nDonneur d'ordre : TOTEM\nPlanifié le : 2026-08-20 00:00:00\nDAS : Acceptée (DAS-N0211735)\nPrévenance : 5 j\n\nElagage pylone et Débrousaillage equipements au sol",
+    "code_fra": "FRA09500028",
+    "wo": "WO-238285",
+    "statut": "Travaux planifiés",
+    "departement": "95",
+    "_umap_options": {
+     "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  }
+ ],
+ "_umap_options": {
+  "name": "MC à faire",
+  "displayOnLoad": true,
+  "browsable": true,
+  "popupTemplate": "Default"
+ }
+}
