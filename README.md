@@ -4,6 +4,10 @@ Ce depot ne sert qu'a une chose : heberger les GeoJSON que les calques distants
 uMap vont lire. Une publication est un `git push` ; la carte se met a jour toute
 seule au rechargement suivant.
 
+## La carte qui lit ces fichiers
+
+https://umap.openstreetmap.fr/fr/map/carte-sans-nom_1447407
+
 ## Calques
 
 | Fichier | URL lue par uMap |
