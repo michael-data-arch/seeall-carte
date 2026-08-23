@@ -680,7 +680,7 @@
    },
    "properties": {
     "name": "FRA06500016 — LES_ANGLES",
-    "description": "**Numéro de Work Order** : WO-238314\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nPrésence de nombreuses guêpes au niveau de la SH et des membrures. Merci de réaliser un traitement sur tout le site et SH afin d'éradiquer la problématique.\n\nCordialement\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P4\n**Date de planification** : 2026-08-18\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0212753\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-18\n**Fin de validité** : 2026-08-20\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 65\n**Nom du site** : LES_ANGLES\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-238314\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nPrésence de nombreuses guêpes au niveau de la SH et des membrures. Merci de réaliser un traitement sur tout le site et SH afin d'éradiquer la problématique.\n\nCordialement\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P4\n**Date de planification** : 2026-08-18\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0212753\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-18\n**Fin de validité** : 2026-08-20\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-23\n**Provenance du repère** : airtable\n**Numéro de département** : 65\n**Nom du site** : LES_ANGLES\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "LES_ANGLES",
@@ -697,12 +697,15 @@
     "das_fin": "2026-08-20",
     "das_provenance": "airtable",
     "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
+    "etat_terrain": "fait",
+    "declare_par": "Michael",
+    "declare_le": "2026-08-23",
     "calque": "mc",
     "code_fra": "FRA06500016",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
