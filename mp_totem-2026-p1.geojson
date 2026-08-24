@@ -1,0 +1,2999 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.421873,
+     47.086985
+    ]
+   },
+   "properties": {
+    "name": "FRA01800015 — BOURGES_CHARLET",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE DU SITE ET AUTOUR DU PYLÔNE. PRÉVOIR UN DÉBROUSSAILLAGE ET UN ÉLAGAGE. ; A faire : Débroussaillage + élagage (dis-moi si besoin d'une nacelle stp)\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : 6 Chaussée de Chappe 18000 BOURGES\n**Nom du site** : BOURGES_CHARLET",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE DU SITE ET AUTOUR DU PYLÔNE. PRÉVOIR UN DÉBROUSSAILLAGE ET UN ÉLAGAGE. ; A faire : Débroussaillage + élagage (dis-moi si besoin d'une nacelle stp)",
+    "etat_wo": "Activé",
+    "nom_site": "BOURGES_CHARLET",
+    "adresse": "6 Chaussée de Chappe 18000 BOURGES",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA01800015",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.134586,
+     46.99659
+    ]
+   },
+   "properties": {
+    "name": "FRA01800057 — CHAROST",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Le buisson monsieur 18290 CHAROST\n**Nom du site** : CHAROST",
+    "origine": "ensio",
+    "travaux": "DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M",
+    "etat_wo": "Activé",
+    "nom_site": "CHAROST",
+    "adresse": "Le buisson monsieur 18290 CHAROST",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA01800057",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.99366,
+     46.825591
+    ]
+   },
+   "properties": {
+    "name": "FRA01800090 — CHAMP_COGNE_CUL",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE.\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Nom du site** : CHAMP_COGNE_CUL",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE.",
+    "etat_wo": "Activé",
+    "nom_site": "CHAMP_COGNE_CUL",
+    "adresse": "Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA01800090",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.595553,
+     47.391389
+    ]
+   },
+   "properties": {
+    "name": "FRA01800101 — VILLEGENON",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE ; MANQUE PLINTHE SUR PALIER 1\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : 7LES BRUYERES DES GRANDES RUESSES 18260 VILLEGENON\n**Nom du site** : VILLEGENON",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE ; MANQUE PLINTHE SUR PALIER 1",
+    "etat_wo": "Activé",
+    "nom_site": "VILLEGENON",
+    "adresse": "7LES BRUYERES DES GRANDES RUESSES 18260 VILLEGENON",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA01800101",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.923544,
+     48.822292
+    ]
+   },
+   "properties": {
+    "name": "FRA02700038 — BRETEUIL27",
+    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : BRETEUIL27",
+    "origine": "ensio",
+    "etat_wo": "Activé",
+    "nom_site": "BRETEUIL27",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA02700038",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.232771,
+     49.193093
+    ]
+   },
+   "properties": {
+    "name": "FRA02700049 — GLISOLLES",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : FIXATION PORTE PORTILLON NON CONFORME : LA PORTE NE SE TIENT PAS DROITE/ site Iloq ; Adresse ; La Croix des Couettes 14100 NOROLLES\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : GLISOLLES",
+    "origine": "ensio",
+    "travaux": "FIXATION PORTE PORTILLON NON CONFORME : LA PORTE NE SE TIENT PAS DROITE/ site Iloq ; Adresse ; La Croix des Couettes 14100 NOROLLES",
+    "etat_wo": "Activé",
+    "nom_site": "GLISOLLES",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA02700049",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.229167,
+     49.318333
+    ]
+   },
+   "properties": {
+    "name": "FRA02700113 — PITRES_OUEST",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Espace vert à traiter\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de l'Église 27590 Pîtres\n**Nom du site** : PITRES_OUEST",
+    "origine": "ensio",
+    "travaux": "Espace vert à traiter",
+    "etat_wo": "Activé",
+    "nom_site": "PITRES_OUEST",
+    "adresse": "Rue de l'Église 27590 Pîtres",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA02700113",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.692955,
+     49.263008
+    ]
+   },
+   "properties": {
+    "name": "FRA02700127 — DANGU",
+    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Route de Gisors D10 Parcelle 75 section B2 27720 DANGU\n**Nom du site** : DANGU",
+    "origine": "ensio",
+    "etat_wo": "Activé",
+    "nom_site": "DANGU",
+    "adresse": "Route de Gisors D10 Parcelle 75 section B2 27720 DANGU",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA02700127",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1327884,
+     48.5402304
+    ]
+   },
+   "properties": {
+    "name": "FRA02800067 — DIGNY",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau de Digny\n**Numéro de département** : 28\n**Nom du site** : DIGNY",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "DIGNY",
+    "adresse": "Château d'eau de Digny",
+    "departement": "28",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA02800067",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0466727,
+     48.559642
+    ]
+   },
+   "properties": {
+    "name": "FRA02800068 — SENONCHES",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Rue du Vieux Fourneau\n**Numéro de département** : 28\n**Nom du site** : SENONCHES",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "SENONCHES",
+    "adresse": "Rue du Vieux Fourneau",
+    "departement": "28",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA02800068",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.4368488,
+     48.7737006
+    ]
+   },
+   "properties": {
+    "name": "FRA02800105 — BRISSARD",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Imp. de la Corne de Cerf\n**Numéro de département** : 28\n**Nom du site** : BRISSARD",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "BRISSARD",
+    "adresse": "Imp. de la Corne de Cerf",
+    "departement": "28",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA02800105",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.4185583,
+     48.2380482
+    ]
+   },
+   "properties": {
+    "name": "FRA02800138 — AUGONVILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Lieu-dit LA CRAPOTIERE\n**Numéro de département** : 28\n**Nom du site** : AUGONVILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "AUGONVILLE",
+    "adresse": "Lieu-dit LA CRAPOTIERE",
+    "departement": "28",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA02800138",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.682422,
+     46.808238
+    ]
+   },
+   "properties": {
+    "name": "FRA03600001 — CHATEAUROUX_FT",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRESENCE DE CORROSION SUR LA CLOTURE DU SITE ; PRESENCE DE MOUSSE SUR PYLONE\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : 13 Rue du Berry 36000 Châteauroux\n**Nom du site** : CHATEAUROUX_FT",
+    "origine": "ensio",
+    "travaux": "PRESENCE DE CORROSION SUR LA CLOTURE DU SITE ; PRESENCE DE MOUSSE SUR PYLONE",
+    "etat_wo": "Activé",
+    "nom_site": "CHATEAUROUX_FT",
+    "adresse": "13 Rue du Berry 36000 Châteauroux",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA03600001",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.320843,
+     47.442499
+    ]
+   },
+   "properties": {
+    "name": "FRA03700126 — HOMMES_FT",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ; PRÉSENCE DE MOUSSE SUR LE PYLÔNE\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : 2 Rue de la Gare 37340 Savigné-sur-Lathan\n**Nom du site** : HOMMES_FT",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ; PRÉSENCE DE MOUSSE SUR LE PYLÔNE",
+    "etat_wo": "Activé",
+    "nom_site": "HOMMES_FT",
+    "adresse": "2 Rue de la Gare 37340 Savigné-sur-Lathan",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA03700126",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.324082,
+     47.599047
+    ]
+   },
+   "properties": {
+    "name": "FRA04100011 — BLOIS_INDUSTRIES",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Adresse ; Avenue de Vendome Lieu-dit Les Maisons Rouges 41000 BLOIS\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : BLOIS_INDUSTRIES",
+    "origine": "ensio",
+    "travaux": "Adresse ; Avenue de Vendome Lieu-dit Les Maisons Rouges 41000 BLOIS",
+    "etat_wo": "Activé",
+    "nom_site": "BLOIS_INDUSTRIES",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04100011",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.273875,
+     47.65176
+    ]
+   },
+   "properties": {
+    "name": "FRA04100110 — FOSSE",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE ; PRESENCE DE MOUSSE SUR LE RAIL\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Nom du site** : FOSSE",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE ; PRESENCE DE MOUSSE SUR LE RAIL",
+    "etat_wo": "Activé",
+    "nom_site": "FOSSE",
+    "adresse": "Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04100110",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9014801,
+     47.9019636
+    ]
+   },
+   "properties": {
+    "name": "FRA04500016 — GRENIER_A_SEL",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Numéro de DAS** : DAS-N0206623\n**Statut de la DAS** : Refusée\n**Origine de la DAS** : ensio\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Rue du Grenier a sel\n**Numéro de département** : 45\n**Nom du site** : GRENIER_A_SEL",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "GRENIER_A_SEL",
+    "adresse": "Rue du Grenier a sel",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "das_numero": "DAS-N0206623",
+    "das_statut": "Refusée",
+    "das_provenance": "ensio",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500016",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.8850352,
+     47.907585
+    ]
+   },
+   "properties": {
+    "name": "FRA04500025 — ST_JEAN_RUELLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 89 Rue du faubourg St Jean\n**Numéro de département** : 45\n**Nom du site** : ST_JEAN_RUELLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ST_JEAN_RUELLE",
+    "adresse": "89 Rue du faubourg St Jean",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500025",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7599203,
+     48.0483834
+    ]
+   },
+   "properties": {
+    "name": "FRA04500057 — CEPOY",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : Clé mécanique et badge équipement, prévenance mail 48 h. Aucun retrait ni RDV.\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : CHATEAU D EAU LDT LES HAUTS DE\n**Numéro de département** : 45\n**Nom du site** : CEPOY",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "CEPOY",
+    "adresse": "CHATEAU D EAU LDT LES HAUTS DE",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500057",
+    "acces_autonome": "autonome",
+    "acces_motif": "Clé mécanique et badge équipement, prévenance mail 48 h. Aucun retrait ni RDV.",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7791667,
+     47.9719444
+    ]
+   },
+   "properties": {
+    "name": "FRA04500087 — MONTARGIS_AMILLY",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 552, Rue du Maréchal Juin\n**Numéro de département** : 45\n**Nom du site** : MONTARGIS_AMILLY",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "MONTARGIS_AMILLY",
+    "adresse": "552, Rue du Maréchal Juin",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500087",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.867232,
+     48.013055
+    ]
+   },
+   "properties": {
+    "name": "FRA04500092",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Adresse ; Lieu-dit Les Bleveaux 45210 LA SELLLE EN HERMOY\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio",
+    "origine": "ensio",
+    "travaux": "Adresse ; Lieu-dit Les Bleveaux 45210 LA SELLLE EN HERMOY",
+    "etat_wo": "Activé",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500092",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9407491,
+     47.7106001
+    ]
+   },
+   "properties": {
+    "name": "FRA04500103 — LA_FERTE_ST_AUBIN",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Eglise St Aubin RN20\n**Numéro de département** : 45\n**Nom du site** : LA_FERTE_ST_AUBIN",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LA_FERTE_ST_AUBIN",
+    "adresse": "Eglise St Aubin RN20",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500103",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.4389626,
+     47.9804542
+    ]
+   },
+   "properties": {
+    "name": "FRA04500113 — BELLEGARDE_COUVENT",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Route d Auvilliers\n**Numéro de département** : 45\n**Nom du site** : BELLEGARDE_COUVENT",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "BELLEGARDE_COUVENT",
+    "adresse": "Route d Auvilliers",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500113",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3647815,
+     48.1204905
+    ]
+   },
+   "properties": {
+    "name": "FRA04500125 — BOYNES",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 13 Rue de Gaubertin\n**Numéro de département** : 45\n**Nom du site** : BOYNES",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "BOYNES",
+    "adresse": "13 Rue de Gaubertin",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500125",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.632716,
+     47.9967652
+    ]
+   },
+   "properties": {
+    "name": "FRA04500126 — TOURNOISIS",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau CD4\n**Numéro de département** : 45\n**Nom du site** : TOURNOISIS",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "TOURNOISIS",
+    "adresse": "Château d'eau CD4",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500126",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.416362,
+     48.2954978
+    ]
+   },
+   "properties": {
+    "name": "FRA04500132 — MALESHERBES_CENTRE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 3 W Place de l'Hôtel de Ville\n**Numéro de département** : 45\n**Nom du site** : MALESHERBES_CENTRE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "MALESHERBES_CENTRE",
+    "adresse": "3 W Place de l'Hôtel de Ville",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500132",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7161399,
+     47.9749724
+    ]
+   },
+   "properties": {
+    "name": "FRA04500203 — VILLEMANDEUR",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Terrain de la SCI de la Baraudiere\n**Numéro de département** : 45\n**Nom du site** : VILLEMANDEUR",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "VILLEMANDEUR",
+    "adresse": "Terrain de la SCI de la Baraudiere",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500203",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.8893812,
+     47.9630264
+    ]
+   },
+   "properties": {
+    "name": "FRA04500223 — SARAN_NORD",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : N20 SOUS STATION ELECTRIQUE SNCF\n**Numéro de département** : 45\n**Nom du site** : SARAN_NORD",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "SARAN_NORD",
+    "adresse": "N20 SOUS STATION ELECTRIQUE SNCF",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500223",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9909705,
+     47.9239182
+    ]
+   },
+   "properties": {
+    "name": "FRA04500225 — ZA_CHARBONNIERE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau Avenue de Verdun\n**Numéro de département** : 45\n**Nom du site** : ZA_CHARBONNIERE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ZA_CHARBONNIERE",
+    "adresse": "Château d'eau Avenue de Verdun",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500225",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.9565552,
+     47.9202667
+    ]
+   },
+   "properties": {
+    "name": "FRA04500238 — CHATEAU_RENARD",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : route de Fontenouille - D142\n**Numéro de département** : 45\n**Nom du site** : CHATEAU_RENARD",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "CHATEAU_RENARD",
+    "adresse": "route de Fontenouille - D142",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500238",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2383689,
+     48.0844396
+    ]
+   },
+   "properties": {
+    "name": "FRA04500249 — VRIGNY_D921",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Lieu-dit la PIECE DU GROSNIER Chemin de la loupe Station d épuration\n**Numéro de département** : 45\n**Nom du site** : VRIGNY_D921",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "VRIGNY_D921",
+    "adresse": "Lieu-dit la PIECE DU GROSNIER Chemin de la loupe Station d épuration",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500249",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.606614,
+     48.102632
+    ]
+   },
+   "properties": {
+    "name": "FRA04500258 — ND_RS_SCEAUX_DU_GATINAIS_ORF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : LE DESERT\n**Numéro de département** : 45\n**Nom du site** : ND_RS_SCEAUX_DU_GATINAIS_ORF",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ND_RS_SCEAUX_DU_GATINAIS_ORF",
+    "adresse": "LE DESERT",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500258",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.7755317,
+     47.9828062
+    ]
+   },
+   "properties": {
+    "name": "FRA04500264 — BRICY",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Base Aerienne 123\n**Numéro de département** : 45\n**Nom du site** : BRICY",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "BRICY",
+    "adresse": "Base Aerienne 123",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500264",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.6244595,
+     47.7766424
+    ]
+   },
+   "properties": {
+    "name": "FRA04500268 — BEAUGENCY_SUD_NEW",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Élagage nécessaire des arbres Situé à proximité du Pylône gênant la montée avec l'échelle rail soll et ceux à proximité de la zone technique également\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Impasse de la monnaie 45190 BEAUGENCY\n**Nom du site** : BEAUGENCY_SUD_NEW",
+    "origine": "ensio",
+    "travaux": "Élagage nécessaire des arbres Situé à proximité du Pylône gênant la montée avec l'échelle rail soll et ceux à proximité de la zone technique également",
+    "etat_wo": "Activé",
+    "nom_site": "BEAUGENCY_SUD_NEW",
+    "adresse": "Impasse de la monnaie 45190 BEAUGENCY",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500268",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.791202,
+     48.763202
+    ]
+   },
+   "properties": {
+    "name": "FRA06100113 — ND_RS_LE_MENIL_CIBOULT_ORF",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE FIENTES DE PIGEONS SUR LE PALIER DE TRAVAIL ET SUR LES ÉQUIPEMENTS. Prévoir nettoyage\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : lieu-dit Le Clos - Le Bourg 61800 Le Ménil-Ciboult\n**Nom du site** : ND_RS_LE_MENIL_CIBOULT_ORF",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE FIENTES DE PIGEONS SUR LE PALIER DE TRAVAIL ET SUR LES ÉQUIPEMENTS. Prévoir nettoyage",
+    "etat_wo": "Activé",
+    "nom_site": "ND_RS_LE_MENIL_CIBOULT_ORF",
+    "adresse": "lieu-dit Le Clos - Le Bourg 61800 Le Ménil-Ciboult",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA06100113",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1042686,
+     49.4460493
+    ]
+   },
+   "properties": {
+    "name": "FRA07600012 — ROUEN_YSER",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 15 Rue de la Cage\n**Numéro de département** : 76\n**Nom du site** : ROUEN_YSER",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_YSER",
+    "adresse": "15 Rue de la Cage",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600012",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1065338,
+     49.4366395
+    ]
+   },
+   "properties": {
+    "name": "FRA07600018 — ROUEN_UAP",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 4, Rue du Champs de Mars\n**Numéro de département** : 76\n**Nom du site** : ROUEN_UAP",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_UAP",
+    "adresse": "4, Rue du Champs de Mars",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600018",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0911052,
+     49.4434163
+    ]
+   },
+   "properties": {
+    "name": "FRA07600019 — ROUEN_ARMADA",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 18 Rue Ecuyère\n**Numéro de département** : 76\n**Nom du site** : ROUEN_ARMADA",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_ARMADA",
+    "adresse": "18 Rue Ecuyère",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600019",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0348375,
+     49.4075853
+    ]
+   },
+   "properties": {
+    "name": "FRA07600023 — GRAND_AULNAY_ZI",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 4 Chemin de la Voute\n**Numéro de département** : 76\n**Nom du site** : GRAND_AULNAY_ZI",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "GRAND_AULNAY_ZI",
+    "adresse": "4 Chemin de la Voute",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600023",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1065363,
+     49.5072814
+    ]
+   },
+   "properties": {
+    "name": "FRA07600025 — LE_HAVRE_CARMEL",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 20-24 Rue Lamennais\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_CARMEL",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_CARMEL",
+    "adresse": "20-24 Rue Lamennais",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600025",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1170083,
+     49.4422262
+    ]
+   },
+   "properties": {
+    "name": "FRA07600027 — ROUEN_ST_HILAIRE_EGLISE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Route de Darnétal\n**Numéro de département** : 76\n**Nom du site** : ROUEN_ST_HILAIRE_EGLISE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "ROUEN_ST_HILAIRE_EGLISE",
+    "adresse": "Route de Darnétal",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600027",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0949208,
+     49.4417488
+    ]
+   },
+   "properties": {
+    "name": "FRA07600029 — ROUEN_CATHEDRALE_NORD_1",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Hôtel des Arcardes\n**Numéro de département** : 76\n**Nom du site** : ROUEN_CATHEDRALE_NORD_1",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_CATHEDRALE_NORD_1",
+    "adresse": "Hôtel des Arcardes",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600029",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0824815,
+     49.4495526
+    ]
+   },
+   "properties": {
+    "name": "FRA07600031 — RM_EST",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Place de l église St Gervais\n**Numéro de département** : 76\n**Nom du site** : RM_EST",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "RM_EST",
+    "adresse": "Place de l église St Gervais",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600031",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0944346,
+     49.4481583
+    ]
+   },
+   "properties": {
+    "name": "FRA07600038 — ROUEN_POSTE_DEM",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 128, Rue Jeanne d Arc\n**Numéro de département** : 76\n**Nom du site** : ROUEN_POSTE_DEM",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_POSTE_DEM",
+    "adresse": "128, Rue Jeanne d Arc",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600038",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0737748,
+     49.4338296
+    ]
+   },
+   "properties": {
+    "name": "FRA07600062 — ROUEN_LES_CHARTREUX",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 9 Rue de la Motte\n**Numéro de département** : 76\n**Nom du site** : ROUEN_LES_CHARTREUX",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_LES_CHARTREUX",
+    "adresse": "9 Rue de la Motte",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600062",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.3739676,
+     49.6468727
+    ]
+   },
+   "properties": {
+    "name": "FRA07600066 — GODERVILLE",
+    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : GODERVILLE",
+    "origine": "ensio",
+    "etat_wo": "Activé",
+    "nom_site": "GODERVILLE",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600066",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.314189,
+     49.7374822
+    ]
+   },
+   "properties": {
+    "name": "FRA07600069 — YPORT",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Eglise - Place de Verdun\n**Numéro de département** : 76\n**Nom du site** : YPORT",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "YPORT",
+    "adresse": "Eglise - Place de Verdun",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600069",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0626769,
+     49.4291937
+    ]
+   },
+   "properties": {
+    "name": "FRA07600089 — ROUEN_PARC_CHARTREUX_NEW",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 14 Rue Gaston Donnette\n**Numéro de département** : 76\n**Nom du site** : ROUEN_PARC_CHARTREUX_NEW",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_PARC_CHARTREUX_NEW",
+    "adresse": "14 Rue Gaston Donnette",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600089",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.789964,
+     49.673952
+    ]
+   },
+   "properties": {
+    "name": "FRA07600107 — ETOUTTEVILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Impasse du Beau Soleil\n**Numéro de département** : 76\n**Nom du site** : ETOUTTEVILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ETOUTTEVILLE",
+    "adresse": "Impasse du Beau Soleil",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600107",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.4839541,
+     49.5799095
+    ]
+   },
+   "properties": {
+    "name": "FRA07600111 — BOLBEC_LE_MONT",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Réservoir Municipal lyonnaise des eaux\n**Numéro de département** : 76\n**Nom du site** : BOLBEC_LE_MONT",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "BOLBEC_LE_MONT",
+    "adresse": "Réservoir Municipal lyonnaise des eaux",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600111",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1513566,
+     49.5219557
+    ]
+   },
+   "properties": {
+    "name": "FRA07600119 — QUINCAMPOIX",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau - La ventelette\n**Numéro de département** : 76\n**Nom du site** : QUINCAMPOIX",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "QUINCAMPOIX",
+    "adresse": "Château d'eau - La ventelette",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600119",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.441235,
+     49.748033
+    ]
+   },
+   "properties": {
+    "name": "FRA07600133 — NEUFCHATEL_EN_BRAY",
+    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : NEUFCHATEL_EN_BRAY",
+    "origine": "ensio",
+    "etat_wo": "Activé",
+    "nom_site": "NEUFCHATEL_EN_BRAY",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600133",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0873077,
+     49.4239986
+    ]
+   },
+   "properties": {
+    "name": "FRA07600147 — ROUEN_BARBES",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 1 Rue Grainville\n**Numéro de département** : 76\n**Nom du site** : ROUEN_BARBES",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_BARBES",
+    "adresse": "1 Rue Grainville",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600147",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0636968,
+     49.2606694
+    ]
+   },
+   "properties": {
+    "name": "FRA07600152 — ST_PIERRE_LES_ELBEUF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau du BOSC TARD\n**Numéro de département** : 76\n**Nom du site** : ST_PIERRE_LES_ELBEUF",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ST_PIERRE_LES_ELBEUF",
+    "adresse": "Château d'eau du BOSC TARD",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600152",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0413229,
+     49.2762981
+    ]
+   },
+   "properties": {
+    "name": "FRA07600153 — ELBEUF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : place de la Résistance\n**Numéro de département** : 76\n**Nom du site** : ELBEUF",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ELBEUF",
+    "adresse": "place de la Résistance",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600153",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.5691667,
+     49.4802778
+    ]
+   },
+   "properties": {
+    "name": "FRA07600157 — NOTRE_DAME_GRAVENCHON_RAFFINERIE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Entree du Theulet\n**Numéro de département** : 76\n**Nom du site** : NOTRE_DAME_GRAVENCHON_RAFFINERIE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "NOTRE_DAME_GRAVENCHON_RAFFINERIE",
+    "adresse": "Entree du Theulet",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600157",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.9491094,
+     49.5512126
+    ]
+   },
+   "properties": {
+    "name": "FRA07600164 — BARENTIN_NORD",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau - Rue Paul Niclause - La Malaise\n**Numéro de département** : 76\n**Nom du site** : BARENTIN_NORD",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "BARENTIN_NORD",
+    "adresse": "Château d'eau - Rue Paul Niclause - La Malaise",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600164",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0986111,
+     49.9311111
+    ]
+   },
+   "properties": {
+    "name": "FRA07600168 — DIEPPE_PORT",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Rue des Cormorans\n**Numéro de département** : 76\n**Nom du site** : DIEPPE_PORT",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "DIEPPE_PORT",
+    "adresse": "Rue des Cormorans",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600168",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0331136,
+     49.4428832
+    ]
+   },
+   "properties": {
+    "name": "FRA07600172 — CANTELEU_SUD",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 2 Place Boieldieu\n**Numéro de département** : 76\n**Nom du site** : CANTELEU_SUD",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "CANTELEU_SUD",
+    "adresse": "2 Place Boieldieu",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600172",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0338981,
+     49.4526661
+    ]
+   },
+   "properties": {
+    "name": "FRA07600174 — CANTELEU_DEM",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 2 Rue Eugène Boudin\n**Numéro de département** : 76\n**Nom du site** : CANTELEU_DEM",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "CANTELEU_DEM",
+    "adresse": "2 Rue Eugène Boudin",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600174",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.4766814,
+     49.7511157
+    ]
+   },
+   "properties": {
+    "name": "FRA07600180 — ETVALMONT",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Lieu-dit : La Perruque\n**Numéro de département** : 76\n**Nom du site** : ETVALMONT",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "ETVALMONT",
+    "adresse": "Lieu-dit : La Perruque",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600180",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.5895119,
+     49.8472175
+    ]
+   },
+   "properties": {
+    "name": "FRA07600201 — VEULETTE_SUR_MER_OUEST",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : BAC contenant la clé, clé électronique ABLOY équipement et aérien.\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Sentier du Château d'eau\n**Numéro de département** : 76\n**Nom du site** : VEULETTE_SUR_MER_OUEST",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "VEULETTE_SUR_MER_OUEST",
+    "adresse": "Sentier du Château d'eau",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600201",
+    "acces_autonome": "autonome",
+    "acces_motif": "BAC contenant la clé, clé électronique ABLOY équipement et aérien.",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.6749443,
+     49.7936494
+    ]
+   },
+   "properties": {
+    "name": "FRA07600203 — ND_4GF_OCQUEVILLE_ORF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Lieu-dit Auzeville\n**Numéro de département** : 76\n**Nom du site** : ND_4GF_OCQUEVILLE_ORF",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ND_4GF_OCQUEVILLE_ORF",
+    "adresse": "Lieu-dit Auzeville",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600203",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.7070207,
+     49.8698388
+    ]
+   },
+   "properties": {
+    "name": "FRA07600204 — ST_VALERY_EN_CAUX",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Immeuble\n**Numéro de département** : 76\n**Nom du site** : ST_VALERY_EN_CAUX",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ST_VALERY_EN_CAUX",
+    "adresse": "Immeuble",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600204",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.8703726,
+     49.4966141
+    ]
+   },
+   "properties": {
+    "name": "FRA07600209 — DUCLAIR",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau Lieu-dit Ferme du tronc\n**Numéro de département** : 76\n**Nom du site** : DUCLAIR",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "DUCLAIR",
+    "adresse": "Château d'eau Lieu-dit Ferme du tronc",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600209",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.230299,
+     49.836901
+    ]
+   },
+   "properties": {
+    "name": "FRA07600219 — DAMPIERRE_ST_NICOLAS",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Terrain de sport. Parcelle ZD 46. Lieu-dit la petite prairie\n**Numéro de département** : 76\n**Nom du site** : DAMPIERRE_ST_NICOLAS",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "DAMPIERRE_ST_NICOLAS",
+    "adresse": "Terrain de sport. Parcelle ZD 46. Lieu-dit la petite prairie",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600219",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1622065,
+     49.8743267
+    ]
+   },
+   "properties": {
+    "name": "FRA07600220 — ST_AUBIN_LE_CAUF",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Espace vert à traiter\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : 391 Rue des Launay, 76510 Saint-Aubin-le-Cauf\n**Nom du site** : ST_AUBIN_LE_CAUF",
+    "origine": "ensio",
+    "travaux": "Espace vert à traiter",
+    "etat_wo": "Activé",
+    "nom_site": "ST_AUBIN_LE_CAUF",
+    "adresse": "391 Rue des Launay, 76510 Saint-Aubin-le-Cauf",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600220",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.9980555556,
+     49.34777778
+    ]
+   },
+   "properties": {
+    "name": "FRA07600227 — GRAND_COURONNE_SUD",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 55 Rue Georges Braque\n**Numéro de département** : 76\n**Nom du site** : GRAND_COURONNE_SUD",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "GRAND_COURONNE_SUD",
+    "adresse": "55 Rue Georges Braque",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600227",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0513475,
+     49.8663893
+    ]
+   },
+   "properties": {
+    "name": "FRA07600230 — OFFRANVILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Réservoir - ZI Offranville\n**Numéro de département** : 76\n**Nom du site** : OFFRANVILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "OFFRANVILLE",
+    "adresse": "Réservoir - ZI Offranville",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600230",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.6987109,
+     49.7014687
+    ]
+   },
+   "properties": {
+    "name": "FRA07600232 — HERICOURT_EN_CAUX",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Chemin de Pival Héricourt-en-Caux\n**Numéro de département** : 76\n**Nom du site** : HERICOURT_EN_CAUX",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "HERICOURT_EN_CAUX",
+    "adresse": "Chemin de Pival Héricourt-en-Caux",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600232",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1158112,
+     49.4938841
+    ]
+   },
+   "properties": {
+    "name": "FRA07600239 — LE_HAVRE_CENTRE_FT",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 23 Rue Jean-Baptiste Eyries\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_CENTRE_FT",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_CENTRE_FT",
+    "adresse": "23 Rue Jean-Baptiste Eyries",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600239",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1507286,
+     49.4883399
+    ]
+   },
+   "properties": {
+    "name": "FRA07600245 — LE_HAVRE_DOCK",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 4 Boulevard JULES DURAND\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_DOCK",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_DOCK",
+    "adresse": "4 Boulevard JULES DURAND",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600245",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1069707,
+     49.4941522
+    ]
+   },
+   "properties": {
+    "name": "FRA07600251 — LE_HAVRE_HOTEL_DE_VILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 0 Place de l'Hôtel de Ville\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_HOTEL_DE_VILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_HOTEL_DE_VILLE",
+    "adresse": "0 Place de l'Hôtel de Ville",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600251",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1019388,
+     49.4880745
+    ]
+   },
+   "properties": {
+    "name": "FRA07600258 — LE_HAVRE_PERREY",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Immeuble ALCEANE - 43 Rue de la Mailleraye\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_PERREY",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_PERREY",
+    "adresse": "Immeuble ALCEANE - 43 Rue de la Mailleraye",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600258",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1658595,
+     49.5065576
+    ]
+   },
+   "properties": {
+    "name": "FRA07600260 — LE_HAVRE_APPLEMONT",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Résidence - 34 Avenue des Dahlias\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_APPLEMONT",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_APPLEMONT",
+    "adresse": "Résidence - 34 Avenue des Dahlias",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600260",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1171951,
+     49.5052316
+    ]
+   },
+   "properties": {
+    "name": "FRA07600262 — LE_HAVRE_PARC_OR",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Immeuble ALCEANE - 14 Rue Charles Yvray\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_PARC_OR",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_PARC_OR",
+    "adresse": "Immeuble ALCEANE - 14 Rue Charles Yvray",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600262",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.09221,
+     49.5189937
+    ]
+   },
+   "properties": {
+    "name": "FRA07600263 — LE_HAVRE_BLEVILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 12 Rue Bernard Esdras Gosse\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_BLEVILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_BLEVILLE",
+    "adresse": "12 Rue Bernard Esdras Gosse",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600263",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1259448,
+     49.5233904
+    ]
+   },
+   "properties": {
+    "name": "FRA07600264 — LE_HAVRE_LUMIERE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Immeuble ALCEANE - 58 Rue Cherubini\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_LUMIERE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_LUMIERE",
+    "adresse": "Immeuble ALCEANE - 58 Rue Cherubini",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600264",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.4360127,
+     49.9060351
+    ]
+   },
+   "properties": {
+    "name": "FRA07600265 — VILLY_LE_HAUT",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : CHATEAU D'EAU DE FOLNY\n**Numéro de département** : 76\n**Nom du site** : VILLY_LE_HAUT",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "VILLY_LE_HAUT",
+    "adresse": "CHATEAU D'EAU DE FOLNY",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600265",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2598859,
+     49.9954393
+    ]
+   },
+   "properties": {
+    "name": "FRA07600266 — TOCQUEVILLE_NEUVILLETTE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Statut de la DAS** : Acceptée\n**Origine de la DAS** : ensio\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Ferme de Neuvillette\n**Numéro de département** : 76\n**Nom du site** : TOCQUEVILLE_NEUVILLETTE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "TOCQUEVILLE_NEUVILLETTE",
+    "adresse": "Ferme de Neuvillette",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "das_statut": "Acceptée",
+    "das_provenance": "ensio",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600266",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2594351,
+     49.9033412
+    ]
+   },
+   "properties": {
+    "name": "FRA07600268 — ENVERMEU",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Lieu-dit le fond du bucq et Molny\n**Numéro de département** : 76\n**Nom du site** : ENVERMEU",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ENVERMEU",
+    "adresse": "Lieu-dit le fond du bucq et Molny",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600268",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2980676,
+     49.6311499
+    ]
+   },
+   "properties": {
+    "name": "FRA07600279 — SAINT_MARTIN_D_OSMONVILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau , CD 928\n**Numéro de département** : 76\n**Nom du site** : SAINT_MARTIN_D_OSMONVILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "SAINT_MARTIN_D_OSMONVILLE",
+    "adresse": "Château d'eau , CD 928",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600279",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.231944,
+     49.483056
+    ]
+   },
+   "properties": {
+    "name": "FRA07600286 — LE_HAVRE_TANCARVILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Route des Étangs\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_TANCARVILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LE_HAVRE_TANCARVILLE",
+    "adresse": "Route des Étangs",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600286",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.8410905,
+     49.7999517
+    ]
+   },
+   "properties": {
+    "name": "FRA07600295 — FONTAINE_LE_DUN",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : D237\n**Numéro de département** : 76\n**Nom du site** : FONTAINE_LE_DUN",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "FONTAINE_LE_DUN",
+    "adresse": "D237",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600295",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3638693,
+     49.5900842
+    ]
+   },
+   "properties": {
+    "name": "FRA07600296 — BUCHY",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau. Chemin communal de BLAINVILLE\n**Numéro de département** : 76\n**Nom du site** : BUCHY",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL - A prioriser",
+    "nom_site": "BUCHY",
+    "adresse": "Château d'eau. Chemin communal de BLAINVILLE",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600296",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.9175921,
+     49.6688878
+    ]
+   },
+   "properties": {
+    "name": "FRA07600299 — YERVILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau\n**Numéro de département** : 76\n**Nom du site** : YERVILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "YERVILLE",
+    "adresse": "Château d'eau",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600299",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.032222,
+     49.524722
+    ]
+   },
+   "properties": {
+    "name": "FRA07600301 — MALAUNAY_CENTRE",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Traiter l'espace vert ; Prévoir le remplacement des huit charnières des quatre trappes, qui sont actuellement très difficiles à ouvrir et à fermer\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue Notre-Dame des Champs 76770 Malaunay\n**Nom du site** : MALAUNAY_CENTRE",
+    "origine": "ensio",
+    "travaux": "Traiter l'espace vert ; Prévoir le remplacement des huit charnières des quatre trappes, qui sont actuellement très difficiles à ouvrir et à fermer",
+    "etat_wo": "Activé",
+    "nom_site": "MALAUNAY_CENTRE",
+    "adresse": "Rue Notre-Dame des Champs 76770 Malaunay",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600301",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1096299,
+     49.3718055
+    ]
+   },
+   "properties": {
+    "name": "FRA07600310 — LA_MALADRERIE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Bvd Lenine\n**Numéro de département** : 76\n**Nom du site** : LA_MALADRERIE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LA_MALADRERIE",
+    "adresse": "Bvd Lenine",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600310",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0892106,
+     49.3871384
+    ]
+   },
+   "properties": {
+    "name": "FRA07600316 — ST_ETIENNE_DU_ROUVRAY_OUEST",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Résidence\n**Numéro de département** : 76\n**Nom du site** : ST_ETIENNE_DU_ROUVRAY_OUEST",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ST_ETIENNE_DU_ROUVRAY_OUEST",
+    "adresse": "Résidence",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600316",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.30766,
+     50.017983
+    ]
+   },
+   "properties": {
+    "name": "FRA07600327 — CRIEL_SUR_MER",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : CHEMIN LA CAVEE PARCELLE ZD37\n**Numéro de département** : 76\n**Nom du site** : CRIEL_SUR_MER",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "CRIEL_SUR_MER",
+    "adresse": "CHEMIN LA CAVEE PARCELLE ZD37",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600327",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3260042,
+     50.0370978
+    ]
+   },
+   "properties": {
+    "name": "FRA07600328 — YAUVILLE",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau\n**Numéro de département** : 76\n**Nom du site** : YAUVILLE",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "YAUVILLE",
+    "adresse": "Château d'eau",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600328",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1163754,
+     49.5555891
+    ]
+   },
+   "properties": {
+    "name": "FRA07600330 — OCTEVILLE_SUR_MER",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Rue de Bourne End\n**Numéro de département** : 76\n**Nom du site** : OCTEVILLE_SUR_MER",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "OCTEVILLE_SUR_MER",
+    "adresse": "Rue de Bourne End",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600330",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.7233089,
+     49.4976112
+    ]
+   },
+   "properties": {
+    "name": "FRA07600331 — PORT_CAUDEBEC",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Château d'eau, Rue du Château d'eau\n**Numéro de département** : 76\n**Nom du site** : PORT_CAUDEBEC",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "PORT_CAUDEBEC",
+    "adresse": "Château d'eau, Rue du Château d'eau",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600331",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2252836,
+     49.7901143
+    ]
+   },
+   "properties": {
+    "name": "FRA07600332 — LES_GRANDES_VENTES",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : SH Lieu-dit Le Bourg\n**Numéro de département** : 76\n**Nom du site** : LES_GRANDES_VENTES",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "LES_GRANDES_VENTES",
+    "adresse": "SH Lieu-dit Le Bourg",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600332",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.066453,
+     49.445225
+    ]
+   },
+   "properties": {
+    "name": "FRA07600375 — ROUEN_GARE_NEW",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 38, boulevard Ferdinand de Lesseps\n**Numéro de département** : 76\n**Nom du site** : ROUEN_GARE_NEW",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ROUEN_GARE_NEW",
+    "adresse": "38, boulevard Ferdinand de Lesseps",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600375",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2551166,
+     49.6588377
+    ]
+   },
+   "properties": {
+    "name": "FRA07600376 — CRIQUETOT_L_ESNEVAL_NEW",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 330 Route des Catelets\n**Numéro de département** : 76\n**Nom du site** : CRIQUETOT_L_ESNEVAL_NEW",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "CRIQUETOT_L_ESNEVAL_NEW",
+    "adresse": "330 Route des Catelets",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600376",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.232259,
+     49.482998
+    ]
+   },
+   "properties": {
+    "name": "FRA07600388 — LE_HAVRE_TANCARVILLE_NEW",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Cordialement ; [https://lh7-us.googleusercontent.com/docsz/AD_4nXdWjYKYB6ZHM5BfdcAbEGkSIRWSXdBwGstfA5O0tbt1DlyWp0zAColIrkPDOwMUuGQxxEpVR5Gab5rfzU-nMnuiMjpm-rxziOkiVsjDgTTVp982FozWenkexSASNUBJkt64e2EQc-NITDDvQSuZKrV_UpT1?key=oEZVIkzzIj8sp1JLbM0DCg] ; Nafti NSIB ; Conducteur de travaux ; 23 - 25 rue des Chevries ; 78410 FLINS-SUR-SEINE ; 📱 : 07.80.03.34.80 ; 📧 : nafti.nsib@ensio.eu\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : LE_HAVRE_TANCARVILLE_NEW",
+    "origine": "ensio",
+    "travaux": "Cordialement ; [https://lh7-us.googleusercontent.com/docsz/AD_4nXdWjYKYB6ZHM5BfdcAbEGkSIRWSXdBwGstfA5O0tbt1DlyWp0zAColIrkPDOwMUuGQxxEpVR5Gab5rfzU-nMnuiMjpm-rxziOkiVsjDgTTVp982FozWenkexSASNUBJkt64e2EQc-NITDDvQSuZKrV_UpT1?key=oEZVIkzzIj8sp1JLbM0DCg] ; Nafti NSIB ; Conducteur de travaux ; 23 - 25 rue des Chevries ; 78410 FLINS-SUR-SEINE ; 📱 : 07.80.03.34.80 ; 📧 : nafti.nsib@ensio.eu",
+    "etat_wo": "Activé",
+    "nom_site": "LE_HAVRE_TANCARVILLE_NEW",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600388",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.8606179,
+     49.845651
+    ]
+   },
+   "properties": {
+    "name": "FRA07600396 — ND_RS_ST_PIERRE_LE_VIEUX_ORF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Rue de la Cour des Cadets\n**Numéro de département** : 76\n**Nom du site** : ND_RS_ST_PIERRE_LE_VIEUX_ORF",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ND_RS_ST_PIERRE_LE_VIEUX_ORF",
+    "adresse": "Rue de la Cour des Cadets",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600396",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.4611111,
+     49.7666667
+    ]
+   },
+   "properties": {
+    "name": "FRA07600397 — ND_RS_ELETOT_ORF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Rue de la Valleuse\n**Numéro de département** : 76\n**Nom du site** : ND_RS_ELETOT_ORF",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ND_RS_ELETOT_ORF",
+    "adresse": "Rue de la Valleuse",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600397",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.384634,
+     49.920612
+    ]
+   },
+   "properties": {
+    "name": "FRA07600426 — ND_RS_AVESNES_EN_VAL_ORF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Hameau Regnetuit\n**Numéro de département** : 76\n**Nom du site** : ND_RS_AVESNES_EN_VAL_ORF",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ND_RS_AVESNES_EN_VAL_ORF",
+    "adresse": "Hameau Regnetuit",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600426",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.486049,
+     49.579407
+    ]
+   },
+   "properties": {
+    "name": "FRA07600430 — BOLBEC_LE_MONT_NEW",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 38 A Rue du Réservoir\n**Numéro de département** : 76\n**Nom du site** : BOLBEC_LE_MONT_NEW",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "BOLBEC_LE_MONT_NEW",
+    "adresse": "38 A Rue du Réservoir",
+    "departement": "76",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA07600430",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.219941,
+     48.382859
+    ]
+   },
+   "properties": {
+    "name": "FRA09100049 — LA_FORET_SAINTE_CROIX",
+    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : LA_FORET_SAINTE_CROIX",
+    "origine": "ensio",
+    "etat_wo": "Activé",
+    "nom_site": "LA_FORET_SAINTE_CROIX",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA09100049",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  }
+ ],
+ "_umap_options": {
+  "name": "TOTEM 2026 passage 1",
+  "displayOnLoad": true,
+  "browsable": true,
+  "popupTemplate": "Default"
+ }
+}
