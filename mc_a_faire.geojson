@@ -152,81 +152,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.326194,
-     45.315126
-    ]
-   },
-   "properties": {
-    "name": "FRA01900047 — JUILLAC_FT",
-    "description": "**Numéro de Work Order** : WO-238312\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nMerci de réaliser l'entretien EV du site et de faire la réparation du portail d'entrée.\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0212333\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-18\n**Fin de validité** : 2026-08-20\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 19\n**Nom du site** : JUILLAC_FT\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - CADENAS ABLOY ABFZN\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 28/01/2026 M cockpit O+M :\nDIG 1, Full TOTEM",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "JUILLAC_FT",
-    "wo": "WO-238312",
-    "travaux": "Bonjour,\n\nMerci de réaliser l'entretien EV du site et de faire la réparation du portail d'entrée.",
-    "priorite": "Travaux Programmés",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts",
-    "departement": "19",
-    "date_planification": "2026-08-26",
-    "das_numero": "DAS-N0212333",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-18",
-    "das_fin": "2026-08-20",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - CADENAS ABLOY ABFZN\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 28/01/2026 M cockpit O+M :\nDIG 1, Full TOTEM",
-    "calque": "mc",
-    "code_fra": "FRA01900047",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.740235,
-     45.179805
-    ]
-   },
-   "properties": {
-    "name": "FRA02400004 — PERIGUEUX_BEL_AIR",
-    "description": "**Numéro de Work Order** : WO-243728\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de lancer un débroussaillage sur ce site\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0215632\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-20\n**Fin de validité** : 2026-08-21\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 24\n**Nom du site** : PERIGUEUX_BEL_AIR\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Bailleur\nDélais de prévenance: 1.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/02/2026 Cockpit O+M / A\nCadenas à code premier portillon : 2442\nCadenas ILOQ 19084223 deuxième portillon\nCadenas ILOQ 19194799 sur le pylône\nLe portail est ouvert 7h30 à 12h et de 13h30 à 18h. Si besoin d'intervenir en dehors de ces horaires il faut simplement faire la demande du code par mail\n\n09/06/2026 M cockpit O+M :\n*Par courtoisie, merci d'envoyer un mail 24H à l'avance à jlfbeauvieux@gmail.com\n\n*Travaux à prévoir en semaine du lundi au jeudi\nAccès au site le week-end, code du portail 1124\n\n*Contacts sur site Mr Beauvieux Christian portable:0682113307\nOu Mr Beauvieux Jean Luc portable: 0688055363",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "PERIGUEUX_BEL_AIR",
-    "wo": "WO-243728",
-    "travaux": "Merci de lancer un débroussaillage sur ce site",
-    "priorite": "P4",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts",
-    "departement": "24",
-    "date_planification": "2026-09-02",
-    "das_numero": "DAS-N0215632",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-20",
-    "das_fin": "2026-08-21",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Bailleur\nDélais de prévenance: 1.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/02/2026 Cockpit O+M / A\nCadenas à code premier portillon : 2442\nCadenas ILOQ 19084223 deuxième portillon\nCadenas ILOQ 19194799 sur le pylône\nLe portail est ouvert 7h30 à 12h et de 13h30 à 18h. Si besoin d'intervenir en dehors de ces horaires il faut simplement faire la demande du code par mail\n\n09/06/2026 M cockpit O+M :\n*Par courtoisie, merci d'envoyer un mail 24H à l'avance à jlfbeauvieux@gmail.com\n\n*Travaux à prévoir en semaine du lundi au jeudi\nAccès au site le week-end, code du portail 1124\n\n*Contacts sur site Mr Beauvieux Christian portable:0682113307\nOu Mr Beauvieux Jean Luc portable: 0688055363",
-    "das_prevenance": "1 jour",
-    "calque": "mc",
-    "code_fra": "FRA02400004",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.923544,
      48.822292
     ]
@@ -337,7 +262,7 @@
    },
    "properties": {
     "name": "FRA02800124 — CHARTRES_GASVILLE",
-    "description": "**Numéro de Work Order** : WO-240019\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser l'espace vert sur site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-08-25\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0213876\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-25\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 28\n**Nom du site** : CHARTRES_GASVILLE\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - Faire une demande d’accès auprès de d.sauvetre@aqualter.com pour nous ouvrir le portail de l’enceinte du château d’eau\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 20/02/2026 Na cockpit O+M :\nPour toute intervention, merci d'envoyer un mail à l.mangin@aqualter.com avec le plan de prévention dûment rempli (ci-dessous).\n\nDélai de prévenance: 10 jours à l'avance\n\nHoraires d'interventions: de 8h30 à 16h00, du lundi au vendredi\n\nAccès non Autonome\n\nNB : merci de bien préciser l’heure exacte de l’intervention pour l’ouverture du portail et du château d’eau.\n\nContact:\n- MANGIN Lise - Responsable exploitation eau potable:\n📞 06.45.01.35.74\n📧 l.mangin@aqualter.com",
+    "description": "**Numéro de Work Order** : WO-240019\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser l'espace vert sur site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-08-25\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0213876\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-25\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 28\n**Nom du site** : CHARTRES_GASVILLE\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - Faire une demande d’accès auprès de d.sauvetre@aqualter.com pour nous ouvrir le portail de l’enceinte du château d’eau\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 20/02/2026 Na cockpit O+M :\nPour toute intervention, merci d'envoyer un mail à l.mangin@aqualter.com avec le plan de prévention dûment rempli (ci-dessous).\n\nDélai de prévenance: 10 jours à l'avance\n\nHoraires d'interventions: de 8h30 à 16h00, du lundi au vendredi\n\nAccès non Autonome\n\nNB : merci de bien préciser l’heure exacte de l’intervention pour l’ouverture du portail et du château d’eau.\n\nContact:\n- MANGIN Lise - Responsable exploitation eau potable:\n📞 06.45.01.35.74\n📧 l.mangin@aqualter.com",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "CHARTRES_GASVILLE",
@@ -348,7 +273,7 @@
     "departement": "28",
     "date_planification": "2026-08-25",
     "das_numero": "DAS-N0213876",
-    "das_statut": "Suspendue",
+    "das_statut": "Acceptée",
     "das_debut": "2026-08-25",
     "das_fin": "2026-08-25",
     "das_provenance": "airtable",
@@ -397,6 +322,36 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.972079,
+     48.484015
+    ]
+   },
+   "properties": {
+    "name": "FRA02900029 — GUIMILIAU",
+    "description": "**Numéro de Work Order** : WO-243880\n**État du WO** : Activé\n**Travaux à réaliser** : débroussaillage du site à prévoir\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 29\n**Nom du site** : GUIMILIAU",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "GUIMILIAU",
+    "wo": "WO-243880",
+    "travaux": "débroussaillage du site à prévoir",
+    "priorite": "P4",
+    "scope": "EV - Espaces Verts",
+    "departement": "29",
+    "calque": "mc",
+    "code_fra": "FRA02900029",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
      "iconClass": "Drop"
     }
    }
@@ -507,43 +462,6 @@
     "code_fra": "FRA02900224",
     "acces_autonome": "non_autonome",
     "acces_motif": "la fiche déclare l'accès non autonome",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -0.553568,
-     44.868684
-    ]
-   },
-   "properties": {
-    "name": "FRA03300191 — BDX_DUPRE",
-    "description": "**Numéro de Work Order** : WO-243746\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Besoin débroussaillage sur ce site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-08-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0215794\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-19\n**Fin de validité** : 2026-08-21\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 33\n**Nom du site** : BDX_DUPRE\n\n**Fiche d'accès**\nDigicode: CADENAS A CODE = 3333 PLUS DE CADENAS LE 18/01/2022\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès:",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "BDX_DUPRE",
-    "wo": "WO-243746",
-    "travaux": "Besoin débroussaillage sur ce site",
-    "priorite": "P4",
-    "scope": "EV - Espaces Verts",
-    "departement": "33",
-    "date_planification": "2026-08-21",
-    "das_numero": "DAS-N0215794",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-19",
-    "das_fin": "2026-08-21",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: CADENAS A CODE = 3333 PLUS DE CADENAS LE 18/01/2022\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès:",
-    "calque": "mc",
-    "code_fra": "FRA03300191",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
@@ -668,44 +586,6 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -0.30686,
-     43.926905
-    ]
-   },
-   "properties": {
-    "name": "FRA04000058 — VILLENEUVE_DE_MARSAN_FT",
-    "description": "**Numéro de Work Order** : WO-238290\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour Michael,\n\nNous avons besoin d'un débroussaillage complet du site et d'un élagage des arbres devant le site pour permettre le déploiement de la nacelle afin de contrôler les haubans.\n\nLes zones autour des haubans doivent être débroussaillées pour permettre le control.\n\nJe t'ai mis le plan de l'emplacement de la nacelle.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-08-18\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0212757\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-18\n**Fin de validité** : 2026-08-20\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 40\n**Nom du site** : VILLENEUVE_DE_MARSAN_FT\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas: Cadenas à code\n\nCommentaire d'accès: 07/05/2026 Na cockpit O+M :\nSite DIG 3, responsable à contacter en cas de soucis d'accès: marc.latapy@orange.com en copie alice.roupy@orange.com",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "VILLENEUVE_DE_MARSAN_FT",
-    "wo": "WO-238290",
-    "travaux": "Bonjour Michael,\n\nNous avons besoin d'un débroussaillage complet du site et d'un élagage des arbres devant le site pour permettre le déploiement de la nacelle afin de contrôler les haubans.\n\nLes zones autour des haubans doivent être débroussaillées pour permettre le control.\n\nJe t'ai mis le plan de l'emplacement de la nacelle.\n\nCordialement",
-    "priorite": "P4",
-    "scope": "EV - Espaces Verts",
-    "departement": "40",
-    "consignation": "Consignation",
-    "date_planification": "2026-08-18",
-    "das_numero": "DAS-N0212757",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-18",
-    "das_fin": "2026-08-20",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas: Cadenas à code\n\nCommentaire d'accès: 07/05/2026 Na cockpit O+M :\nSite DIG 3, responsable à contacter en cas de soucis d'accès: marc.latapy@orange.com en copie alice.roupy@orange.com",
-    "calque": "mc",
-    "code_fra": "FRA04000058",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -938,7 +818,7 @@
    },
    "properties": {
     "name": "FRA05300015 — CHATILLON_SUR_COLMONT",
-    "description": "**Numéro de Work Order** : WO-242825\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Entretien terrain à prévoir en EV\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218127\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-26\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 53\n**Nom du site** : CHATILLON_SUR_COLMONT\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique -\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge: Badge\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 22/06/2026 FA COCKPIT O+M:\nUne prévenance à titre informatif est nécessaire à l'adresse : am-fr@telecom-ip.com\nDélai de prévenance : 48 heures\nAccès autonome",
+    "description": "**Numéro de Work Order** : WO-242825\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Entretien terrain à prévoir en EV\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218127\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-26\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 53\n**Nom du site** : CHATILLON_SUR_COLMONT\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique -\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge: Badge\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 22/06/2026 FA COCKPIT O+M:\nUne prévenance à titre informatif est nécessaire à l'adresse : am-fr@telecom-ip.com\nDélai de prévenance : 48 heures\nAccès autonome",
     "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "CHATILLON_SUR_COLMONT",
@@ -949,7 +829,7 @@
     "departement": "53",
     "date_planification": "2026-09-02",
     "das_numero": "DAS-N0218127",
-    "das_statut": "Vérification",
+    "das_statut": "Acceptée",
     "das_debut": "2026-08-26",
     "das_fin": "2026-08-26",
     "das_provenance": "airtable",
@@ -1072,88 +952,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -0.003945,
-     43.090687
-    ]
-   },
-   "properties": {
-    "name": "FRA06500016 — LES_ANGLES",
-    "description": "**Numéro de Work Order** : WO-238314\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nPrésence de nombreuses guêpes au niveau de la SH et des membrures. Merci de réaliser un traitement sur tout le site et SH afin d'éradiquer la problématique.\n\nCordialement\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P4\n**Date de planification** : 2026-08-18\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0212753\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-18\n**Fin de validité** : 2026-08-20\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-23\n**Provenance du repère** : airtable\n**Numéro de département** : 65\n**Nom du site** : LES_ANGLES\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "LES_ANGLES",
-    "wo": "WO-238314",
-    "travaux": "Bonjour,\n\nPrésence de nombreuses guêpes au niveau de la SH et des membrures. Merci de réaliser un traitement sur tout le site et SH afin d'éradiquer la problématique.\n\nCordialement",
-    "priorite": "P4",
-    "scope": "SH - Structure Haute",
-    "departement": "65",
-    "consignation": "Consignation",
-    "date_planification": "2026-08-18",
-    "das_numero": "DAS-N0212753",
-    "das_statut": "Refusée",
-    "das_debut": "2026-08-18",
-    "das_fin": "2026-08-20",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-08-23",
-    "calque": "mc",
-    "code_fra": "FRA06500016",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.409957,
-     42.409693
-    ]
-   },
-   "properties": {
-    "name": "FRA06600057 — PRATS_DE_MOLLO",
-    "description": "**Numéro de Work Order** : WO-243814\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nMerci de débroussailler le site pour procéder au contrôle des haubans dans le cadre du programme CASH.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P3\n**Date de planification** : 2026-08-21\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : accès libre\n**Numéro de DAS** : DAS-N0216371\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-21\n**Fin de validité** : 2026-08-21\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-23\n**Provenance du repère** : airtable\n**Numéro de département** : 66\n**Nom du site** : PRATS_DE_MOLLO\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 11/06/26 D cockpit O+M:\nSite en accès libre",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "PRATS_DE_MOLLO",
-    "wo": "WO-243814",
-    "travaux": "Bonjour,\n\nMerci de débroussailler le site pour procéder au contrôle des haubans dans le cadre du programme CASH.\n\nCordialement",
-    "priorite": "P3",
-    "scope": "EV - Espaces Verts",
-    "departement": "66",
-    "consignation": "Consignation",
-    "date_planification": "2026-08-21",
-    "das_numero": "DAS-N0216371",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-21",
-    "das_fin": "2026-08-21",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 11/06/26 D cockpit O+M:\nSite en accès libre",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-08-23",
-    "calque": "mc",
-    "code_fra": "FRA06600057",
-    "acces_autonome": "autonome",
-    "acces_motif": "accès libre",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      4.898557,
      45.78705
     ]
@@ -1174,43 +972,6 @@
     "code_fra": "FRA06900179",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.436502,
-     48.188226
-    ]
-   },
-   "properties": {
-    "name": "FRA07200037 — BONNETABLE",
-    "description": "**Numéro de Work Order** : WO-240014\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action :\n\nTravaux de REAM à partir du 24/08\npouvez-vous programmer une intervention avant cette date pour traiter l'espace vert et la présence de guêpes\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P3\n**Date de planification** : 2026-08-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0212894\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-17\n**Fin de validité** : 2026-08-17\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 72\n**Nom du site** : BONNETABLE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - cadenas a code 7272\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas: Cadenas à code\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 16/06/26\nCadenas à code sur le portail d’accès au site et sur le portillon ZT FREE : code 7272.",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "BONNETABLE",
-    "wo": "WO-240014",
-    "travaux": "Action :\n\nTravaux de REAM à partir du 24/08\npouvez-vous programmer une intervention avant cette date pour traiter l'espace vert et la présence de guêpes",
-    "priorite": "P3",
-    "scope": "EV - Espaces Verts",
-    "departement": "72",
-    "date_planification": "2026-08-17",
-    "das_numero": "DAS-N0212894",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-17",
-    "das_fin": "2026-08-17",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - cadenas a code 7272\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas: Cadenas à code\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 16/06/26\nCadenas à code sur le portail d’accès au site et sur le portillon ZT FREE : code 7272.",
-    "calque": "mc",
-    "code_fra": "FRA07200037",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
@@ -1517,43 +1278,6 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -0.432628,
-     46.30864
-    ]
-   },
-   "properties": {
-    "name": "FRA07900003 — NIORT_CHAMPOMMIER",
-    "description": "**Numéro de Work Order** : WO-238114\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci de réaliser un débroussaillage\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-08-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0212896\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-17\n**Fin de validité** : 2026-08-19\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 79\n**Nom du site** : NIORT_CHAMPOMMIER\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès : Exploitabilité du site 20\\\\20. INFORMER M. FAURE 48H avant intervention 06 82 42 28 59",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "NIORT_CHAMPOMMIER",
-    "wo": "WO-238114",
-    "travaux": "merci de réaliser un débroussaillage",
-    "priorite": "P4",
-    "scope": "EV - Espaces Verts",
-    "departement": "79",
-    "date_planification": "2026-08-24",
-    "das_numero": "DAS-N0212896",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-17",
-    "das_fin": "2026-08-19",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès : Exploitabilité du site 20\\\\20. INFORMER M. FAURE 48H avant intervention 06 82 42 28 59",
-    "calque": "mc",
-    "code_fra": "FRA07900003",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
