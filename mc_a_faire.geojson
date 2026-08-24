@@ -256,6 +256,32 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     1.6566052,
+     48.3563467
+    ]
+   },
+   "properties": {
+    "name": "FRA02800093 — PRUNAY",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Débroussaillage du site\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : PRUNAY",
+    "origine": "ensio",
+    "travaux": "Débroussaillage du site",
+    "etat_wo": "Activé",
+    "nom_site": "PRUNAY",
+    "calque": "mc",
+    "code_fra": "FRA02800093",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      1.582693,
      48.453691
     ]
@@ -1026,6 +1052,33 @@
     "nom_site": "GODERVILLE",
     "calque": "mc",
     "code_fra": "FRA07600066",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.14585,
+     49.414728
+    ]
+   },
+   "properties": {
+    "name": "FRA07600123 — LE_MESNIL_ESNARD_ATELIERS",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Site a besoin d'être débroussaillé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Ateliers MUNICIPAUX - Rue CHARLES CHERER 76240 LE MESNIL ESNARD\n**Nom du site** : LE_MESNIL_ESNARD_ATELIERS",
+    "origine": "ensio",
+    "travaux": "Site a besoin d'être débroussaillé",
+    "etat_wo": "Activé",
+    "nom_site": "LE_MESNIL_ESNARD_ATELIERS",
+    "adresse": "Ateliers MUNICIPAUX - Rue CHARLES CHERER 76240 LE MESNIL ESNARD",
+    "calque": "mc",
+    "code_fra": "FRA07600123",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
