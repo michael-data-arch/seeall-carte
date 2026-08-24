@@ -844,17 +844,18 @@
    },
    "properties": {
     "name": "FRA05000080 — GREVILLE_HAGUE",
-    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-24\n**Provenance du repère** : manuel\n**Nom du site** : GREVILLE_HAGUE",
-    "origine": "manuel",
-    "declare_par": "Michael",
-    "declare_le": "2026-08-24",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE MOUSSE SUR PYLÔNE ; PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE ) mettre du galva ; Changer les charnières de la porte coutier\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Le Clos Fabien 50440 GREVILLE HAGUE\n**Nom du site** : GREVILLE_HAGUE",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE MOUSSE SUR PYLÔNE ; PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE ) mettre du galva ; Changer les charnières de la porte coutier",
+    "etat_wo": "Activé",
     "nom_site": "GREVILLE_HAGUE",
+    "adresse": "Le Clos Fabien 50440 GREVILLE HAGUE",
     "calque": "mc",
     "code_fra": "FRA05000080",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#67718A",
+     "color": "#DC2626",
      "iconClass": "Drop"
     }
    }
