@@ -1125,7 +1125,7 @@
    },
    "properties": {
     "name": "FRA05600143 — MOREAC_BOURG",
-    "description": "**Numéro de Work Order** : WO-238317\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : bonjour,\nbesoin de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-31\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0215693\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : MOREAC_BOURG\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - Portail:serrure DENY canon B23253 DON 5156P s?’ouvre avec la clé DON 5156A\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 10/10/2025 Na cockpit O+M :\nMAIRIE DE MOREAC: 02 97 60 04 44\n\nPour toute intervention, merci d'envoyer un mail à mairie@moreac.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès: les accès seront précisés dans le mail",
+    "description": "**Numéro de Work Order** : WO-238317\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : bonjour,\nbesoin de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-31\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0215693\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : MOREAC_BOURG\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - Portail:serrure DENY canon B23253 DON 5156P s?’ouvre avec la clé DON 5156A\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 10/10/2025 Na cockpit O+M :\nMAIRIE DE MOREAC: 02 97 60 04 44\n\nPour toute intervention, merci d'envoyer un mail à mairie@moreac.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès: les accès seront précisés dans le mail",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "MOREAC_BOURG",
@@ -1142,13 +1142,15 @@
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - Portail:serrure DENY canon B23253 DON 5156P s?’ouvre avec la clé DON 5156A\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 10/10/2025 Na cockpit O+M :\nMAIRIE DE MOREAC: 02 97 60 04 44\n\nPour toute intervention, merci d'envoyer un mail à mairie@moreac.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès: les accès seront précisés dans le mail",
     "das_prevenance": "5 jours",
+    "equipe": "Lassana",
     "calque": "mc",
     "code_fra": "FRA05600143",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "L"
     }
    }
   },
