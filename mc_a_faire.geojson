@@ -203,6 +203,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     1.255692,
+     48.883981
+    ]
+   },
+   "properties": {
+    "name": "FRA02700055 — COUDRES",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Suite à notre visite technique pour retirer le nid de guêpes situé dans la serrure, notre technicien n'a malheureusement pas pu intervenir ni s'approcher de la zone concernée en raison de la forte présence de guêpes tout autour du site. ; Afin de sécuriser les lieux et de permettre une intervention en toute sécurité, nous allons mandater un professionnel spécialisé pour traiter le nid de guêpes.\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Chem. du Favril, 27220 Saint-André-de-l'Eure\n**Nom du site** : COUDRES",
+    "origine": "ensio",
+    "travaux": "Suite à notre visite technique pour retirer le nid de guêpes situé dans la serrure, notre technicien n'a malheureusement pas pu intervenir ni s'approcher de la zone concernée en raison de la forte présence de guêpes tout autour du site. ; Afin de sécuriser les lieux et de permettre une intervention en toute sécurité, nous allons mandater un professionnel spécialisé pour traiter le nid de guêpes.",
+    "etat_wo": "Activé",
+    "nom_site": "COUDRES",
+    "adresse": "Chem. du Favril, 27220 Saint-André-de-l'Eure",
+    "calque": "mc",
+    "code_fra": "FRA02700055",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      1.229167,
      49.318333
     ]
@@ -269,6 +296,32 @@
     "nom_site": "PRUNAY",
     "calque": "mc",
     "code_fra": "FRA02800093",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.841949,
+     48.316072
+    ]
+   },
+   "properties": {
+    "name": "FRA02800099 — NOGENT_ROTR_ST_JEAN",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Depot de dechets vegetaux dans le site voir photo et chemin d'acces encombre par des branches suite tempete\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : NOGENT_ROTR_ST_JEAN",
+    "origine": "ensio",
+    "travaux": "Depot de dechets vegetaux dans le site voir photo et chemin d'acces encombre par des branches suite tempete",
+    "etat_wo": "Activé",
+    "nom_site": "NOGENT_ROTR_ST_JEAN",
+    "calque": "mc",
+    "code_fra": "FRA02800099",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
@@ -661,6 +714,31 @@
     "adresse": "Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE",
     "calque": "mc",
     "code_fra": "FRA04100110",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.467814,
+     47.500652
+    ]
+   },
+   "properties": {
+    "name": "FRA04100144 — CHEVERNY_CHATEAU",
+    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : CHEVERNY_CHATEAU",
+    "origine": "ensio",
+    "etat_wo": "Activé",
+    "nom_site": "CHEVERNY_CHATEAU",
+    "calque": "mc",
+    "code_fra": "FRA04100144",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
