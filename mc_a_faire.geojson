@@ -258,6 +258,32 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     1.540365,
+     48.513829
+    ]
+   },
+   "properties": {
+    "name": "FRA02800078 — JOUY",
+    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Nom du site** : JOUY",
+    "origine": "manuel",
+    "declare_par": "Michael",
+    "declare_le": "2026-08-26",
+    "nom_site": "JOUY",
+    "calque": "mc",
+    "code_fra": "FRA02800078",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      1.6566052,
      48.3563467
     ]
