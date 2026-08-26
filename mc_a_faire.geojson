@@ -50,12 +50,17 @@
    },
    "properties": {
     "name": "FRA01800015 — BOURGES_CHARLET",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE DU SITE ET AUTOUR DU PYLÔNE. PRÉVOIR UN DÉBROUSSAILLAGE ET UN ÉLAGAGE. ; A faire : Débroussaillage + élagage (dis-moi si besoin d'une nacelle stp)\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0220135\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 6 Chaussée de Chappe 18000 BOURGES\n**Nom du site** : BOURGES_CHARLET\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique - Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-236843\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE DU SITE ET AUTOUR DU PYLÔNE. PRÉVOIR UN DÉBROUSSAILLAGE ET UN ÉLAGAGE.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-09\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0220135\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 6 Chaussée de Chappe 18000 BOURGES\n**Numéro de département** : 18\n**Nom du site** : BOURGES_CHARLET\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique - Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "origine": "ensio",
-    "travaux": "PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE DU SITE ET AUTOUR DU PYLÔNE. PRÉVOIR UN DÉBROUSSAILLAGE ET UN ÉLAGAGE. ; A faire : Débroussaillage + élagage (dis-moi si besoin d'une nacelle stp)",
-    "etat_wo": "Activé",
+    "travaux": "PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE DU SITE ET AUTOUR DU PYLÔNE. PRÉVOIR UN DÉBROUSSAILLAGE ET UN ÉLAGAGE.",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "BOURGES_CHARLET",
     "adresse": "6 Chaussée de Chappe 18000 BOURGES",
+    "wo": "WO-236843",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "18",
+    "date_planification": "2026-09-09",
     "das_numero": "DAS-N0220135",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-25",
@@ -67,7 +72,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -83,12 +88,17 @@
    },
    "properties": {
     "name": "FRA01800057 — CHAROST",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0218855\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Le buisson monsieur 18290 CHAROST\n**Nom du site** : CHAROST\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non - B23117 DON9118 P\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 19/11/25 D cockpit O+M:\nDIG 2; en autonomie (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-236780\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-04\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0218855\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Le buisson monsieur 18290 CHAROST\n**Numéro de département** : 18\n**Nom du site** : CHAROST\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non - B23117 DON9118 P\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 19/11/25 D cockpit O+M:\nDIG 2; en autonomie (Full TOTEM)",
     "origine": "ensio",
-    "travaux": "DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M",
-    "etat_wo": "Activé",
+    "travaux": "- DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "CHAROST",
     "adresse": "Le buisson monsieur 18290 CHAROST",
+    "wo": "WO-236780",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "18",
+    "date_planification": "2026-09-04",
     "das_numero": "DAS-N0218855",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-26",
@@ -100,7 +110,7 @@
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -116,12 +126,17 @@
    },
    "properties": {
     "name": "FRA01800090 — CHAMP_COGNE_CUL",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE.\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213878\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Nom du site** : CHAMP_COGNE_CUL\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 23/06/2026 Na cockpit O+M :\nSite en accès libre",
+    "description": "**Numéro de Work Order** : WO-236925\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-27\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213878\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Numéro de département** : 18\n**Nom du site** : CHAMP_COGNE_CUL\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 23/06/2026 Na cockpit O+M :\nSite en accès libre",
     "origine": "ensio",
-    "travaux": "PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE.",
-    "etat_wo": "Activé",
+    "travaux": "- PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE.",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "CHAMP_COGNE_CUL",
     "adresse": "Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE",
+    "wo": "WO-236925",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique",
+    "departement": "18",
+    "date_planification": "2026-08-27",
     "das_numero": "DAS-N0213878",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-26",
@@ -133,7 +148,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -149,12 +164,17 @@
    },
    "properties": {
     "name": "FRA01800101 — VILLEGENON",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE ; MANQUE PLINTHE SUR PALIER 1\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0213620\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 7LES BRUYERES DES GRANDES RUESSES 18260 VILLEGENON\n**Nom du site** : VILLEGENON\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - CLE POLLUX MAIS SERRURE NE FONCTIONNE PAS\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-238217\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE\n- MANQUE PLINTHE SUR PALIER 1\n**Scope de maintenance** : SH - Structure Haute + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0213620\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 7LES BRUYERES DES GRANDES RUESSES 18260 VILLEGENON\n**Numéro de département** : 18\n**Nom du site** : VILLEGENON\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - CLE POLLUX MAIS SERRURE NE FONCTIONNE PAS\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "origine": "ensio",
-    "travaux": "PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE ; MANQUE PLINTHE SUR PALIER 1",
-    "etat_wo": "Activé",
+    "travaux": "- PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE\n- MANQUE PLINTHE SUR PALIER 1",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "VILLEGENON",
     "adresse": "7LES BRUYERES DES GRANDES RUESSES 18260 VILLEGENON",
+    "wo": "WO-238217",
+    "priorite": "Travaux Programmés",
+    "scope": "SH - Structure Haute + EV - Espaces Verts",
+    "departement": "18",
+    "date_planification": "2026-08-26",
     "das_numero": "DAS-N0213620",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-25",
@@ -166,7 +186,7 @@
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -206,150 +226,29 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.923544,
-     48.822292
-    ]
-   },
-   "properties": {
-    "name": "FRA02700038 — BRETEUIL27",
-    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0209179\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-13\n**Fin de validité** : 2026-08-13\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : BRETEUIL27\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 06/07/26\nBAC ILOQ ID 19072120 contenant la clé du portillon.\nCadenas ILOQ sur le pylône.\nContrôle pylône effectué en 05/2026",
-    "origine": "ensio",
-    "etat_wo": "Activé",
-    "nom_site": "BRETEUIL27",
-    "das_numero": "DAS-N0209179",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-13",
-    "das_fin": "2026-08-13",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 06/07/26\nBAC ILOQ ID 19072120 contenant la clé du portillon.\nCadenas ILOQ sur le pylône.\nContrôle pylône effectué en 05/2026",
-    "calque": "mc",
-    "code_fra": "FRA02700038",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.232771,
-     49.193093
-    ]
-   },
-   "properties": {
-    "name": "FRA02700049 — GLISOLLES",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : FIXATION PORTE PORTILLON NON CONFORME : LA PORTE NE SE TIENT PAS DROITE/ site Iloq ; Adresse ; La Croix des Couettes 14100 NOROLLES\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : GLISOLLES",
-    "origine": "ensio",
-    "travaux": "FIXATION PORTE PORTILLON NON CONFORME : LA PORTE NE SE TIENT PAS DROITE/ site Iloq ; Adresse ; La Croix des Couettes 14100 NOROLLES",
-    "etat_wo": "Activé",
-    "nom_site": "GLISOLLES",
-    "calque": "mc",
-    "code_fra": "FRA02700049",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.255692,
      48.883981
     ]
    },
    "properties": {
     "name": "FRA02700055 — COUDRES",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Suite à notre visite technique pour retirer le nid de guêpes situé dans la serrure, notre technicien n'a malheureusement pas pu intervenir ni s'approcher de la zone concernée en raison de la forte présence de guêpes tout autour du site. ; Afin de sécuriser les lieux et de permettre une intervention en toute sécurité, nous allons mandater un professionnel spécialisé pour traiter le nid de guêpes.\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Chem. du Favril, 27220 Saint-André-de-l'Eure\n**Nom du site** : COUDRES",
+    "description": "**Numéro de Work Order** : WO-238188\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Actions\n\nNid de guêpe dans la serrure\nContrôle de la serrure abloy\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Chem. du Favril, 27220 Saint-André-de-l'Eure\n**Numéro de département** : 27\n**Nom du site** : COUDRES",
     "origine": "ensio",
-    "travaux": "Suite à notre visite technique pour retirer le nid de guêpes situé dans la serrure, notre technicien n'a malheureusement pas pu intervenir ni s'approcher de la zone concernée en raison de la forte présence de guêpes tout autour du site. ; Afin de sécuriser les lieux et de permettre une intervention en toute sécurité, nous allons mandater un professionnel spécialisé pour traiter le nid de guêpes.",
-    "etat_wo": "Activé",
+    "travaux": "Actions\n\nNid de guêpe dans la serrure\nContrôle de la serrure abloy",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "COUDRES",
     "adresse": "Chem. du Favril, 27220 Saint-André-de-l'Eure",
+    "wo": "WO-238188",
+    "priorite": "P4",
+    "scope": "EVT - Environnement Technique",
+    "departement": "27",
+    "date_planification": "2026-09-14",
     "calque": "mc",
     "code_fra": "FRA02700055",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.229167,
-     49.318333
-    ]
-   },
-   "properties": {
-    "name": "FRA02700113 — PITRES_OUEST",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Espace vert à traiter\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0213870\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-17\n**Fin de validité** : 2026-08-18\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de l'Église 27590 Pîtres\n**Nom du site** : PITRES_OUEST\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 13/04/2026 Na cockpit O+M :\nSite DIG 3, responsable à contacter en cas de soucis d'accès: henrik.hiblot@orange.com",
-    "origine": "ensio",
-    "travaux": "Espace vert à traiter",
-    "etat_wo": "Activé",
-    "nom_site": "PITRES_OUEST",
-    "adresse": "Rue de l'Église 27590 Pîtres",
-    "das_numero": "DAS-N0213870",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-17",
-    "das_fin": "2026-08-18",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 13/04/2026 Na cockpit O+M :\nSite DIG 3, responsable à contacter en cas de soucis d'accès: henrik.hiblot@orange.com",
-    "das_prevenance": "aucune",
-    "calque": "mc",
-    "code_fra": "FRA02700113",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.692955,
-     49.263008
-    ]
-   },
-   "properties": {
-    "name": "FRA02700127 — DANGU",
-    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0216300\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-21\n**Fin de validité** : 2026-08-21\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-25\n**Provenance du repère** : ensio\n**Adresse du site** : Route de Gisors D10 Parcelle 75 section B2 27720 DANGU\n**Nom du site** : DANGU\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "ensio",
-    "etat_wo": "Activé",
-    "nom_site": "DANGU",
-    "adresse": "Route de Gisors D10 Parcelle 75 section B2 27720 DANGU",
-    "das_numero": "DAS-N0216300",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-21",
-    "das_fin": "2026-08-21",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-08-25",
-    "calque": "mc",
-    "code_fra": "FRA02700127",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
-    "_umap_options": {
-     "color": "#15803D",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -365,11 +264,16 @@
    },
    "properties": {
     "name": "FRA02800093 — PRUNAY",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Débroussaillage du site\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0210029\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-07\n**Fin de validité** : 2026-08-07\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : PRUNAY\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/06/26 D cockpit O+M:\nSite en accès libre",
+    "description": "**Numéro de Work Order** : WO-242818\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site nécessaire\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-04\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0210029\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-07\n**Fin de validité** : 2026-08-07\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Numéro de département** : 28\n**Nom du site** : PRUNAY\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/06/26 D cockpit O+M:\nSite en accès libre",
     "origine": "ensio",
-    "travaux": "Débroussaillage du site",
-    "etat_wo": "Activé",
+    "travaux": "Débroussaillage du site nécessaire",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "PRUNAY",
+    "wo": "WO-242818",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "28",
+    "date_planification": "2026-09-04",
     "das_numero": "DAS-N0210029",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-07",
@@ -381,7 +285,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -397,11 +301,16 @@
    },
    "properties": {
     "name": "FRA02800099 — NOGENT_ROTR_ST_JEAN",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Depot de dechets vegetaux dans le site voir photo et chemin d'acces encombre par des branches suite tempete\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Numéro de DAS** : DAS-N0218845\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-09-04\n**Fin de validité** : 2026-09-04\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : NOGENT_ROTR_ST_JEAN\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 08/01/2026 M cockpit O+M :\n✉️ Pour toute intervention : Merci de remplir le formulaire via le lien\n👉 www.antennistegdo.toutsurmesservices.fr\n⏳ Délai de prévenance : 10 jours à l’avance\n🔑 Accès : Les modalités seront précisées par le bailleur dans sa réponse",
+    "description": "**Numéro de Work Order** : WO-238151\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Depot de dechets vegetaux dans le site voir photo et chemin d'acces encombre par des branches suite tempete\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-07\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Numéro de DAS** : DAS-N0218845\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-09-04\n**Fin de validité** : 2026-09-04\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Numéro de département** : 28\n**Nom du site** : NOGENT_ROTR_ST_JEAN\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 08/01/2026 M cockpit O+M :\n✉️ Pour toute intervention : Merci de remplir le formulaire via le lien\n👉 www.antennistegdo.toutsurmesservices.fr\n⏳ Délai de prévenance : 10 jours à l’avance\n🔑 Accès : Les modalités seront précisées par le bailleur dans sa réponse",
     "origine": "ensio",
     "travaux": "Depot de dechets vegetaux dans le site voir photo et chemin d'acces encombre par des branches suite tempete",
-    "etat_wo": "Activé",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "NOGENT_ROTR_ST_JEAN",
+    "wo": "WO-238151",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "28",
+    "date_planification": "2026-09-07",
     "das_numero": "DAS-N0218845",
     "das_statut": "En attente",
     "das_debut": "2026-09-04",
@@ -414,7 +323,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -690,12 +599,18 @@
    },
    "properties": {
     "name": "FRA03600001 — CHATEAUROUX_FT",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRESENCE DE CORROSION SUR LA CLOTURE DU SITE ; PRESENCE DE MOUSSE SUR PYLONE\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213877\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 13 Rue du Berry 36000 Châteauroux\n**Nom du site** : CHATEAUROUX_FT\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 12/11/25 D cockpit O+M:\nAccès: en autonomie (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-236111 + WO-236432 + WO-238230\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\n_Réaliser un CRI + video suite aux nuisances sonores sur site\n_Réaliser un débroussaillage du site dans le même temps. Nécessité d' une nacelle poids lourds le jeudi 16 juillet prochain. Pour se faire, un élagage est demandé concernant les arbres devant (trop haut pour y passer le panier de la nacelle) + déblayer la végétation aux pieds de l'antenne\n\n+ Nous devons internvenir avec une nacelle poids lourds le jeudi 16 juillet prochain. Pour se faire, un élagage est demandé concernant les arbres devant (trop haut pour y passer le panier de la nacelle) + déblayer la végétation aux pieds de l'antenne. Merci par avance. + - PRESENCE DE CORROSION SUR LA CLOTURE DU SITE\nOn ne fait pas de peinture en MP, si besoin de refaire la clôture il faut le prévoir en MC. Ce n'est pas simplement de la corrosion mais de la rouille - HORS SCOPE MP\n- PRESENCE DE MOUSSE SUR PYLONE\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-27\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213877\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 13 Rue du Berry 36000 Châteauroux\n**Numéro de département** : 36\n**Nom du site** : CHATEAUROUX_FT\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 12/11/25 D cockpit O+M:\nAccès: en autonomie (Full TOTEM)",
     "origine": "ensio",
-    "travaux": "PRESENCE DE CORROSION SUR LA CLOTURE DU SITE ; PRESENCE DE MOUSSE SUR PYLONE",
-    "etat_wo": "Activé",
+    "travaux": "Action\n\n_Réaliser un CRI + video suite aux nuisances sonores sur site\n_Réaliser un débroussaillage du site dans le même temps. Nécessité d' une nacelle poids lourds le jeudi 16 juillet prochain. Pour se faire, un élagage est demandé concernant les arbres devant (trop haut pour y passer le panier de la nacelle) + déblayer la végétation aux pieds de l'antenne\n\n+ Nous devons internvenir avec une nacelle poids lourds le jeudi 16 juillet prochain. Pour se faire, un élagage est demandé concernant les arbres devant (trop haut pour y passer le panier de la nacelle) + déblayer la végétation aux pieds de l'antenne. Merci par avance. + - PRESENCE DE CORROSION SUR LA CLOTURE DU SITE\nOn ne fait pas de peinture en MP, si besoin de refaire la clôture il faut le prévoir en MC. Ce n'est pas simplement de la corrosion mais de la rouille - HORS SCOPE MP\n- PRESENCE DE MOUSSE SUR PYLONE",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "CHATEAUROUX_FT",
     "adresse": "13 Rue du Berry 36000 Châteauroux",
+    "wo": "WO-236111 + WO-236432 + WO-238230",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique + SH - Structure Haute",
+    "departement": "36",
+    "consignation": "Consigne Particulière",
+    "date_planification": "2026-08-27",
     "das_numero": "DAS-N0213877",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-25",
@@ -707,7 +622,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -748,84 +663,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.320843,
-     47.442499
-    ]
-   },
-   "properties": {
-    "name": "FRA03700126 — HOMMES_FT",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ; PRÉSENCE DE MOUSSE SUR LE PYLÔNE\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0213873\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-20\n**Fin de validité** : 2026-08-21\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 2 Rue de la Gare 37340 Savigné-sur-Lathan\n**Nom du site** : HOMMES_FT\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - CLEF POLUX CVL\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge: Badge\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 07/05/26 D cockpit O+M:\nSite DIG 6, responsable à contacter en cas de soucis d'accès: yannick.lemorvan@orange.com en copie sylvain.berrueco@orange.com",
-    "origine": "ensio",
-    "travaux": "PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ; PRÉSENCE DE MOUSSE SUR LE PYLÔNE",
-    "etat_wo": "Activé",
-    "nom_site": "HOMMES_FT",
-    "adresse": "2 Rue de la Gare 37340 Savigné-sur-Lathan",
-    "das_numero": "DAS-N0213873",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-20",
-    "das_fin": "2026-08-21",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - CLEF POLUX CVL\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge: Badge\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 07/05/26 D cockpit O+M:\nSite DIG 6, responsable à contacter en cas de soucis d'accès: yannick.lemorvan@orange.com en copie sylvain.berrueco@orange.com",
-    "das_prevenance": "aucune",
-    "calque": "mc",
-    "code_fra": "FRA03700126",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.324082,
-     47.599047
-    ]
-   },
-   "properties": {
-    "name": "FRA04100011 — BLOIS_INDUSTRIES",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Adresse ; Avenue de Vendome Lieu-dit Les Maisons Rouges 41000 BLOIS\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0206176\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-06\n**Fin de validité** : 2026-08-06\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : BLOIS_INDUSTRIES\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 22/05/26 M cockpit O+M:\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM",
-    "origine": "ensio",
-    "travaux": "Adresse ; Avenue de Vendome Lieu-dit Les Maisons Rouges 41000 BLOIS",
-    "etat_wo": "Activé",
-    "nom_site": "BLOIS_INDUSTRIES",
-    "das_numero": "DAS-N0206176",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-06",
-    "das_fin": "2026-08-06",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 22/05/26 M cockpit O+M:\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM",
-    "calque": "mc",
-    "code_fra": "FRA04100011",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "intervention accompagnée",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.273875,
      47.65176
     ]
    },
    "properties": {
     "name": "FRA04100110 — FOSSE",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE ; PRESENCE DE MOUSSE SUR LE RAIL\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218821\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-04\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Nom du site** : FOSSE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/10/2025 Na cockpit O+M:\n\nMr Laurent JOREZ : +33 6 09 44 34 89\n\nSans prévenance\n\nAccès en Autonomie",
+    "description": "**Numéro de Work Order** : WO-235886 + WO-236458\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nEspace vert à traiter rapidement svp + - PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE\n- PRESENCE DE MOUSSE SUR LE RAIL\n**Scope de maintenance** : EV - Espaces Verts + EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-26\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218821\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-04\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Numéro de département** : 41\n**Nom du site** : FOSSE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/10/2025 Na cockpit O+M:\n\nMr Laurent JOREZ : +33 6 09 44 34 89\n\nSans prévenance\n\nAccès en Autonomie",
     "origine": "ensio",
-    "travaux": "PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE ; PRESENCE DE MOUSSE SUR LE RAIL",
-    "etat_wo": "Activé",
+    "travaux": "Action\n\nEspace vert à traiter rapidement svp + - PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE\n- PRESENCE DE MOUSSE SUR LE RAIL",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "FOSSE",
     "adresse": "Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE",
+    "wo": "WO-235886 + WO-236458",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts + EVT - Environnement Technique + SH - Structure Haute",
+    "departement": "41",
+    "date_planification": "2026-08-26",
     "das_numero": "DAS-N0218821",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-31",
@@ -837,7 +691,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -853,10 +707,16 @@
    },
    "properties": {
     "name": "FRA04100144 — CHEVERNY_CHATEAU",
-    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213615\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-24\n**Fin de validité** : 2026-08-25\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : CHEVERNY_CHATEAU\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 03/04/26 D cockpit O+M:\nCHENE Jean Louis: 06 68 09 71 01\nIl est pas nécessaire de prévenir\nAutonome",
+    "description": "**Numéro de Work Order** : WO-237041\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - MANQUE 20 M DE MÉPLAT SUR LE PYLÔNE\n- PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE, PRÉVOIR UN DÉBROUSSAILLAGE.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-08-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213615\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-24\n**Fin de validité** : 2026-08-25\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Numéro de département** : 41\n**Nom du site** : CHEVERNY_CHATEAU\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 03/04/26 D cockpit O+M:\nCHENE Jean Louis: 06 68 09 71 01\nIl est pas nécessaire de prévenir\nAutonome",
     "origine": "ensio",
-    "etat_wo": "Activé",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "CHEVERNY_CHATEAU",
+    "wo": "WO-237041",
+    "travaux": "- MANQUE 20 M DE MÉPLAT SUR LE PYLÔNE\n- PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE, PRÉVOIR UN DÉBROUSSAILLAGE.",
+    "priorite": "P3",
+    "scope": "EVT - Environnement Technique",
+    "departement": "41",
+    "date_planification": "2026-08-24",
     "das_numero": "DAS-N0213615",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-24",
@@ -868,7 +728,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -961,11 +821,17 @@
     ]
    },
    "properties": {
-    "name": "FRA04500092",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Adresse ; Lieu-dit Les Bleveaux 45210 LA SELLLE EN HERMOY\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0206239\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-07-29\n**Fin de validité** : 2026-07-29\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n\n**Fiche d'accès**\nDigicode:\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Non - abloy\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 26/06/26\nCadenas à code sur Portail : code 4545\nPorte du shelter : code 4545",
+    "name": "FRA04500092 — LA_CHAPELLE_ST_SEPULCRE",
+    "description": "**Numéro de Work Order** : WO-200209 + WO-234264 + WO-236468\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour, pourriez-vous prévoir de revisser ce boulon de la charnière de la dernière trappe, svp ? + Valeur de la prise de terre supérieure au maximum admissible, l'améliorer pour qu'elle soit inferieure à 166 ohms + MERCI DE TRAITER LES ESPACES VERTS\n**Scope de maintenance** : SH - Structure Haute + EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2025-12-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0206239\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-07-29\n**Fin de validité** : 2026-07-29\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Numéro de département** : 45\n**Nom du site** : LA_CHAPELLE_ST_SEPULCRE\n\n**Fiche d'accès**\nDigicode:\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Non - abloy\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 26/06/26\nCadenas à code sur Portail : code 4545\nPorte du shelter : code 4545",
     "origine": "ensio",
-    "travaux": "Adresse ; Lieu-dit Les Bleveaux 45210 LA SELLLE EN HERMOY",
+    "travaux": "Bonjour, pourriez-vous prévoir de revisser ce boulon de la charnière de la dernière trappe, svp ? + Valeur de la prise de terre supérieure au maximum admissible, l'améliorer pour qu'elle soit inferieure à 166 ohms + MERCI DE TRAITER LES ESPACES VERTS",
     "etat_wo": "Activé",
+    "nom_site": "LA_CHAPELLE_ST_SEPULCRE",
+    "wo": "WO-200209 + WO-234264 + WO-236468",
+    "priorite": "Travaux Programmés",
+    "scope": "SH - Structure Haute + EVT - Environnement Technique + EV - Espaces Verts",
+    "departement": "45",
+    "date_planification": "2025-12-05",
     "das_numero": "DAS-N0206239",
     "das_statut": "Acceptée",
     "das_debut": "2026-07-29",
@@ -1029,12 +895,17 @@
    },
    "properties": {
     "name": "FRA04500268 — BEAUGENCY_SUD_NEW",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Élagage nécessaire des arbres Situé à proximité du Pylône gênant la montée avec l'échelle rail soll et ceux à proximité de la zone technique également\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : accès libre\n**Numéro de DAS** : DAS-N0218848\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-28\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Impasse de la monnaie 45190 BEAUGENCY\n**Nom du site** : BEAUGENCY_SUD_NEW\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 09/07/2026 M cockpit O+M\nSite en accès libre",
+    "description": "**Numéro de Work Order** : WO-237045\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Élagage nécessaire des arbres Situé à proximité du Pylône gênant la montée avec l'échelle rail soll et ceux à proximité de la zone technique également\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : accès libre\n**Numéro de DAS** : DAS-N0218848\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-28\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Impasse de la monnaie 45190 BEAUGENCY\n**Numéro de département** : 45\n**Nom du site** : BEAUGENCY_SUD_NEW\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 09/07/2026 M cockpit O+M\nSite en accès libre",
     "origine": "ensio",
     "travaux": "Élagage nécessaire des arbres Situé à proximité du Pylône gênant la montée avec l'échelle rail soll et ceux à proximité de la zone technique également",
-    "etat_wo": "Activé",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "BEAUGENCY_SUD_NEW",
     "adresse": "Impasse de la monnaie 45190 BEAUGENCY",
+    "wo": "WO-237045",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique + SH - Structure Haute",
+    "departement": "45",
+    "date_planification": "2026-09-14",
     "das_numero": "DAS-N0218848",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-28",
@@ -1046,7 +917,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "accès libre",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -1091,12 +962,17 @@
    },
    "properties": {
     "name": "FRA05000080 — GREVILLE_HAGUE",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE MOUSSE SUR PYLÔNE ; PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE ) mettre du galva ; Changer les charnières de la porte coutier\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218812\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-02\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Le Clos Fabien 50440 GREVILLE HAGUE\n**Nom du site** : GREVILLE_HAGUE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Bailleur\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas: Sur le portillon cadenas abloy\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 13/11/25 D cockpit O+M:\nAccès: en autonomie (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-236396 + WO-237924 + WO-242807\n**État du WO** : CR Refusé\n**Travaux à réaliser** : Action\n- PRÉSENCE DE MOUSSE SUR PYLÔNE\n- PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE ) non pris en charge par la MP ( mettre du galva )\nChanger les charnières de la porte coutier + - PRÉSENCE DE MOUSSE SUR PYLÔNE\n- PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE, PLINTHES…)\nImpossible de le traiter - WO-236396 en cours car site consigné - à ajouter lors de la MC svp + La porte d'accès à l'aérien est posé au sol à cause des gond qui sont rouillés\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218812\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-02\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Le Clos Fabien 50440 GREVILLE HAGUE\n**Numéro de département** : 50\n**Nom du site** : GREVILLE_HAGUE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Bailleur\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas: Sur le portillon cadenas abloy\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 13/11/25 D cockpit O+M:\nAccès: en autonomie (Full TOTEM)",
     "origine": "ensio",
-    "travaux": "PRÉSENCE DE MOUSSE SUR PYLÔNE ; PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE ) mettre du galva ; Changer les charnières de la porte coutier",
-    "etat_wo": "Activé",
+    "travaux": "Action\n- PRÉSENCE DE MOUSSE SUR PYLÔNE\n- PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE ) non pris en charge par la MP ( mettre du galva )\nChanger les charnières de la porte coutier + - PRÉSENCE DE MOUSSE SUR PYLÔNE\n- PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE, PLINTHES…)\nImpossible de le traiter - WO-236396 en cours car site consigné - à ajouter lors de la MC svp + La porte d'accès à l'aérien est posé au sol à cause des gond qui sont rouillés",
+    "etat_wo": "CR Refusé",
     "nom_site": "GREVILLE_HAGUE",
     "adresse": "Le Clos Fabien 50440 GREVILLE HAGUE",
+    "wo": "WO-236396 + WO-237924 + WO-242807",
+    "priorite": "P3",
+    "scope": "EVT - Environnement Technique",
+    "departement": "50",
+    "date_planification": "2026-09-02",
     "das_numero": "DAS-N0218812",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-31",
@@ -1108,7 +984,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#DB2777",
      "iconClass": "Ball"
     }
    }
@@ -1233,40 +1109,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -0.791202,
-     48.763202
-    ]
-   },
-   "properties": {
-    "name": "FRA06100113 — ND_RS_LE_MENIL_CIBOULT_ORF",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE FIENTES DE PIGEONS SUR LE PALIER DE TRAVAIL ET SUR LES ÉQUIPEMENTS. Prévoir nettoyage\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0213581\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-18\n**Fin de validité** : 2026-08-20\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : lieu-dit Le Clos - Le Bourg 61800 Le Ménil-Ciboult\n**Nom du site** : ND_RS_LE_MENIL_CIBOULT_ORF\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 3.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 26/08/2025 M cockpit O+M:\nPrévenir la mairie 3 jours à l'avance par mail à menil.ciboult.mairie@orange.fr et contacter le Maire en amont au 0616711643.\nAccès en autonomie.",
-    "origine": "ensio",
-    "travaux": "PRÉSENCE DE FIENTES DE PIGEONS SUR LE PALIER DE TRAVAIL ET SUR LES ÉQUIPEMENTS. Prévoir nettoyage",
-    "etat_wo": "Activé",
-    "nom_site": "ND_RS_LE_MENIL_CIBOULT_ORF",
-    "adresse": "lieu-dit Le Clos - Le Bourg 61800 Le Ménil-Ciboult",
-    "das_numero": "DAS-N0213581",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-18",
-    "das_fin": "2026-08-20",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 3.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 26/08/2025 M cockpit O+M:\nPrévenir la mairie 3 jours à l'avance par mail à menil.ciboult.mairie@orange.fr et contacter le Maire en amont au 0616711643.\nAccès en autonomie.",
-    "das_prevenance": "3 jours",
-    "calque": "mc",
-    "code_fra": "FRA06100113",
-    "acces_autonome": "autonome",
-    "acces_motif": "la fiche déclare l'accès autonome",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      4.898557,
      45.78705
     ]
@@ -1341,10 +1183,16 @@
    },
    "properties": {
     "name": "FRA07600066 — GODERVILLE",
-    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0210982\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-10\n**Fin de validité** : 2026-08-10\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : GODERVILLE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - abloy\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 26/01/2026 Na cockpit O+M :\nDIG 1, Full TOTEM",
+    "description": "**Numéro de Work Order** : WO-234981 + WO-235411 + WO-236059 + WO-236983 + WO-236992 + WO-237974\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de traiter l'espace vert du site SVP + Merci de traiter cette non conformité suite à la première intervention\n\nPoteau en béton du grillage de la clôture Totem ( situé au coin gauche au fond du site à\npartir de l'entrée) sectionné en deux entraînant le haut du grillage dans cette partie au sol,\nà réparer + Vérification dépassée de l'échelle/pylône, pas de macaron présent. Pourriez-vous faire vérifier ce pylône + Bonjour\nAppel du voisin vers la supervision ORANGE :\nle site est accessible par les enfants, une grille est cassé et le site n'est plus sécurisé, de plus, problème concernant les espaces verts réalisés partiellement\nmerci de contacter monsieur OLIVIER 0627647724 ou\njeanlucolivier76110@gmail.com\n\nla photo du site ne correspond pas, Monsieur Olivier n'a pas fourni de photos (pas possible au téléphone)\n\nAUTRE POINT, pas de panneau sur site avec les coordonnées TOTEM (selon le plaignant) + Action\nle site est accessible par les enfants, une grille est cassé et le site n'est plus sécurisé, de plus, problème concernant les espaces verts réalisés partiellement\n\nles mauvaises herbes ont bien sûr repoussé et les haies montent de plus en plus haut.\nL’antenne qui était auparavant clôturée ne l’est plus.\nEntretiens de la parcelle avec le talus adjacent\n\n+ Suite à la première intervention en Pj\n\nReprendre le grillage / mettre une signalétique sur le grillage pour dissuader les enfants de passer le grillage\n**Scope de maintenance** : EV - Espaces Verts + EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-08-28\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0210982\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-10\n**Fin de validité** : 2026-08-10\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Numéro de département** : 76\n**Nom du site** : GODERVILLE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - abloy\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 26/01/2026 Na cockpit O+M :\nDIG 1, Full TOTEM",
     "origine": "ensio",
-    "etat_wo": "Activé",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "GODERVILLE",
+    "wo": "WO-234981 + WO-235411 + WO-236059 + WO-236983 + WO-236992 + WO-237974",
+    "travaux": "Merci de traiter l'espace vert du site SVP + Merci de traiter cette non conformité suite à la première intervention\n\nPoteau en béton du grillage de la clôture Totem ( situé au coin gauche au fond du site à\npartir de l'entrée) sectionné en deux entraînant le haut du grillage dans cette partie au sol,\nà réparer + Vérification dépassée de l'échelle/pylône, pas de macaron présent. Pourriez-vous faire vérifier ce pylône + Bonjour\nAppel du voisin vers la supervision ORANGE :\nle site est accessible par les enfants, une grille est cassé et le site n'est plus sécurisé, de plus, problème concernant les espaces verts réalisés partiellement\nmerci de contacter monsieur OLIVIER 0627647724 ou\njeanlucolivier76110@gmail.com\n\nla photo du site ne correspond pas, Monsieur Olivier n'a pas fourni de photos (pas possible au téléphone)\n\nAUTRE POINT, pas de panneau sur site avec les coordonnées TOTEM (selon le plaignant) + Action\nle site est accessible par les enfants, une grille est cassé et le site n'est plus sécurisé, de plus, problème concernant les espaces verts réalisés partiellement\n\nles mauvaises herbes ont bien sûr repoussé et les haies montent de plus en plus haut.\nL’antenne qui était auparavant clôturée ne l’est plus.\nEntretiens de la parcelle avec le talus adjacent\n\n+ Suite à la première intervention en Pj\n\nReprendre le grillage / mettre une signalétique sur le grillage pour dissuader les enfants de passer le grillage",
+    "priorite": "P3",
+    "scope": "EV - Espaces Verts + EVT - Environnement Technique",
+    "departement": "76",
+    "date_planification": "2026-08-28",
     "das_numero": "DAS-N0210982",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-10",
@@ -1356,7 +1204,7 @@
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -1372,18 +1220,23 @@
    },
    "properties": {
     "name": "FRA07600123 — LE_MESNIL_ESNARD_ATELIERS",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Site a besoin d'être débroussaillé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Ateliers MUNICIPAUX - Rue CHARLES CHERER 76240 LE MESNIL ESNARD\n**Nom du site** : LE_MESNIL_ESNARD_ATELIERS",
+    "description": "**Numéro de Work Order** : WO-231744 + WO-231918 + WO-243827\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Merci de prévoir une intervention\n\nafin d’éviter que la porte située en haut du pylône ne s’arrache totalement\nun problème avec la porte qui n’est plus sécurisée ( porte du bas) + Bonjour\n\nMerci d'établir un devis suite aux remontées des réserves sur l'intervention\nWO-231744 + Site a besoin d'être débroussaillé\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute + SH - Structure Haute + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-09\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Ateliers MUNICIPAUX - Rue CHARLES CHERER 76240 LE MESNIL ESNARD\n**Numéro de département** : 76\n**Nom du site** : LE_MESNIL_ESNARD_ATELIERS",
     "origine": "ensio",
-    "travaux": "Site a besoin d'être débroussaillé",
-    "etat_wo": "Activé",
+    "travaux": "Merci de prévoir une intervention\n\nafin d’éviter que la porte située en haut du pylône ne s’arrache totalement\nun problème avec la porte qui n’est plus sécurisée ( porte du bas) + Bonjour\n\nMerci d'établir un devis suite aux remontées des réserves sur l'intervention\nWO-231744 + Site a besoin d'être débroussaillé",
+    "etat_wo": "Devis Envoyé",
     "nom_site": "LE_MESNIL_ESNARD_ATELIERS",
     "adresse": "Ateliers MUNICIPAUX - Rue CHARLES CHERER 76240 LE MESNIL ESNARD",
+    "wo": "WO-231744 + WO-231918 + WO-243827",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique + SH - Structure Haute + SH - Structure Haute + EV - Espaces Verts",
+    "departement": "76",
+    "date_planification": "2026-09-09",
     "calque": "mc",
     "code_fra": "FRA07600123",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Ball"
     }
    }
@@ -1399,10 +1252,16 @@
    },
    "properties": {
     "name": "FRA07600133 — NEUFCHATEL_EN_BRAY",
-    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0214493\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-14\n**Fin de validité** : 2026-08-14\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : NEUFCHATEL_EN_BRAY\n\n**Fiche d'accès**\nDigicode:\nBadge: badge FT\nBoite à clés: Non\nPortail / Portillon: Mécanique - Socotel\nDélais de prévenance:\n\nAccès équipement(s):\nBadge: Badge\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 19/06/2026 FA cockpit O+M:\nVérification pylône 06/2026\nChaîne et cadenas à code 7667 sur la porte d’accès au pylône.",
+    "description": "**Numéro de Work Order** : WO-236770 + WO-237217 + WO-242870\n**État du WO** : Activé\n**Travaux à réaliser** : Action\n\ntraiter le vol de plaque de terre + Action\n\ncasser la couche supérieure de béton et refaire un béton de propreté sur les dessus et sur les côtés.\nLocal vérifier si le local a pris une inclinaison ( photo du mur , video)\n\n+ Action\n\nReprise du grillage\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0214493\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-14\n**Fin de validité** : 2026-08-14\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Numéro de département** : 76\n**Nom du site** : NEUFCHATEL_EN_BRAY\n\n**Fiche d'accès**\nDigicode:\nBadge: badge FT\nBoite à clés: Non\nPortail / Portillon: Mécanique - Socotel\nDélais de prévenance:\n\nAccès équipement(s):\nBadge: Badge\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 19/06/2026 FA cockpit O+M:\nVérification pylône 06/2026\nChaîne et cadenas à code 7667 sur la porte d’accès au pylône.",
     "origine": "ensio",
     "etat_wo": "Activé",
     "nom_site": "NEUFCHATEL_EN_BRAY",
+    "wo": "WO-236770 + WO-237217 + WO-242870",
+    "travaux": "Action\n\ntraiter le vol de plaque de terre + Action\n\ncasser la couche supérieure de béton et refaire un béton de propreté sur les dessus et sur les côtés.\nLocal vérifier si le local a pris une inclinaison ( photo du mur , video)\n\n+ Action\n\nReprise du grillage",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique",
+    "departement": "76",
+    "date_planification": "2026-09-15",
     "das_numero": "DAS-N0214493",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-14",
@@ -1411,39 +1270,6 @@
     "acces_detail": "Digicode:\nBadge: badge FT\nBoite à clés: Non\nPortail / Portillon: Mécanique - Socotel\nDélais de prévenance:\n\nAccès équipement(s):\nBadge: Badge\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 19/06/2026 FA cockpit O+M:\nVérification pylône 06/2026\nChaîne et cadenas à code 7667 sur la porte d’accès au pylône.",
     "calque": "mc",
     "code_fra": "FRA07600133",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.1622065,
-     49.8743267
-    ]
-   },
-   "properties": {
-    "name": "FRA07600220 — ST_AUBIN_LE_CAUF",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Espace vert à traiter\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0213869\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-17\n**Fin de validité** : 2026-08-18\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 391 Rue des Launay, 76510 Saint-Aubin-le-Cauf\n**Nom du site** : ST_AUBIN_LE_CAUF\n\n**Fiche d'accès**\nDigicode: SANS OBJET\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "ensio",
-    "travaux": "Espace vert à traiter",
-    "etat_wo": "Activé",
-    "nom_site": "ST_AUBIN_LE_CAUF",
-    "adresse": "391 Rue des Launay, 76510 Saint-Aubin-le-Cauf",
-    "das_numero": "DAS-N0213869",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-17",
-    "das_fin": "2026-08-18",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: SANS OBJET\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
-    "calque": "mc",
-    "code_fra": "FRA07600220",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
@@ -1531,18 +1357,24 @@
    },
    "properties": {
     "name": "FRA07600301 — MALAUNAY_CENTRE",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Traiter l'espace vert ; Prévoir le remplacement des huit charnières des quatre trappes, qui sont actuellement très difficiles à ouvrir et à fermer\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue Notre-Dame des Champs 76770 Malaunay\n**Nom du site** : MALAUNAY_CENTRE",
+    "description": "**Numéro de Work Order** : WO-235173 + WO-242875\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de traiter la demande suivante:\n\nOrganiser un déplacement pour vérification de l’ouverture de la trappe (fermeture par gravité non bloquante) ainsi que pour identification des propriétaires des coax svp + Action\n\nSuite à la VT\nTraiter l'espace vert et la problématique liées aux trappes\n**Scope de maintenance** : SH - Structure Haute + SH - Structure Haute + EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-09\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue Notre-Dame des Champs 76770 Malaunay\n**Numéro de département** : 76\n**Nom du site** : MALAUNAY_CENTRE",
     "origine": "ensio",
-    "travaux": "Traiter l'espace vert ; Prévoir le remplacement des huit charnières des quatre trappes, qui sont actuellement très difficiles à ouvrir et à fermer",
-    "etat_wo": "Activé",
+    "travaux": "Merci de traiter la demande suivante:\n\nOrganiser un déplacement pour vérification de l’ouverture de la trappe (fermeture par gravité non bloquante) ainsi que pour identification des propriétaires des coax svp + Action\n\nSuite à la VT\nTraiter l'espace vert et la problématique liées aux trappes",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "MALAUNAY_CENTRE",
     "adresse": "Rue Notre-Dame des Champs 76770 Malaunay",
+    "wo": "WO-235173 + WO-242875",
+    "priorite": "P4",
+    "scope": "SH - Structure Haute + SH - Structure Haute + EV - Espaces Verts",
+    "departement": "76",
+    "consignation": "Consignation",
+    "date_planification": "2026-09-09",
     "calque": "mc",
     "code_fra": "FRA07600301",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Ball"
     }
    }
@@ -1619,38 +1451,6 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.232259,
-     49.482998
-    ]
-   },
-   "properties": {
-    "name": "FRA07600388 — LE_HAVRE_TANCARVILLE_NEW",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Cordialement ; [https://lh7-us.googleusercontent.com/docsz/AD_4nXdWjYKYB6ZHM5BfdcAbEGkSIRWSXdBwGstfA5O0tbt1DlyWp0zAColIrkPDOwMUuGQxxEpVR5Gab5rfzU-nMnuiMjpm-rxziOkiVsjDgTTVp982FozWenkexSASNUBJkt64e2EQc-NITDDvQSuZKrV_UpT1?key=oEZVIkzzIj8sp1JLbM0DCg] ; Nafti NSIB ; Conducteur de travaux ; 23 - 25 rue des Chevries ; 78410 FLINS-SUR-SEINE ; 📱 : 07.80.03.34.80 ; 📧 : nafti.nsib@ensio.eu\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0206204\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-03\n**Fin de validité** : 2026-08-05\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : LE_HAVRE_TANCARVILLE_NEW\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: COCKPIT O+M Ta : 16/07/26\nCadenas à code 7667 + Cadenas iLOQ sur le portillon.",
-    "origine": "ensio",
-    "travaux": "Cordialement ; [https://lh7-us.googleusercontent.com/docsz/AD_4nXdWjYKYB6ZHM5BfdcAbEGkSIRWSXdBwGstfA5O0tbt1DlyWp0zAColIrkPDOwMUuGQxxEpVR5Gab5rfzU-nMnuiMjpm-rxziOkiVsjDgTTVp982FozWenkexSASNUBJkt64e2EQc-NITDDvQSuZKrV_UpT1?key=oEZVIkzzIj8sp1JLbM0DCg] ; Nafti NSIB ; Conducteur de travaux ; 23 - 25 rue des Chevries ; 78410 FLINS-SUR-SEINE ; 📱 : 07.80.03.34.80 ; 📧 : nafti.nsib@ensio.eu",
-    "etat_wo": "Activé",
-    "nom_site": "LE_HAVRE_TANCARVILLE_NEW",
-    "das_numero": "DAS-N0206204",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-03",
-    "das_fin": "2026-08-05",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: COCKPIT O+M Ta : 16/07/26\nCadenas à code 7667 + Cadenas iLOQ sur le portillon.",
-    "calque": "mc",
-    "code_fra": "FRA07600388",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
     }
    }
   },
@@ -1744,37 +1544,6 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.219941,
-     48.382859
-    ]
-   },
-   "properties": {
-    "name": "FRA09100049 — LA_FORET_SAINTE_CROIX",
-    "description": "**État du WO** : Activé\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0209189\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-14\n**Fin de validité** : 2026-08-14\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Nom du site** : LA_FORET_SAINTE_CROIX\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "ensio",
-    "etat_wo": "Activé",
-    "nom_site": "LA_FORET_SAINTE_CROIX",
-    "das_numero": "DAS-N0209189",
-    "das_statut": "Refusée",
-    "das_debut": "2026-08-14",
-    "das_fin": "2026-08-14",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès:",
-    "calque": "mc",
-    "code_fra": "FRA09100049",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Ball"
     }
    }
   },
