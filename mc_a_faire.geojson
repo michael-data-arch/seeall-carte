@@ -176,6 +176,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     0.483472,
+     44.85368
+    ]
+   },
+   "properties": {
+    "name": "FRA02400011 — BERGERAC_CATHEDRALE",
+    "description": "**Numéro de Work Order** : WO-243875\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour,\nPrésence excessive de fiente dans le site et de cadavre de pigeons ( impossible de terminé l'ascension)\n\nMerci de faire le nettoyage du site et fermer les endroits d'où peuvent rentrer les oiseaux afin d'éradiquer la problématique.\n\nCordialement\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 24\n**Nom du site** : BERGERAC_CATHEDRALE",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "BERGERAC_CATHEDRALE",
+    "wo": "WO-243875",
+    "travaux": "Bonjour,\nPrésence excessive de fiente dans le site et de cadavre de pigeons ( impossible de terminé l'ascension)\n\nMerci de faire le nettoyage du site et fermer les endroits d'où peuvent rentrer les oiseaux afin d'éradiquer la problématique.\n\nCordialement",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique + SH - Structure Haute",
+    "departement": "24",
+    "calque": "mc",
+    "code_fra": "FRA02400011",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      0.923544,
      48.822292
     ]
