@@ -264,17 +264,19 @@
    },
    "properties": {
     "name": "FRA02800078 — JOUY",
-    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Nom du site** : JOUY",
+    "description": "**Numéro de Work Order** : WO-236265\n**État du WO** : Travaux planifiés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Nom du site** : JOUY",
     "origine": "manuel",
     "declare_par": "Michael",
     "declare_le": "2026-08-26",
     "nom_site": "JOUY",
+    "etat_wo": "Travaux planifiés",
+    "wo": "WO-236265",
     "calque": "mc",
     "code_fra": "FRA02800078",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#67718A",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -695,17 +697,19 @@
    },
    "properties": {
     "name": "FRA03700122 — ST_BRANCHS",
-    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Nom du site** : ST_BRANCHS",
+    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Nom du site** : ST_BRANCHS",
     "origine": "manuel",
     "declare_par": "Michael",
     "declare_le": "2026-08-26",
     "nom_site": "ST_BRANCHS",
+    "etat_wo": "Travaux planifiés",
+    "wo": "WO-236469",
     "calque": "mc",
     "code_fra": "FRA03700122",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#67718A",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
