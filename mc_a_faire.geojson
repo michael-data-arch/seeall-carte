@@ -68,7 +68,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -101,7 +101,7 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -134,7 +134,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -167,7 +167,7 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -228,7 +228,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -254,7 +254,7 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -281,7 +281,7 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -315,7 +315,7 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -350,7 +350,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#15803D",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -382,7 +382,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -415,7 +415,7 @@
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -708,7 +708,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -773,7 +773,7 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -805,7 +805,7 @@
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -838,7 +838,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -869,7 +869,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -978,7 +978,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1047,7 +1047,7 @@
     "acces_motif": "accès libre",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1109,7 +1109,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1258,7 +1258,7 @@
     "acces_motif": "la fiche déclare l'accès autonome",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1357,7 +1357,7 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1384,7 +1384,7 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1415,7 +1415,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1448,7 +1448,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1543,7 +1543,7 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1650,7 +1650,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
@@ -1774,7 +1774,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Ball"
     }
    }
   },
