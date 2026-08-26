@@ -689,6 +689,32 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     0.757528,
+     47.231149
+    ]
+   },
+   "properties": {
+    "name": "FRA03700122 — ST_BRANCHS",
+    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Nom du site** : ST_BRANCHS",
+    "origine": "manuel",
+    "declare_par": "Michael",
+    "declare_le": "2026-08-26",
+    "nom_site": "ST_BRANCHS",
+    "calque": "mc",
+    "code_fra": "FRA03700122",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      1.273875,
      47.65176
     ]
