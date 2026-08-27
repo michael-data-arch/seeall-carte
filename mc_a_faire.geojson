@@ -1251,7 +1251,7 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Ball",
+     "iconClass": "Drop",
      "iconUrl": "E"
     }
    }
