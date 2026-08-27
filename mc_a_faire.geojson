@@ -37,6 +37,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -0.692668,
+     49.199091
+    ]
+   },
+   "properties": {
+    "name": "FRA01400259 — ND_4GF_TRUNGY_ORF",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : 1. ; Dégradation sur dite ; 2. ; poignée à corriger ; 3. ; Les équipements Energie sont ouvert identifier l'opérateur propriétaire\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit les Perrées 14250 Juaye Mondaye\n**Nom du site** : ND_4GF_TRUNGY_ORF\n**Coordonnées** : 49.199091, -0.692668\n[[https://www.google.com/maps?q=49.199091,-0.692668|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.199091,-0.692668|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.1744,-0.58261|Déchèterie de Fontenay-le-Pesnel (FONTENAY-LE-PESNEL, 8.5 km)]]\n[[https://www.google.com/maps?q=49.2813,-0.72629|Déchèterie de Vaucelles (VAUCELLES, 9.5 km)]]\n[[https://www.google.com/maps?q=49.1029,-0.76594|Déchèterie de Livry (LIVRY, 11.9 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.199091,-0.692668,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "1. ; Dégradation sur dite ; 2. ; poignée à corriger ; 3. ; Les équipements Energie sont ouvert identifier l'opérateur propriétaire",
+    "etat_wo": "Activé",
+    "nom_site": "ND_4GF_TRUNGY_ORF",
+    "adresse": "Lieu-dit les Perrées 14250 Juaye Mondaye",
+    "calque": "mc",
+    "code_fra": "FRA01400259",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.421873,
      47.086985
     ]
@@ -121,9 +149,9 @@
    },
    "properties": {
     "name": "FRA01800059 — SANCERRE_CROIX_POIGNON",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : * ; La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Réservoir des eaux de Verdigny 18300 VERDIGNY\n**Nom du site** : SANCERRE_CROIX_POIGNON\n**Coordonnées** : 47.352947, 2.801330\n[[https://www.google.com/maps?q=47.352947,2.801330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.352947,2.801330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 6.6 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 10.5 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4223,2.97471|Déchèterie de Cosne (Cosne-Cours-sur-Loire, 15.2 km)]] — 0386260583\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.352947,2.801330,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Réservoir des eaux de Verdigny 18300 VERDIGNY\n**Nom du site** : SANCERRE_CROIX_POIGNON\n**Coordonnées** : 47.352947, 2.801330\n[[https://www.google.com/maps?q=47.352947,2.801330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.352947,2.801330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 6.6 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 10.5 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4223,2.97471|Déchèterie de Cosne (Cosne-Cours-sur-Loire, 15.2 km)]] — 0386260583\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.352947,2.801330,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
-    "travaux": "* ; La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj",
+    "travaux": "La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj",
     "etat_wo": "Activé",
     "nom_site": "SANCERRE_CROIX_POIGNON",
     "adresse": "Réservoir des eaux de Verdigny 18300 VERDIGNY",
@@ -421,6 +449,33 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.493615,
+     48.237936
+    ]
+   },
+   "properties": {
+    "name": "FRA02800142 — GAULT_ST_DENIS_TGV",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : * ; MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE ; * ; DÉBUT DE CORROSION SUR PALIER 1 ; * ; Réaliser l'espace vert\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : GAULT_ST_DENIS_TGV\n**Coordonnées** : 48.237936, 1.493615\n[[https://www.google.com/maps?q=48.237936,1.493615|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.237936,1.493615|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.1991,1.40028|Déchèterie de Bonneval (Bonneval, 8.2 km)]] — 0237474615\n[[https://www.google.com/maps?q=48.2658,1.64596|Déchèterie des Villages-Vovéens (Voves) (Voves*, 11.7 km)]] — 0237992751\n[[https://www.google.com/maps?q=48.3482,1.46571|Déchèterie de Dammarie (Dammarie, 12.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.237936,1.493615,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "* ; MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE ; * ; DÉBUT DE CORROSION SUR PALIER 1 ; * ; Réaliser l'espace vert",
+    "etat_wo": "Activé",
+    "nom_site": "GAULT_ST_DENIS_TGV",
+    "calque": "mc",
+    "code_fra": "FRA02800142",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
     }
    }
   },
