@@ -115,6 +115,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     2.80133,
+     47.352947
+    ]
+   },
+   "properties": {
+    "name": "FRA01800059 — SANCERRE_CROIX_POIGNON",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : * ; La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Réservoir des eaux de Verdigny 18300 VERDIGNY\n**Nom du site** : SANCERRE_CROIX_POIGNON\n**Coordonnées** : 47.352947, 2.801330\n[[https://www.google.com/maps?q=47.352947,2.801330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.352947,2.801330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 6.6 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 10.5 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4223,2.97471|Déchèterie de Cosne (Cosne-Cours-sur-Loire, 15.2 km)]] — 0386260583\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.352947,2.801330,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "* ; La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj",
+    "etat_wo": "Activé",
+    "nom_site": "SANCERRE_CROIX_POIGNON",
+    "adresse": "Réservoir des eaux de Verdigny 18300 VERDIGNY",
+    "calque": "mc",
+    "code_fra": "FRA01800059",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.99366,
      46.825591
     ]
@@ -248,6 +276,34 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.492038,
+     48.983259
+    ]
+   },
+   "properties": {
+    "name": "FRA02700067 — LA_ROUVINIERE_N138",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Débroussaillage du site (accès pour la nacelle)\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Les Veaux - Chemin communal dit du Gouffre 27270 LA CHAPELLE GAUTHIER\n**Nom du site** : LA_ROUVINIERE_N138\n**Coordonnées** : 48.983259, 0.492038\n[[https://www.google.com/maps?q=48.983259,0.492038|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.983259,0.492038|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.0117,0.517376|Déchèterie Broglie (BROGLIE, 3.7 km)]] — 0232446634\n[[https://www.google.com/maps?q=49.0176,0.387297|Déchèterie de Orbec (Orbec, 8.5 km)]] — 0616441602\n[[https://www.google.com/maps?q=48.9536,0.658784|Déchèterie du Mesnil en Ouche (La Barre-en-Ouche*, 12.6 km)]] — 0232469818\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.983259,0.492038,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "Débroussaillage du site (accès pour la nacelle)",
+    "etat_wo": "Activé",
+    "nom_site": "LA_ROUVINIERE_N138",
+    "adresse": "Lieu-dit Les Veaux - Chemin communal dit du Gouffre 27270 LA CHAPELLE GAUTHIER",
+    "calque": "mc",
+    "code_fra": "FRA02700067",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
      "iconClass": "LargeCircle",
      "iconSize": 32
     }
