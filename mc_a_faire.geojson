@@ -797,7 +797,7 @@
    },
    "properties": {
     "name": "FRA04100144 — CHEVERNY_CHATEAU",
-    "description": "**Numéro de Work Order** : WO-237041\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - MANQUE 20 M DE MÉPLAT SUR LE PYLÔNE\n- PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE, PRÉVOIR UN DÉBROUSSAILLAGE.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-08-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213615\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-24\n**Fin de validité** : 2026-08-25\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-08-27\n**Provenance du repère** : ensio\n**Numéro de département** : 41\n**Nom du site** : CHEVERNY_CHATEAU\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 03/04/26 D cockpit O+M:\nCHENE Jean Louis: 06 68 09 71 01\nIl est pas nécessaire de prévenir\nAutonome",
+    "description": "**Numéro de Work Order** : WO-237041\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - MANQUE 20 M DE MÉPLAT SUR LE PYLÔNE\n- PRÉSENCE DE VÉGÉTATION AUTOUR DE LA CLÔTURE, PRÉVOIR UN DÉBROUSSAILLAGE.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-08-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213615\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-24\n**Fin de validité** : 2026-08-25\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-08-27\n**Équipe affectée** : Said\n**Provenance du repère** : ensio\n**Numéro de département** : 41\n**Nom du site** : CHEVERNY_CHATEAU\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 03/04/26 D cockpit O+M:\nCHENE Jean Louis: 06 68 09 71 01\nIl est pas nécessaire de prévenir\nAutonome",
     "origine": "ensio",
     "etat_wo": "Travaux planifiés",
     "nom_site": "CHEVERNY_CHATEAU",
@@ -813,6 +813,7 @@
     "das_fin": "2026-08-25",
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 03/04/26 D cockpit O+M:\nCHENE Jean Louis: 06 68 09 71 01\nIl est pas nécessaire de prévenir\nAutonome",
+    "equipe": "Said",
     "etat_terrain": "fait",
     "declare_par": "Said",
     "declare_le": "2026-08-27",
@@ -823,7 +824,8 @@
     "_umap_options": {
      "color": "#15803D",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "S"
     }
    }
   },
