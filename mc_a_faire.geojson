@@ -12,7 +12,7 @@
    },
    "properties": {
     "name": "FRA01300308 — CHATEAUNEUF_MARTIGUES_BIS",
-    "description": "**Numéro de Work Order** : WO-239993\n**État du WO** : Activé\n**Travaux à réaliser** : Suite à votre intervention, vous avez pris des mesures pour le remplacement de la section d'echelle dont le barreau est tordu\n\nMerci de réintervenir afin de remettre en conformité l'echelle.\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P4\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0203443\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-07-27\n**Fin de validité** : 2026-07-27\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 13\n**Nom du site** : CHATEAUNEUF_MARTIGUES_BIS\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: MK - 01/04/2026\nLe bailleur demande à ce qu'on le contacte UNIQUEMENT lorsqu'il reste 48H à l'intervention, pas avant.\n\n21/05/25 D cockpit O+M:\nMichel: 0643473095\nPrévenance à faire par téléphone au 0643473095/ 48h à l'avance\nAccès: non autonome; le Père Michel lui ouvrira la porte\n\n03/12/2025 – Ma cockpit O+M\n\nPour les prochaines DAS merci de préciser au Père Michel le créneau horaire des passages des techniciens.\nEt de mentionner sur les commentaires que les techniciens doivent au moins le contacter 2j avant leur passage mieux s'organiser avec lui car lui seul pourra nous donner accès\n\nPère Michel: 0643473095",
+    "description": "**Numéro de Work Order** : WO-239993\n**État du WO** : Activé\n**Travaux à réaliser** : Suite à votre intervention, vous avez pris des mesures pour le remplacement de la section d'echelle dont le barreau est tordu\n\nMerci de réintervenir afin de remettre en conformité l'echelle.\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P4\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 13\n**Nom du site** : CHATEAUNEUF_MARTIGUES_BIS",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "CHATEAUNEUF_MARTIGUES_BIS",
@@ -22,17 +22,10 @@
     "scope": "SH - Structure Haute",
     "departement": "13",
     "consignation": "Consigne Particulière",
-    "das_numero": "DAS-N0203443",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-07-27",
-    "das_fin": "2026-07-27",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: MK - 01/04/2026\nLe bailleur demande à ce qu'on le contacte UNIQUEMENT lorsqu'il reste 48H à l'intervention, pas avant.\n\n21/05/25 D cockpit O+M:\nMichel: 0643473095\nPrévenance à faire par téléphone au 0643473095/ 48h à l'avance\nAccès: non autonome; le Père Michel lui ouvrira la porte\n\n03/12/2025 – Ma cockpit O+M\n\nPour les prochaines DAS merci de préciser au Père Michel le créneau horaire des passages des techniciens.\nEt de mentionner sur les commentaires que les techniciens doivent au moins le contacter 2j avant leur passage mieux s'organiser avec lui car lui seul pourra nous donner accès\n\nPère Michel: 0643473095",
-    "das_prevenance": "2 jours",
     "calque": "mc",
     "code_fra": "FRA01300308",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "la fiche déclare l'accès non autonome",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
      "iconClass": "Drop"
@@ -264,17 +257,29 @@
    },
    "properties": {
     "name": "FRA02800078 — JOUY",
-    "description": "**Numéro de Work Order** : WO-236265\n**État du WO** : Travaux planifiés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Nom du site** : JOUY",
+    "description": "**Numéro de Work Order** : WO-236265\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - MANQUE 15M DE MEPLAT PYLONE\n- PRESENCE DE VEGETATION AUTOUR ET SUR LA CLOTURE, PREVOIR DEBROUSSAILLAGE\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-08-28\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213593\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-24\n**Fin de validité** : 2026-08-25\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Numéro de département** : 28\n**Nom du site** : JOUY\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Mécanique\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 11/06/26\nAccès en autonomie.\nPortillon : clé ABLOY\nPylône : clé ABLOY\nPrévenance à titre informatif : isabelle.eveno@ronsard.fr, 48h à l'avance\nContact en cas de besoin : 02 37 18 26 00.",
     "origine": "manuel",
     "declare_par": "Michael",
     "declare_le": "2026-08-26",
     "nom_site": "JOUY",
     "etat_wo": "Travaux planifiés",
     "wo": "WO-236265",
+    "travaux": "- MANQUE 15M DE MEPLAT PYLONE\n- PRESENCE DE VEGETATION AUTOUR ET SUR LA CLOTURE, PREVOIR DEBROUSSAILLAGE",
+    "priorite": "P3",
+    "scope": "EVT - Environnement Technique",
+    "departement": "28",
+    "date_planification": "2026-08-28",
+    "das_numero": "DAS-N0213593",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-08-24",
+    "das_fin": "2026-08-25",
+    "das_provenance": "airtable",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Mécanique\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 11/06/26\nAccès en autonomie.\nPortillon : clé ABLOY\nPylône : clé ABLOY\nPrévenance à titre informatif : isabelle.eveno@ronsard.fr, 48h à l'avance\nContact en cas de besoin : 02 37 18 26 00.",
+    "das_prevenance": "2 jours",
     "calque": "mc",
     "code_fra": "FRA02800078",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
@@ -442,8 +447,8 @@
    },
    "properties": {
     "name": "FRA02900029 — GUIMILIAU",
-    "description": "**Numéro de Work Order** : WO-243880\n**État du WO** : Activé\n**Travaux à réaliser** : débroussaillage du site à prévoir\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0220137\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 29\n**Nom du site** : GUIMILIAU\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-243880\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : débroussaillage du site à prévoir\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-08-28\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0220137\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 29\n**Nom du site** : GUIMILIAU\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "GUIMILIAU",
     "wo": "WO-243880",
@@ -451,6 +456,7 @@
     "priorite": "P4",
     "scope": "EV - Espaces Verts",
     "departement": "29",
+    "date_planification": "2026-08-28",
     "das_numero": "DAS-N0220137",
     "das_statut": "Acceptée",
     "das_debut": "2026-08-26",
@@ -462,7 +468,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -697,17 +703,29 @@
    },
    "properties": {
     "name": "FRA03700122 — ST_BRANCHS",
-    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Nom du site** : ST_BRANCHS",
+    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de bien vouloir procéder au nettoyage de la ZT.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : site Back to Back, modalités à obtenir via Orange\n**Numéro de DAS** : DAS-N0218768\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-09\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Numéro de département** : 37\n**Nom du site** : ST_BRANCHS\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
     "origine": "manuel",
     "declare_par": "Michael",
     "declare_le": "2026-08-26",
     "nom_site": "ST_BRANCHS",
     "etat_wo": "Travaux planifiés",
     "wo": "WO-236469",
+    "travaux": "Merci de bien vouloir procéder au nettoyage de la ZT.",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique",
+    "departement": "37",
+    "date_planification": "2026-09-02",
+    "das_numero": "DAS-N0218768",
+    "das_statut": "En attente",
+    "das_debut": "2026-09-09",
+    "das_fin": "2026-09-09",
+    "das_provenance": "airtable",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
+    "das_prevenance": "15 jours",
     "calque": "mc",
     "code_fra": "FRA03700122",
     "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
+    "acces_motif": "site Back to Back, modalités à obtenir via Orange",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
@@ -824,46 +842,6 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -2.035908,
-     47.080902
-    ]
-   },
-   "properties": {
-    "name": "FRA04400426 — LA_BERNERIE_CENTRE",
-    "description": "**Numéro de Work Order** : WO-238249\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\npouvez-vous prévoir le nettoyage du site svp ?\nvoir aussi si vous localisez des entrées à boucher\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-28\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0215685\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-24\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Provenance du repère** : airtable\n**Numéro de département** : 44\n**Nom du site** : LA_BERNERIE_CENTRE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "LA_BERNERIE_CENTRE",
-    "wo": "WO-238249",
-    "travaux": "Bonjour,\npouvez-vous prévoir le nettoyage du site svp ?\nvoir aussi si vous localisez des entrées à boucher",
-    "priorite": "Travaux Programmés",
-    "scope": "EVT - Environnement Technique",
-    "departement": "44",
-    "consignation": "Consigne Particulière",
-    "date_planification": "2026-08-28",
-    "das_numero": "DAS-N0215685",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-24",
-    "das_fin": "2026-08-28",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
-    "equipe": "Lassana",
-    "calque": "mc",
-    "code_fra": "FRA04400426",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop",
-     "iconUrl": "L"
     }
    }
   },
