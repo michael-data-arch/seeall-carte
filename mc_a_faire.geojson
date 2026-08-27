@@ -948,7 +948,7 @@
    },
    "properties": {
     "name": "FRA04500268 — BEAUGENCY_SUD_NEW",
-    "description": "**Numéro de Work Order** : WO-237045\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Élagage nécessaire des arbres Situé à proximité du Pylône gênant la montée avec l'échelle rail soll et ceux à proximité de la zone technique également\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : accès libre\n**Numéro de DAS** : DAS-N0218848\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-28\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-08-27\n**Provenance du repère** : ensio\n**Adresse du site** : Impasse de la monnaie 45190 BEAUGENCY\n**Numéro de département** : 45\n**Nom du site** : BEAUGENCY_SUD_NEW\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 09/07/2026 M cockpit O+M\nSite en accès libre",
+    "description": "**Numéro de Work Order** : WO-237045\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Élagage nécessaire des arbres Situé à proximité du Pylône gênant la montée avec l'échelle rail soll et ceux à proximité de la zone technique également\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : accès libre\n**Numéro de DAS** : DAS-N0218848\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-28\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-08-27\n**Équipe affectée** : Said\n**Provenance du repère** : ensio\n**Adresse du site** : Impasse de la monnaie 45190 BEAUGENCY\n**Numéro de département** : 45\n**Nom du site** : BEAUGENCY_SUD_NEW\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 09/07/2026 M cockpit O+M\nSite en accès libre",
     "origine": "ensio",
     "travaux": "Élagage nécessaire des arbres Situé à proximité du Pylône gênant la montée avec l'échelle rail soll et ceux à proximité de la zone technique également",
     "etat_wo": "Travaux planifiés",
@@ -965,6 +965,7 @@
     "das_fin": "2026-08-28",
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 09/07/2026 M cockpit O+M\nSite en accès libre",
+    "equipe": "Said",
     "etat_terrain": "fait",
     "declare_par": "Said",
     "declare_le": "2026-08-27",
@@ -975,7 +976,8 @@
     "_umap_options": {
      "color": "#15803D",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "S"
     }
    }
   },
