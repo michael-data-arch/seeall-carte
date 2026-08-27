@@ -160,7 +160,7 @@
    },
    "properties": {
     "name": "FRA01800101 — VILLEGENON",
-    "description": "**Numéro de Work Order** : WO-238217\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE\n- MANQUE PLINTHE SUR PALIER 1\n**Scope de maintenance** : SH - Structure Haute + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0213620\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 7LES BRUYERES DES GRANDES RUESSES 18260 VILLEGENON\n**Numéro de département** : 18\n**Nom du site** : VILLEGENON\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - CLE POLLUX MAIS SERRURE NE FONCTIONNE PAS\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-238217\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE\n- MANQUE PLINTHE SUR PALIER 1\n**Scope de maintenance** : SH - Structure Haute + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0213620\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Équipe affectée** : Said\n**Provenance du repère** : ensio\n**Adresse du site** : 7LES BRUYERES DES GRANDES RUESSES 18260 VILLEGENON\n**Numéro de département** : 18\n**Nom du site** : VILLEGENON\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - CLE POLLUX MAIS SERRURE NE FONCTIONNE PAS\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "origine": "ensio",
     "travaux": "- PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE : PRÉVOIR REMPLACEMENT DE 15 M DE GRILLAGE AUTOUR DU PYLÔNE\n- MANQUE PLINTHE SUR PALIER 1",
     "etat_wo": "Travaux planifiés",
@@ -177,6 +177,7 @@
     "das_fin": "2026-08-27",
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - CLE POLLUX MAIS SERRURE NE FONCTIONNE PAS\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
+    "equipe": "Said",
     "calque": "mc",
     "code_fra": "FRA01800101",
     "acces_autonome": "non_autonome",
@@ -184,7 +185,8 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "S"
     }
    }
   },
