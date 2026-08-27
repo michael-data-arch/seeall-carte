@@ -744,7 +744,7 @@
    },
    "properties": {
     "name": "FRA04100110 — FOSSE",
-    "description": "**Numéro de Work Order** : WO-235886 + WO-236458\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nEspace vert à traiter rapidement svp + - PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE\n- PRESENCE DE MOUSSE SUR LE RAIL\n**Scope de maintenance** : EV - Espaces Verts + EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-26\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218821\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-04\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Numéro de département** : 41\n**Nom du site** : FOSSE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/10/2025 Na cockpit O+M:\n\nMr Laurent JOREZ : +33 6 09 44 34 89\n\nSans prévenance\n\nAccès en Autonomie",
+    "description": "**Numéro de Work Order** : WO-235886 + WO-236458\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nEspace vert à traiter rapidement svp + - PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE\n- PRESENCE DE MOUSSE SUR LE RAIL\n**Scope de maintenance** : EV - Espaces Verts + EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-26\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218821\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-08-27\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Numéro de département** : 41\n**Nom du site** : FOSSE\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/10/2025 Na cockpit O+M:\n\nMr Laurent JOREZ : +33 6 09 44 34 89\n\nSans prévenance\n\nAccès en Autonomie",
     "origine": "ensio",
     "travaux": "Action\n\nEspace vert à traiter rapidement svp + - PRÉSENCE DE DÉGRADATION SUR LA CLÔTURE DU SITE, PRÉVOIR REMPLACEMENT DE 10 M DE GRILLAGE\n- PRESENCE DE MOUSSE SUR LE RAIL",
     "etat_wo": "Travaux planifiés",
@@ -761,12 +761,15 @@
     "das_fin": "2026-09-04",
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/10/2025 Na cockpit O+M:\n\nMr Laurent JOREZ : +33 6 09 44 34 89\n\nSans prévenance\n\nAccès en Autonomie",
+    "etat_terrain": "fait",
+    "declare_par": "Said",
+    "declare_le": "2026-08-27",
     "calque": "mc",
     "code_fra": "FRA04100110",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
