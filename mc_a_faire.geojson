@@ -321,12 +321,13 @@
    },
    "properties": {
     "name": "FRA02700067 — LA_ROUVINIERE_N138",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Débroussaillage du site (accès pour la nacelle)\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Les Veaux - Chemin communal dit du Gouffre 27270 LA CHAPELLE GAUTHIER\n**Nom du site** : LA_ROUVINIERE_N138\n**Coordonnées** : 48.983259, 0.492038\n[[https://www.google.com/maps?q=48.983259,0.492038|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.983259,0.492038|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.0117,0.517376|Déchèterie Broglie (BROGLIE, 3.7 km)]] — 0232446634\n[[https://www.google.com/maps?q=49.0176,0.387297|Déchèterie de Orbec (Orbec, 8.5 km)]] — 0616441602\n[[https://www.google.com/maps?q=48.9536,0.658784|Déchèterie du Mesnil en Ouche (La Barre-en-Ouche*, 12.6 km)]] — 0232469818\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.983259,0.492038,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Débroussaillage du site (accès pour la nacelle)\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Les Veaux - Chemin communal dit du Gouffre 27270 LA CHAPELLE GAUTHIER\n**Nom du site** : LA_ROUVINIERE_N138\n**Coordonnées** : 48.983259, 0.492038\n[[https://www.google.com/maps?q=48.983259,0.492038|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.983259,0.492038|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.0117,0.517376|Déchèterie Broglie (BROGLIE, 3.7 km)]] — 0232446634\n[[https://www.google.com/maps?q=49.0176,0.387297|Déchèterie de Orbec (Orbec, 8.5 km)]] — 0616441602\n[[https://www.google.com/maps?q=48.9536,0.658784|Déchèterie du Mesnil en Ouche (La Barre-en-Ouche*, 12.6 km)]] — 0232469818\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.983259,0.492038,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "travaux": "Débroussaillage du site (accès pour la nacelle)",
     "etat_wo": "Activé",
     "nom_site": "LA_ROUVINIERE_N138",
     "adresse": "Lieu-dit Les Veaux - Chemin communal dit du Gouffre 27270 LA CHAPELLE GAUTHIER",
+    "equipe": "Lassana",
     "calque": "mc",
     "code_fra": "FRA02700067",
     "acces_autonome": "a_confirmer",
@@ -334,7 +335,8 @@
     "_umap_options": {
      "color": "#DC2626",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "L"
     }
    }
   },
