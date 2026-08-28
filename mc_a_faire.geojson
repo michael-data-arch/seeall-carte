@@ -782,44 +782,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.867232,
-     48.013055
-    ]
-   },
-   "properties": {
-    "name": "FRA04500092 — LA_CHAPELLE_ST_SEPULCRE",
-    "description": "**Numéro de Work Order** : WO-234264\n**État du WO** : Activé\n**Travaux à réaliser** : Valeur de la prise de terre supérieure au maximum admissible, l'améliorer pour qu'elle soit inferieure à 166 ohms\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2025-12-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0206239\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-07-29\n**Fin de validité** : 2026-07-29\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Numéro de département** : 45\n**Nom du site** : LA_CHAPELLE_ST_SEPULCRE\n**Coordonnées** : 48.013055, 2.867232\n[[https://www.google.com/maps?q=48.013055,2.867232|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.013055,2.867232|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0038,2.7704|Déchèterie d'Amilly (Amilly, 7.3 km)]] — 0238891604\n[[https://www.google.com/maps?q=48.0736,2.90619|Déchèterie de la Selle sur le Bied (La Selle-sur-le-Bied, 7.3 km)]] — 0675222246\n[[https://www.google.com/maps?q=47.9277,2.92389|Déchèterie de Châteaurenard (Château-Renard, 10.4 km)]] — 0679208983\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.013055,2.867232,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Non - abloy\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 26/06/26\nCadenas à code sur Portail : code 4545\nPorte du shelter : code 4545",
-    "origine": "ensio",
-    "travaux": "Valeur de la prise de terre supérieure au maximum admissible, l'améliorer pour qu'elle soit inferieure à 166 ohms",
-    "etat_wo": "Activé",
-    "nom_site": "LA_CHAPELLE_ST_SEPULCRE",
-    "wo": "WO-234264",
-    "priorite": "Travaux Programmés",
-    "scope": "EVT - Environnement Technique",
-    "departement": "45",
-    "date_planification": "2025-12-05",
-    "das_numero": "DAS-N0206239",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-07-29",
-    "das_fin": "2026-07-29",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Non - abloy\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 26/06/26\nCadenas à code sur Portail : code 4545\nPorte du shelter : code 4545",
-    "calque": "mc",
-    "code_fra": "FRA04500092",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "LargeCircle",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.2429467,
      48.18189
     ]
