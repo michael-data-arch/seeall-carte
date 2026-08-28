@@ -43,18 +43,22 @@
    },
    "properties": {
     "name": "FRA01400259 — ND_4GF_TRUNGY_ORF",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : 1. ; Dégradation sur dite ; 2. ; poignée à corriger ; 3. ; Les équipements Energie sont ouvert identifier l'opérateur propriétaire\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit les Perrées 14250 Juaye Mondaye\n**Nom du site** : ND_4GF_TRUNGY_ORF\n**Coordonnées** : 49.199091, -0.692668\n[[https://www.google.com/maps?q=49.199091,-0.692668|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.199091,-0.692668|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.1744,-0.58261|Déchèterie de Fontenay-le-Pesnel (FONTENAY-LE-PESNEL, 8.5 km)]]\n[[https://www.google.com/maps?q=49.2813,-0.72629|Déchèterie de Vaucelles (VAUCELLES, 9.5 km)]]\n[[https://www.google.com/maps?q=49.1029,-0.76594|Déchèterie de Livry (LIVRY, 11.9 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.199091,-0.692668,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-243907\n**État du WO** : VT planifiée\n**Travaux à réaliser** : Action\n\nDégradation sur dite\npoignée à corriger\nLes équipements Energie sont ouvert identifier l'opérateur propriétaire\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit les Perrées 14250 Juaye Mondaye\n**Numéro de département** : 14\n**Nom du site** : ND_4GF_TRUNGY_ORF\n**Coordonnées** : 49.199091, -0.692668\n[[https://www.google.com/maps?q=49.199091,-0.692668|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.199091,-0.692668|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.1744,-0.58261|Déchèterie de Fontenay-le-Pesnel (FONTENAY-LE-PESNEL, 8.5 km)]]\n[[https://www.google.com/maps?q=49.2813,-0.72629|Déchèterie de Vaucelles (VAUCELLES, 9.5 km)]]\n[[https://www.google.com/maps?q=49.1029,-0.76594|Déchèterie de Livry (LIVRY, 11.9 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.199091,-0.692668,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
-    "travaux": "1. ; Dégradation sur dite ; 2. ; poignée à corriger ; 3. ; Les équipements Energie sont ouvert identifier l'opérateur propriétaire",
-    "etat_wo": "Activé",
+    "travaux": "Action\n\nDégradation sur dite\npoignée à corriger\nLes équipements Energie sont ouvert identifier l'opérateur propriétaire",
+    "etat_wo": "VT planifiée",
     "nom_site": "ND_4GF_TRUNGY_ORF",
     "adresse": "Lieu-dit les Perrées 14250 Juaye Mondaye",
+    "wo": "WO-243907",
+    "priorite": "P4",
+    "scope": "EVT - Environnement Technique",
+    "departement": "14",
     "calque": "mc",
     "code_fra": "FRA01400259",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#7C3AED",
      "iconClass": "LargeCircle",
      "iconSize": 32
     }
@@ -149,18 +153,22 @@
    },
    "properties": {
     "name": "FRA01800059 — SANCERRE_CROIX_POIGNON",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Réservoir des eaux de Verdigny 18300 VERDIGNY\n**Nom du site** : SANCERRE_CROIX_POIGNON\n**Coordonnées** : 47.352947, 2.801330\n[[https://www.google.com/maps?q=47.352947,2.801330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.352947,2.801330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 6.6 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 10.5 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4223,2.97471|Déchèterie de Cosne (Cosne-Cours-sur-Loire, 15.2 km)]] — 0386260583\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.352947,2.801330,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-244325\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-09\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Réservoir des eaux de Verdigny 18300 VERDIGNY\n**Numéro de département** : 18\n**Nom du site** : SANCERRE_CROIX_POIGNON\n**Coordonnées** : 47.352947, 2.801330\n[[https://www.google.com/maps?q=47.352947,2.801330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.352947,2.801330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 6.6 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 10.5 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4223,2.97471|Déchèterie de Cosne (Cosne-Cours-sur-Loire, 15.2 km)]] — 0386260583\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.352947,2.801330,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "travaux": "La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj",
-    "etat_wo": "Activé",
+    "etat_wo": "Devis Envoyé",
     "nom_site": "SANCERRE_CROIX_POIGNON",
     "adresse": "Réservoir des eaux de Verdigny 18300 VERDIGNY",
+    "wo": "WO-244325",
+    "priorite": "Travaux Programmés",
+    "departement": "18",
+    "date_planification": "2026-09-09",
     "calque": "mc",
     "code_fra": "FRA01800059",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "LargeCircle",
      "iconSize": 32
     }
@@ -321,19 +329,24 @@
    },
    "properties": {
     "name": "FRA02700067 — LA_ROUVINIERE_N138",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Débroussaillage du site (accès pour la nacelle)\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Les Veaux - Chemin communal dit du Gouffre 27270 LA CHAPELLE GAUTHIER\n**Nom du site** : LA_ROUVINIERE_N138\n**Coordonnées** : 48.983259, 0.492038\n[[https://www.google.com/maps?q=48.983259,0.492038|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.983259,0.492038|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.0117,0.517376|Déchèterie Broglie (BROGLIE, 3.7 km)]] — 0232446634\n[[https://www.google.com/maps?q=49.0176,0.387297|Déchèterie de Orbec (Orbec, 8.5 km)]] — 0616441602\n[[https://www.google.com/maps?q=48.9536,0.658784|Déchèterie du Mesnil en Ouche (La Barre-en-Ouche*, 12.6 km)]] — 0232469818\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.983259,0.492038,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-236878\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nles 2 cerces, bien qu'en bonne état, commencent à se desserrer à cause de la boulonnerie qui, elle, rouille (photos ci-joint).\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P4\n**Date de planification** : 2026-09-23\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Les Veaux - Chemin communal dit du Gouffre 27270 LA CHAPELLE GAUTHIER\n**Numéro de département** : 27\n**Nom du site** : LA_ROUVINIERE_N138\n**Coordonnées** : 48.983259, 0.492038\n[[https://www.google.com/maps?q=48.983259,0.492038|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.983259,0.492038|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.0117,0.517376|Déchèterie Broglie (BROGLIE, 3.7 km)]] — 0232446634\n[[https://www.google.com/maps?q=49.0176,0.387297|Déchèterie de Orbec (Orbec, 8.5 km)]] — 0616441602\n[[https://www.google.com/maps?q=48.9536,0.658784|Déchèterie du Mesnil en Ouche (La Barre-en-Ouche*, 12.6 km)]] — 0232469818\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.983259,0.492038,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
-    "travaux": "Débroussaillage du site (accès pour la nacelle)",
-    "etat_wo": "Activé",
+    "travaux": "Action\n\nles 2 cerces, bien qu'en bonne état, commencent à se desserrer à cause de la boulonnerie qui, elle, rouille (photos ci-joint).",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "LA_ROUVINIERE_N138",
     "adresse": "Lieu-dit Les Veaux - Chemin communal dit du Gouffre 27270 LA CHAPELLE GAUTHIER",
+    "wo": "WO-236878",
+    "priorite": "P4",
+    "scope": "SH - Structure Haute",
+    "departement": "27",
+    "date_planification": "2026-09-23",
     "equipe": "Lassana",
     "calque": "mc",
     "code_fra": "FRA02700067",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "LargeCircle",
      "iconSize": 32,
      "iconUrl": "L"
@@ -468,59 +481,24 @@
    },
    "properties": {
     "name": "FRA02800142 — GAULT_ST_DENIS_TGV",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : * ; MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE ; * ; DÉBUT DE CORROSION SUR PALIER 1 ; * ; Réaliser l'espace vert\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : GAULT_ST_DENIS_TGV\n**Coordonnées** : 48.237936, 1.493615\n[[https://www.google.com/maps?q=48.237936,1.493615|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.237936,1.493615|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.1991,1.40028|Déchèterie de Bonneval (Bonneval, 8.2 km)]] — 0237474615\n[[https://www.google.com/maps?q=48.2658,1.64596|Déchèterie des Villages-Vovéens (Voves) (Voves*, 11.7 km)]] — 0237992751\n[[https://www.google.com/maps?q=48.3482,1.46571|Déchèterie de Dammarie (Dammarie, 12.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.237936,1.493615,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-239994\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : - MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE\n- DÉBUT DE CORROSION SUR PALIER 1\n_ réaliser l'espace vert WO-243434 en MP\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : P4\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Numéro de département** : 28\n**Nom du site** : GAULT_ST_DENIS_TGV\n**Coordonnées** : 48.237936, 1.493615\n[[https://www.google.com/maps?q=48.237936,1.493615|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.237936,1.493615|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.1991,1.40028|Déchèterie de Bonneval (Bonneval, 8.2 km)]] — 0237474615\n[[https://www.google.com/maps?q=48.2658,1.64596|Déchèterie des Villages-Vovéens (Voves) (Voves*, 11.7 km)]] — 0237992751\n[[https://www.google.com/maps?q=48.3482,1.46571|Déchèterie de Dammarie (Dammarie, 12.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.237936,1.493615,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
-    "travaux": "* ; MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE ; * ; DÉBUT DE CORROSION SUR PALIER 1 ; * ; Réaliser l'espace vert",
-    "etat_wo": "Activé",
+    "travaux": "- MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE\n- DÉBUT DE CORROSION SUR PALIER 1\n_ réaliser l'espace vert WO-243434 en MP",
+    "etat_wo": "Devis Envoyé",
     "nom_site": "GAULT_ST_DENIS_TGV",
+    "wo": "WO-239994",
+    "priorite": "P4",
+    "scope": "EVT - Environnement Technique + SH - Structure Haute",
+    "departement": "28",
+    "date_planification": "2026-09-14",
     "calque": "mc",
     "code_fra": "FRA02800142",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "LargeCircle",
      "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -3.972079,
-     48.484015
-    ]
-   },
-   "properties": {
-    "name": "FRA02900029 — GUIMILIAU",
-    "description": "**Numéro de Work Order** : WO-243880\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : débroussaillage du site à prévoir\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-08-28\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0220137\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Salihou Diallo\n**Date de la déclaration** : 2026-08-28\n**Provenance du repère** : airtable\n**Numéro de département** : 29\n**Nom du site** : GUIMILIAU\n**Coordonnées** : 48.484015, -3.972079\n[[https://www.google.com/maps?q=48.484015,-3.972079|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.484015,-3.972079|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5243,-3.93875|Déchèterie de Saint-thegonnec (Saint-Thégonnec*, 5.1 km)]] — 0298796434\n[[https://www.google.com/maps?q=48.4291,-4.03072|Déchèterie de Sizun (Sizun, 7.5 km)]] — 0298241592\n[[https://www.google.com/maps?q=48.5089,-3.87602|Déchèterie de Pleyber-christ (Pleyber-Christ, 7.6 km)]] — 0298785379\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.484015,-3.972079,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
-    "etat_wo": "Devis Envoyé",
-    "origine": "airtable",
-    "nom_site": "GUIMILIAU",
-    "wo": "WO-243880",
-    "travaux": "débroussaillage du site à prévoir",
-    "priorite": "P4",
-    "scope": "EV - Espaces Verts",
-    "departement": "29",
-    "date_planification": "2026-08-28",
-    "das_numero": "DAS-N0220137",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-26",
-    "das_fin": "2026-08-28",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas: Cadenas à code\n\nCommentaire d'accès:",
-    "etat_terrain": "fait",
-    "declare_par": "Salihou Diallo",
-    "declare_le": "2026-08-28",
-    "calque": "mc",
-    "code_fra": "FRA02900029",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
     }
    }
   },
@@ -772,7 +750,7 @@
    },
    "properties": {
     "name": "FRA04400255 — LA_BAULE_ST_SERVAIS",
-    "description": "**Numéro de Work Order** : WO-237945\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : réaliser le débroussaillage du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0216163\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-08-31\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 44\n**Nom du site** : LA_BAULE_ST_SERVAIS\n**Coordonnées** : 47.303240, -2.370172\n[[https://www.google.com/maps?q=47.303240,-2.370172|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.303240,-2.370172|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2927,-2.38185|Déchèterie de la Baule (La Baule-Escoublac, 1.5 km)]] — 0240608566\n[[https://www.google.com/maps?q=47.2926,-2.39321|Station de Broyage de Guérande (Livery) (Guérande, 2.1 km)]]\n[[https://www.google.com/maps?q=47.3225,-2.40732|Déchèterie de Guerande (Guérande, 3.5 km)]] — 0240156897\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.303240,-2.370172,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/03/26: Cockpit O+M / P\n\nAccès avec prévenance et ouverture bailleur\n\n* Prévenance de 10 jours par mail à elora.huguet@saur.com contacté le 0664109614 en cas de non réponse.\n\ndossier a fournir\n* Le plan de prévention complété (lignes en jaune renseignées par le demandeur), paraphé sur chaque page et signé sur la dernière page (modèle ci-joint) ;\n* Le scan des cartes d’identité de l’ensemble des intervenants, accompagné de leur numéro de téléphone.\nDoit contenir :\n* La durée réelle du chantier (avec horaires compris entre 8h00 et 16h30)\n* La nature exacte du chantier : descriptif précis\n\npour travaux lourd faire une demande en amont à CAP ATLANTIQUE :\ncycle-eau-et-infrastructures@cap-atlantique.fr\n\ncontact en cas de besoin : Mme elora huguet 06.64.10.96.14 - elora.huguet@saur.com",
+    "description": "**Numéro de Work Order** : WO-237945\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : réaliser le débroussaillage du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0216163\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-08-31\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 44\n**Nom du site** : LA_BAULE_ST_SERVAIS\n**Coordonnées** : 47.303240, -2.370172\n[[https://www.google.com/maps?q=47.303240,-2.370172|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.303240,-2.370172|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2927,-2.38185|Déchèterie de la Baule (La Baule-Escoublac, 1.5 km)]] — 0240608566\n[[https://www.google.com/maps?q=47.2926,-2.39321|Station de Broyage de Guérande (Livery) (Guérande, 2.1 km)]]\n[[https://www.google.com/maps?q=47.3225,-2.40732|Déchèterie de Guerande (Guérande, 3.5 km)]] — 0240156897\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.303240,-2.370172,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/03/26: Cockpit O+M / P\n\nAccès avec prévenance et ouverture bailleur\n\n* Prévenance de 10 jours par mail à elora.huguet@saur.com contacté le 0664109614 en cas de non réponse.\n\ndossier a fournir\n* Le plan de prévention complété (lignes en jaune renseignées par le demandeur), paraphé sur chaque page et signé sur la dernière page (modèle ci-joint) ;\n* Le scan des cartes d’identité de l’ensemble des intervenants, accompagné de leur numéro de téléphone.\nDoit contenir :\n* La durée réelle du chantier (avec horaires compris entre 8h00 et 16h30)\n* La nature exacte du chantier : descriptif précis\n\npour travaux lourd faire une demande en amont à CAP ATLANTIQUE :\ncycle-eau-et-infrastructures@cap-atlantique.fr\n\ncontact en cas de besoin : Mme elora huguet 06.64.10.96.14 - elora.huguet@saur.com",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "LA_BAULE_ST_SERVAIS",
@@ -783,7 +761,7 @@
     "departement": "44",
     "date_planification": "2026-08-31",
     "das_numero": "DAS-N0216163",
-    "das_statut": "Suspendue",
+    "das_statut": "Acceptée",
     "das_debut": "2026-08-31",
     "das_fin": "2026-08-31",
     "das_provenance": "airtable",
@@ -1239,8 +1217,8 @@
    },
    "properties": {
     "name": "FRA08300094 — TOULON_GUYNEMER",
-    "description": "**Numéro de Work Order** : WO-243832\n**État du WO** : Activé\n**Travaux à réaliser** : Des travaux bailleur sont prévus en S39 et il faudrait nettoyer les fientes de pigeons sur l’infra TOTEM & Orange avant la semaine 39.\n\nMerci pour la prise en compte\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 83\n**Nom du site** : TOULON_GUYNEMER\n**Coordonnées** : 43.146241, 5.913402\n[[https://www.google.com/maps?q=43.146241,5.913402|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.146241,5.913402|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.1255,5.89061|Déchèterie de Toulon (TOULON, 3.0 km)]] — 0494922082\n[[https://www.google.com/maps?q=43.1109,5.87334|Déchèterie de la Seyne sur Mer (LA SEYNE SUR MER, 5.1 km)]] — 0494069240\n[[https://www.google.com/maps?q=43.1469,5.98177|Déchèterie de la Valette-du-var (La Valette-du-Var, 5.5 km)]] — 0494619090\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.146241,5.913402,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-243832\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Des travaux bailleur sont prévus en S39 et il faudrait nettoyer les fientes de pigeons sur l’infra TOTEM & Orange avant la semaine 39.\n\nMerci pour la prise en compte\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-15\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 83\n**Nom du site** : TOULON_GUYNEMER\n**Coordonnées** : 43.146241, 5.913402\n[[https://www.google.com/maps?q=43.146241,5.913402|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.146241,5.913402|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.1255,5.89061|Déchèterie de Toulon (TOULON, 3.0 km)]] — 0494922082\n[[https://www.google.com/maps?q=43.1109,5.87334|Déchèterie de la Seyne sur Mer (LA SEYNE SUR MER, 5.1 km)]] — 0494069240\n[[https://www.google.com/maps?q=43.1469,5.98177|Déchèterie de la Valette-du-var (La Valette-du-Var, 5.5 km)]] — 0494619090\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.146241,5.913402,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "TOULON_GUYNEMER",
     "wo": "WO-243832",
@@ -1249,12 +1227,13 @@
     "scope": "EVT - Environnement Technique",
     "departement": "83",
     "consignation": "Consigne Particulière",
+    "date_planification": "2026-09-15",
     "calque": "mc",
     "code_fra": "FRA08300094",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
