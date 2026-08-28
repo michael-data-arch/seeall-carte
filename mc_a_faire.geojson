@@ -1060,7 +1060,7 @@
    },
    "properties": {
     "name": "FRA07600123 — LE_MESNIL_ESNARD_ATELIERS",
-    "description": "**Numéro de Work Order** : WO-243827\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Site a besoin d'être débroussaillé\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-09\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Ateliers MUNICIPAUX - Rue CHARLES CHERER 76240 LE MESNIL ESNARD\n**Numéro de département** : 76\n**Nom du site** : LE_MESNIL_ESNARD_ATELIERS\n**Coordonnées** : 49.414728, 1.145850\n[[https://www.google.com/maps?q=49.414728,1.145850|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.414728,1.145850|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 3.8 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 11.2 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.3221,1.25144|Déchèterie Romilly-sur-andelle (Romilly-sur-Andelle, 12.8 km)]] — 0662257300\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.414728,1.145850,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-243827\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Site a besoin d'être débroussaillé\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-09\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Adresse du site** : Ateliers MUNICIPAUX - Rue CHARLES CHERER 76240 LE MESNIL ESNARD\n**Numéro de département** : 76\n**Nom du site** : LE_MESNIL_ESNARD_ATELIERS\n**Coordonnées** : 49.414728, 1.145850\n[[https://www.google.com/maps?q=49.414728,1.145850|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.414728,1.145850|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 3.8 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 11.2 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.3221,1.25144|Déchèterie Romilly-sur-andelle (Romilly-sur-Andelle, 12.8 km)]] — 0662257300\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.414728,1.145850,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "travaux": "Site a besoin d'être débroussaillé",
     "etat_wo": "Devis Envoyé",
@@ -1071,6 +1071,7 @@
     "scope": "EV - Espaces Verts",
     "departement": "76",
     "date_planification": "2026-09-09",
+    "equipe": "Lassana",
     "calque": "mc",
     "code_fra": "FRA07600123",
     "acces_autonome": "a_confirmer",
@@ -1078,7 +1079,8 @@
     "_umap_options": {
      "color": "#2563EB",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "L"
     }
    }
   },
