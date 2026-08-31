@@ -114,7 +114,7 @@
    },
    "properties": {
     "name": "FRA01800057 — CHAROST",
-    "description": "**Numéro de Work Order** : WO-236780\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-04\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0218855\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Le buisson monsieur 18290 CHAROST\n**Numéro de département** : 18\n**Nom du site** : CHAROST\n**Coordonnées** : 46.996590, 2.134586\n[[https://www.google.com/maps?q=46.996590,2.134586|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.996590,2.134586|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0042,2.25801|Déchèterie de Saint Florent sur Cher (Saint-Florent-sur-Cher, 9.4 km)]] — 0248551601\n[[https://www.google.com/maps?q=46.9672,2.00423|Déchèterie d'Issoudun (Issoudun, 10.4 km)]] — 0254217992\n[[https://www.google.com/maps?q=47.1292,2.07192|Déchèterie de Lury sur Arnon (Lury-sur-Arnon, 15.5 km)]] — 0248517382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.996590,2.134586,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non - B23117 DON9118 P\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 19/11/25 D cockpit O+M:\nDIG 2; en autonomie (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-236780\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-04\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0218855\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-08-31\n**Provenance du repère** : ensio\n**Adresse du site** : Le buisson monsieur 18290 CHAROST\n**Numéro de département** : 18\n**Nom du site** : CHAROST\n**Coordonnées** : 46.996590, 2.134586\n[[https://www.google.com/maps?q=46.996590,2.134586|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.996590,2.134586|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0042,2.25801|Déchèterie de Saint Florent sur Cher (Saint-Florent-sur-Cher, 9.4 km)]] — 0248551601\n[[https://www.google.com/maps?q=46.9672,2.00423|Déchèterie d'Issoudun (Issoudun, 10.4 km)]] — 0254217992\n[[https://www.google.com/maps?q=47.1292,2.07192|Déchèterie de Lury sur Arnon (Lury-sur-Arnon, 15.5 km)]] — 0248517382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.996590,2.134586,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non - B23117 DON9118 P\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 19/11/25 D cockpit O+M:\nDIG 2; en autonomie (Full TOTEM)",
     "origine": "ensio",
     "travaux": "- DÉGRADATION CLÔTURE, PREVOIR REMPLACEMENT DU GREAGE SUR 10M",
     "etat_wo": "Travaux planifiés",
@@ -131,12 +131,15 @@
     "das_fin": "2026-08-28",
     "das_provenance": "airtable",
     "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non - B23117 DON9118 P\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 19/11/25 D cockpit O+M:\nDIG 2; en autonomie (Full TOTEM)",
+    "etat_terrain": "fait",
+    "declare_par": "Said",
+    "declare_le": "2026-08-31",
     "calque": "mc",
     "code_fra": "FRA01800057",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "LargeCircle",
      "iconSize": 32
     }
