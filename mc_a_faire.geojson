@@ -548,6 +548,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     4.680278,
+     43.929444
+    ]
+   },
+   "properties": {
+    "name": "FRA03000196 — SAZE_CASTILLONES_LGV",
+    "description": "**Numéro de Work Order** : WO-245699\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour,\n\nLe site est fortement envahi par les mauvaises herbes, ce qui bloque l'accès du grand portail pour les véhicules. Certains \"arbres\" poussent également devant les panneaux solaires et réduisent la production.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 30\n**Nom du site** : SAZE_CASTILLONES_LGV\n**Coordonnées** : 43.929444, 4.680278\n[[https://www.google.com/maps?q=43.929444,4.680278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.929444,4.680278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.9217,4.66326|Déchèterie d'Aramon (Aramon, 1.6 km)]]\n[[https://www.google.com/maps?q=43.8787,4.68711|Déchèterie de Boulbon (Boulbon, 5.7 km)]]\n[[https://www.google.com/maps?q=43.9563,4.7506|Déchèterie des Angles (Les Angles, 6.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.929444,4.680278,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "SAZE_CASTILLONES_LGV",
+    "wo": "WO-245699",
+    "travaux": "Bonjour,\n\nLe site est fortement envahi par les mauvaises herbes, ce qui bloque l'accès du grand portail pour les véhicules. Certains \"arbres\" poussent également devant les panneaux solaires et réduisent la production.\n\nCordialement",
+    "priorite": "P4",
+    "scope": "EV - Espaces Verts",
+    "departement": "30",
+    "calque": "mc",
+    "code_fra": "FRA03000196",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      1.682422,
      46.808238
     ]
@@ -626,7 +656,7 @@
    },
    "properties": {
     "name": "FRA03700122 — ST_BRANCHS",
-    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de bien vouloir procéder au nettoyage de la ZT.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : site Back to Back, modalités à obtenir via Orange\n**Numéro de DAS** : DAS-N0218768\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-09\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Numéro de département** : 37\n**Nom du site** : ST_BRANCHS\n**Coordonnées** : 47.231149, 0.757528\n[[https://www.google.com/maps?q=47.231149,0.757528|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231149,0.757528|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 0.5 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 6.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 6.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231149,0.757528,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
+    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de bien vouloir procéder au nettoyage de la ZT.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : site Back to Back, modalités à obtenir via Orange\n**Numéro de DAS** : DAS-N0218768\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-09\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Numéro de département** : 37\n**Nom du site** : ST_BRANCHS\n**Coordonnées** : 47.231149, 0.757528\n[[https://www.google.com/maps?q=47.231149,0.757528|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231149,0.757528|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 0.5 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 6.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 6.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231149,0.757528,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
     "origine": "manuel",
     "declare_par": "Michael",
     "declare_le": "2026-08-26",
@@ -639,7 +669,7 @@
     "departement": "37",
     "date_planification": "2026-09-02",
     "das_numero": "DAS-N0218768",
-    "das_statut": "En attente",
+    "das_statut": "Vérification",
     "das_debut": "2026-09-09",
     "das_fin": "2026-09-09",
     "das_provenance": "airtable",
@@ -791,7 +821,7 @@
    },
    "properties": {
     "name": "FRA04500123 — PITHIVIERS_NORD",
-    "description": "**Numéro de Work Order** : WO-243767\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Nettoyage végétal requis : débroussaillage important du site, des abords et du chemin d'accès.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-10\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0209748\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-12\n**Fin de validité** : 2026-08-12\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 45\n**Nom du site** : PITHIVIERS_NORD\n**Coordonnées** : 48.181890, 2.242947\n[[https://www.google.com/maps?q=48.181890,2.242947|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.181890,2.242947|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.187,2.23992|Déchèterie de Pithiviers (Pithiviers, 0.6 km)]] — 0238306600\n[[https://www.google.com/maps?q=48.2954,2.20108|Déchèterie de Sermaises (SERMAISES, 13.0 km)]] — 0238390700\n[[https://www.google.com/maps?q=48.187,2.05573|Déchèterie de Bazoches les Gallerandes (BAZOCHES-LES-GALLERANDES, 13.9 km)]] — 0238393627\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.181890,2.242947,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-243767\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Nettoyage végétal requis : débroussaillage important du site, des abords et du chemin d'accès.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-10\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0209748\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-12\n**Fin de validité** : 2026-08-12\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 45\n**Nom du site** : PITHIVIERS_NORD\n**Coordonnées** : 48.181890, 2.242947\n[[https://www.google.com/maps?q=48.181890,2.242947|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.181890,2.242947|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.187,2.23992|Déchèterie de Pithiviers (Pithiviers, 0.6 km)]] — 0238306600\n[[https://www.google.com/maps?q=48.2954,2.20108|Déchèterie de Sermaises (SERMAISES, 13.0 km)]] — 0238390700\n[[https://www.google.com/maps?q=48.187,2.05573|Déchèterie de Bazoches les Gallerandes (BAZOCHES-LES-GALLERANDES, 13.9 km)]] — 0238393627\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.181890,2.242947,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "PITHIVIERS_NORD",
@@ -800,6 +830,7 @@
     "priorite": "Travaux Programmés",
     "scope": "EV - Espaces Verts",
     "departement": "45",
+    "consignation": "Consignation",
     "date_planification": "2026-09-10",
     "das_numero": "DAS-N0209748",
     "das_statut": "Acceptée",
