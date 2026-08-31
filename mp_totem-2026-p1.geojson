@@ -2874,7 +2874,7 @@
    },
    "properties": {
     "name": "FRA07600426 — ND_RS_AVESNES_EN_VAL_ORF",
-    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0211379\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-17\n**Fin de validité** : 2026-08-17\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Hameau Regnetuit\n**Numéro de département** : 76\n**Nom du site** : ND_RS_AVESNES_EN_VAL_ORF\n**Coordonnées** : 49.920612, 1.384634\n[[https://www.google.com/maps?q=49.920612,1.384634|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.920612,1.384634|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.8988,1.25214|Déchèterie Envermeu (Envermeu, 9.8 km)]] — 0235832920\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 10.5 km)]]\n[[https://www.google.com/maps?q=49.9656,1.22679|Déchèterie Saint Martin en Campagne (Saint-Martin-en-Campagne*, 12.4 km)]] — 0235831757\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.920612,1.384634,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: COCKPIT O+M 12/02/2026 : Jo\nPrévenance obligatoire à faire :\n- M. et Mme THERON\n- Téléphone : 06 72 50 22 00\n- Adresse mail : theronfrancis@neuf.fr\n- Il est obligatoire de prévenir une semaine à l’avance par mail et appel téléphonique simultanément.\n- Les techniciens sont autonomes sur site.\n- Accès Portillon ZT : cadenas iloQ S/N 19182617",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0211379\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-17\n**Fin de validité** : 2026-08-17\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-31\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Hameau Regnetuit\n**Numéro de département** : 76\n**Nom du site** : ND_RS_AVESNES_EN_VAL_ORF\n**Coordonnées** : 49.920612, 1.384634\n[[https://www.google.com/maps?q=49.920612,1.384634|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.920612,1.384634|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.8988,1.25214|Déchèterie Envermeu (Envermeu, 9.8 km)]] — 0235832920\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 10.5 km)]]\n[[https://www.google.com/maps?q=49.9656,1.22679|Déchèterie Saint Martin en Campagne (Saint-Martin-en-Campagne*, 12.4 km)]] — 0235831757\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.920612,1.384634,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: COCKPIT O+M 12/02/2026 : Jo\nPrévenance obligatoire à faire :\n- M. et Mme THERON\n- Téléphone : 06 72 50 22 00\n- Adresse mail : theronfrancis@neuf.fr\n- Il est obligatoire de prévenir une semaine à l’avance par mail et appel téléphonique simultanément.\n- Les techniciens sont autonomes sur site.\n- Accès Portillon ZT : cadenas iloQ S/N 19182617",
     "origine": "import",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -2890,12 +2890,15 @@
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: COCKPIT O+M 12/02/2026 : Jo\nPrévenance obligatoire à faire :\n- M. et Mme THERON\n- Téléphone : 06 72 50 22 00\n- Adresse mail : theronfrancis@neuf.fr\n- Il est obligatoire de prévenir une semaine à l’avance par mail et appel téléphonique simultanément.\n- Les techniciens sont autonomes sur site.\n- Accès Portillon ZT : cadenas iloQ S/N 19182617",
     "das_prevenance": "7 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Michael",
+    "declare_le": "2026-08-31",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600426",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#67718A",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
