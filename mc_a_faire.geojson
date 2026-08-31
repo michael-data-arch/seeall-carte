@@ -554,8 +554,8 @@
    },
    "properties": {
     "name": "FRA03000196 — SAZE_CASTILLONES_LGV",
-    "description": "**Numéro de Work Order** : WO-245699\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour,\n\nLe site est fortement envahi par les mauvaises herbes, ce qui bloque l'accès du grand portail pour les véhicules. Certains \"arbres\" poussent également devant les panneaux solaires et réduisent la production.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 30\n**Nom du site** : SAZE_CASTILLONES_LGV\n**Coordonnées** : 43.929444, 4.680278\n[[https://www.google.com/maps?q=43.929444,4.680278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.929444,4.680278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.9217,4.66326|Déchèterie d'Aramon (Aramon, 1.6 km)]]\n[[https://www.google.com/maps?q=43.8787,4.68711|Déchèterie de Boulbon (Boulbon, 5.7 km)]]\n[[https://www.google.com/maps?q=43.9563,4.7506|Déchèterie des Angles (Les Angles, 6.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.929444,4.680278,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-245699\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Bonjour,\n\nLe site est fortement envahi par les mauvaises herbes, ce qui bloque l'accès du grand portail pour les véhicules. Certains \"arbres\" poussent également devant les panneaux solaires et réduisent la production.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 30\n**Nom du site** : SAZE_CASTILLONES_LGV\n**Coordonnées** : 43.929444, 4.680278\n[[https://www.google.com/maps?q=43.929444,4.680278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.929444,4.680278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.9217,4.66326|Déchèterie d'Aramon (Aramon, 1.6 km)]]\n[[https://www.google.com/maps?q=43.8787,4.68711|Déchèterie de Boulbon (Boulbon, 5.7 km)]]\n[[https://www.google.com/maps?q=43.9563,4.7506|Déchèterie des Angles (Les Angles, 6.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.929444,4.680278,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "SAZE_CASTILLONES_LGV",
     "wo": "WO-245699",
@@ -563,12 +563,13 @@
     "priorite": "P4",
     "scope": "EV - Espaces Verts",
     "departement": "30",
+    "date_planification": "2026-09-17",
     "calque": "mc",
     "code_fra": "FRA03000196",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -903,20 +904,21 @@
    },
    "properties": {
     "name": "FRA04700047 — CASTELMORON_SUR_LOT",
-    "description": "**Numéro de Work Order** : WO-243828\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour,\n\nMerci de procéder au nettoyage du site et vérifier par ou peuvent rentrer les oiseaux et condamner ces accès.\n\nCordialement\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 47\n**Nom du site** : CASTELMORON_SUR_LOT\n**Coordonnées** : 44.397268, 0.494447\n[[https://www.google.com/maps?q=44.397268,0.494447|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.397268,0.494447|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.3915,0.582674|Déchèterie de Sainte-Livrade-sur-Lot (Sainte-Livrade-sur-Lot, 7.0 km)]] — 0553015665\n[[https://www.google.com/maps?q=44.4038,0.583763|Déchèterie de Sainte Livrade sur Lot (Sainte-Livrade-sur-Lot, 7.1 km)]] — 0553010204\n[[https://www.google.com/maps?q=44.3549,0.368378|Déchèterie de Clairac (Clairac, 11.1 km)]] — 0553649851\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.397268,0.494447,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-243828\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Bonjour,\n\nMerci de procéder au nettoyage du site et vérifier par ou peuvent rentrer les oiseaux et condamner ces accès.\n\nCordialement\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 47\n**Nom du site** : CASTELMORON_SUR_LOT\n**Coordonnées** : 44.397268, 0.494447\n[[https://www.google.com/maps?q=44.397268,0.494447|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.397268,0.494447|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.3915,0.582674|Déchèterie de Sainte-Livrade-sur-Lot (Sainte-Livrade-sur-Lot, 7.0 km)]] — 0553015665\n[[https://www.google.com/maps?q=44.4038,0.583763|Déchèterie de Sainte Livrade sur Lot (Sainte-Livrade-sur-Lot, 7.1 km)]] — 0553010204\n[[https://www.google.com/maps?q=44.3549,0.368378|Déchèterie de Clairac (Clairac, 11.1 km)]] — 0553649851\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.397268,0.494447,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "CASTELMORON_SUR_LOT",
     "wo": "WO-243828",
     "travaux": "Bonjour,\n\nMerci de procéder au nettoyage du site et vérifier par ou peuvent rentrer les oiseaux et condamner ces accès.\n\nCordialement",
     "priorite": "Travaux Programmés",
     "departement": "47",
+    "date_planification": "2026-09-17",
     "calque": "mc",
     "code_fra": "FRA04700047",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -1213,8 +1215,8 @@
    },
    "properties": {
     "name": "FRA08300094 — TOULON_GUYNEMER",
-    "description": "**Numéro de Work Order** : WO-243832\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Des travaux bailleur sont prévus en S39 et il faudrait nettoyer les fientes de pigeons sur l’infra TOTEM & Orange avant la semaine 39.\n\nMerci pour la prise en compte\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-15\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 83\n**Nom du site** : TOULON_GUYNEMER\n**Coordonnées** : 43.146241, 5.913402\n[[https://www.google.com/maps?q=43.146241,5.913402|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.146241,5.913402|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.1255,5.89061|Déchèterie de Toulon (TOULON, 3.0 km)]] — 0494922082\n[[https://www.google.com/maps?q=43.1109,5.87334|Déchèterie de la Seyne sur Mer (LA SEYNE SUR MER, 5.1 km)]] — 0494069240\n[[https://www.google.com/maps?q=43.1469,5.98177|Déchèterie de la Valette-du-var (La Valette-du-Var, 5.5 km)]] — 0494619090\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.146241,5.913402,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-243832\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Des travaux bailleur sont prévus en S39 et il faudrait nettoyer les fientes de pigeons sur l’infra TOTEM & Orange avant la semaine 39.\n\nMerci pour la prise en compte\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-15\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 83\n**Nom du site** : TOULON_GUYNEMER\n**Coordonnées** : 43.146241, 5.913402\n[[https://www.google.com/maps?q=43.146241,5.913402|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.146241,5.913402|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.1255,5.89061|Déchèterie de Toulon (TOULON, 3.0 km)]] — 0494922082\n[[https://www.google.com/maps?q=43.1109,5.87334|Déchèterie de la Seyne sur Mer (LA SEYNE SUR MER, 5.1 km)]] — 0494069240\n[[https://www.google.com/maps?q=43.1469,5.98177|Déchèterie de la Valette-du-var (La Valette-du-Var, 5.5 km)]] — 0494619090\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.146241,5.913402,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "TOULON_GUYNEMER",
     "wo": "WO-243832",
@@ -1229,7 +1231,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -1261,6 +1263,37 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.629416,
+     47.94911
+    ]
+   },
+   "properties": {
+    "name": "FRA08900066 — MONT_ST_SULPICE",
+    "description": "**Numéro de Work Order** : WO-245705\n**État du WO** : Activé\n**Travaux à réaliser** : insalubrité, risque bactériologique. Pourriez vous réaliser le nettoyage svp et boucher les entrées potentielles de pigeons avec des filets ? Certains filets devraient déjà être présents mais ne semblent pas être suffisant car le site est de nouveau infecté 5 mois après le précédent nettoyage.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 89\n**Nom du site** : MONT_ST_SULPICE\n**Coordonnées** : 47.949110, 3.629416\n[[https://www.google.com/maps?q=47.949110,3.629416|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.949110,3.629416|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9864,3.62517|Déchèterie de Brienon sur Armançon (Brienon-sur-Armançon, 4.2 km)]]\n[[https://www.google.com/maps?q=47.915,3.60002|Decheterie de Seignelay (Seignelay, 4.4 km)]] — 0386434643\n[[https://www.google.com/maps?q=47.9986,3.75257|Déchèterie de Saint Florentin (Saint-Florentin, 10.7 km)]] — 0681506722\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.949110,3.629416,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "MONT_ST_SULPICE",
+    "wo": "WO-245705",
+    "travaux": "insalubrité, risque bactériologique. Pourriez vous réaliser le nettoyage svp et boucher les entrées potentielles de pigeons avec des filets ? Certains filets devraient déjà être présents mais ne semblent pas être suffisant car le site est de nouveau infecté 5 mois après le précédent nettoyage.",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique",
+    "departement": "89",
+    "consignation": "Consigne Particulière",
+    "calque": "mc",
+    "code_fra": "FRA08900066",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
      "iconClass": "Drop"
     }
    }
