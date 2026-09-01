@@ -289,7 +289,7 @@
    },
    "properties": {
     "name": "FRA02800093 — PRUNAY",
-    "description": "**Numéro de Work Order** : WO-242818\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site nécessaire\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-04\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0210029\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-07\n**Fin de validité** : 2026-08-07\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Numéro de département** : 28\n**Nom du site** : PRUNAY\n**Coordonnées** : 48.356347, 1.656605\n[[https://www.google.com/maps?q=48.356347,1.656605|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.356347,1.656605|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.3399,1.77306|Déchèterie d'Ouarville (Ouarville, 8.8 km)]] — 0237221548\n[[https://www.google.com/maps?q=48.2658,1.64596|Déchèterie des Villages-Vovéens (Voves) (Voves*, 10.1 km)]] — 0237992751\n[[https://www.google.com/maps?q=48.4399,1.77404|Déchèterie de Roinville (Roinville, 12.7 km)]] — 0237317887\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.356347,1.656605,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/06/26 D cockpit O+M:\nSite en accès libre",
+    "description": "**Numéro de Work Order** : WO-242818\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site nécessaire\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-04\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0210029\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-07\n**Fin de validité** : 2026-08-07\n**Origine de la DAS** : airtable\n**Équipe affectée** : lassana\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : ensio\n**Numéro de département** : 28\n**Nom du site** : PRUNAY\n**Coordonnées** : 48.356347, 1.656605\n[[https://www.google.com/maps?q=48.356347,1.656605|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.356347,1.656605|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.3399,1.77306|Déchèterie d'Ouarville (Ouarville, 8.8 km)]] — 0237221548\n[[https://www.google.com/maps?q=48.2658,1.64596|Déchèterie des Villages-Vovéens (Voves) (Voves*, 10.1 km)]] — 0237992751\n[[https://www.google.com/maps?q=48.4399,1.77404|Déchèterie de Roinville (Roinville, 12.7 km)]] — 0237317887\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.356347,1.656605,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/06/26 D cockpit O+M:\nSite en accès libre",
     "origine": "ensio",
     "travaux": "Débroussaillage du site nécessaire",
     "etat_wo": "Travaux planifiés",
@@ -305,6 +305,8 @@
     "das_fin": "2026-08-07",
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/06/26 D cockpit O+M:\nSite en accès libre",
+    "equipe": "lassana",
+    "semaine": 36,
     "calque": "mc",
     "code_fra": "FRA02800093",
     "acces_autonome": "autonome",
@@ -312,7 +314,8 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "L"
     }
    }
   },
