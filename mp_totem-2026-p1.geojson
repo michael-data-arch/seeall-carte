@@ -630,6 +630,42 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     2.905214,
+     47.999289
+    ]
+   },
+   "properties": {
+    "name": "FRA04500246 — ND_4GF_LA_SELLE_EN_HERMOY_ORF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0214604\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-24\n**Fin de validité** : 2026-08-24\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : Le Bois des Charmes\n**Numéro de département** : 45\n**Nom du site** : ND_4GF_LA_SELLE_EN_HERMOY_ORF\n**Coordonnées** : 47.999289, 2.905214\n[[https://www.google.com/maps?q=47.999289,2.905214|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.999289,2.905214|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9277,2.92389|Déchèterie de Châteaurenard (Château-Renard, 8.1 km)]] — 0679208983\n[[https://www.google.com/maps?q=48.0736,2.90619|Déchèterie de la Selle sur le Bied (La Selle-sur-le-Bied, 8.3 km)]] — 0675222246\n[[https://www.google.com/maps?q=48.0038,2.7704|Déchèterie d'Amilly (Amilly, 10.0 km)]] — 0238891604\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.999289,2.905214,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 24/02/2026 M cockpit O+M :\nAprès confirmation auprès du bailleur Mr Daniel ROUSSELET (0238952035), le site est en accès libre sans prévenance.",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ND_4GF_LA_SELLE_EN_HERMOY_ORF",
+    "adresse": "Le Bois des Charmes",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "das_numero": "DAS-N0214604",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-08-24",
+    "das_fin": "2026-08-24",
+    "das_provenance": "airtable",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 24/02/2026 M cockpit O+M :\nAprès confirmation auprès du bailleur Mr Daniel ROUSSELET (0238952035), le site est en accès libre sans prévenance.",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500246",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.2383689,
      48.0844396
     ]
@@ -2914,7 +2950,7 @@
    },
    "properties": {
     "name": "FRA07600430 — BOLBEC_LE_MONT_NEW",
-    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Numéro de DAS** : DAS-N0215645\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-09-01\n**Fin de validité** : 2026-09-03\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 38 A Rue du Réservoir\n**Numéro de département** : 76\n**Nom du site** : BOLBEC_LE_MONT_NEW\n**Coordonnées** : 49.579407, 0.486049\n[[https://www.google.com/maps?q=49.579407,0.486049|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.579407,0.486049|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5879,0.484063|Decheterie Bolbec (BOLBEC, 1.0 km)]] — 0232840497\n[[https://www.google.com/maps?q=49.5102,0.535645|Déchèterie de Lillebonne (Lillebonne, 8.5 km)]] — 0235310794\n[[https://www.google.com/maps?q=49.5335,0.36589|Déchèterie de Saint Romain de Colbosc (Saint-Romain-de-Colbosc, 10.1 km)]] — 0235309513\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.579407,0.486049,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 5.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 25/02/2026 Na cockpit O+M :\nService technique: 0232845151\n\nPour toute intervention, merci d'envoyer un mail à services.techniques@bolbec.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès : toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Numéro de DAS** : DAS-N0215645\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-01\n**Fin de validité** : 2026-09-03\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Adresse du site** : 38 A Rue du Réservoir\n**Numéro de département** : 76\n**Nom du site** : BOLBEC_LE_MONT_NEW\n**Coordonnées** : 49.579407, 0.486049\n[[https://www.google.com/maps?q=49.579407,0.486049|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.579407,0.486049|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5879,0.484063|Decheterie Bolbec (BOLBEC, 1.0 km)]] — 0232840497\n[[https://www.google.com/maps?q=49.5102,0.535645|Déchèterie de Lillebonne (Lillebonne, 8.5 km)]] — 0235310794\n[[https://www.google.com/maps?q=49.5335,0.36589|Déchèterie de Saint Romain de Colbosc (Saint-Romain-de-Colbosc, 10.1 km)]] — 0235309513\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.579407,0.486049,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 5.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 25/02/2026 Na cockpit O+M :\nService technique: 0232845151\n\nPour toute intervention, merci d'envoyer un mail à services.techniques@bolbec.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès : toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
     "origine": "import",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -2924,7 +2960,7 @@
     "departement": "76",
     "scope": "EVT + SH",
     "das_numero": "DAS-N0215645",
-    "das_statut": "Suspendue",
+    "das_statut": "Acceptée",
     "das_debut": "2026-09-01",
     "das_fin": "2026-09-03",
     "das_provenance": "airtable",
