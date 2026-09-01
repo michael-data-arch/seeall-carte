@@ -218,7 +218,7 @@
    },
    "properties": {
     "name": "FRA02700055 — COUDRES",
-    "description": "**Numéro de Work Order** : WO-238188\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Actions\n\nNid de guêpe dans la serrure\nContrôle de la serrure abloy\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Chem. du Favril, 27220 Saint-André-de-l'Eure\n**Numéro de département** : 27\n**Nom du site** : COUDRES\n**Coordonnées** : 48.883981, 1.255692\n[[https://www.google.com/maps?q=48.883981,1.255692|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.883981,1.255692|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.8976,1.27611|Déchèterie Saint André de l' Eure (Saint-André-de-l'Eure, 2.1 km)]] — 0232378858\n[[https://www.google.com/maps?q=48.9853,1.18411|Déchèterie de Saint Laurent (guichainville) (Guichainville, 12.4 km)]]\n[[https://www.google.com/maps?q=48.8956,1.42592|Déchèterie Ivry-la-bataille (Ivry-la-Bataille, 12.5 km)]] — 0232361172\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.883981,1.255692,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-238188\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Actions\n\nNid de guêpe dans la serrure\nContrôle de la serrure abloy\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : said\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : ensio\n**Adresse du site** : Chem. du Favril, 27220 Saint-André-de-l'Eure\n**Numéro de département** : 27\n**Nom du site** : COUDRES\n**Coordonnées** : 48.883981, 1.255692\n[[https://www.google.com/maps?q=48.883981,1.255692|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.883981,1.255692|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.8976,1.27611|Déchèterie Saint André de l' Eure (Saint-André-de-l'Eure, 2.1 km)]] — 0232378858\n[[https://www.google.com/maps?q=48.9853,1.18411|Déchèterie de Saint Laurent (guichainville) (Guichainville, 12.4 km)]]\n[[https://www.google.com/maps?q=48.8956,1.42592|Déchèterie Ivry-la-bataille (Ivry-la-Bataille, 12.5 km)]] — 0232361172\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.883981,1.255692,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "travaux": "Actions\n\nNid de guêpe dans la serrure\nContrôle de la serrure abloy",
     "etat_wo": "Travaux planifiés",
@@ -229,6 +229,8 @@
     "scope": "EVT - Environnement Technique",
     "departement": "27",
     "date_planification": "2026-09-14",
+    "equipe": "said",
+    "semaine": 36,
     "calque": "mc",
     "code_fra": "FRA02700055",
     "acces_autonome": "a_confirmer",
@@ -236,7 +238,8 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "S"
     }
    }
   },
