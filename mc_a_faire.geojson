@@ -279,7 +279,7 @@
    },
    "properties": {
     "name": "FRA02700039 — LE_TILLEUL_OTHON_N13",
-    "description": "**Numéro de Work Order** : WO-239959\n**État du WO** : Activé\n**Travaux à réaliser** : merci de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 27\n**Nom du site** : LE_TILLEUL_OTHON_N13\n**Coordonnées** : 49.129687, 0.809847\n[[https://www.google.com/maps?q=49.129687,0.809847|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.129687,0.809847|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.1038,0.809589|Déchèterie de Beaumontel (Beaumontel, 2.9 km)]] — 0633196469\n[[https://www.google.com/maps?q=49.0914,0.769622|Déchèterie pro de Beaumontel - SDOMODE (Beaumontel, 5.2 km)]]\n[[https://www.google.com/maps?q=49.1481,0.939733|Déchèterie de Crosville-la-vieille (Crosville-la-Vieille, 9.7 km)]] — 0232677657\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.129687,0.809847,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-239959\n**État du WO** : Activé\n**Travaux à réaliser** : merci de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : airtable\n**Numéro de département** : 27\n**Nom du site** : LE_TILLEUL_OTHON_N13\n**Coordonnées** : 49.129687, 0.809847\n[[https://www.google.com/maps?q=49.129687,0.809847|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.129687,0.809847|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.1038,0.809589|Déchèterie de Beaumontel (Beaumontel, 2.9 km)]] — 0633196469\n[[https://www.google.com/maps?q=49.0914,0.769622|Déchèterie pro de Beaumontel - SDOMODE (Beaumontel, 5.2 km)]]\n[[https://www.google.com/maps?q=49.1481,0.939733|Déchèterie de Crosville-la-vieille (Crosville-la-Vieille, 9.7 km)]] — 0232677657\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.129687,0.809847,12z|Toutes les déchèteries autour du site 🗑️]]",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "LE_TILLEUL_OTHON_N13",
@@ -288,13 +288,16 @@
     "priorite": "Travaux Programmés",
     "scope": "EV - Espaces Verts",
     "departement": "27",
+    "equipe": "Lassana",
+    "semaine": 36,
     "calque": "mc",
     "code_fra": "FRA02700039",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "L"
     }
    }
   },
