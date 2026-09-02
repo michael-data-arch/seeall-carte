@@ -1260,7 +1260,7 @@
    },
    "properties": {
     "name": "FRA07600301 — MALAUNAY_CENTRE",
-    "description": "**Numéro de Work Order** : WO-242875\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nSuite à la VT\nTraiter l'espace vert et la problématique liées aux trappes\n**Scope de maintenance** : SH - Structure Haute + EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-09\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue Notre-Dame des Champs 76770 Malaunay\n**Numéro de département** : 76\n**Nom du site** : MALAUNAY_CENTRE\n**Coordonnées** : 49.524722, 1.032222\n[[https://www.google.com/maps?q=49.524722,1.032222|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.524722,1.032222|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 7.7 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 11.3 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.635,1.17411|Déchèterie Bosc le Hard (Bosc-le-Hard, 16.0 km)]] — 0235769343\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.524722,1.032222,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-242875\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nSuite à la VT\nTraiter l'espace vert et la problématique liées aux trappes\n**Scope de maintenance** : SH - Structure Haute + EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-09\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Said\n**Semaine ISO d'intervention** : 38\n**Provenance du repère** : ensio\n**Adresse du site** : Rue Notre-Dame des Champs 76770 Malaunay\n**Numéro de département** : 76\n**Nom du site** : MALAUNAY_CENTRE\n**Coordonnées** : 49.524722, 1.032222\n[[https://www.google.com/maps?q=49.524722,1.032222|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.524722,1.032222|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 7.7 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 11.3 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.635,1.17411|Déchèterie Bosc le Hard (Bosc-le-Hard, 16.0 km)]] — 0235769343\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.524722,1.032222,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "travaux": "Action\n\nSuite à la VT\nTraiter l'espace vert et la problématique liées aux trappes",
     "etat_wo": "Travaux planifiés",
@@ -1272,6 +1272,8 @@
     "departement": "76",
     "consignation": "Consignation",
     "date_planification": "2026-09-09",
+    "equipe": "Said",
+    "semaine": 38,
     "calque": "mc",
     "code_fra": "FRA07600301",
     "acces_autonome": "a_confirmer",
@@ -1279,7 +1281,8 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "S"
     }
    }
   },
