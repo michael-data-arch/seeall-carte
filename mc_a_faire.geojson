@@ -82,9 +82,9 @@
    },
    "properties": {
     "name": "FRA01400095 — SAINT_PIERRE_SUR_DIVES",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : * ; Transfer sôll défectueux ; * ; PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; * ; PRÉSENCE DE DÉGRADATIONS SUR LA CLÔTURE : PRÉVOIR LE REMPLACEMENT DE 5 M DE GRILLAGE ; Adresse ; Donville 14170 St-Pierre-en-Auge\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : SAINT_PIERRE_SUR_DIVES\n**Coordonnées** : 49.022967, -0.046141\n[[https://www.google.com/maps?q=49.022967,-0.046141|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.022967,-0.046141|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.035,-0.07481|Déchèterie de Vendeuvre (Vendeuvre, 2.5 km)]] — 0231208479\n[[https://www.google.com/maps?q=49.0715,-0.08049|Déchèterie de Mézidon-Canon (MEZIDON-CANON, 5.9 km)]] — 0689702662\n[[https://www.google.com/maps?q=49.0152,0.155321|Déchèterie de Livarot (Livarot, 14.7 km)]] — 0616441425\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.022967,-0.046141,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Transfer sôll défectueux ; PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; PRÉSENCE DE DÉGRADATIONS SUR LA CLÔTURE : PRÉVOIR LE REMPLACEMENT DE 5 M DE GRILLAGE\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : SAINT_PIERRE_SUR_DIVES\n**Coordonnées** : 49.022967, -0.046141\n[[https://www.google.com/maps?q=49.022967,-0.046141|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.022967,-0.046141|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.035,-0.07481|Déchèterie de Vendeuvre (Vendeuvre, 2.5 km)]] — 0231208479\n[[https://www.google.com/maps?q=49.0715,-0.08049|Déchèterie de Mézidon-Canon (MEZIDON-CANON, 5.9 km)]] — 0689702662\n[[https://www.google.com/maps?q=49.0152,0.155321|Déchèterie de Livarot (Livarot, 14.7 km)]] — 0616441425\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.022967,-0.046141,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
-    "travaux": "* ; Transfer sôll défectueux ; * ; PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; * ; PRÉSENCE DE DÉGRADATIONS SUR LA CLÔTURE : PRÉVOIR LE REMPLACEMENT DE 5 M DE GRILLAGE ; Adresse ; Donville 14170 St-Pierre-en-Auge",
+    "travaux": "Transfer sôll défectueux ; PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE : PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE ; PRÉSENCE DE DÉGRADATIONS SUR LA CLÔTURE : PRÉVOIR LE REMPLACEMENT DE 5 M DE GRILLAGE",
     "etat_wo": "Activé",
     "nom_site": "SAINT_PIERRE_SUR_DIVES",
     "calque": "mc",
@@ -892,12 +892,12 @@
     "name": "FRA03700122 — ST_BRANCHS",
     "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de bien vouloir procéder au nettoyage de la ZT.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : site Back to Back, modalités à obtenir via Orange\n**Numéro de DAS** : DAS-N0218768\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-09\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Provenance du repère** : manuel\n**Numéro de département** : 37\n**Nom du site** : ST_BRANCHS\n**Coordonnées** : 47.231149, 0.757528\n[[https://www.google.com/maps?q=47.231149,0.757528|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231149,0.757528|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 0.5 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 6.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 6.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231149,0.757528,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
     "origine": "manuel",
-    "travaux": "Merci de bien vouloir procéder au nettoyage de la ZT.",
     "etat_wo": "Travaux planifiés",
     "nom_site": "ST_BRANCHS",
     "declare_par": "Michael",
     "declare_le": "2026-08-26",
     "wo": "WO-236469",
+    "travaux": "Merci de bien vouloir procéder au nettoyage de la ZT.",
     "priorite": "Travaux Programmés",
     "scope": "EVT - Environnement Technique",
     "departement": "37",
@@ -916,6 +916,60 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.649484,
+     47.29977
+    ]
+   },
+   "properties": {
+    "name": "FRA04100040 — PRUNIERS_EN_SOLOGNE_SUB",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE MOUSSE SUR LE RAIL\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : PRUNIERS_EN_SOLOGNE_SUB\n**Coordonnées** : 47.299770, 1.649484\n[[https://www.google.com/maps?q=47.299770,1.649484|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.299770,1.649484|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2877,1.73182|Déchèterie de Villefranche sur Cher (Villefranche-sur-Cher, 6.4 km)]] — 0254964449\n[[https://www.google.com/maps?q=47.3365,1.74983|Decheterie de Romorantin (Romorantin-Lanthenay, 8.6 km)]] — 0254769585\n[[https://www.google.com/maps?q=47.2921,1.52647|Decheterie de Billy (Billy, 9.3 km)]] — 0254977075\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.299770,1.649484,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE MOUSSE SUR LE RAIL",
+    "etat_wo": "Activé",
+    "nom_site": "PRUNIERS_EN_SOLOGNE_SUB",
+    "calque": "mc",
+    "code_fra": "FRA04100040",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.906644,
+     47.983087
+    ]
+   },
+   "properties": {
+    "name": "FRA04100053 — MONDOUBLEAU_SUB_FT",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : PRÉSENCE DE MOUSSE SUR LE RAIL ; Site classé P4 (délai d’intervention : 15 jours)\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : MONDOUBLEAU_SUB_FT\n**Coordonnées** : 47.983087, 0.906644\n[[https://www.google.com/maps?q=47.983087,0.906644|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.983087,0.906644|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9851,0.909232|Déchèterie de Mondoubleau (Mondoubleau, 0.3 km)]] — 0254807938\n[[https://www.google.com/maps?q=47.8762,0.826833|Decheterie de Savigny-sur-braye (Savigny-sur-Braye, 13.3 km)]] — 0254237334\n[[https://www.google.com/maps?q=47.8992,1.03316|Déchèterie de Danzé (Danzé, 13.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.983087,0.906644,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "PRÉSENCE DE MOUSSE SUR LE RAIL ; Site classé P4 (délai d’intervention : 15 jours)",
+    "etat_wo": "Activé",
+    "nom_site": "MONDOUBLEAU_SUB_FT",
+    "calque": "mc",
+    "code_fra": "FRA04100053",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
     }
    }
   },
@@ -1586,9 +1640,9 @@
    },
    "properties": {
     "name": "FRA07600425 — ND_MP_LONGMESNIL_ORF",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : * ; Vol de plaque de terre ; * ; Reprendre grillage et portail enlevé le site n'est plus sécurisé ; * ; plantation d'un champ de patates devant l'accès ; Adresse ; Lieu-dit Pommereux 76440 POMMEREUX\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : ND_MP_LONGMESNIL_ORF\n**Coordonnées** : 49.616828, 1.629353\n[[https://www.google.com/maps?q=49.616828,1.629353|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.616828,1.629353|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.635,1.54528|Déchèterie de Serqueux (Serqueux, 6.4 km)]] — 0235909264\n[[https://www.google.com/maps?q=49.653,1.85806|Déchèterie de Feuquieres (Feuquières, 17.0 km)]] — 0344131760\n[[https://www.google.com/maps?q=49.4717,1.71298|Decheterie Gournay en Bray (Gournay-en-Bray, 17.2 km)]] — 0235909264\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.616828,1.629353,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Vol de plaque de terre ; Reprendre grillage et portail enlevé le site n'est plus sécurisé ; plantation d'un champ de patates devant l'accès\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : ND_MP_LONGMESNIL_ORF\n**Coordonnées** : 49.616828, 1.629353\n[[https://www.google.com/maps?q=49.616828,1.629353|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.616828,1.629353|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.635,1.54528|Déchèterie de Serqueux (Serqueux, 6.4 km)]] — 0235909264\n[[https://www.google.com/maps?q=49.653,1.85806|Déchèterie de Feuquieres (Feuquières, 17.0 km)]] — 0344131760\n[[https://www.google.com/maps?q=49.4717,1.71298|Decheterie Gournay en Bray (Gournay-en-Bray, 17.2 km)]] — 0235909264\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.616828,1.629353,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
-    "travaux": "* ; Vol de plaque de terre ; * ; Reprendre grillage et portail enlevé le site n'est plus sécurisé ; * ; plantation d'un champ de patates devant l'accès ; Adresse ; Lieu-dit Pommereux 76440 POMMEREUX",
+    "travaux": "Vol de plaque de terre ; Reprendre grillage et portail enlevé le site n'est plus sécurisé ; plantation d'un champ de patates devant l'accès",
     "etat_wo": "Activé",
     "nom_site": "ND_MP_LONGMESNIL_ORF",
     "calque": "mc",
@@ -1774,6 +1828,33 @@
     "nom_site": "LA_FORET_SAINTE_CROIX",
     "calque": "mc",
     "code_fra": "FRA09100049",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.360593,
+     48.623617
+    ]
+   },
+   "properties": {
+    "name": "FRA09100202 — BONDOUFLE_GRAND_NOYER",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Accès au site bloqué : dégager tout le matériel devant le site ; Besoin d'élagage et de débroussaillage ; Besoin de nettoyage du site. ; La serrure est endommagée.\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : BONDOUFLE_GRAND_NOYER\n**Coordonnées** : 48.623617, 2.360593\n[[https://www.google.com/maps?q=48.623617,2.360593|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.623617,2.360593|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.6257,2.33324|Déchèterie de Sainte-genevieve-des-bois (Sainte-Geneviève-des-Bois, 2.0 km)]] — 0160166067\n[[https://www.google.com/maps?q=48.6213,2.32981|Déchèterie Saint-michel-sur-orge (Saint-Michel-sur-Orge, 2.3 km)]] — 0820629191\n[[https://www.google.com/maps?q=48.6468,2.39564|Déchèterie de Ris-orangis (Ris-Orangis, 3.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.623617,2.360593,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "Accès au site bloqué : dégager tout le matériel devant le site ; Besoin d'élagage et de débroussaillage ; Besoin de nettoyage du site. ; La serrure est endommagée.",
+    "etat_wo": "Activé",
+    "nom_site": "BONDOUFLE_GRAND_NOYER",
+    "calque": "mc",
+    "code_fra": "FRA09100202",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
