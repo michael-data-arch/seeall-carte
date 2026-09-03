@@ -1512,7 +1512,7 @@
    },
    "properties": {
     "name": "FRA08500104 — NOIRMOUTIER",
-    "description": "**Numéro de Work Order** : WO-244316\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci de faire l'espace vert du site en coupant le lierre présent et arracher ce qui peut être fait a hauteur d'homme.\nla serrure semble HS, je vous autorise à forcer le barillet, et poser une chaine avec cadenas à code.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 85\n**Nom du site** : NOIRMOUTIER\n**Coordonnées** : 47.001874, -2.246968\n[[https://www.google.com/maps?q=47.001874,-2.246968|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.001874,-2.246968|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9721,-2.25099|Déchèterie de la Gueriniere (La Guérinière, 3.3 km)]]\n[[https://www.google.com/maps?q=47.1428,-2.13983|Déchèterie de la Plaine-sur-mer (La Plaine-sur-Mer, 17.6 km)]] — 0251742810\n[[https://www.google.com/maps?q=46.9246,-2.04198|Déchèterie de Beauvoir-sur-mer (Beauvoir-sur-Mer, 17.8 km)]] — 0251490674\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.001874,-2.246968,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-244316\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci de faire l'espace vert du site en coupant le lierre présent et arracher ce qui peut être fait a hauteur d'homme.\nla serrure semble HS, je vous autorise à forcer le barillet, et poser une chaine avec cadenas à code.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : airtable\n**Numéro de département** : 85\n**Nom du site** : NOIRMOUTIER\n**Coordonnées** : 47.001874, -2.246968\n[[https://www.google.com/maps?q=47.001874,-2.246968|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.001874,-2.246968|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9721,-2.25099|Déchèterie de la Gueriniere (La Guérinière, 3.3 km)]]\n[[https://www.google.com/maps?q=47.1428,-2.13983|Déchèterie de la Plaine-sur-mer (La Plaine-sur-Mer, 17.6 km)]] — 0251742810\n[[https://www.google.com/maps?q=46.9246,-2.04198|Déchèterie de Beauvoir-sur-mer (Beauvoir-sur-Mer, 17.8 km)]] — 0251490674\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.001874,-2.246968,12z|Toutes les déchèteries autour du site 🗑️]]",
     "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "NOIRMOUTIER",
@@ -1522,13 +1522,16 @@
     "scope": "EV - Espaces Verts",
     "departement": "85",
     "date_planification": "2026-09-15",
+    "equipe": "Lassana",
+    "semaine": 36,
     "calque": "mc",
     "code_fra": "FRA08500104",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#2563EB",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "L"
     }
    }
   },
