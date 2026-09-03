@@ -964,7 +964,7 @@
    },
    "properties": {
     "name": "FRA07200066 — VOIVRES_BIS",
-    "description": "**Numéro de Work Order** : WO-238125\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\ndes travaux sont calés fin septembre\nPouvez-vous faire intervenir pour un débroussaillage mi-septembre\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 72\n**Nom du site** : VOIVRES_BIS\n**Coordonnées** : 47.923460, 0.068728\n[[https://www.google.com/maps?q=47.923460,0.068728|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.923460,0.068728|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9039,0.0518231|Décheterie de Roeze sur Sarthe (Roézé-sur-Sarthe, 2.5 km)]] — 0243887469\n[[https://www.google.com/maps?q=47.9025,0.154891|Décheterie de Guecelard (Guécélard, 6.8 km)]] — 0243438624\n[[https://www.google.com/maps?q=48.0096,-0.0239851|Déchèterie de Brains-sur-gee (Brains-sur-Gée, 11.8 km)]] — 0243885759\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.923460,0.068728,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-238125\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\ndes travaux sont calés fin septembre\nPouvez-vous faire intervenir pour un débroussaillage mi-septembre\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 72\n**Nom du site** : VOIVRES_BIS\n**Coordonnées** : 47.923460, 0.068728\n[[https://www.google.com/maps?q=47.923460,0.068728|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.923460,0.068728|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9039,0.0518231|Décheterie de Roeze sur Sarthe (Roézé-sur-Sarthe, 2.5 km)]] — 0243887469\n[[https://www.google.com/maps?q=47.9025,0.154891|Décheterie de Guecelard (Guécélard, 6.8 km)]] — 0243438624\n[[https://www.google.com/maps?q=48.0096,-0.0239851|Déchèterie de Brains-sur-gee (Brains-sur-Gée, 11.8 km)]] — 0243885759\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.923460,0.068728,12z|Toutes les déchèteries autour du site 🗑️]]",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "VOIVRES_BIS",
@@ -974,13 +974,16 @@
     "scope": "EV - Espaces Verts",
     "departement": "72",
     "date_planification": "2026-09-14",
+    "equipe": "Lassana",
+    "semaine": 37,
     "calque": "mc",
     "code_fra": "FRA07200066",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "L"
     }
    }
   },
