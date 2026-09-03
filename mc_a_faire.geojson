@@ -343,7 +343,7 @@
    },
    "properties": {
     "name": "FRA02800093 — PRUNAY",
-    "description": "**Numéro de Work Order** : WO-242818\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site nécessaire\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-04\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : lassana\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : ensio\n**Numéro de département** : 28\n**Nom du site** : PRUNAY\n**Coordonnées** : 48.356347, 1.656605\n[[https://www.google.com/maps?q=48.356347,1.656605|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.356347,1.656605|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.3399,1.77306|Déchèterie d'Ouarville (Ouarville, 8.8 km)]] — 0237221548\n[[https://www.google.com/maps?q=48.2658,1.64596|Déchèterie des Villages-Vovéens (Voves) (Voves*, 10.1 km)]] — 0237992751\n[[https://www.google.com/maps?q=48.4399,1.77404|Déchèterie de Roinville (Roinville, 12.7 km)]] — 0237317887\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.356347,1.656605,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-242818\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site nécessaire\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-04\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-03\n**Équipe affectée** : lassana\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : ensio\n**Numéro de département** : 28\n**Nom du site** : PRUNAY\n**Coordonnées** : 48.356347, 1.656605\n[[https://www.google.com/maps?q=48.356347,1.656605|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.356347,1.656605|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.3399,1.77306|Déchèterie d'Ouarville (Ouarville, 8.8 km)]] — 0237221548\n[[https://www.google.com/maps?q=48.2658,1.64596|Déchèterie des Villages-Vovéens (Voves) (Voves*, 10.1 km)]] — 0237992751\n[[https://www.google.com/maps?q=48.4399,1.77404|Déchèterie de Roinville (Roinville, 12.7 km)]] — 0237317887\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.356347,1.656605,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "travaux": "Débroussaillage du site nécessaire",
     "etat_wo": "Travaux planifiés",
@@ -355,12 +355,15 @@
     "date_planification": "2026-09-04",
     "equipe": "lassana",
     "semaine": 36,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-03",
     "calque": "mc",
     "code_fra": "FRA02800093",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "LargeCircle",
      "iconSize": 32,
      "iconUrl": "L"
