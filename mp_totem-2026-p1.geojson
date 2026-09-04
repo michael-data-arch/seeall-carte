@@ -169,7 +169,7 @@
    },
    "properties": {
     "name": "FRA04500016 — GRENIER_A_SEL",
-    "description": "**Numéro de Work Order** : WO-204368\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-09-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0225151\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-04\n**Fin de validité** : 2026-09-04\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : Rue du Grenier a sel\n**Numéro de département** : 45\n**Nom du site** : GRENIER_A_SEL\n**Coordonnées** : 47.901964, 1.901480\n[[https://www.google.com/maps?q=47.901964,1.901480|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.901964,1.901480|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.8824,1.8822|Déchèterie d'Orléans (Orléans, 2.6 km)]] — 0238519896\n[[https://www.google.com/maps?q=47.9123,1.94369|Déchèterie de Saint  Jean de Braye (Saint-Jean-de-Braye, 3.3 km)]] — 0238836760\n[[https://www.google.com/maps?q=47.9123,1.94369|Végé'tri Saint-jean-de-braye (Saint-Jean-de-Braye, 3.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.901964,1.901480,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: BADGE COBALT FT\nBoite à clés: Non\nPortail / Portillon: Non - Badge cobalt\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge: Badge\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 06/05/2026 M cockpit O+M\nSite DIG 12, responsable à contacter en cas de soucis d'accès: adrien.couratin@orange.com en copie sylvain.berrueco@orange.com",
+    "description": "**Numéro de Work Order** : WO-204368\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-09-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0225151\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-04\n**Fin de validité** : 2026-09-04\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-04\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : Rue du Grenier a sel\n**Numéro de département** : 45\n**Nom du site** : GRENIER_A_SEL\n**Coordonnées** : 47.901964, 1.901480\n[[https://www.google.com/maps?q=47.901964,1.901480|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.901964,1.901480|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.8824,1.8822|Déchèterie d'Orléans (Orléans, 2.6 km)]] — 0238519896\n[[https://www.google.com/maps?q=47.9123,1.94369|Déchèterie de Saint  Jean de Braye (Saint-Jean-de-Braye, 3.3 km)]] — 0238836760\n[[https://www.google.com/maps?q=47.9123,1.94369|Végé'tri Saint-jean-de-braye (Saint-Jean-de-Braye, 3.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.901964,1.901480,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: BADGE COBALT FT\nBoite à clés: Non\nPortail / Portillon: Non - Badge cobalt\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge: Badge\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 06/05/2026 M cockpit O+M\nSite DIG 12, responsable à contacter en cas de soucis d'accès: adrien.couratin@orange.com en copie sylvain.berrueco@orange.com",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -189,12 +189,15 @@
     "das_fin": "2026-09-04",
     "das_provenance": "airtable",
     "das_prevenance": "aucune",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-04",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA04500016",
     "acces_autonome": "non_autonome",
     "acces_motif": "badge Cobalt à retirer au préalable",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }

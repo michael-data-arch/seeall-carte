@@ -711,6 +711,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     0.67128,
+     47.389281
+    ]
+   },
+   "properties": {
+    "name": "FRA03700037 — TOURS_VICTOR_HUGO",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : CHARNIÈRE DE LA PORTE ZT CASSÉE, PRÉVOIR SON REMPLACEMENT (PORTE PRÉSENTE DANS LA ZT)\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Nom du site** : TOURS_VICTOR_HUGO\n**Coordonnées** : 47.389281, 0.671280\n[[https://www.google.com/maps?q=47.389281,0.671280|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.389281,0.671280|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 9.7 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.4369,0.518596|Déchèterie de Pernay (Pernay, 12.7 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 13.3 km)]] — 0247298100\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.389281,0.671280,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "CHARNIÈRE DE LA PORTE ZT CASSÉE, PRÉVOIR SON REMPLACEMENT (PORTE PRÉSENTE DANS LA ZT)",
+    "etat_wo": "Activé",
+    "nom_site": "TOURS_VICTOR_HUGO",
+    "calque": "mc",
+    "code_fra": "FRA03700037",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      0.843606,
      47.219448
     ]
