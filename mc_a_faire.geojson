@@ -253,45 +253,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.99366,
-     46.825591
-    ]
-   },
-   "properties": {
-    "name": "FRA01800090 — CHAMP_COGNE_CUL",
-    "description": "**Numéro de Work Order** : WO-236925\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-27\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213878\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE\n**Numéro de département** : 18\n**Nom du site** : CHAMP_COGNE_CUL\n**Coordonnées** : 46.825591, 2.993660\n[[https://www.google.com/maps?q=46.825591,2.993660|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.825591,2.993660|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8407,2.9343|Déchèterie de Sancoins (Sancoins, 4.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8772,3.17673|Déchèterie de Magny Cours (Magny-Cours, 15.1 km)]] — 0386212740\n[[https://www.google.com/maps?q=46.9614,2.95989|Déchèterie de la Guerche (La Guerche-sur-l'Aubois, 15.3 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.825591,2.993660,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 23/06/2026 Na cockpit O+M :\nSite en accès libre",
-    "origine": "ensio",
-    "travaux": "- PRÉSENCE DE VÉGÉTATION SUR LE SITE ET SUR LA CLÔTURE, PRÉVOIR DÉBROUSSAILLAGE ET ÉLAGAGE\n- MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE.",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "CHAMP_COGNE_CUL",
-    "adresse": "Lieu-dit Bel Air Parcelle 37 section ZE 41330 FOSSE",
-    "wo": "WO-236925",
-    "priorite": "Travaux Programmés",
-    "scope": "EVT - Environnement Technique",
-    "departement": "18",
-    "date_planification": "2026-08-27",
-    "das_numero": "DAS-N0213878",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-26",
-    "das_fin": "2026-08-28",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 23/06/2026 Na cockpit O+M :\nSite en accès libre",
-    "calque": "mc",
-    "code_fra": "FRA01800090",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "LargeCircle",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.595553,
      47.391389
     ]
