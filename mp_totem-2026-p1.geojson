@@ -2288,7 +2288,7 @@
    },
    "properties": {
     "name": "FRA07600375 — ROUEN_GARE_NEW",
-    "description": "**Numéro de Work Order** : WO-205938\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-09-01\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Numéro de DAS** : DAS-N0215634\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-02\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 38, boulevard Ferdinand de Lesseps\n**Numéro de département** : 76\n**Nom du site** : ROUEN_GARE_NEW\n**Coordonnées** : 49.445225, 1.066453\n[[https://www.google.com/maps?q=49.445225,1.066453|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.445225,1.066453|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 3.0 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 13.4 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 16.8 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.445225,1.066453,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 2.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 25/08/2025 M cockpit O+M:\nPrévenir la responsable des accès FONCIA Mme Muriel BOUCHEZ 2 jours à l'avance à muriel.bouchez@foncia.com\nLes clés sont à récupérer à l'agence.\nContacte Foncia Normandie: 0235078559",
+    "description": "**Numéro de Work Order** : WO-205938\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-09-01\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Numéro de DAS** : DAS-N0215634\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-02\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-05\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 38, boulevard Ferdinand de Lesseps\n**Numéro de département** : 76\n**Nom du site** : ROUEN_GARE_NEW\n**Coordonnées** : 49.445225, 1.066453\n[[https://www.google.com/maps?q=49.445225,1.066453|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.445225,1.066453|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 3.0 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 13.4 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 16.8 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.445225,1.066453,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 2.0\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 25/08/2025 M cockpit O+M:\nPrévenir la responsable des accès FONCIA Mme Muriel BOUCHEZ 2 jours à l'avance à muriel.bouchez@foncia.com\nLes clés sont à récupérer à l'agence.\nContacte Foncia Normandie: 0235078559",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -2307,12 +2307,15 @@
     "das_fin": "2026-09-02",
     "das_provenance": "airtable",
     "das_prevenance": "2 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-05",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600375",
     "acces_autonome": "non_autonome",
     "acces_motif": "moyens d'accès à récupérer sur place",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
