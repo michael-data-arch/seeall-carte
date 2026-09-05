@@ -1708,7 +1708,7 @@
    },
    "properties": {
     "name": "FRA07600239 — LE_HAVRE_CENTRE_FT",
-    "description": "**Numéro de Work Order** : WO-205883\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-08-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0215559\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-01\n**Fin de validité** : 2026-09-02\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 23 Rue Jean-Baptiste Eyries\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_CENTRE_FT\n**Coordonnées** : 49.493884, 0.115811\n[[https://www.google.com/maps?q=49.493884,0.115811|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.493884,0.115811|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4125,0.262325|Déchèterie de Honfleur (Honfleur, 13.9 km)]]\n[[https://www.google.com/maps?q=49.3696,0.130053|Déchèterie la Croix Sonnet-touques (Touques, 13.9 km)]]\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 18.6 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.493884,0.115811,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: cobalt\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge: Entrée de l’immeuble Cobalt\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: JPG 29072025(mail N.LECOQ 29072025 15H46)\nSite mixte local Orange en CMS vers le 01 02 octobre 2025\nBien s'assurer que l'intervenant est en possession d'une carte\nCMS Carte Multi Service en cours de validité.",
+    "description": "**Numéro de Work Order** : WO-205883\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-08-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0215559\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-01\n**Fin de validité** : 2026-09-02\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-05\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 23 Rue Jean-Baptiste Eyries\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_CENTRE_FT\n**Coordonnées** : 49.493884, 0.115811\n[[https://www.google.com/maps?q=49.493884,0.115811|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.493884,0.115811|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4125,0.262325|Déchèterie de Honfleur (Honfleur, 13.9 km)]]\n[[https://www.google.com/maps?q=49.3696,0.130053|Déchèterie la Croix Sonnet-touques (Touques, 13.9 km)]]\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 18.6 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.493884,0.115811,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: cobalt\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge: Entrée de l’immeuble Cobalt\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: JPG 29072025(mail N.LECOQ 29072025 15H46)\nSite mixte local Orange en CMS vers le 01 02 octobre 2025\nBien s'assurer que l'intervenant est en possession d'une carte\nCMS Carte Multi Service en cours de validité.",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -1727,12 +1727,15 @@
     "das_fin": "2026-09-02",
     "das_provenance": "airtable",
     "das_prevenance": "aucune",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-05",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600239",
     "acces_autonome": "non_autonome",
     "acces_motif": "badge Cobalt à retirer au préalable",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
