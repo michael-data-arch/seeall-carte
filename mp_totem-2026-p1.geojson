@@ -1427,7 +1427,7 @@
    },
    "properties": {
     "name": "FRA07600172 — CANTELEU_SUD",
-    "description": "**Numéro de Work Order** : WO-205917\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-08-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Numéro de DAS** : DAS-N0215541\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-01\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 Place Boieldieu\n**Numéro de département** : 76\n**Nom du site** : CANTELEU_SUD\n**Coordonnées** : 49.442883, 1.033114\n[[https://www.google.com/maps?q=49.442883,1.033114|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.442883,1.033114|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 5.2 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 11.9 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 18.0 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.442883,1.033114,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Mise à jour CD (22/02/2024) CONTACT ACCES HABITAT 76 - M. Pasturek 06 63 23 63 47 mail: dpasturek@habitat76.fr\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge: Non\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge: Non\nClés: ROU280 pour BAC (badge +\nCadenas:\n\nCommentaire d'accès: 01/12/25 D cockpit O+M:\nHABITAT 76: 06 61 96 93 57\nPrévenance obligatoire par mail: fcacaux@habitat76.fr/ 5j à l'avance\nAutonome",
+    "description": "**Numéro de Work Order** : WO-205917\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-08-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Numéro de DAS** : DAS-N0215541\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-01\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-05\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 Place Boieldieu\n**Numéro de département** : 76\n**Nom du site** : CANTELEU_SUD\n**Coordonnées** : 49.442883, 1.033114\n[[https://www.google.com/maps?q=49.442883,1.033114|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.442883,1.033114|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 5.2 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 11.9 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 18.0 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.442883,1.033114,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Mise à jour CD (22/02/2024) CONTACT ACCES HABITAT 76 - M. Pasturek 06 63 23 63 47 mail: dpasturek@habitat76.fr\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge: Non\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge: Non\nClés: ROU280 pour BAC (badge +\nCadenas:\n\nCommentaire d'accès: 01/12/25 D cockpit O+M:\nHABITAT 76: 06 61 96 93 57\nPrévenance obligatoire par mail: fcacaux@habitat76.fr/ 5j à l'avance\nAutonome",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -1446,12 +1446,15 @@
     "das_fin": "2026-09-01",
     "das_provenance": "airtable",
     "das_prevenance": "5 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-05",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600172",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
