@@ -729,47 +729,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.682422,
-     46.808238
-    ]
-   },
-   "properties": {
-    "name": "FRA03600001 — CHATEAUROUX_FT",
-    "description": "**Numéro de Work Order** : WO-238230\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : - PRESENCE DE CORROSION SUR LA CLOTURE DU SITE\nOn ne fait pas de peinture en MP, si besoin de refaire la clôture il faut le prévoir en MC. Ce n'est pas simplement de la corrosion mais de la rouille - HORS SCOPE MP\n- PRESENCE DE MOUSSE SUR PYLONE\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-08-27\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213877\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Commentaire terrain** : Travail à réaliser :\n- PRESENCE DE CORROSION SUR LA CLOTURE DU SITE\n- PRESENCE DE MOUSSE SUR PYLONE (Michael, 2026-08-27)\n**Provenance du repère** : ensio\n**Adresse du site** : 13 Rue du Berry 36000 Châteauroux\n**Numéro de département** : 36\n**Nom du site** : CHATEAUROUX_FT\n**Coordonnées** : 46.808238, 1.682422\n[[https://www.google.com/maps?q=46.808238,1.682422|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.808238,1.682422|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 21.7 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 24.3 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.6405,1.39515|Déchèterie de Rivarennes (Rivarennes, 28.8 km)]] — 0254479733\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.808238,1.682422,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 12/11/25 D cockpit O+M:\nAccès: en autonomie (Full TOTEM)",
-    "origine": "ensio",
-    "travaux": "- PRESENCE DE CORROSION SUR LA CLOTURE DU SITE\nOn ne fait pas de peinture en MP, si besoin de refaire la clôture il faut le prévoir en MC. Ce n'est pas simplement de la corrosion mais de la rouille - HORS SCOPE MP\n- PRESENCE DE MOUSSE SUR PYLONE",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "CHATEAUROUX_FT",
-    "das_numero": "DAS-N0213877",
-    "das_statut": "Acceptée",
-    "das_provenance": "airtable",
-    "adresse": "13 Rue du Berry 36000 Châteauroux",
-    "wo": "WO-238230",
-    "priorite": "Travaux Programmés",
-    "scope": "SH - Structure Haute",
-    "departement": "36",
-    "consignation": "Consigne Particulière",
-    "date_planification": "2026-08-27",
-    "das_debut": "2026-08-25",
-    "das_fin": "2026-08-27",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 12/11/25 D cockpit O+M:\nAccès: en autonomie (Full TOTEM)",
-    "commentaire_terrain": "Travail à réaliser :\n- PRESENCE DE CORROSION SUR LA CLOTURE DU SITE\n- PRESENCE DE MOUSSE SUR PYLONE (Michael, 2026-08-27)",
-    "calque": "mc",
-    "code_fra": "FRA03600001",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "LargeCircle",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.67128,
      47.389281
     ]
