@@ -656,7 +656,7 @@
    },
    "properties": {
     "name": "FRA03400122 — MEZE_CENTRE",
-    "description": "**Numéro de Work Order** : WO-245760\n**État du WO** : Activé\n**Travaux à réaliser** : Fiente et pigeons mort sur site, besoin de nettoyer car insalubre\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 34\n**Nom du site** : MEZE_CENTRE\n**Coordonnées** : 43.425883, 3.607841\n[[https://www.google.com/maps?q=43.425883,3.607841|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.425883,3.607841|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.4497,3.59785|Déchèterie de Mèze (Mèze, 2.8 km)]] — 0467785596\n[[https://www.google.com/maps?q=43.4511,3.65041|Déchèterie de Bouzigues (Bouzigues, 4.4 km)]] — 0467785596\n[[https://www.google.com/maps?q=43.4568,3.69224|Déchèterie de Balaruc les Bains (Balaruc-le-Vieux, 7.6 km)]] — 0467487622\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.425883,3.607841,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-245760\n**État du WO** : Activé\n**Travaux à réaliser** : Fiente et pigeons mort sur site, besoin de nettoyer car insalubre\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 38\n**Provenance du repère** : airtable\n**Numéro de département** : 34\n**Nom du site** : MEZE_CENTRE\n**Coordonnées** : 43.425883, 3.607841\n[[https://www.google.com/maps?q=43.425883,3.607841|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.425883,3.607841|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.4497,3.59785|Déchèterie de Mèze (Mèze, 2.8 km)]] — 0467785596\n[[https://www.google.com/maps?q=43.4511,3.65041|Déchèterie de Bouzigues (Bouzigues, 4.4 km)]] — 0467785596\n[[https://www.google.com/maps?q=43.4568,3.69224|Déchèterie de Balaruc les Bains (Balaruc-le-Vieux, 7.6 km)]] — 0467487622\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.425883,3.607841,12z|Toutes les déchèteries autour du site 🗑️]]",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "MEZE_CENTRE",
@@ -664,13 +664,16 @@
     "travaux": "Fiente et pigeons mort sur site, besoin de nettoyer car insalubre",
     "priorite": "P4",
     "departement": "34",
+    "equipe": "Manu",
+    "semaine": 38,
     "calque": "mc",
     "code_fra": "FRA03400122",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "M"
     }
    }
   },
