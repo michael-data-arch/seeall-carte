@@ -486,7 +486,7 @@
    },
    "properties": {
     "name": "FRA02900105 — ST_MEEN",
-    "description": "**Numéro de Work Order** : WO-245811\n**État du WO** : Activé\n**Travaux à réaliser** : Debroussaillage a faire dans Zone technique, acces difficile aux baies orange\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227599\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-11\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 29\n**Nom du site** : ST_MEEN\n**Coordonnées** : 48.559438, -4.270736\n[[https://www.google.com/maps?q=48.559438,-4.270736|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.559438,-4.270736|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5732,-4.29267|Déchèterie de Lesneven (Lesneven, 2.2 km)]] — 0298210936\n[[https://www.google.com/maps?q=48.5774,-4.31516|Aire de Collecte de Dv Lesneven (Lesneven, 3.8 km)]]\n[[https://www.google.com/maps?q=48.4801,-4.27539|Déchèterie de Plouedern (Plouédern, 8.8 km)]] — 0298851950\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.559438,-4.270736,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SANS OBJET\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 17/10/25 D cockpit O+M:\nSans prévenance\nAccès: en autonomie",
+    "description": "**Numéro de Work Order** : WO-245811\n**État du WO** : Activé\n**Travaux à réaliser** : Debroussaillage a faire dans Zone technique, acces difficile aux baies orange\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227599\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-11\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 29\n**Nom du site** : ST_MEEN\n**Coordonnées** : 48.559438, -4.270736\n[[https://www.google.com/maps?q=48.559438,-4.270736|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.559438,-4.270736|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5732,-4.29267|Déchèterie de Lesneven (Lesneven, 2.2 km)]] — 0298210936\n[[https://www.google.com/maps?q=48.5774,-4.31516|Aire de Collecte de Dv Lesneven (Lesneven, 3.8 km)]]\n[[https://www.google.com/maps?q=48.4801,-4.27539|Déchèterie de Plouedern (Plouédern, 8.8 km)]] — 0298851950\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.559438,-4.270736,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SANS OBJET\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 17/10/25 D cockpit O+M:\nSans prévenance\nAccès: en autonomie",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "ST_MEEN",
@@ -501,13 +501,16 @@
     "das_fin": "2026-09-11",
     "das_provenance": "airtable",
     "acces_detail": "Digicode: SANS OBJET\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 17/10/25 D cockpit O+M:\nSans prévenance\nAccès: en autonomie",
+    "equipe": "Lassana",
+    "semaine": 37,
     "calque": "mc",
     "code_fra": "FRA02900105",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "L"
     }
    }
   },
