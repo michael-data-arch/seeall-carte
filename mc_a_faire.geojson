@@ -222,6 +222,43 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     2.038807,
+     47.239397
+    ]
+   },
+   "properties": {
+    "name": "FRA01800023 — VIERZON_A20",
+    "description": "**Numéro de Work Order** : WO-236488\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Débroussaillage du chemin d'accès et de la zone technique jusqu'au pylône pour planifier une intervention de maintenance sur les aériens à l'aide d'une nacelle\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P2\n**Date de planification** : 2026-07-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227595\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-07\n**Fin de validité** : 2026-09-07\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 18\n**Nom du site** : VIERZON_A20\n**Coordonnées** : 47.239397, 2.038807\n[[https://www.google.com/maps?q=47.239397,2.038807|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.239397,2.038807|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3183,2.03963|Déchèterie de Theillay (Theillay, 8.8 km)]] — 0254885828\n[[https://www.google.com/maps?q=47.1943,2.1827|Déchèterie de Vignoux sur Barangeon (Vignoux-sur-Barangeon, 12.0 km)]] — 0248515419\n[[https://www.google.com/maps?q=47.1292,2.07192|Déchèterie de Lury sur Arnon (Lury-sur-Arnon, 12.5 km)]] — 0248517382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.239397,2.038807,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Electronique SO\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 18/05/2026 Cockpit O+M / A\nCode cadenas sur portillon : 1881",
+    "etat_wo": "Devis Envoyé",
+    "origine": "airtable",
+    "nom_site": "VIERZON_A20",
+    "wo": "WO-236488",
+    "travaux": "Débroussaillage du chemin d'accès et de la zone technique jusqu'au pylône pour planifier une intervention de maintenance sur les aériens à l'aide d'une nacelle",
+    "priorite": "P2",
+    "scope": "EV - Espaces Verts",
+    "departement": "18",
+    "date_planification": "2026-07-17",
+    "das_numero": "DAS-N0227595",
+    "das_statut": "Acceptée",
+    "das_provenance": "airtable",
+    "das_debut": "2026-09-07",
+    "das_fin": "2026-09-07",
+    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Electronique SO\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 18/05/2026 Cockpit O+M / A\nCode cadenas sur portillon : 1881",
+    "calque": "mc",
+    "code_fra": "FRA01800023",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#2563EB",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.80133,
      47.352947
     ]
@@ -847,7 +884,7 @@
    },
    "properties": {
     "name": "FRA05300013 — MAYENNE",
-    "description": "**Numéro de Work Order** : WO-245817\n**État du WO** : Activé\n**Travaux à réaliser** : Pour intervention nacelle, prévoir débroussaillage du site (plaintes des voisins) car pylône noyé sous la végétation + Élagage du dernier arbre pour accès nacelle.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 38\n**Provenance du repère** : airtable\n**Numéro de département** : 53\n**Nom du site** : MAYENNE\n**Coordonnées** : 48.310848, -0.645265\n[[https://www.google.com/maps?q=48.310848,-0.645265|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.310848,-0.645265|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.3066,-0.654863|Déchèterie de Parigné sur Braye (Parigné-sur-Braye, 0.9 km)]] — 0670030997\n[[https://www.google.com/maps?q=48.3637,-0.669715|Déchèterie d'Oisseau (Oisseau, 6.1 km)]]\n[[https://www.google.com/maps?q=48.2959,-0.55748|Déchèterie Aron (Aron, 6.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.310848,-0.645265,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-245817\n**État du WO** : Activé\n**Travaux à réaliser** : Pour intervention nacelle, prévoir débroussaillage du site (plaintes des voisins) car pylône noyé sous la végétation + Élagage du dernier arbre pour accès nacelle.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 53\n**Nom du site** : MAYENNE\n**Coordonnées** : 48.310848, -0.645265\n[[https://www.google.com/maps?q=48.310848,-0.645265|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.310848,-0.645265|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.3066,-0.654863|Déchèterie de Parigné sur Braye (Parigné-sur-Braye, 0.9 km)]] — 0670030997\n[[https://www.google.com/maps?q=48.3637,-0.669715|Déchèterie d'Oisseau (Oisseau, 6.1 km)]]\n[[https://www.google.com/maps?q=48.2959,-0.55748|Déchèterie Aron (Aron, 6.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.310848,-0.645265,12z|Toutes les déchèteries autour du site 🗑️]]",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "MAYENNE",
@@ -856,8 +893,8 @@
     "priorite": "Travaux Programmés",
     "scope": "EVT - Environnement Technique",
     "departement": "53",
-    "equipe": "Manu",
-    "semaine": 38,
+    "equipe": "Lassana",
+    "semaine": 37,
     "calque": "mc",
     "code_fra": "FRA05300013",
     "acces_autonome": "a_confirmer",
@@ -865,7 +902,7 @@
     "_umap_options": {
      "color": "#DC2626",
      "iconClass": "Drop",
-     "iconUrl": "M"
+     "iconUrl": "L"
     }
    }
   },
