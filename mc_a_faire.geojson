@@ -943,7 +943,7 @@
    },
    "properties": {
     "name": "FRA05600167 — LANESTER_ATELIERS",
-    "description": "**Numéro de Work Order** : WO-244320\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227597\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-09-12\n**Fin de validité** : 2026-09-14\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : LANESTER_ATELIERS\n**Coordonnées** : 47.788575, -3.316635\n[[https://www.google.com/maps?q=47.788575,-3.316635|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.788575,-3.316635|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.7385,-3.22275|Déchèterie de Merlevenez (Merlevenez, 9.0 km)]] — 0297656113\n[[https://www.google.com/maps?q=47.911,-3.36117|Déchèterie de Plouay (Plouay, 14.0 km)]] — 0297332123\n[[https://www.google.com/maps?q=47.6702,-3.16882|Déchèterie de Belz (Belz, 17.2 km)]] — 0297553782\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.788575,-3.316635,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - ABLOY\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/04/2026 M cockpit O+M\n(à titre informatif)\n*Pour toute intervention, merci d'envoyer un mail à YLENEZET@laudren.fr\n\n*Délai de prévenance: 5 jours ouvrés à l'avance\n\n*Horaires d'intervention: De 9h à 12h30 – 13h30-17h\n\n*Accès en autonomie.\n\n*Contact de LAUDREN ATLANTIQUE: 02.97.76.83.21",
+    "description": "**Numéro de Work Order** : WO-244320\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227597\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-09-12\n**Fin de validité** : 2026-09-14\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : LANESTER_ATELIERS\n**Coordonnées** : 47.788575, -3.316635\n[[https://www.google.com/maps?q=47.788575,-3.316635|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.788575,-3.316635|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.7385,-3.22275|Déchèterie de Merlevenez (Merlevenez, 9.0 km)]] — 0297656113\n[[https://www.google.com/maps?q=47.911,-3.36117|Déchèterie de Plouay (Plouay, 14.0 km)]] — 0297332123\n[[https://www.google.com/maps?q=47.6702,-3.16882|Déchèterie de Belz (Belz, 17.2 km)]] — 0297553782\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.788575,-3.316635,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - ABLOY\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/04/2026 M cockpit O+M\n(à titre informatif)\n*Pour toute intervention, merci d'envoyer un mail à YLENEZET@laudren.fr\n\n*Délai de prévenance: 5 jours ouvrés à l'avance\n\n*Horaires d'intervention: De 9h à 12h30 – 13h30-17h\n\n*Accès en autonomie.\n\n*Contact de LAUDREN ATLANTIQUE: 02.97.76.83.21",
     "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "LANESTER_ATELIERS",
@@ -960,13 +960,16 @@
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - ABLOY\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/04/2026 M cockpit O+M\n(à titre informatif)\n*Pour toute intervention, merci d'envoyer un mail à YLENEZET@laudren.fr\n\n*Délai de prévenance: 5 jours ouvrés à l'avance\n\n*Horaires d'intervention: De 9h à 12h30 – 13h30-17h\n\n*Accès en autonomie.\n\n*Contact de LAUDREN ATLANTIQUE: 02.97.76.83.21",
     "das_prevenance": "5 jours",
+    "equipe": "Lassana",
+    "semaine": 37,
     "calque": "mc",
     "code_fra": "FRA05600167",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#2563EB",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "L"
     }
    }
   },
@@ -1146,8 +1149,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#2563EB",
-     "iconClass": "Drop",
-     "iconUrl": "L"
+     "iconClass": "Drop"
     }
    }
   },
