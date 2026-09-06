@@ -1567,7 +1567,7 @@
    },
    "properties": {
     "name": "FRA08900066 — MONT_ST_SULPICE",
-    "description": "**Numéro de Work Order** : WO-245705\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : insalubrité, risque bactériologique. Pourriez vous réaliser le nettoyage svp et boucher les entrées potentielles de pigeons avec des filets ? Certains filets devraient déjà être présents mais ne semblent pas être suffisant car le site est de nouveau infecté 5 mois après le précédent nettoyage.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-23\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 89\n**Nom du site** : MONT_ST_SULPICE\n**Coordonnées** : 47.949110, 3.629416\n[[https://www.google.com/maps?q=47.949110,3.629416|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.949110,3.629416|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9864,3.62517|Déchèterie de Brienon sur Armançon (Brienon-sur-Armançon, 4.2 km)]]\n[[https://www.google.com/maps?q=47.915,3.60002|Decheterie de Seignelay (Seignelay, 4.4 km)]] — 0386434643\n[[https://www.google.com/maps?q=47.9986,3.75257|Déchèterie de Saint Florentin (Saint-Florentin, 10.7 km)]] — 0681506722\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.949110,3.629416,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-245705\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : insalubrité, risque bactériologique. Pourriez vous réaliser le nettoyage svp et boucher les entrées potentielles de pigeons avec des filets ? Certains filets devraient déjà être présents mais ne semblent pas être suffisant car le site est de nouveau infecté 5 mois après le précédent nettoyage.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-23\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 89\n**Nom du site** : MONT_ST_SULPICE\n**Coordonnées** : 47.949110, 3.629416\n[[https://www.google.com/maps?q=47.949110,3.629416|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.949110,3.629416|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9864,3.62517|Déchèterie de Brienon sur Armançon (Brienon-sur-Armançon, 4.2 km)]]\n[[https://www.google.com/maps?q=47.915,3.60002|Decheterie de Seignelay (Seignelay, 4.4 km)]] — 0386434643\n[[https://www.google.com/maps?q=47.9986,3.75257|Déchèterie de Saint Florentin (Saint-Florentin, 10.7 km)]] — 0681506722\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.949110,3.629416,12z|Toutes les déchèteries autour du site 🗑️]]",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "MONT_ST_SULPICE",
@@ -1578,13 +1578,16 @@
     "departement": "89",
     "consignation": "Consigne Particulière",
     "date_planification": "2026-09-23",
+    "equipe": "Manu",
+    "semaine": 37,
     "calque": "mc",
     "code_fra": "FRA08900066",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "M"
     }
    }
   },
