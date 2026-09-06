@@ -1054,7 +1054,7 @@
    },
    "properties": {
     "name": "FRA06600085 — BAIXAS",
-    "description": "**Numéro de Work Order** : WO-245797\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nMerci de réaliser l'entretient EV du site et de voir pour couper l'arbre qui remonte sur la plateforme.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-11\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 66\n**Nom du site** : BAIXAS\n**Coordonnées** : 42.751301, 2.815945\n[[https://www.google.com/maps?q=42.751301,2.815945|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.751301,2.815945|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=42.7879,2.86819|Déchèterie de Rivesaltes (Rivesaltes, 5.9 km)]] — 0468344375\n[[https://www.google.com/maps?q=42.698,2.8419|Déchèterie de Saint Estève (Saint-Estève, 6.3 km)]] — 0468380169\n[[https://www.google.com/maps?q=42.7476,2.92444|Déchèterie de Pia (Pia, 8.9 km)]] — 0468527266\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@42.751301,2.815945,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-245797\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nMerci de réaliser l'entretient EV du site et de voir pour couper l'arbre qui remonte sur la plateforme.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-11\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Said\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 66\n**Nom du site** : BAIXAS\n**Coordonnées** : 42.751301, 2.815945\n[[https://www.google.com/maps?q=42.751301,2.815945|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.751301,2.815945|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=42.7879,2.86819|Déchèterie de Rivesaltes (Rivesaltes, 5.9 km)]] — 0468344375\n[[https://www.google.com/maps?q=42.698,2.8419|Déchèterie de Saint Estève (Saint-Estève, 6.3 km)]] — 0468380169\n[[https://www.google.com/maps?q=42.7476,2.92444|Déchèterie de Pia (Pia, 8.9 km)]] — 0468527266\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@42.751301,2.815945,12z|Toutes les déchèteries autour du site 🗑️]]",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "BAIXAS",
@@ -1064,13 +1064,16 @@
     "scope": "EV - Espaces Verts",
     "departement": "66",
     "date_planification": "2026-09-11",
+    "equipe": "Said",
+    "semaine": 37,
     "calque": "mc",
     "code_fra": "FRA06600085",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "S"
     }
    }
   },
