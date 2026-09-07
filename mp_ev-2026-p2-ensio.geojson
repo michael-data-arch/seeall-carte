@@ -1155,7 +1155,7 @@
    },
    "properties": {
     "name": "FRA01800069 — CHATEAUMEILLANT",
-    "description": "**Numéro de Work Order** : WO-204429 + WO-227781 + WO-243351\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Route de Saint-Saturnin\n**Numéro de département** : 18\n**Nom du site** : CHATEAUMEILLANT\n**Coordonnées** : 46.550986, 2.206303\n[[https://www.google.com/maps?q=46.550986,2.206303|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.550986,2.206303|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.5646,2.28006|Déchèterie de Saint Maur (Saint-Maur, 5.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.493,2.08135|Déchèterie de Sainte Sévère sur Indre (Sainte-Sévère-sur-Indre, 11.5 km)]] — 0254306788\n[[https://www.google.com/maps?q=46.5931,1.97452|Déchèterie de Montgivray (Montgivray, 18.3 km)]] — 0254060887\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.550986,2.206303,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: - POLUX DANS LA BAC Délais de prévenance: 0.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-204429 + WO-227781 + WO-243351\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu (via Michael)\n**Date de la déclaration** : 2026-09-07\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Route de Saint-Saturnin\n**Numéro de département** : 18\n**Nom du site** : CHATEAUMEILLANT\n**Coordonnées** : 46.550986, 2.206303\n[[https://www.google.com/maps?q=46.550986,2.206303|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.550986,2.206303|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.5646,2.28006|Déchèterie de Saint Maur (Saint-Maur, 5.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.493,2.08135|Déchèterie de Sainte Sévère sur Indre (Sainte-Sévère-sur-Indre, 11.5 km)]] — 0254306788\n[[https://www.google.com/maps?q=46.5931,1.97452|Déchèterie de Montgivray (Montgivray, 18.3 km)]] — 0254060887\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.550986,2.206303,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: - POLUX DANS LA BAC Délais de prévenance: 0.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1171,12 +1171,15 @@
     "nacelle": true,
     "equipe": "Manu",
     "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "Manu (via Michael)",
+    "declare_le": "2026-09-07",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800069",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball",
      "iconUrl": "M"
     }
