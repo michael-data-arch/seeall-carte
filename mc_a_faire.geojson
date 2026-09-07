@@ -1528,7 +1528,7 @@
    },
    "properties": {
     "name": "FRA08500104 — NOIRMOUTIER",
-    "description": "**Numéro de Work Order** : WO-244316\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci de faire l'espace vert du site en coupant le lierre présent et arracher ce qui peut être fait a hauteur d'homme.\nla serrure semble HS, je vous autorise à forcer le barillet, et poser une chaine avec cadenas à code.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0225911\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-04\n**Fin de validité** : 2026-09-05\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : airtable\n**Numéro de département** : 85\n**Nom du site** : NOIRMOUTIER\n**Coordonnées** : 47.001874, -2.246968\n[[https://www.google.com/maps?q=47.001874,-2.246968|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.001874,-2.246968|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9721,-2.25099|Déchèterie de la Gueriniere (La Guérinière, 3.3 km)]]\n[[https://www.google.com/maps?q=47.1428,-2.13983|Déchèterie de la Plaine-sur-mer (La Plaine-sur-Mer, 17.6 km)]] — 0251742810\n[[https://www.google.com/maps?q=46.9246,-2.04198|Déchèterie de Beauvoir-sur-mer (Beauvoir-sur-Mer, 17.8 km)]] — 0251490674\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.001874,-2.246968,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: Se munir d’un badge cobalt 85 pour accédé dans l’autocome ou sont installé les baies\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 07/05/2026 Na cockpit O+M :\nSite DIG 11, responsable à contacter en cas de soucis d'accès: guillaume.mary@orange.com",
+    "description": "**Numéro de Work Order** : WO-244316\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci de faire l'espace vert du site en coupant le lierre présent et arracher ce qui peut être fait a hauteur d'homme.\nla serrure semble HS, je vous autorise à forcer le barillet, et poser une chaine avec cadenas à code.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0225911\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-04\n**Fin de validité** : 2026-09-05\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-07\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : airtable\n**Numéro de département** : 85\n**Nom du site** : NOIRMOUTIER\n**Coordonnées** : 47.001874, -2.246968\n[[https://www.google.com/maps?q=47.001874,-2.246968|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.001874,-2.246968|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9721,-2.25099|Déchèterie de la Gueriniere (La Guérinière, 3.3 km)]]\n[[https://www.google.com/maps?q=47.1428,-2.13983|Déchèterie de la Plaine-sur-mer (La Plaine-sur-Mer, 17.6 km)]] — 0251742810\n[[https://www.google.com/maps?q=46.9246,-2.04198|Déchèterie de Beauvoir-sur-mer (Beauvoir-sur-Mer, 17.8 km)]] — 0251490674\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.001874,-2.246968,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: Se munir d’un badge cobalt 85 pour accédé dans l’autocome ou sont installé les baies\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 07/05/2026 Na cockpit O+M :\nSite DIG 11, responsable à contacter en cas de soucis d'accès: guillaume.mary@orange.com",
     "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "NOIRMOUTIER",
@@ -1547,12 +1547,15 @@
     "das_prevenance": "aucune",
     "equipe": "Lassana",
     "semaine": 36,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-07",
     "calque": "mc",
     "code_fra": "FRA08500104",
     "acces_autonome": "non_autonome",
     "acces_motif": "badge Cobalt à retirer au préalable",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#15803D",
      "iconClass": "Drop",
      "iconUrl": "L"
     }
