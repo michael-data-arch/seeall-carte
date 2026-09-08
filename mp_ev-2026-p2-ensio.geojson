@@ -672,7 +672,7 @@
    },
    "properties": {
     "name": "FRA01800046 — ORVAL_NEW",
-    "description": "**Scope de maintenance** : EV\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : import\n**Adresse du site** : ZA de la Couture\n**Numéro de département** : 18\n**Nom du site** : ORVAL_NEW\n**Coordonnées** : 46.726637, 2.468536\n[[https://www.google.com/maps?q=46.726637,2.468536|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.726637,2.468536|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7048,2.51821|Déchèterie de Drevant (Drevant, 4.5 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8056,2.36593|Déchèterie de Vallenay (Vallenay, 11.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.7324,2.66935|Déchèterie de Charenton (Charenton-du-Cher, 15.3 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.726637,2.468536,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Scope de maintenance** : EV\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-08\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : import\n**Adresse du site** : ZA de la Couture\n**Numéro de département** : 18\n**Nom du site** : ORVAL_NEW\n**Coordonnées** : 46.726637, 2.468536\n[[https://www.google.com/maps?q=46.726637,2.468536|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.726637,2.468536|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7048,2.51821|Déchèterie de Drevant (Drevant, 4.5 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8056,2.36593|Déchèterie de Vallenay (Vallenay, 11.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.7324,2.66935|Déchèterie de Charenton (Charenton-du-Cher, 15.3 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.726637,2.468536,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "import",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -683,12 +683,15 @@
     "scope": "EV",
     "equipe": "Manu",
     "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-08",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800046",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#67718A",
+     "color": "#15803D",
      "iconClass": "Ball",
      "iconUrl": "M"
     }
