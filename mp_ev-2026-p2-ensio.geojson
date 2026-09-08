@@ -1873,7 +1873,7 @@
    },
    "properties": {
     "name": "FRA01800107 — ND_RS_LOYE_SUR_ARNON_ORF",
-    "description": "**Numéro de Work Order** : WO-205438 + WO-228497 + WO-243371\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : la Défense Loye-sur-Arnon\n**Numéro de département** : 18\n**Nom du site** : ND_RS_LOYE_SUR_ARNON_ORF\n**Coordonnées** : 46.658081, 2.393054\n[[https://www.google.com/maps?q=46.658081,2.393054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.658081,2.393054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7048,2.51821|Déchèterie de Drevant (Drevant, 10.9 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.5646,2.28006|Déchèterie de Saint Maur (Saint-Maur, 13.5 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8056,2.36593|Déchèterie de Vallenay (Vallenay, 16.5 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.658081,2.393054,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé bailleur Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 11/05/26 D cockpit O+M: COMMUNE LOYE SUR ARNON: 02 48 96 14 53 Prévenance à faire par mail: mairie.loyesurarnon@orange.fr/ 1 semaine à l'avance Autonome",
+    "description": "**Numéro de Work Order** : WO-205438 + WO-228497 + WO-243371\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-08\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : la Défense Loye-sur-Arnon\n**Numéro de département** : 18\n**Nom du site** : ND_RS_LOYE_SUR_ARNON_ORF\n**Coordonnées** : 46.658081, 2.393054\n[[https://www.google.com/maps?q=46.658081,2.393054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.658081,2.393054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7048,2.51821|Déchèterie de Drevant (Drevant, 10.9 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.5646,2.28006|Déchèterie de Saint Maur (Saint-Maur, 13.5 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8056,2.36593|Déchèterie de Vallenay (Vallenay, 16.5 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.658081,2.393054,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé bailleur Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 11/05/26 D cockpit O+M: COMMUNE LOYE SUR ARNON: 02 48 96 14 53 Prévenance à faire par mail: mairie.loyesurarnon@orange.fr/ 1 semaine à l'avance Autonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1886,12 +1886,15 @@
     "wo": "WO-205438 + WO-228497 + WO-243371",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé bailleur Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 11/05/26 D cockpit O+M: COMMUNE LOYE SUR ARNON: 02 48 96 14 53 Prévenance à faire par mail: mairie.loyesurarnon@orange.fr/ 1 semaine à l'avance Autonome",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-08",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800107",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
