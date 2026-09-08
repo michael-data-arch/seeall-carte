@@ -804,7 +804,7 @@
    },
    "properties": {
     "name": "FRA01800047 — AINAY_LE_CHATEAU_FT",
-    "description": "**Numéro de Work Order** : WO-204424 + WO-227776 + WO-243341\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Les Bernon\n**Numéro de département** : 18\n**Nom du site** : AINAY_LE_CHATEAU_FT\n**Coordonnées** : 46.719999, 2.683045\n[[https://www.google.com/maps?q=46.719999,2.683045|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.719999,2.683045|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7324,2.66935|Déchèterie de Charenton (Charenton-du-Cher, 1.7 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.6997,2.6958|Déchèterie d'Ainay-le-château (Ainay-le-Château, 2.5 km)]]\n[[https://www.google.com/maps?q=46.7048,2.51821|Déchèterie de Drevant (Drevant, 12.7 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.719999,2.683045,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Digicode :Mécanique Badge: Boite à clés: Oui Portail / Portillon: pass socotel dans boite a clef Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 17/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
+    "description": "**Numéro de Work Order** : WO-204424 + WO-227776 + WO-243341\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-08\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Les Bernon\n**Numéro de département** : 18\n**Nom du site** : AINAY_LE_CHATEAU_FT\n**Coordonnées** : 46.719999, 2.683045\n[[https://www.google.com/maps?q=46.719999,2.683045|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.719999,2.683045|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7324,2.66935|Déchèterie de Charenton (Charenton-du-Cher, 1.7 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.6997,2.6958|Déchèterie d'Ainay-le-château (Ainay-le-Château, 2.5 km)]]\n[[https://www.google.com/maps?q=46.7048,2.51821|Déchèterie de Drevant (Drevant, 12.7 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.719999,2.683045,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Digicode :Mécanique Badge: Boite à clés: Oui Portail / Portillon: pass socotel dans boite a clef Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 17/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -819,12 +819,15 @@
     "date_planification": "2026-10-31",
     "equipe": "Manu",
     "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-08",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800047",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball",
      "iconUrl": "M"
     }
