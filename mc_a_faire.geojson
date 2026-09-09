@@ -902,7 +902,7 @@
    },
    "properties": {
     "name": "FRA04700047 — CASTELMORON_SUR_LOT",
-    "description": "**Numéro de Work Order** : WO-243828\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nMerci de procéder au nettoyage du site et vérifier par ou peuvent rentrer les oiseaux et condamner ces accès.\n\nCordialement\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0227605\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-09-17\n**Fin de validité** : 2026-09-17\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 47\n**Nom du site** : CASTELMORON_SUR_LOT\n**Coordonnées** : 44.397268, 0.494447\n[[https://www.google.com/maps?q=44.397268,0.494447|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.397268,0.494447|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.3915,0.582674|Déchèterie de Sainte-Livrade-sur-Lot (Sainte-Livrade-sur-Lot, 7.0 km)]] — 0553015665\n[[https://www.google.com/maps?q=44.4038,0.583763|Déchèterie de Sainte Livrade sur Lot (Sainte-Livrade-sur-Lot, 7.1 km)]] — 0553010204\n[[https://www.google.com/maps?q=44.3549,0.368378|Déchèterie de Clairac (Clairac, 11.1 km)]] — 0553649851\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.397268,0.494447,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 27/06/25 D cockpit O+M:\nLalaurie Line: 553849036\nPrévenance obligatoire par mail: mairie@castelmoronsurlot.com/ 10j à l'avance\nAccès: non autonome; il faut avoir les clés",
+    "description": "**Numéro de Work Order** : WO-243828\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nMerci de procéder au nettoyage du site et vérifier par ou peuvent rentrer les oiseaux et condamner ces accès.\n\nCordialement\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0227605\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-09-17\n**Fin de validité** : 2026-09-17\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said (via Michael)\n**Date de la déclaration** : 2026-09-09\n**Provenance du repère** : airtable\n**Numéro de département** : 47\n**Nom du site** : CASTELMORON_SUR_LOT\n**Coordonnées** : 44.397268, 0.494447\n[[https://www.google.com/maps?q=44.397268,0.494447|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.397268,0.494447|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.3915,0.582674|Déchèterie de Sainte-Livrade-sur-Lot (Sainte-Livrade-sur-Lot, 7.0 km)]] — 0553015665\n[[https://www.google.com/maps?q=44.4038,0.583763|Déchèterie de Sainte Livrade sur Lot (Sainte-Livrade-sur-Lot, 7.1 km)]] — 0553010204\n[[https://www.google.com/maps?q=44.3549,0.368378|Déchèterie de Clairac (Clairac, 11.1 km)]] — 0553649851\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.397268,0.494447,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 27/06/25 D cockpit O+M:\nLalaurie Line: 553849036\nPrévenance obligatoire par mail: mairie@castelmoronsurlot.com/ 10j à l'avance\nAccès: non autonome; il faut avoir les clés",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "CASTELMORON_SUR_LOT",
@@ -918,12 +918,15 @@
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 27/06/25 D cockpit O+M:\nLalaurie Line: 553849036\nPrévenance obligatoire par mail: mairie@castelmoronsurlot.com/ 10j à l'avance\nAccès: non autonome; il faut avoir les clés",
     "das_prevenance": "10 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Said (via Michael)",
+    "declare_le": "2026-09-09",
     "calque": "mc",
     "code_fra": "FRA04700047",
     "acces_autonome": "non_autonome",
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
