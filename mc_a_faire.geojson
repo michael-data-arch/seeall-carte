@@ -999,8 +999,8 @@
    },
    "properties": {
     "name": "FRA05400079 — TOUL_CENTRE",
-    "description": "**Numéro de Work Order** : WO-245876\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Pourriez vous aller nettoyer l'accès aux antennes et l'espace ou sont situées les antennes svp : fientes de pigeons ? Le bailleur m'indique également que les filets sont trouées : pourriez vous les changer ou les réparer si possible ?\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-22\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 54\n**Nom du site** : TOUL_CENTRE\n**Coordonnées** : 48.675017, 5.889801\n[[https://www.google.com/maps?q=48.675017,5.889801|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.675017,5.889801|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.695,5.73215|Déchèterie Pagny-sur-meuse (Pagny-sur-Meuse, 11.8 km)]]\n[[https://www.google.com/maps?q=48.5517,5.89466|Déchèterie d'Allain (Colombey-les-Belles, 13.7 km)]] — 0354956241\n[[https://www.google.com/maps?q=48.6241,5.67607|Déchèterie de Vaucouleurs (Vaucouleurs, 16.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.675017,5.889801,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-245876\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Pourriez vous aller nettoyer l'accès aux antennes et l'espace ou sont situées les antennes svp : fientes de pigeons ? Le bailleur m'indique également que les filets sont trouées : pourriez vous les changer ou les réparer si possible ?\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-22\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 54\n**Nom du site** : TOUL_CENTRE\n**Coordonnées** : 48.675017, 5.889801\n[[https://www.google.com/maps?q=48.675017,5.889801|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.675017,5.889801|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.695,5.73215|Déchèterie Pagny-sur-meuse (Pagny-sur-Meuse, 11.8 km)]]\n[[https://www.google.com/maps?q=48.5517,5.89466|Déchèterie d'Allain (Colombey-les-Belles, 13.7 km)]] — 0354956241\n[[https://www.google.com/maps?q=48.6241,5.67607|Déchèterie de Vaucouleurs (Vaucouleurs, 16.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.675017,5.889801,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "TOUL_CENTRE",
     "wo": "WO-245876",
@@ -1014,7 +1014,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -1030,7 +1030,7 @@
    },
    "properties": {
     "name": "FRA05600167 — LANESTER_ATELIERS",
-    "description": "**Numéro de Work Order** : WO-244320\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227597\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-12\n**Fin de validité** : 2026-09-14\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : LANESTER_ATELIERS\n**Coordonnées** : 47.788575, -3.316635\n[[https://www.google.com/maps?q=47.788575,-3.316635|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.788575,-3.316635|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.7385,-3.22275|Déchèterie de Merlevenez (Merlevenez, 9.0 km)]] — 0297656113\n[[https://www.google.com/maps?q=47.911,-3.36117|Déchèterie de Plouay (Plouay, 14.0 km)]] — 0297332123\n[[https://www.google.com/maps?q=47.6702,-3.16882|Déchèterie de Belz (Belz, 17.2 km)]] — 0297553782\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.788575,-3.316635,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - ABLOY\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/04/2026 M cockpit O+M\n(à titre informatif)\n*Pour toute intervention, merci d'envoyer un mail à YLENEZET@laudren.fr\n\n*Délai de prévenance: 5 jours ouvrés à l'avance\n\n*Horaires d'intervention: De 9h à 12h30 – 13h30-17h\n\n*Accès en autonomie.\n\n*Contact de LAUDREN ATLANTIQUE: 02.97.76.83.21",
+    "description": "**Numéro de Work Order** : WO-244320\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227597\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-12\n**Fin de validité** : 2026-09-14\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-09\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : LANESTER_ATELIERS\n**Coordonnées** : 47.788575, -3.316635\n[[https://www.google.com/maps?q=47.788575,-3.316635|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.788575,-3.316635|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.7385,-3.22275|Déchèterie de Merlevenez (Merlevenez, 9.0 km)]] — 0297656113\n[[https://www.google.com/maps?q=47.911,-3.36117|Déchèterie de Plouay (Plouay, 14.0 km)]] — 0297332123\n[[https://www.google.com/maps?q=47.6702,-3.16882|Déchèterie de Belz (Belz, 17.2 km)]] — 0297553782\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.788575,-3.316635,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - ABLOY\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/04/2026 M cockpit O+M\n(à titre informatif)\n*Pour toute intervention, merci d'envoyer un mail à YLENEZET@laudren.fr\n\n*Délai de prévenance: 5 jours ouvrés à l'avance\n\n*Horaires d'intervention: De 9h à 12h30 – 13h30-17h\n\n*Accès en autonomie.\n\n*Contact de LAUDREN ATLANTIQUE: 02.97.76.83.21",
     "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "LANESTER_ATELIERS",
@@ -1049,14 +1049,48 @@
     "das_prevenance": "5 jours",
     "equipe": "Lassana",
     "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-09",
     "calque": "mc",
     "code_fra": "FRA05600167",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#15803D",
      "iconClass": "Drop",
      "iconUrl": "L"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.643684,
+     48.49787
+    ]
+   },
+   "properties": {
+    "name": "FRA06100053 — CEAUCE",
+    "description": "**Numéro de Work Order** : WO-245898\n**État du WO** : Activé\n**Travaux à réaliser** : prevoir debroussaillage du site et de l'accès\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit La Noirerie 61330 CEAUCE\n**Numéro de département** : 61\n**Nom du site** : CEAUCE\n**Coordonnées** : 48.497870, -0.643684\n[[https://www.google.com/maps?q=48.497870,-0.643684|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.497870,-0.643684|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5008,-0.62989|Déchèterie de Ceaucé (Ceaucé, 1.1 km)]] — 0233380669\n[[https://www.google.com/maps?q=48.5093,-0.76317|Déchèterie de Passais (Passais*, 8.9 km)]]\n[[https://www.google.com/maps?q=48.4063,-0.623094|Déchèterie d'Ambrieres-les-vallees (Ambrières-les-Vallées, 10.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.497870,-0.643684,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "prevoir debroussaillage du site et de l'accès",
+    "etat_wo": "Activé",
+    "nom_site": "CEAUCE",
+    "adresse": "Lieu-dit La Noirerie 61330 CEAUCE",
+    "wo": "WO-245898",
+    "priorite": "Travaux Programmés",
+    "departement": "61",
+    "calque": "mc",
+    "code_fra": "FRA06100053",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
     }
    }
   },
