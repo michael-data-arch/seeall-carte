@@ -437,41 +437,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.493615,
-     48.237936
-    ]
-   },
-   "properties": {
-    "name": "FRA02800142 — GAULT_ST_DENIS_TGV",
-    "description": "**Numéro de Work Order** : WO-239994\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : - MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE\n- DÉBUT DE CORROSION SUR PALIER 1\n_ réaliser l'espace vert WO-243434 en MP\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : P4\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Said\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : ensio\n**Numéro de département** : 28\n**Nom du site** : GAULT_ST_DENIS_TGV\n**Coordonnées** : 48.237936, 1.493615\n[[https://www.google.com/maps?q=48.237936,1.493615|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.237936,1.493615|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.1991,1.40028|Déchèterie de Bonneval (Bonneval, 8.2 km)]] — 0237474615\n[[https://www.google.com/maps?q=48.2658,1.64596|Déchèterie des Villages-Vovéens (Voves) (Voves*, 11.7 km)]] — 0237992751\n[[https://www.google.com/maps?q=48.3482,1.46571|Déchèterie de Dammarie (Dammarie, 12.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.237936,1.493615,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "origine": "ensio",
-    "travaux": "- MANQUE 10 M DE GRILLAGE SUR LA CLÔTURE\n- DÉBUT DE CORROSION SUR PALIER 1\n_ réaliser l'espace vert WO-243434 en MP",
-    "etat_wo": "Devis Envoyé",
-    "nom_site": "GAULT_ST_DENIS_TGV",
-    "wo": "WO-239994",
-    "priorite": "P4",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "departement": "28",
-    "date_planification": "2026-09-14",
-    "equipe": "Said",
-    "semaine": 36,
-    "calque": "mc",
-    "code_fra": "FRA02800142",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#2563EB",
-     "iconClass": "LargeCircle",
-     "iconSize": 32,
-     "iconUrl": "S"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -4.270736,
      48.559438
     ]
