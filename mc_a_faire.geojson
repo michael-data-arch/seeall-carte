@@ -184,7 +184,7 @@
    },
    "properties": {
     "name": "FRA01700209 — LES_EDUTS_FT",
-    "description": "**Numéro de Work Order** : WO-245735\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Prevoir debrousaillage et espace vert\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-11\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0225916\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-07\n**Fin de validité** : 2026-09-08\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 17\n**Nom du site** : LES_EDUTS_FT\n**Coordonnées** : 45.989444, -0.216667\n[[https://www.google.com/maps?q=45.989444,-0.216667|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.989444,-0.216667|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.9843,-0.22741|Déchèterie de Nere (Néré, 1.0 km)]] — 0546071666\n[[https://www.google.com/maps?q=46.0288,-0.347983|Déchèterie de Aulnay (Aulnay, 11.0 km)]] — 0546071666\n[[https://www.google.com/maps?q=45.8748,-0.206144|Déchèterie de Massac (beauvais-sur-matha) (Massac, 12.8 km)]] — 0546071666\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.989444,-0.216667,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 28/01/2026 Na cockpit O+M :\nDIG 2, Full TOTEM",
+    "description": "**Numéro de Work Order** : WO-245735\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Prevoir debrousaillage et espace vert\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-11\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0225916\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-07\n**Fin de validité** : 2026-09-08\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said (via Michael)\n**Date de la déclaration** : 2026-09-09\n**Provenance du repère** : airtable\n**Numéro de département** : 17\n**Nom du site** : LES_EDUTS_FT\n**Coordonnées** : 45.989444, -0.216667\n[[https://www.google.com/maps?q=45.989444,-0.216667|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.989444,-0.216667|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.9843,-0.22741|Déchèterie de Nere (Néré, 1.0 km)]] — 0546071666\n[[https://www.google.com/maps?q=46.0288,-0.347983|Déchèterie de Aulnay (Aulnay, 11.0 km)]] — 0546071666\n[[https://www.google.com/maps?q=45.8748,-0.206144|Déchèterie de Massac (beauvais-sur-matha) (Massac, 12.8 km)]] — 0546071666\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.989444,-0.216667,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 28/01/2026 Na cockpit O+M :\nDIG 2, Full TOTEM",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "LES_EDUTS_FT",
@@ -200,12 +200,15 @@
     "das_fin": "2026-09-08",
     "das_provenance": "airtable",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 28/01/2026 Na cockpit O+M :\nDIG 2, Full TOTEM",
+    "etat_terrain": "fait",
+    "declare_par": "Said (via Michael)",
+    "declare_le": "2026-09-09",
     "calque": "mc",
     "code_fra": "FRA01700209",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
