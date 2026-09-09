@@ -4850,7 +4850,7 @@
    },
    "properties": {
     "name": "FRA03700130 — NEUVY_LE_ROI_FT",
-    "description": "**Numéro de Work Order** : WO-204938 + WO-228156 + WO-243522\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Site FT\n**Numéro de département** : 37\n**Nom du site** : NEUVY_LE_ROI_FT\n**Coordonnées** : 47.588407, 0.601636\n[[https://www.google.com/maps?q=47.588407,0.601636|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.588407,0.601636|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5977,0.519769|Déchèterie de Saint Paterne Racan (Saint-Paterne-Racan, 6.2 km)]] — 0247293950\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 9.5 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.6715,0.758223|Déchèterie des Hermites (Les Hermites, 14.9 km)]] — 0247563341\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.588407,0.601636,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Code 532 Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: Site DIG 2; autonome",
+    "description": "**Numéro de Work Order** : WO-204938 + WO-228156 + WO-243522\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-09-09\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Site FT\n**Numéro de département** : 37\n**Nom du site** : NEUVY_LE_ROI_FT\n**Coordonnées** : 47.588407, 0.601636\n[[https://www.google.com/maps?q=47.588407,0.601636|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.588407,0.601636|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5977,0.519769|Déchèterie de Saint Paterne Racan (Saint-Paterne-Racan, 6.2 km)]] — 0247293950\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 9.5 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.6715,0.758223|Déchèterie des Hermites (Les Hermites, 14.9 km)]] — 0247563341\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.588407,0.601636,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Code 532 Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: Site DIG 2; autonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -4863,12 +4863,15 @@
     "wo": "WO-204938 + WO-228156 + WO-243522",
     "acces_detail": "Digicode: Code 532 Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: Site DIG 2; autonome",
     "date_planification": "2026-11-15",
+    "etat_terrain": "fait",
+    "declare_par": "Enzo (via Michael)",
+    "declare_le": "2026-09-09",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700130",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
