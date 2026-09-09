@@ -5408,7 +5408,7 @@
    },
    "properties": {
     "name": "FRA03700159 — MONTREUIL_TOURAINE_TGV",
-    "description": "**Numéro de Work Order** : WO-204946 + WO-228164 + WO-243538\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Berterie\n**Numéro de département** : 37\n**Nom du site** : MONTREUIL_TOURAINE_TGV\n**Coordonnées** : 47.500116, 0.946468\n[[https://www.google.com/maps?q=47.500116,0.946468|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.500116,0.946468|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.519,0.91555|Déchèterie de Neuillé le Lierre (Neuillé-le-Lierre, 3.1 km)]] — 0247296669\n[[https://www.google.com/maps?q=47.4136,1.00894|Déchèterie d'Amboise (Amboise, 10.7 km)]] — 0247234744\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 10.8 km)]] — 0247255550\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.500116,0.946468,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: ABLOY Cadenas: Abloy OR/ABJRK Commentaire d'accès: 30/01/2026 Na cockpit O+M : Après confirmation auprès du bailleur: sans prévenance Accès en Autonomie Contact Bailleur: - M. Coudray : 0676696331",
+    "description": "**Numéro de Work Order** : WO-204946 + WO-228164 + WO-243538\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-09-09\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Berterie\n**Numéro de département** : 37\n**Nom du site** : MONTREUIL_TOURAINE_TGV\n**Coordonnées** : 47.500116, 0.946468\n[[https://www.google.com/maps?q=47.500116,0.946468|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.500116,0.946468|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.519,0.91555|Déchèterie de Neuillé le Lierre (Neuillé-le-Lierre, 3.1 km)]] — 0247296669\n[[https://www.google.com/maps?q=47.4136,1.00894|Déchèterie d'Amboise (Amboise, 10.7 km)]] — 0247234744\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 10.8 km)]] — 0247255550\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.500116,0.946468,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: ABLOY Cadenas: Abloy OR/ABJRK Commentaire d'accès: 30/01/2026 Na cockpit O+M : Après confirmation auprès du bailleur: sans prévenance Accès en Autonomie Contact Bailleur: - M. Coudray : 0676696331",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -5421,12 +5421,15 @@
     "wo": "WO-204946 + WO-228164 + WO-243538",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: ABLOY Cadenas: Abloy OR/ABJRK Commentaire d'accès: 30/01/2026 Na cockpit O+M : Après confirmation auprès du bailleur: sans prévenance Accès en Autonomie Contact Bailleur: - M. Coudray : 0676696331",
     "date_planification": "2026-11-15",
+    "etat_terrain": "fait",
+    "declare_par": "Enzo (via Michael)",
+    "declare_le": "2026-09-09",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700159",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
