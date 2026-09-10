@@ -50,7 +50,7 @@
    },
    "properties": {
     "name": "FRA01800003 — BOURGES_PIPACT",
-    "description": "**Numéro de Work Order** : WO-204417 + WO-227769 + WO-243724\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Péage A71. sortie 7\n**Numéro de département** : 18\n**Nom du site** : BOURGES_PIPACT\n**Coordonnées** : 47.045455, 2.345080\n[[https://www.google.com/maps?q=47.045455,2.345080|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.045455,2.345080|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0042,2.25801|Déchèterie de Saint Florent sur Cher (Saint-Florent-sur-Cher, 8.0 km)]] — 0248551601\n[[https://www.google.com/maps?q=46.9356,2.39866|Déchèterie de Levet (Levet, 12.9 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 13.0 km)]] — 0800897730\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.045455,2.345080,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-204417 + WO-227769 + WO-243724\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-10\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Péage A71. sortie 7\n**Numéro de département** : 18\n**Nom du site** : BOURGES_PIPACT\n**Coordonnées** : 47.045455, 2.345080\n[[https://www.google.com/maps?q=47.045455,2.345080|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.045455,2.345080|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0042,2.25801|Déchèterie de Saint Florent sur Cher (Saint-Florent-sur-Cher, 8.0 km)]] — 0248551601\n[[https://www.google.com/maps?q=46.9356,2.39866|Déchèterie de Levet (Levet, 12.9 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 13.0 km)]] — 0800897730\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.045455,2.345080,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -66,12 +66,15 @@
     "nacelle": true,
     "equipe": "Manu",
     "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-10",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800003",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball",
      "iconUrl": "M"
     }
