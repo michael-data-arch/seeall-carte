@@ -683,35 +683,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -1.106055,
-     48.122945
-    ]
-   },
-   "properties": {
-    "name": "FRA03500203 — ERBREE_TGV",
-    "description": "**Numéro de Work Order** : WO-245908\n**État du WO** : Activé\n**Travaux à réaliser** : Végétation très abondante - prévoir de débroussailler ZT + les alentours , autour de la ZT et coffret électrique du site\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : ERBREE_TGV\n**Coordonnées** : 48.122945, -1.106055\n[[https://www.google.com/maps?q=48.122945,-1.106055|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.122945,-1.106055|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.1151,-1.18414|Valoparc de Vitré (Vitré, 5.9 km)]] — 0299747077\n[[https://www.google.com/maps?q=48.0563,-1.1295|Déchèterie d'Argentré-du-plessis (Argentré-du-Plessis, 7.6 km)]] — 0223550101\n[[https://www.google.com/maps?q=48.1096,-0.974118|Déchèterie de Port-brillet (Port-Brillet, 9.9 km)]] — 0243018228\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.122945,-1.106055,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "etat_wo": "Activé",
-    "origine": "airtable",
-    "nom_site": "ERBREE_TGV",
-    "wo": "WO-245908",
-    "travaux": "Végétation très abondante - prévoir de débroussailler ZT + les alentours , autour de la ZT et coffret électrique du site",
-    "priorite": "Travaux Programmés",
-    "departement": "35",
-    "calque": "mc",
-    "code_fra": "FRA03500203",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -1.858333,
      48.285556
     ]
