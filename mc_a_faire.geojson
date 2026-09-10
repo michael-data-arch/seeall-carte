@@ -718,7 +718,7 @@
    },
    "properties": {
     "name": "FRA03500238 — LES_IFFS",
-    "description": "**Numéro de Work Order** : WO-245729\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : débroussaillage de la ZT\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227600\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-11\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : LES_IFFS\n**Coordonnées** : 48.285556, -1.858333\n[[https://www.google.com/maps?q=48.285556,-1.858333|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.285556,-1.858333|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.318,-1.83049|Déchèterie de Tinténiac (Tinténiac, 4.2 km)]]\n[[https://www.google.com/maps?q=48.227,-1.87268|Déchèterie de Romillé (Romillé, 6.6 km)]]\n[[https://www.google.com/maps?q=48.2062,-1.79011|Déchèterie de Gévezé (Gévezé, 10.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.285556,-1.858333,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SANS OBJET\nBadge: SANS OBJET\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 20/05/26 D cockpit O+M:\nAccès: autonome, sans prévenance",
+    "description": "**Numéro de Work Order** : WO-245729\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : débroussaillage de la ZT\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227600\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-11\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-10\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : LES_IFFS\n**Coordonnées** : 48.285556, -1.858333\n[[https://www.google.com/maps?q=48.285556,-1.858333|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.285556,-1.858333|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.318,-1.83049|Déchèterie de Tinténiac (Tinténiac, 4.2 km)]]\n[[https://www.google.com/maps?q=48.227,-1.87268|Déchèterie de Romillé (Romillé, 6.6 km)]]\n[[https://www.google.com/maps?q=48.2062,-1.79011|Déchèterie de Gévezé (Gévezé, 10.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.285556,-1.858333,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SANS OBJET\nBadge: SANS OBJET\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 20/05/26 D cockpit O+M:\nAccès: autonome, sans prévenance",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "LES_IFFS",
@@ -736,12 +736,15 @@
     "acces_detail": "Digicode: SANS OBJET\nBadge: SANS OBJET\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 20/05/26 D cockpit O+M:\nAccès: autonome, sans prévenance",
     "equipe": "Lassana",
     "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-10",
     "calque": "mc",
     "code_fra": "FRA03500238",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop",
      "iconUrl": "L"
     }
