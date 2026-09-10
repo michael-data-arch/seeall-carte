@@ -1600,7 +1600,7 @@
    },
    "properties": {
     "name": "FRA01800088 — LE_SUBDRAY",
-    "description": "**Numéro de Work Order** : WO-204436 + WO-227788 + WO-243363\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Le Bois de la Messe\n**Numéro de département** : 18\n**Nom du site** : LE_SUBDRAY\n**Coordonnées** : 47.022723, 2.293139\n[[https://www.google.com/maps?q=47.022723,2.293139|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.022723,2.293139|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0042,2.25801|Déchèterie de Saint Florent sur Cher (Saint-Florent-sur-Cher, 3.4 km)]] — 0248551601\n[[https://www.google.com/maps?q=46.9356,2.39866|Déchèterie de Levet (Levet, 12.6 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 13.5 km)]] — 0800897730\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.022723,2.293139,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SANS OBJET Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 0.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 07/05/2026 Na cockpit O+M : Site DIG 3, responsable à contacter en cas de soucis d'accès: daniel.petillat@orange.com en copie sylvain.berrueco@orange.com",
+    "description": "**Numéro de Work Order** : WO-204436 + WO-227788 + WO-243363\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-10\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Le Bois de la Messe\n**Numéro de département** : 18\n**Nom du site** : LE_SUBDRAY\n**Coordonnées** : 47.022723, 2.293139\n[[https://www.google.com/maps?q=47.022723,2.293139|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.022723,2.293139|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0042,2.25801|Déchèterie de Saint Florent sur Cher (Saint-Florent-sur-Cher, 3.4 km)]] — 0248551601\n[[https://www.google.com/maps?q=46.9356,2.39866|Déchèterie de Levet (Levet, 12.6 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 13.5 km)]] — 0800897730\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.022723,2.293139,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SANS OBJET Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 0.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 07/05/2026 Na cockpit O+M : Site DIG 3, responsable à contacter en cas de soucis d'accès: daniel.petillat@orange.com en copie sylvain.berrueco@orange.com",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1613,12 +1613,15 @@
     "wo": "WO-204436 + WO-227788 + WO-243363",
     "acces_detail": "Digicode: SANS OBJET Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 0.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 07/05/2026 Na cockpit O+M : Site DIG 3, responsable à contacter en cas de soucis d'accès: daniel.petillat@orange.com en copie sylvain.berrueco@orange.com",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-10",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800088",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
