@@ -283,7 +283,7 @@
    },
    "properties": {
     "name": "FRA01800059 — SANCERRE_CROIX_POIGNON",
-    "description": "**Numéro de Work Order** : WO-244325\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Réservoir des eaux de Verdigny 18300 VERDIGNY\n**Numéro de département** : 18\n**Nom du site** : SANCERRE_CROIX_POIGNON\n**Coordonnées** : 47.352947, 2.801330\n[[https://www.google.com/maps?q=47.352947,2.801330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.352947,2.801330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 6.6 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 10.5 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4223,2.97471|Déchèterie de Cosne (Cosne-Cours-sur-Loire, 15.2 km)]] — 0386260583\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.352947,2.801330,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-244325\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Adresse du site** : Réservoir des eaux de Verdigny 18300 VERDIGNY\n**Numéro de département** : 18\n**Nom du site** : SANCERRE_CROIX_POIGNON\n**Coordonnées** : 47.352947, 2.801330\n[[https://www.google.com/maps?q=47.352947,2.801330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.352947,2.801330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 6.6 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 10.5 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4223,2.97471|Déchèterie de Cosne (Cosne-Cours-sur-Loire, 15.2 km)]] — 0386260583\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.352947,2.801330,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "travaux": "La végétation commence à prendre le dessus sur les équipements un nettoyage/Débroussaillage est nécéssaire voir photo en pj",
     "etat_wo": "Travaux planifiés",
@@ -294,6 +294,7 @@
     "scope": "EV - Espaces Verts",
     "departement": "18",
     "date_planification": "2026-09-16",
+    "equipe": "Lassana",
     "calque": "mc",
     "code_fra": "FRA01800059",
     "acces_autonome": "a_confirmer",
@@ -301,7 +302,8 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "L"
     }
    }
   },
