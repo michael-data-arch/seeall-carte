@@ -179,7 +179,7 @@
    },
    "properties": {
     "name": "FRA01400150 — DOZULE_NEW",
-    "description": "**Numéro de Work Order** : WO-245778\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Étiquette maintenance annuelle manquante et demande pour débroussailler le site.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Chemin du Bois 14430 Dozulé\n**Numéro de département** : 14\n**Nom du site** : DOZULE_NEW\n**Coordonnées** : 49.221015, -0.049288\n[[https://www.google.com/maps?q=49.221015,-0.049288|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.221015,-0.049288|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.1458,0.044063|Déchèterie de Cambremer (CAMBREMER, 10.8 km)]]\n[[https://www.google.com/maps?q=49.3117,0.00619029|Déchèterie de Villers-sur-Mer (Villers-sur-Mer, 10.9 km)]]\n[[https://www.google.com/maps?q=49.117,-0.19172|Déchèterie de Moult (Moult*, 15.5 km)]] — 0231234242\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.221015,-0.049288,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-245778\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Étiquette maintenance annuelle manquante et demande pour débroussailler le site.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Sous-traitant affecté** : Enzo\n**Provenance du repère** : ensio\n**Adresse du site** : Chemin du Bois 14430 Dozulé\n**Numéro de département** : 14\n**Nom du site** : DOZULE_NEW\n**Coordonnées** : 49.221015, -0.049288\n[[https://www.google.com/maps?q=49.221015,-0.049288|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.221015,-0.049288|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.1458,0.044063|Déchèterie de Cambremer (CAMBREMER, 10.8 km)]]\n[[https://www.google.com/maps?q=49.3117,0.00619029|Déchèterie de Villers-sur-Mer (Villers-sur-Mer, 10.9 km)]]\n[[https://www.google.com/maps?q=49.117,-0.19172|Déchèterie de Moult (Moult*, 15.5 km)]] — 0231234242\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.221015,-0.049288,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "travaux": "Étiquette maintenance annuelle manquante et demande pour débroussailler le site.",
     "etat_wo": "Travaux planifiés",
@@ -190,6 +190,7 @@
     "scope": "EV - Espaces Verts",
     "departement": "14",
     "date_planification": "2026-09-17",
+    "sous_traitant": "Enzo",
     "calque": "mc",
     "code_fra": "FRA01400150",
     "acces_autonome": "a_confirmer",
@@ -197,7 +198,8 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "E"
     }
    }
   },
