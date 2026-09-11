@@ -728,7 +728,7 @@
    },
    "properties": {
     "name": "FRA05300013 — MAYENNE",
-    "description": "**Numéro de Work Order** : WO-245817\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Pour intervention nacelle, prévoir débroussaillage du site (plaintes des voisins) car pylône noyé sous la végétation + Élagage du dernier arbre pour accès nacelle.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0230151\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-11\n**Fin de validité** : 2026-09-13\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 53\n**Nom du site** : MAYENNE\n**Coordonnées** : 48.310848, -0.645265\n[[https://www.google.com/maps?q=48.310848,-0.645265|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.310848,-0.645265|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.3066,-0.654863|Déchèterie de Parigné sur Braye (Parigné-sur-Braye, 0.9 km)]] — 0670030997\n[[https://www.google.com/maps?q=48.3637,-0.669715|Déchèterie d'Oisseau (Oisseau, 6.1 km)]]\n[[https://www.google.com/maps?q=48.2959,-0.55748|Déchèterie Aron (Aron, 6.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.310848,-0.645265,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Non - ABLOY\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 21/10/25 P cockpit O+M\nAccès en autonomie ( iloq et ABLOY) / accès aérien par nacelle PL ( le terrain est affaissé (proche du pylône)\nPylône avec local en dur, dans la ZI des Perrouins",
+    "description": "**Numéro de Work Order** : WO-245817\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Pour intervention nacelle, prévoir débroussaillage du site (plaintes des voisins) car pylône noyé sous la végétation + Élagage du dernier arbre pour accès nacelle.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0230151\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-11\n**Fin de validité** : 2026-09-13\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-11\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 53\n**Nom du site** : MAYENNE\n**Coordonnées** : 48.310848, -0.645265\n[[https://www.google.com/maps?q=48.310848,-0.645265|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.310848,-0.645265|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.3066,-0.654863|Déchèterie de Parigné sur Braye (Parigné-sur-Braye, 0.9 km)]] — 0670030997\n[[https://www.google.com/maps?q=48.3637,-0.669715|Déchèterie d'Oisseau (Oisseau, 6.1 km)]]\n[[https://www.google.com/maps?q=48.2959,-0.55748|Déchèterie Aron (Aron, 6.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.310848,-0.645265,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Non - ABLOY\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 21/10/25 P cockpit O+M\nAccès en autonomie ( iloq et ABLOY) / accès aérien par nacelle PL ( le terrain est affaissé (proche du pylône)\nPylône avec local en dur, dans la ZI des Perrouins",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "MAYENNE",
@@ -746,12 +746,15 @@
     "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Non - ABLOY\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 21/10/25 P cockpit O+M\nAccès en autonomie ( iloq et ABLOY) / accès aérien par nacelle PL ( le terrain est affaissé (proche du pylône)\nPylône avec local en dur, dans la ZI des Perrouins",
     "equipe": "Lassana",
     "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-11",
     "calque": "mc",
     "code_fra": "FRA05300013",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop",
      "iconUrl": "L"
     }
