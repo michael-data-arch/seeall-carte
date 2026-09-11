@@ -246,16 +246,16 @@
    },
    "properties": {
     "name": "FRA01800023 — VIERZON_A20",
-    "description": "**Numéro de Work Order** : WO-236488\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Débroussaillage du chemin d'accès et de la zone technique jusqu'au pylône pour planifier une intervention de maintenance sur les aériens à l'aide d'une nacelle\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P2\n**Date de planification** : 2026-07-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227595\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-07\n**Fin de validité** : 2026-09-07\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 18\n**Nom du site** : VIERZON_A20\n**Coordonnées** : 47.239397, 2.038807\n[[https://www.google.com/maps?q=47.239397,2.038807|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.239397,2.038807|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3183,2.03963|Déchèterie de Theillay (Theillay, 8.8 km)]] — 0254885828\n[[https://www.google.com/maps?q=47.1943,2.1827|Déchèterie de Vignoux sur Barangeon (Vignoux-sur-Barangeon, 12.0 km)]] — 0248515419\n[[https://www.google.com/maps?q=47.1292,2.07192|Déchèterie de Lury sur Arnon (Lury-sur-Arnon, 12.5 km)]] — 0248517382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.239397,2.038807,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Electronique SO\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 18/05/2026 Cockpit O+M / A\nCode cadenas sur portillon : 1881",
+    "description": "**Numéro de Work Order** : WO-236488\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Débroussaillage du chemin d'accès et de la zone technique jusqu'au pylône pour planifier une intervention de maintenance sur les aériens à l'aide d'une nacelle\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227595\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-07\n**Fin de validité** : 2026-09-07\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 18\n**Nom du site** : VIERZON_A20\n**Coordonnées** : 47.239397, 2.038807\n[[https://www.google.com/maps?q=47.239397,2.038807|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.239397,2.038807|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3183,2.03963|Déchèterie de Theillay (Theillay, 8.8 km)]] — 0254885828\n[[https://www.google.com/maps?q=47.1943,2.1827|Déchèterie de Vignoux sur Barangeon (Vignoux-sur-Barangeon, 12.0 km)]] — 0248515419\n[[https://www.google.com/maps?q=47.1292,2.07192|Déchèterie de Lury sur Arnon (Lury-sur-Arnon, 12.5 km)]] — 0248517382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.239397,2.038807,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Electronique SO\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 18/05/2026 Cockpit O+M / A\nCode cadenas sur portillon : 1881",
     "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "VIERZON_A20",
     "wo": "WO-236488",
     "travaux": "Débroussaillage du chemin d'accès et de la zone technique jusqu'au pylône pour planifier une intervention de maintenance sur les aériens à l'aide d'une nacelle",
-    "priorite": "P2",
+    "priorite": "Travaux Programmés",
     "scope": "EV - Espaces Verts",
     "departement": "18",
-    "date_planification": "2026-07-17",
+    "date_planification": "2026-09-15",
     "das_numero": "DAS-N0227595",
     "das_statut": "Acceptée",
     "das_provenance": "airtable",
@@ -689,6 +689,45 @@
     "_umap_options": {
      "color": "#2563EB",
      "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.824265,
+     49.663732
+    ]
+   },
+   "properties": {
+    "name": "FRA05000080 — GREVILLE_HAGUE",
+    "description": "**Numéro de Work Order** : WO-236396\n**État du WO** : CR Refusé\n**Travaux à réaliser** : Action\n- PRÉSENCE DE MOUSSE SUR PYLÔNE\n- PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE ) non pris en charge par la MP ( mettre du galva )\nChanger les charnières de la porte coutier\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-09-02\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0218812\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-02\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Le Clos Fabien 50440 GREVILLE HAGUE\n**Numéro de département** : 50\n**Nom du site** : GREVILLE_HAGUE\n**Coordonnées** : 49.663732, -1.824265\n[[https://www.google.com/maps?q=49.663732,-1.824265|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.663732,-1.824265|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6603,-1.82189|Decheterie de Greville Hague (Gréville-Hague*, 0.4 km)]] — 0233041836\n[[https://www.google.com/maps?q=49.5825,-1.78041|Déchèterie Héauville (Héauville, 9.6 km)]]\n[[https://www.google.com/maps?q=49.6038,-1.6611|Decheterie de Martinvast (Martinvast, 13.5 km)]] — 0233940083\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.663732,-1.824265,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Bailleur\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas: Sur le portillon cadenas abloy\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 13/11/25 D cockpit O+M:\nAccès: en autonomie (Full TOTEM)",
+    "origine": "ensio",
+    "travaux": "Action\n- PRÉSENCE DE MOUSSE SUR PYLÔNE\n- PRÉSENCE DE CORROSION SUR PYLÔNE (BOULONS ÉCHELLE ) non pris en charge par la MP ( mettre du galva )\nChanger les charnières de la porte coutier",
+    "etat_wo": "CR Refusé",
+    "nom_site": "GREVILLE_HAGUE",
+    "adresse": "Le Clos Fabien 50440 GREVILLE HAGUE",
+    "wo": "WO-236396",
+    "priorite": "P3",
+    "scope": "EVT - Environnement Technique",
+    "departement": "50",
+    "date_planification": "2026-09-02",
+    "das_numero": "DAS-N0218812",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-08-31",
+    "das_fin": "2026-09-02",
+    "das_provenance": "airtable",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Bailleur\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas: Sur le portillon cadenas abloy\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 13/11/25 D cockpit O+M:\nAccès: en autonomie (Full TOTEM)",
+    "calque": "mc",
+    "code_fra": "FRA05000080",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#DB2777",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
     }
    }
   },
