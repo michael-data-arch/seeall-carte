@@ -893,7 +893,7 @@
    },
    "properties": {
     "name": "FRA06100053 — CEAUCE",
-    "description": "**Numéro de Work Order** : WO-245898\n**État du WO** : CR Refusé\n**Travaux à réaliser** : prevoir debroussaillage du site et de l'accès\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0230153\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-13\n**Fin de validité** : 2026-09-15\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit La Noirerie 61330 CEAUCE\n**Numéro de département** : 61\n**Nom du site** : CEAUCE\n**Coordonnées** : 48.497870, -0.643684\n[[https://www.google.com/maps?q=48.497870,-0.643684|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.497870,-0.643684|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5008,-0.62989|Déchèterie de Ceaucé (Ceaucé, 1.1 km)]] — 0233380669\n[[https://www.google.com/maps?q=48.5093,-0.76317|Déchèterie de Passais (Passais*, 8.9 km)]]\n[[https://www.google.com/maps?q=48.4063,-0.623094|Déchèterie d'Ambrieres-les-vallees (Ambrières-les-Vallées, 10.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.497870,-0.643684,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - clés ABLOY\nDélais de prévenance: 3.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/03/2026 M cockpit O+M :\n*Pour toute intervention, merci d'envoyer un mail à maignanmichel@wanadoo.fr\n\n*Délai de prévenance: 3 jours à l'avance\n\n*Accès en autonomie.\n\n*Contact de Mr et Mme MAIGNAN: 06.37.14.31.20",
+    "description": "**Numéro de Work Order** : WO-245898\n**État du WO** : CR Refusé\n**Travaux à réaliser** : prevoir debroussaillage du site et de l'accès\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0230153\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-13\n**Fin de validité** : 2026-09-15\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-12\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Adresse du site** : Lieu-dit La Noirerie 61330 CEAUCE\n**Numéro de département** : 61\n**Nom du site** : CEAUCE\n**Coordonnées** : 48.497870, -0.643684\n[[https://www.google.com/maps?q=48.497870,-0.643684|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.497870,-0.643684|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5008,-0.62989|Déchèterie de Ceaucé (Ceaucé, 1.1 km)]] — 0233380669\n[[https://www.google.com/maps?q=48.5093,-0.76317|Déchèterie de Passais (Passais*, 8.9 km)]]\n[[https://www.google.com/maps?q=48.4063,-0.623094|Déchèterie d'Ambrieres-les-vallees (Ambrières-les-Vallées, 10.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.497870,-0.643684,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - clés ABLOY\nDélais de prévenance: 3.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/03/2026 M cockpit O+M :\n*Pour toute intervention, merci d'envoyer un mail à maignanmichel@wanadoo.fr\n\n*Délai de prévenance: 3 jours à l'avance\n\n*Accès en autonomie.\n\n*Contact de Mr et Mme MAIGNAN: 06.37.14.31.20",
     "origine": "ensio",
     "travaux": "prevoir debroussaillage du site et de l'accès",
     "etat_wo": "CR Refusé",
@@ -911,12 +911,15 @@
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - clés ABLOY\nDélais de prévenance: 3.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 27/03/2026 M cockpit O+M :\n*Pour toute intervention, merci d'envoyer un mail à maignanmichel@wanadoo.fr\n\n*Délai de prévenance: 3 jours à l'avance\n\n*Accès en autonomie.\n\n*Contact de Mr et Mme MAIGNAN: 06.37.14.31.20",
     "das_prevenance": "3 jours",
     "equipe": "Lassana",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-12",
     "calque": "mc",
     "code_fra": "FRA06100053",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DB2777",
+     "color": "#15803D",
      "iconClass": "LargeCircle",
      "iconSize": 32,
      "iconUrl": "L"
