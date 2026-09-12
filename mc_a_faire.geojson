@@ -255,49 +255,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.038807,
-     47.239397
-    ]
-   },
-   "properties": {
-    "name": "FRA01800023 — VIERZON_A20",
-    "description": "**Numéro de Work Order** : WO-236488\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Débroussaillage du chemin d'accès et de la zone technique jusqu'au pylône pour planifier une intervention de maintenance sur les aériens à l'aide d'une nacelle\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0227595\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-07\n**Fin de validité** : 2026-09-07\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-236488)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-09-12\n**Équipe affectée** : Lassana\n**Provenance du repère** : airtable\n**Numéro de département** : 18\n**Nom du site** : VIERZON_A20\n**Coordonnées** : 47.239397, 2.038807\n[[https://www.google.com/maps?q=47.239397,2.038807|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.239397,2.038807|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3183,2.03963|Déchèterie de Theillay (Theillay, 8.8 km)]] — 0254885828\n[[https://www.google.com/maps?q=47.1943,2.1827|Déchèterie de Vignoux sur Barangeon (Vignoux-sur-Barangeon, 12.0 km)]] — 0248515419\n[[https://www.google.com/maps?q=47.1292,2.07192|Déchèterie de Lury sur Arnon (Lury-sur-Arnon, 12.5 km)]] — 0248517382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.239397,2.038807,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Electronique SO\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 18/05/2026 Cockpit O+M / A\nCode cadenas sur portillon : 1881",
-    "etat_wo": "Devis Envoyé",
-    "origine": "airtable",
-    "nom_site": "VIERZON_A20",
-    "wo": "WO-236488",
-    "travaux": "Débroussaillage du chemin d'accès et de la zone technique jusqu'au pylône pour planifier une intervention de maintenance sur les aériens à l'aide d'une nacelle",
-    "priorite": "Travaux Programmés",
-    "scope": "EV - Espaces Verts",
-    "departement": "18",
-    "date_planification": "2026-09-15",
-    "das_numero": "DAS-N0227595",
-    "das_statut": "Acceptée",
-    "das_provenance": "airtable",
-    "das_debut": "2026-09-07",
-    "das_fin": "2026-09-07",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Electronique SO\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 18/05/2026 Cockpit O+M / A\nCode cadenas sur portillon : 1881",
-    "equipe": "Lassana",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-09-12",
-    "commentaire_terrain": "CRI déposé (WO-236488)",
-    "calque": "mc",
-    "code_fra": "FRA01800023",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop",
-     "iconUrl": "L"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.80133,
      47.352947
     ]
@@ -1382,6 +1339,36 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.943056,
+     48.566389
+    ]
+   },
+   "properties": {
+    "name": "FRA07800223 — ST_ARNOULT_EN_YVELINES",
+    "description": "**Numéro de Work Order** : WO-246134\n**État du WO** : Activé\n**Travaux à réaliser** : DEMANDE BAILLEUR:\nsécuriser les équipements extérieurs contre le mur en clôturant la zone car lieu accueillant du public (mur d'escalade)\n- contacter le bailleur pour valider avec lui une solution (pose de clôture? ou autre?)\n- faire un devis\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 78\n**Nom du site** : ST_ARNOULT_EN_YVELINES\n**Coordonnées** : 48.566389, 1.943056\n[[https://www.google.com/maps?q=48.566389,1.943056|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.566389,1.943056|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5578,1.91085|DÉchÈterie de Saint-arnoult-en-yvelines (SAINT-ARNOULT-EN-YVELINES, 2.6 km)]] — 0130414133\n[[https://www.google.com/maps?q=48.5338,2.00561|Déchèterie Dourdan (Dourdan, 5.9 km)]]\n[[https://www.google.com/maps?q=48.6265,2.02833|Déchèterie de Bonnelles (BONNELLES, 9.2 km)]] — 0130886778\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.566389,1.943056,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "ST_ARNOULT_EN_YVELINES",
+    "wo": "WO-246134",
+    "travaux": "DEMANDE BAILLEUR:\nsécuriser les équipements extérieurs contre le mur en clôturant la zone car lieu accueillant du public (mur d'escalade)\n- contacter le bailleur pour valider avec lui une solution (pose de clôture? ou autre?)\n- faire un devis",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique",
+    "departement": "78",
+    "calque": "mc",
+    "code_fra": "FRA07800223",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
      "iconClass": "Drop"
     }
    }
