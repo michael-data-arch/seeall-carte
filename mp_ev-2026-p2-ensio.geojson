@@ -1193,7 +1193,7 @@
    },
    "properties": {
     "name": "FRA01800082 — VIGNOUX_SUR_BARANGEON",
-    "description": "**Numéro de Work Order** : WO-205437 + WO-228496 + WO-243358\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : RN76\n**Numéro de département** : 18\n**Nom du site** : VIGNOUX_SUR_BARANGEON\n**Coordonnées** : 47.205946, 2.157914\n[[https://www.google.com/maps?q=47.205946,2.157914|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.205946,2.157914|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1943,2.1827|Déchèterie de Vignoux sur Barangeon (Vignoux-sur-Barangeon, 2.3 km)]] — 0248515419\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 9.8 km)]] — 0800897730\n[[https://www.google.com/maps?q=47.1292,2.07192|Déchèterie de Lury sur Arnon (Lury-sur-Arnon, 10.7 km)]] — 0248517382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.205946,2.157914,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Cadenas: Cadenas à code Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-205437 + WO-228496 + WO-243358\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-12\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : RN76\n**Numéro de département** : 18\n**Nom du site** : VIGNOUX_SUR_BARANGEON\n**Coordonnées** : 47.205946, 2.157914\n[[https://www.google.com/maps?q=47.205946,2.157914|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.205946,2.157914|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1943,2.1827|Déchèterie de Vignoux sur Barangeon (Vignoux-sur-Barangeon, 2.3 km)]] — 0248515419\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 9.8 km)]] — 0800897730\n[[https://www.google.com/maps?q=47.1292,2.07192|Déchèterie de Lury sur Arnon (Lury-sur-Arnon, 10.7 km)]] — 0248517382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.205946,2.157914,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Cadenas: Cadenas à code Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1206,12 +1206,15 @@
     "wo": "WO-205437 + WO-228496 + WO-243358",
     "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Cadenas: Cadenas à code Commentaire d'accès:",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-12",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800082",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
