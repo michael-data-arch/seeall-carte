@@ -1446,7 +1446,7 @@
    },
    "properties": {
     "name": "FRA01800109 — ND_4GF_ST_HILAIRE_DE_GONDILLY_ORF",
-    "description": "**Numéro de Work Order** : WO-204851 + WO-228072 + WO-243372\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Allée du Souvenir\n**Numéro de département** : 18\n**Nom du site** : ND_4GF_ST_HILAIRE_DE_GONDILLY_ORF\n**Coordonnées** : 47.050266, 2.874556\n[[https://www.google.com/maps?q=47.050266,2.874556|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.050266,2.874556|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9958,2.80865|Déchèterie de Nérondes (Nérondes, 7.9 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.0039,2.98321|Déchèterie de Torteron (Torteron, 9.7 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.1368,2.90944|Déchèterie de Sancergues (Sancergues, 10.0 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.050266,2.874556,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 03/11/2025 Na cockpit O+M: Sans prévenance Accès en Autonomie",
+    "description": "**Numéro de Work Order** : WO-204851 + WO-228072 + WO-243372\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-13\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Allée du Souvenir\n**Numéro de département** : 18\n**Nom du site** : ND_4GF_ST_HILAIRE_DE_GONDILLY_ORF\n**Coordonnées** : 47.050266, 2.874556\n[[https://www.google.com/maps?q=47.050266,2.874556|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.050266,2.874556|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9958,2.80865|Déchèterie de Nérondes (Nérondes, 7.9 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.0039,2.98321|Déchèterie de Torteron (Torteron, 9.7 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.1368,2.90944|Déchèterie de Sancergues (Sancergues, 10.0 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.050266,2.874556,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 03/11/2025 Na cockpit O+M: Sans prévenance Accès en Autonomie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1459,12 +1459,15 @@
     "wo": "WO-204851 + WO-228072 + WO-243372",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 03/11/2025 Na cockpit O+M: Sans prévenance Accès en Autonomie",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-13",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800109",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
