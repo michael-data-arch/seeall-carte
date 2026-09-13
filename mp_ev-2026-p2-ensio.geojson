@@ -480,7 +480,7 @@
    },
    "properties": {
     "name": "FRA01800037 — LA_GUERCHE_SUR_LAUBOIS",
-    "description": "**Numéro de Work Order** : WO-204829 + WO-228053 + WO-243335\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 78 Avenue du Maréchal Leclerc\n**Numéro de département** : 18\n**Nom du site** : LA_GUERCHE_SUR_LAUBOIS\n**Coordonnées** : 46.955591, 2.973160\n[[https://www.google.com/maps?q=46.955591,2.973160|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.955591,2.973160|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9614,2.95989|Déchèterie de la Guerche (La Guerche-sur-l'Aubois, 1.2 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.0039,2.98321|Déchèterie de Torteron (Torteron, 5.4 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8407,2.9343|Déchèterie de Sancoins (Sancoins, 13.1 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.955591,2.973160,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Sans objet Badge: Boite à clés: Portail / Portillon: Mécanique - Sans objet Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-204829 + WO-228053 + WO-243335\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-13\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 78 Avenue du Maréchal Leclerc\n**Numéro de département** : 18\n**Nom du site** : LA_GUERCHE_SUR_LAUBOIS\n**Coordonnées** : 46.955591, 2.973160\n[[https://www.google.com/maps?q=46.955591,2.973160|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.955591,2.973160|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9614,2.95989|Déchèterie de la Guerche (La Guerche-sur-l'Aubois, 1.2 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.0039,2.98321|Déchèterie de Torteron (Torteron, 5.4 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8407,2.9343|Déchèterie de Sancoins (Sancoins, 13.1 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.955591,2.973160,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Sans objet Badge: Boite à clés: Portail / Portillon: Mécanique - Sans objet Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -493,12 +493,15 @@
     "wo": "WO-204829 + WO-228053 + WO-243335",
     "acces_detail": "Digicode: Sans objet Badge: Boite à clés: Portail / Portillon: Mécanique - Sans objet Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-13",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800037",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
