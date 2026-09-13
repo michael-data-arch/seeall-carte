@@ -1238,7 +1238,7 @@
    },
    "properties": {
     "name": "FRA01800090 — CHAMP_COGNE_CUL",
-    "description": "**Numéro de Work Order** : WO-204846 + WO-228067 + WO-243365\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213878\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit\n**Numéro de département** : 18\n**Nom du site** : CHAMP_COGNE_CUL\n**Coordonnées** : 46.825591, 2.993660\n[[https://www.google.com/maps?q=46.825591,2.993660|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.825591,2.993660|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8407,2.9343|Déchèterie de Sancoins (Sancoins, 4.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8772,3.17673|Déchèterie de Magny Cours (Magny-Cours, 15.1 km)]] — 0386212740\n[[https://www.google.com/maps?q=46.9614,2.95989|Déchèterie de la Guerche (La Guerche-sur-l'Aubois, 15.3 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.825591,2.993660,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 23/06/2026 Na cockpit O+M :\nSite en accès libre",
+    "description": "**Numéro de Work Order** : WO-204846 + WO-228067 + WO-243365\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0213878\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-26\n**Fin de validité** : 2026-08-28\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-13\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit\n**Numéro de département** : 18\n**Nom du site** : CHAMP_COGNE_CUL\n**Coordonnées** : 46.825591, 2.993660\n[[https://www.google.com/maps?q=46.825591,2.993660|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.825591,2.993660|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8407,2.9343|Déchèterie de Sancoins (Sancoins, 4.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8772,3.17673|Déchèterie de Magny Cours (Magny-Cours, 15.1 km)]] — 0386212740\n[[https://www.google.com/maps?q=46.9614,2.95989|Déchèterie de la Guerche (La Guerche-sur-l'Aubois, 15.3 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.825591,2.993660,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 23/06/2026 Na cockpit O+M :\nSite en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1256,12 +1256,15 @@
     "das_debut": "2026-08-26",
     "das_fin": "2026-08-28",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-13",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800090",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
