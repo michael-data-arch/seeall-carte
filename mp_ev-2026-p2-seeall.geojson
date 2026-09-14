@@ -771,7 +771,7 @@
    },
    "properties": {
     "name": "FRA00300050 — MAILLET",
-    "description": "**Numéro de Work Order** : WO-224551 + WO-244511\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit Ronfière\n**Numéro de département** : 3\n**Nom du site** : MAILLET\n**Coordonnées** : 46.497272, 2.649459\n[[https://www.google.com/maps?q=46.497272,2.649459|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.497272,2.649459|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.5255,2.58183|Decheterie de Vallon en Sully (Vallon-en-Sully, 6.1 km)]] — 0470065561\n[[https://www.google.com/maps?q=46.4688,2.81169|Déchèterie de Cosne d'Allier (Cosne-d'Allier, 12.8 km)]] — 0470075370\n[[https://www.google.com/maps?q=46.3714,2.56809|Déchèterie de Domerat (Domérat, 15.3 km)]] — 0470030760\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.497272,2.649459,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 10/02/2026 Cockpit O+M / A Site full ILOQ Cadenas ILOQ 19097635 sur le portillon Cadenas ILOQ 19107957 sur la porte coutier Cadenas ILOQ 19293059 sur le Shelter",
+    "description": "**Numéro de Work Order** : WO-224551 + WO-244511\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-14\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit Ronfière\n**Numéro de département** : 3\n**Nom du site** : MAILLET\n**Coordonnées** : 46.497272, 2.649459\n[[https://www.google.com/maps?q=46.497272,2.649459|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.497272,2.649459|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.5255,2.58183|Decheterie de Vallon en Sully (Vallon-en-Sully, 6.1 km)]] — 0470065561\n[[https://www.google.com/maps?q=46.4688,2.81169|Déchèterie de Cosne d'Allier (Cosne-d'Allier, 12.8 km)]] — 0470075370\n[[https://www.google.com/maps?q=46.3714,2.56809|Déchèterie de Domerat (Domérat, 15.3 km)]] — 0470030760\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.497272,2.649459,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 10/02/2026 Cockpit O+M / A Site full ILOQ Cadenas ILOQ 19097635 sur le portillon Cadenas ILOQ 19107957 sur la porte coutier Cadenas ILOQ 19293059 sur le Shelter",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -784,12 +784,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 10/02/2026 Cockpit O+M / A Site full ILOQ Cadenas ILOQ 19097635 sur le portillon Cadenas ILOQ 19107957 sur la porte coutier Cadenas ILOQ 19293059 sur le Shelter",
     "date_planification": "2026-09-21",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-14",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300050",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
