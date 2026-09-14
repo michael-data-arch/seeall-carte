@@ -152,7 +152,7 @@
    },
    "properties": {
     "name": "FRA00300015 — MONTLUCON_NORD",
-    "description": "**Numéro de Work Order** : WO-225924 + WO-244492\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Frédéric Mistral\n**Numéro de département** : 3\n**Nom du site** : MONTLUCON_NORD\n**Coordonnées** : 46.353056, 2.584167\n[[https://www.google.com/maps?q=46.353056,2.584167|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.353056,2.584167|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.3714,2.56809|Déchèterie de Domerat (Domérat, 2.4 km)]] — 0470030760\n[[https://www.google.com/maps?q=46.3138,2.57318|Déchèterie de Premilhat (Prémilhat, 4.4 km)]] — 0470037241\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 15.4 km)]] — 0470641167\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.353056,2.584167,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - portail appartient a la commune Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 25/11/25 D cockpit O+M: Dubouis: 0761386307 Prévenance obligatoire par mail: b.dubouis@mairie-montlucon.fr/ 1 semaine à l'avance Les moyens d'accès sont à solliciter dans le mail",
+    "description": "**Numéro de Work Order** : WO-225924 + WO-244492\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-14\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Frédéric Mistral\n**Numéro de département** : 3\n**Nom du site** : MONTLUCON_NORD\n**Coordonnées** : 46.353056, 2.584167\n[[https://www.google.com/maps?q=46.353056,2.584167|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.353056,2.584167|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.3714,2.56809|Déchèterie de Domerat (Domérat, 2.4 km)]] — 0470030760\n[[https://www.google.com/maps?q=46.3138,2.57318|Déchèterie de Premilhat (Prémilhat, 4.4 km)]] — 0470037241\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 15.4 km)]] — 0470641167\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.353056,2.584167,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - portail appartient a la commune Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 25/11/25 D cockpit O+M: Dubouis: 0761386307 Prévenance obligatoire par mail: b.dubouis@mairie-montlucon.fr/ 1 semaine à l'avance Les moyens d'accès sont à solliciter dans le mail",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -165,12 +165,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - portail appartient a la commune Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 25/11/25 D cockpit O+M: Dubouis: 0761386307 Prévenance obligatoire par mail: b.dubouis@mairie-montlucon.fr/ 1 semaine à l'avance Les moyens d'accès sont à solliciter dans le mail",
     "date_planification": "2026-09-14",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-14",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300015",
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
