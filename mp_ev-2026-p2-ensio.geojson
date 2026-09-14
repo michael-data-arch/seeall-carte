@@ -1050,7 +1050,7 @@
    },
    "properties": {
     "name": "FRA01800101 — VILLEGENON",
-    "description": "**Numéro de Work Order** : WO-204850 + WO-228071 + WO-243369\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0213620\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : LES BRUYERES DES GRANDES RUESSES\n**Numéro de département** : 18\n**Nom du site** : VILLEGENON\n**Coordonnées** : 47.391389, 2.595553\n[[https://www.google.com/maps?q=47.391389,2.595553|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.391389,2.595553|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2957,2.50457|Déchèterie d'Henrichemont (Henrichemont, 12.7 km)]] — 0248267832\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 15.0 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4902,2.39836|Déchèterie d'Aubigny sur Nere (Aubigny-sur-Nère, 18.5 km)]] — 0248583725\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.391389,2.595553,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - CLE POLLUX MAIS SERRURE NE FONCTIONNE PAS\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-204850 + WO-228071 + WO-243369\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0213620\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-27\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-09-14\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : LES BRUYERES DES GRANDES RUESSES\n**Numéro de département** : 18\n**Nom du site** : VILLEGENON\n**Coordonnées** : 47.391389, 2.595553\n[[https://www.google.com/maps?q=47.391389,2.595553|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.391389,2.595553|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2957,2.50457|Déchèterie d'Henrichemont (Henrichemont, 12.7 km)]] — 0248267832\n[[https://www.google.com/maps?q=47.4457,2.77832|Déchèterie d'Assigny (Assigny, 15.0 km)]] — 0248721953\n[[https://www.google.com/maps?q=47.4902,2.39836|Déchèterie d'Aubigny sur Nere (Aubigny-sur-Nère, 18.5 km)]] — 0248583725\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.391389,2.595553,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - CLE POLLUX MAIS SERRURE NE FONCTIONNE PAS\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1068,12 +1068,15 @@
     "das_debut": "2026-08-25",
     "das_fin": "2026-08-27",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "Said",
+    "declare_le": "2026-09-14",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800101",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
