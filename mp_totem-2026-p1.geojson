@@ -1659,41 +1659,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.1658595,
-     49.5065576
-    ]
-   },
-   "properties": {
-    "name": "FRA07600260 — LE_HAVRE_APPLEMONT",
-    "description": "**Numéro de Work Order** : WO-205929\n**État du WO** : CR Refusé\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-08-31\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Résidence - 34 Avenue des Dahlias\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_APPLEMONT\n**Coordonnées** : 49.506558, 0.165859\n[[https://www.google.com/maps?q=49.506558,0.165859|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.506558,0.165859|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4125,0.262325|Déchèterie de Honfleur (Honfleur, 12.6 km)]]\n[[https://www.google.com/maps?q=49.5335,0.36589|Déchèterie de Saint Romain de Colbosc (Saint-Romain-de-Colbosc, 14.7 km)]] — 0235309513\n[[https://www.google.com/maps?q=49.3696,0.130053|Déchèterie la Croix Sonnet-touques (Touques, 15.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.506558,0.165859,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Badge porte entrée Boite à clés: Portail / Portillon: Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 20/07/2026 M cockpit O+M : *Pour toute intervention, merci d'envoyer un mail à M.Letellier@alceane.fr C.Desaintnicolas@alceane.fr A.Maze@alceane.fr A.Joly@alceane.fr *Pour les petits travaux de maintenances: - 2 jours ouvrés à l'avance - Accès en autonomie *Pour les gros travaux avec des engins: 15 jours ouvrés à l'avance *Pour les commandes de badges (150€ HT) ou de clefs d’accès (50€ HT) en cas de pertes ou de détériorations des accès initialement remis par le bailleur: operateur.commandeacces@alceane.fr",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LE_HAVRE_APPLEMONT",
-    "adresse": "Résidence - 34 Avenue des Dahlias",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "CR Refusé",
-    "wo": "WO-205929",
-    "consignation": "Consigne Particulière",
-    "acces_detail": "Digicode: Badge: Badge porte entrée Boite à clés: Portail / Portillon: Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 20/07/2026 M cockpit O+M : *Pour toute intervention, merci d'envoyer un mail à M.Letellier@alceane.fr C.Desaintnicolas@alceane.fr A.Maze@alceane.fr A.Joly@alceane.fr *Pour les petits travaux de maintenances: - 2 jours ouvrés à l'avance - Accès en autonomie *Pour les gros travaux avec des engins: 15 jours ouvrés à l'avance *Pour les commandes de badges (150€ HT) ou de clefs d’accès (50€ HT) en cas de pertes ou de détériorations des accès initialement remis par le bailleur: operateur.commandeacces@alceane.fr",
-    "date_planification": "2026-08-31",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600260",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#DB2777",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.1171951,
      49.5052316
     ]
