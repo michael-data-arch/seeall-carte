@@ -7046,7 +7046,7 @@
    },
    "properties": {
     "name": "FRA06300164 — LAPEYROUSE",
-    "description": "**Numéro de Work Order** : WO-225004 + WO-244709\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Puits de l Abbaye\n**Numéro de département** : 63\n**Nom du site** : LAPEYROUSE\n**Coordonnées** : 46.223885, 2.856374\n[[https://www.google.com/maps?q=46.223885,2.856374|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.223885,2.856374|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1687,2.84168|Déchèterie de Saint Eloy les Mines (Saint-Éloy-les-Mines, 6.2 km)]]\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 10.2 km)]] — 0470641167\n[[https://www.google.com/maps?q=46.3222,2.94341|Déchèterie de Montmarault (Montmarault, 12.8 km)]] — 0470029946\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.223885,2.856374,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 21/04/26 D cockpit O+M: (à titre informatif) Claude Rochet: 0628548172 Prévenance à faire par téléphone au 0628548172/ 48h à l'avance Autonome",
+    "description": "**Numéro de Work Order** : WO-225004 + WO-244709\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-15\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Puits de l Abbaye\n**Numéro de département** : 63\n**Nom du site** : LAPEYROUSE\n**Coordonnées** : 46.223885, 2.856374\n[[https://www.google.com/maps?q=46.223885,2.856374|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.223885,2.856374|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1687,2.84168|Déchèterie de Saint Eloy les Mines (Saint-Éloy-les-Mines, 6.2 km)]]\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 10.2 km)]] — 0470641167\n[[https://www.google.com/maps?q=46.3222,2.94341|Déchèterie de Montmarault (Montmarault, 12.8 km)]] — 0470029946\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.223885,2.856374,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 21/04/26 D cockpit O+M: (à titre informatif) Claude Rochet: 0628548172 Prévenance à faire par téléphone au 0628548172/ 48h à l'avance Autonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -7059,12 +7059,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 21/04/26 D cockpit O+M: (à titre informatif) Claude Rochet: 0628548172 Prévenance à faire par téléphone au 0628548172/ 48h à l'avance Autonome",
     "date_planification": "2026-11-20",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-15",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300164",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
