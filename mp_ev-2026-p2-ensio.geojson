@@ -4728,7 +4728,7 @@
    },
    "properties": {
     "name": "FRA03700191 — CHANNAY_SUR_LATHAN",
-    "description": "**Numéro de Work Order** : WO-204954 + WO-228172 + WO-243555\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 35 Rue de Touraine\n**Numéro de département** : 37\n**Nom du site** : CHANNAY_SUR_LATHAN\n**Coordonnées** : 47.480479, 0.271798\n[[https://www.google.com/maps?q=47.480479,0.271798|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.480479,0.271798|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5114,0.284467|Déchèterie de Saint Laurent de Lin (Saint-Laurent-de-Lin, 3.6 km)]] — 0247246543\n[[https://www.google.com/maps?q=47.4571,0.307844|Déchèterie de Savigné sur Lathan (Savigné sur lathan, 3.8 km)]]\n[[https://www.google.com/maps?q=47.5181,0.127229|Déchèterie de Noyant (Noyant*, 11.6 km)]] — 0241895114\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.480479,0.271798,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-204954 + WO-228172 + WO-243555\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 35 Rue de Touraine\n**Numéro de département** : 37\n**Nom du site** : CHANNAY_SUR_LATHAN\n**Coordonnées** : 47.480479, 0.271798\n[[https://www.google.com/maps?q=47.480479,0.271798|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.480479,0.271798|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5114,0.284467|Déchèterie de Saint Laurent de Lin (Saint-Laurent-de-Lin, 3.6 km)]] — 0247246543\n[[https://www.google.com/maps?q=47.4571,0.307844|Déchèterie de Savigné sur Lathan (Savigné sur lathan, 3.8 km)]]\n[[https://www.google.com/maps?q=47.5181,0.127229|Déchèterie de Noyant (Noyant*, 11.6 km)]] — 0241895114\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.480479,0.271798,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 14/09/2026 FA COCKPIT O+M: Cadenas PC ref 19064962 Chaîne et cadenas ILOQ sur le portillon ref 64056867 Accès en autonomie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -4739,12 +4739,12 @@
     "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
     "etat_wo": "Travaux planifiés",
     "wo": "WO-204954 + WO-228172 + WO-243555",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 14/09/2026 FA COCKPIT O+M: Cadenas PC ref 19064962 Chaîne et cadenas ILOQ sur le portillon ref 64056867 Accès en autonomie",
     "date_planification": "2026-11-15",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700191",
     "acces_autonome": "autonome",
-    "acces_motif": "boîte à clés sur site",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Ball"
