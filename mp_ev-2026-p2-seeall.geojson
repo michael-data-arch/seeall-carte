@@ -7083,7 +7083,7 @@
    },
    "properties": {
     "name": "FRA06300165 — ST_ELOY_LES_CHAPOUNES",
-    "description": "**Numéro de Work Order** : WO-225855 + WO-244710\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-23\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Pierre de Coubertin\n**Numéro de département** : 63\n**Nom du site** : ST_ELOY_LES_CHAPOUNES\n**Coordonnées** : 46.161939, 2.826108\n[[https://www.google.com/maps?q=46.161939,2.826108|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.161939,2.826108|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1687,2.84168|Déchèterie de Saint Eloy les Mines (Saint-Éloy-les-Mines, 1.4 km)]]\n[[https://www.google.com/maps?q=46.1083,2.69899|Decheterie de Pionsat (Pionsat, 11.5 km)]] — 0473526139\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 14.8 km)]] — 0470641167\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.161939,2.826108,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès: 28/04/2026 M cockpit O+M *Pour des petits travaux de maintenances: site en accès libre sans prévenance *Pour des gros travaux avec des engins: merci de prévenir la mairie 15 jours à l'avance à services.techniques@sainteloylesmines.fr *Contact de l'accueil: 04 73 85 08 24",
+    "description": "**Numéro de Work Order** : WO-225855 + WO-244710\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-23\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-15\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Pierre de Coubertin\n**Numéro de département** : 63\n**Nom du site** : ST_ELOY_LES_CHAPOUNES\n**Coordonnées** : 46.161939, 2.826108\n[[https://www.google.com/maps?q=46.161939,2.826108|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.161939,2.826108|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1687,2.84168|Déchèterie de Saint Eloy les Mines (Saint-Éloy-les-Mines, 1.4 km)]]\n[[https://www.google.com/maps?q=46.1083,2.69899|Decheterie de Pionsat (Pionsat, 11.5 km)]] — 0473526139\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 14.8 km)]] — 0470641167\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.161939,2.826108,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès: 28/04/2026 M cockpit O+M *Pour des petits travaux de maintenances: site en accès libre sans prévenance *Pour des gros travaux avec des engins: merci de prévenir la mairie 15 jours à l'avance à services.techniques@sainteloylesmines.fr *Contact de l'accueil: 04 73 85 08 24",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -7097,12 +7097,15 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès: 28/04/2026 M cockpit O+M *Pour des petits travaux de maintenances: site en accès libre sans prévenance *Pour des gros travaux avec des engins: merci de prévenir la mairie 15 jours à l'avance à services.techniques@sainteloylesmines.fr *Contact de l'accueil: 04 73 85 08 24",
     "date_planification": "2026-11-23",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-15",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300165",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
