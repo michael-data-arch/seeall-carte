@@ -533,7 +533,7 @@
    },
    "properties": {
     "name": "FRA00300048 — MONTVICQ",
-    "description": "**Numéro de Work Order** : WO-224020 + WO-244509\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-18\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LA CROIX CHABANNE\n**Numéro de département** : 3\n**Nom du site** : MONTVICQ\n**Coordonnées** : 46.324161, 2.825213\n[[https://www.google.com/maps?q=46.324161,2.825213|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.324161,2.825213|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 6.5 km)]] — 0470641167\n[[https://www.google.com/maps?q=46.3975,2.86243|Déchèterie de Villefranche-d'allier (Villefranche-d'Allier, 8.6 km)]]\n[[https://www.google.com/maps?q=46.3222,2.94341|Déchèterie de Montmarault (Montmarault, 9.1 km)]] — 0470029946\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.324161,2.825213,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Non - Clé à récupérer à la mairie ou auprès des employés municipaux Délais de prévenance: 4.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 10/04/26 D cockpit O+M: COMMUNE DE MONTVICQ: 04 70 07 74 02 Prévenance à faire par mail: mairie.montvicq03170@gmail.com/ 4j à l'avance Accès: non autonome; les clés sont à retirer directement à la mairie",
+    "description": "**Numéro de Work Order** : WO-224020 + WO-244509\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-18\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-15\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LA CROIX CHABANNE\n**Numéro de département** : 3\n**Nom du site** : MONTVICQ\n**Coordonnées** : 46.324161, 2.825213\n[[https://www.google.com/maps?q=46.324161,2.825213|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.324161,2.825213|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 6.5 km)]] — 0470641167\n[[https://www.google.com/maps?q=46.3975,2.86243|Déchèterie de Villefranche-d'allier (Villefranche-d'Allier, 8.6 km)]]\n[[https://www.google.com/maps?q=46.3222,2.94341|Déchèterie de Montmarault (Montmarault, 9.1 km)]] — 0470029946\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.324161,2.825213,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Non - Clé à récupérer à la mairie ou auprès des employés municipaux Délais de prévenance: 4.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 10/04/26 D cockpit O+M: COMMUNE DE MONTVICQ: 04 70 07 74 02 Prévenance à faire par mail: mairie.montvicq03170@gmail.com/ 4j à l'avance Accès: non autonome; les clés sont à retirer directement à la mairie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -546,12 +546,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Non - Clé à récupérer à la mairie ou auprès des employés municipaux Délais de prévenance: 4.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 10/04/26 D cockpit O+M: COMMUNE DE MONTVICQ: 04 70 07 74 02 Prévenance à faire par mail: mairie.montvicq03170@gmail.com/ 4j à l'avance Accès: non autonome; les clés sont à retirer directement à la mairie",
     "date_planification": "2026-09-18",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-15",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300048",
     "acces_autonome": "non_autonome",
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
