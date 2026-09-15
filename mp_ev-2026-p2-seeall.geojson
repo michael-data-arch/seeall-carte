@@ -1290,7 +1290,7 @@
    },
    "properties": {
     "name": "FRA00300087 — DURDAT_LAREQUILLE",
-    "description": "**Numéro de Work Order** : WO-225715 + WO-244533\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-28\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LES MOULINS\n**Numéro de département** : 3\n**Nom du site** : DURDAT_LAREQUILLE\n**Coordonnées** : 46.252517, 2.706159\n[[https://www.google.com/maps?q=46.252517,2.706159|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.252517,2.706159|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 5.7 km)]] — 0470641167\n[[https://www.google.com/maps?q=46.1602,2.62952|Déchèterie de Marcillat (Marcillat-en-Combraille, 11.8 km)]] — 0470516988\n[[https://www.google.com/maps?q=46.3138,2.57318|Déchèterie de Premilhat (Prémilhat, 12.3 km)]] — 0470037241\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.252517,2.706159,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 15.0 Accès équipement(s): Badge: Clés: Cadenas: zenith 45 Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 01/12/2025 Na cockpit O+M: COMMUNE DE DURDAT LAREQUILLE: 04 70 51 00 01 Pour toute intervention, merci d'envoyer un mail à mairie@durdat-larequille.fr Délai de prévenance: 15 jours à l'avance Accès en autonomie.",
+    "description": "**Numéro de Work Order** : WO-225715 + WO-244533\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-28\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-15\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LES MOULINS\n**Numéro de département** : 3\n**Nom du site** : DURDAT_LAREQUILLE\n**Coordonnées** : 46.252517, 2.706159\n[[https://www.google.com/maps?q=46.252517,2.706159|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.252517,2.706159|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 5.7 km)]] — 0470641167\n[[https://www.google.com/maps?q=46.1602,2.62952|Déchèterie de Marcillat (Marcillat-en-Combraille, 11.8 km)]] — 0470516988\n[[https://www.google.com/maps?q=46.3138,2.57318|Déchèterie de Premilhat (Prémilhat, 12.3 km)]] — 0470037241\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.252517,2.706159,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 15.0 Accès équipement(s): Badge: Clés: Cadenas: zenith 45 Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 01/12/2025 Na cockpit O+M: COMMUNE DE DURDAT LAREQUILLE: 04 70 51 00 01 Pour toute intervention, merci d'envoyer un mail à mairie@durdat-larequille.fr Délai de prévenance: 15 jours à l'avance Accès en autonomie.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1304,12 +1304,15 @@
     "consignation": "Consigne Particulière",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 15.0 Accès équipement(s): Badge: Clés: Cadenas: zenith 45 Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 01/12/2025 Na cockpit O+M: COMMUNE DE DURDAT LAREQUILLE: 04 70 51 00 01 Pour toute intervention, merci d'envoyer un mail à mairie@durdat-larequille.fr Délai de prévenance: 15 jours à l'avance Accès en autonomie.",
     "date_planification": "2026-09-28",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-15",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300087",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
