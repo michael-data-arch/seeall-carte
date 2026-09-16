@@ -5589,7 +5589,7 @@
    },
    "properties": {
     "name": "FRA06300098 — LAMOTHE_A89",
-    "description": "**Numéro de Work Order** : WO-224720 + WO-244665\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-06\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit Puy à l'Âne\n**Numéro de département** : 63\n**Nom du site** : LAMOTHE_A89\n**Coordonnées** : 45.851088, 2.832999\n[[https://www.google.com/maps?q=45.851088,2.832999|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.851088,2.832999|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8503,2.89756|Déchèterie de St Ours les Roches (Saint-Ours, 5.0 km)]] — 0473887994\n[[https://www.google.com/maps?q=45.9295,2.82151|Déchèterie les Ancizes-comps (Les Ancizes-Comps, 8.8 km)]] — 0473976509\n[[https://www.google.com/maps?q=45.8531,2.69929|Déchèterie de Pontaumur (Pontaumur, 10.4 km)]] — 0473797889\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.851088,2.832999,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 06/10/25 D cockpit O+M: LABONNE Jean Jacques: 0685726867 Mode de prévenance par mail: labonne.jj@hotmail.fr/ 48h à l'avance Accès: en autonomie 24/08/2026 BN pas de prévenance nécessaire pour ce site confirmer par Mr LABONNE . Accès: en autonomie",
+    "description": "**Numéro de Work Order** : WO-224720 + WO-244665\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-06\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-16\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit Puy à l'Âne\n**Numéro de département** : 63\n**Nom du site** : LAMOTHE_A89\n**Coordonnées** : 45.851088, 2.832999\n[[https://www.google.com/maps?q=45.851088,2.832999|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.851088,2.832999|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8503,2.89756|Déchèterie de St Ours les Roches (Saint-Ours, 5.0 km)]] — 0473887994\n[[https://www.google.com/maps?q=45.9295,2.82151|Déchèterie les Ancizes-comps (Les Ancizes-Comps, 8.8 km)]] — 0473976509\n[[https://www.google.com/maps?q=45.8531,2.69929|Déchèterie de Pontaumur (Pontaumur, 10.4 km)]] — 0473797889\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.851088,2.832999,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 06/10/25 D cockpit O+M: LABONNE Jean Jacques: 0685726867 Mode de prévenance par mail: labonne.jj@hotmail.fr/ 48h à l'avance Accès: en autonomie 24/08/2026 BN pas de prévenance nécessaire pour ce site confirmer par Mr LABONNE . Accès: en autonomie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -5603,12 +5603,15 @@
     "consignation": "Consigne Particulière",
     "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 06/10/25 D cockpit O+M: LABONNE Jean Jacques: 0685726867 Mode de prévenance par mail: labonne.jj@hotmail.fr/ 48h à l'avance Accès: en autonomie 24/08/2026 BN pas de prévenance nécessaire pour ce site confirmer par Mr LABONNE . Accès: en autonomie",
     "date_planification": "2026-11-06",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-16",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300098",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
