@@ -7761,7 +7761,7 @@
    },
    "properties": {
     "name": "FRA06300198 — SAINT_DONAT_FT",
-    "description": "**Numéro de Work Order** : WO-244728\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-27\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit PUY de la CROIX\n**Numéro de département** : 63\n**Nom du site** : SAINT_DONAT_FT\n**Coordonnées** : 45.468882, 2.720267\n[[https://www.google.com/maps?q=45.468882,2.720267|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.468882,2.720267|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5141,2.5971|Déchèterie de Bagnols (Bagnols, 10.8 km)]] — 0473222396\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 13.6 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.3331,2.75404|Déchèterie de Condat (Condat, 15.3 km)]] — 0471689197\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.468882,2.720267,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Non Badge: Clés: Cadenas: Commentaire d'accès: 03/12/25 D cockpit O+M: DIG 1; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-244728\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-27\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-17\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit PUY de la CROIX\n**Numéro de département** : 63\n**Nom du site** : SAINT_DONAT_FT\n**Coordonnées** : 45.468882, 2.720267\n[[https://www.google.com/maps?q=45.468882,2.720267|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.468882,2.720267|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5141,2.5971|Déchèterie de Bagnols (Bagnols, 10.8 km)]] — 0473222396\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 13.6 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.3331,2.75404|Déchèterie de Condat (Condat, 15.3 km)]] — 0471689197\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.468882,2.720267,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Non Badge: Clés: Cadenas: Commentaire d'accès: 03/12/25 D cockpit O+M: DIG 1; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -7774,12 +7774,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: Non Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Non Badge: Clés: Cadenas: Commentaire d'accès: 03/12/25 D cockpit O+M: DIG 1; autonome (Full TOTEM)",
     "date_planification": "2026-11-27",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-17",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300198",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
