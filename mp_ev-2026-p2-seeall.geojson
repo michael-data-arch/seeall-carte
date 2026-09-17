@@ -7236,7 +7236,7 @@
    },
    "properties": {
     "name": "FRA06300169 — MUROL_LAC",
-    "description": "**Numéro de Work Order** : WO-225408 + WO-244713\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-23\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Puy de Bessolles\n**Numéro de département** : 63\n**Nom du site** : MUROL_LAC\n**Coordonnées** : 45.564718, 2.952770\n[[https://www.google.com/maps?q=45.564718,2.952770|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.564718,2.952770|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5214,2.94542|Déchèterie de Besse (BESSE-ET-SAINT-ANASTAISE, 4.9 km)]] — 0473795316\n[[https://www.google.com/maps?q=45.5803,3.09214|Déchèterie de Montaigut le Blanc (Montaigut-le-Blanc, 11.0 km)]] — 0473967211\n[[https://www.google.com/maps?q=45.7053,3.02121|Déchèterie de Theix Saint-genès (Saint-Genès-Champanelle, 16.5 km)]] — 0473873147\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.564718,2.952770,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Non Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé mécanique Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-225408 + WO-244713\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-23\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-17\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Puy de Bessolles\n**Numéro de département** : 63\n**Nom du site** : MUROL_LAC\n**Coordonnées** : 45.564718, 2.952770\n[[https://www.google.com/maps?q=45.564718,2.952770|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.564718,2.952770|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5214,2.94542|Déchèterie de Besse (BESSE-ET-SAINT-ANASTAISE, 4.9 km)]] — 0473795316\n[[https://www.google.com/maps?q=45.5803,3.09214|Déchèterie de Montaigut le Blanc (Montaigut-le-Blanc, 11.0 km)]] — 0473967211\n[[https://www.google.com/maps?q=45.7053,3.02121|Déchèterie de Theix Saint-genès (Saint-Genès-Champanelle, 16.5 km)]] — 0473873147\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.564718,2.952770,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Non Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé mécanique Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -7249,12 +7249,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Non Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé mécanique Cadenas: Commentaire d'accès:",
     "date_planification": "2026-11-23",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-17",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300169",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
