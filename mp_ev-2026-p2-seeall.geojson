@@ -5382,7 +5382,7 @@
    },
    "properties": {
     "name": "FRA06300090 — ROCHEFORT_MONTAGNE",
-    "description": "**Numéro de Work Order** : WO-224719 + WO-244659\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Le Bouchetel Chemin des Cros\n**Numéro de département** : 63\n**Nom du site** : ROCHEFORT_MONTAGNE\n**Coordonnées** : 45.696266, 2.791356\n[[https://www.google.com/maps?q=45.696266,2.791356|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.696266,2.791356|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.6854,2.79759|Déchèterie de Rochefort (Rochefort-Montagne, 1.3 km)]] — 0473659099\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 12.9 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 15.0 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.696266,2.791356,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 3.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 02/03/26 D cockpit O+M: PELOT Francis: 0689458181 Prévenance à faire par mail: josiane.pelot@gmail.com/ 72h à l'avance Autonome",
+    "description": "**Numéro de Work Order** : WO-224719 + WO-244659\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-17\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Le Bouchetel Chemin des Cros\n**Numéro de département** : 63\n**Nom du site** : ROCHEFORT_MONTAGNE\n**Coordonnées** : 45.696266, 2.791356\n[[https://www.google.com/maps?q=45.696266,2.791356|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.696266,2.791356|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.6854,2.79759|Déchèterie de Rochefort (Rochefort-Montagne, 1.3 km)]] — 0473659099\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 12.9 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 15.0 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.696266,2.791356,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 3.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 02/03/26 D cockpit O+M: PELOT Francis: 0689458181 Prévenance à faire par mail: josiane.pelot@gmail.com/ 72h à l'avance Autonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -5395,12 +5395,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 3.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 02/03/26 D cockpit O+M: PELOT Francis: 0689458181 Prévenance à faire par mail: josiane.pelot@gmail.com/ 72h à l'avance Autonome",
     "date_planification": "2026-11-05",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-17",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300090",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
