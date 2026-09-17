@@ -150,48 +150,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.255692,
-     48.883981
-    ]
-   },
-   "properties": {
-    "name": "FRA02700055 — COUDRES",
-    "description": "**Numéro de Work Order** : WO-238188\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Actions\n\nNid de guêpe dans la serrure\nContrôle de la serrure abloy\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0231162\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-16\n**Fin de validité** : 2026-09-16\n**Origine de la DAS** : airtable\n**Équipe affectée** : said\n**Semaine ISO d'intervention** : 36\n**Provenance du repère** : ensio\n**Adresse du site** : Chem. du Favril, 27220 Saint-André-de-l'Eure\n**Numéro de département** : 27\n**Nom du site** : COUDRES\n**Coordonnées** : 48.883981, 1.255692\n[[https://www.google.com/maps?q=48.883981,1.255692|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.883981,1.255692|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.8976,1.27611|Déchèterie Saint André de l' Eure (Saint-André-de-l'Eure, 2.1 km)]] — 0232378858\n[[https://www.google.com/maps?q=48.9853,1.18411|Déchèterie de Saint Laurent (guichainville) (Guichainville, 12.4 km)]]\n[[https://www.google.com/maps?q=48.8956,1.42592|Déchèterie Ivry-la-bataille (Ivry-la-Bataille, 12.5 km)]] — 0232361172\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.883981,1.255692,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1KPRuTaZ-VZ7NesxhWk8C8nEisvYd3ubr/view|{{https://drive.google.com/thumbnail?id=1KPRuTaZ-VZ7NesxhWk8C8nEisvYd3ubr&sz=w200}}]] [[https://drive.google.com/file/d/1bZcXPMJpQixfzDtK0_MmsLyFAjcRZq6Z/view|{{https://drive.google.com/thumbnail?id=1bZcXPMJpQixfzDtK0_MmsLyFAjcRZq6Z&sz=w200}}]] [[https://drive.google.com/file/d/1OgNz_EGSsesjJxwuxbF0UVOTZksdULQZ/view|{{https://drive.google.com/thumbnail?id=1OgNz_EGSsesjJxwuxbF0UVOTZksdULQZ&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1oDBi0X6LqbfimgdJXG9Sie7dbM3gvDQ4|📁 Toutes les pièces (3)]]\n\n**Fiche d'accès**\nDigicode: SO\nBadge: SO\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "ensio",
-    "travaux": "Actions\n\nNid de guêpe dans la serrure\nContrôle de la serrure abloy",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "COUDRES",
-    "adresse": "Chem. du Favril, 27220 Saint-André-de-l'Eure",
-    "wo": "WO-238188",
-    "priorite": "P4",
-    "scope": "EVT - Environnement Technique",
-    "departement": "27",
-    "date_planification": "2026-09-14",
-    "das_numero": "DAS-N0231162",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-09-16",
-    "das_fin": "2026-09-16",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: SO\nBadge: SO\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
-    "equipe": "said",
-    "semaine": 36,
-    "calque": "mc",
-    "code_fra": "FRA02700055",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "LargeCircle",
-     "iconSize": 32,
-     "iconUrl": "S"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.841949,
      48.316072
     ]
