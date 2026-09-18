@@ -7386,7 +7386,7 @@
    },
    "properties": {
     "name": "FRA06300179 — ZBC_TREMOUILLES_ST_LOUP",
-    "description": "**Numéro de Work Order** : WO-225644 + WO-244717\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Pré de Trémouille Chemin communal\n**Numéro de département** : 63\n**Nom du site** : ZBC_TREMOUILLES_ST_LOUP\n**Coordonnées** : 45.486122, 2.559659\n[[https://www.google.com/maps?q=45.486122,2.559659|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.486122,2.559659|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5141,2.5971|Déchèterie de Bagnols (Bagnols, 4.3 km)]] — 0473222396\n[[https://www.google.com/maps?q=45.3789,2.47609|Decheterie de Bort les Orgues (Bort-les-Orgues, 13.6 km)]] — 0555967844\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 16.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.486122,2.559659,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-225644 + WO-244717\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-18\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Pré de Trémouille Chemin communal\n**Numéro de département** : 63\n**Nom du site** : ZBC_TREMOUILLES_ST_LOUP\n**Coordonnées** : 45.486122, 2.559659\n[[https://www.google.com/maps?q=45.486122,2.559659|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.486122,2.559659|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5141,2.5971|Déchèterie de Bagnols (Bagnols, 4.3 km)]] — 0473222396\n[[https://www.google.com/maps?q=45.3789,2.47609|Decheterie de Bort les Orgues (Bort-les-Orgues, 13.6 km)]] — 0555967844\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 16.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.486122,2.559659,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -7399,12 +7399,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
     "date_planification": "2026-11-24",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-18",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300179",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
