@@ -7097,7 +7097,7 @@
    },
    "properties": {
     "name": "FRA06300162 — ZB_LA_TOUR_D_AUVERGNE",
-    "description": "**Numéro de Work Order** : WO-244707\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Fage Chemin de Sauzet - Site FT\n**Numéro de département** : 63\n**Nom du site** : ZB_LA_TOUR_D_AUVERGNE\n**Coordonnées** : 45.541111, 2.707773\n[[https://www.google.com/maps?q=45.541111,2.707773|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.541111,2.707773|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 5.6 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.5141,2.5971|Déchèterie de Bagnols (Bagnols, 9.1 km)]] — 0473222396\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 11.1 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.541111,2.707773,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 06/02/2026 / JO cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM SITE PASSE EN FULL ILOQ 19327305 ILOQ POR Shelter 19293083 ILOQ POR-ZT 19194819 SECURITE ECHELLE",
+    "description": "**Numéro de Work Order** : WO-244707\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-18\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Fage Chemin de Sauzet - Site FT\n**Numéro de département** : 63\n**Nom du site** : ZB_LA_TOUR_D_AUVERGNE\n**Coordonnées** : 45.541111, 2.707773\n[[https://www.google.com/maps?q=45.541111,2.707773|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.541111,2.707773|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 5.6 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.5141,2.5971|Déchèterie de Bagnols (Bagnols, 9.1 km)]] — 0473222396\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 11.1 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.541111,2.707773,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 06/02/2026 / JO cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM SITE PASSE EN FULL ILOQ 19327305 ILOQ POR Shelter 19293083 ILOQ POR-ZT 19194819 SECURITE ECHELLE",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -7110,12 +7110,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 06/02/2026 / JO cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM SITE PASSE EN FULL ILOQ 19327305 ILOQ POR Shelter 19293083 ILOQ POR-ZT 19194819 SECURITE ECHELLE",
     "date_planification": "2026-11-20",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-18",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300162",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
