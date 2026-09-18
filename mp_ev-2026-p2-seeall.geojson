@@ -7134,7 +7134,7 @@
    },
    "properties": {
     "name": "FRA06300163 — ZBC_LARODDE",
-    "description": "**Numéro de Work Order** : WO-224203 + WO-244708\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Lèbre - Chaux Carrefour de Pruns\n**Numéro de département** : 63\n**Nom du site** : ZBC_LARODDE\n**Coordonnées** : 45.532322, 2.561944\n[[https://www.google.com/maps?q=45.532322,2.561944|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.532322,2.561944|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5141,2.5971|Déchèterie de Bagnols (Bagnols, 3.4 km)]] — 0473222396\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 11.5 km)]]\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 14.0 km)]] — 0473655154\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.532322,2.561944,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 16/01/26 D cockpit O+M: COMMUNE DE LARODDE: 04 73 22 22 13 Prévenance à faire par mail: mairie.larodde@gmail.com/ 1 semaine à l'avance Autonome",
+    "description": "**Numéro de Work Order** : WO-224203 + WO-244708\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-18\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Lèbre - Chaux Carrefour de Pruns\n**Numéro de département** : 63\n**Nom du site** : ZBC_LARODDE\n**Coordonnées** : 45.532322, 2.561944\n[[https://www.google.com/maps?q=45.532322,2.561944|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.532322,2.561944|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5141,2.5971|Déchèterie de Bagnols (Bagnols, 3.4 km)]] — 0473222396\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 11.5 km)]]\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 14.0 km)]] — 0473655154\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.532322,2.561944,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 16/01/26 D cockpit O+M: COMMUNE DE LARODDE: 04 73 22 22 13 Prévenance à faire par mail: mairie.larodde@gmail.com/ 1 semaine à l'avance Autonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -7147,12 +7147,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 7.0 Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 16/01/26 D cockpit O+M: COMMUNE DE LARODDE: 04 73 22 22 13 Prévenance à faire par mail: mairie.larodde@gmail.com/ 1 semaine à l'avance Autonome",
     "date_planification": "2026-11-20",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-18",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300163",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
