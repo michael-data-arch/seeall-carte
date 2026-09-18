@@ -2740,7 +2740,7 @@
    },
    "properties": {
     "name": "FRA01500025 — ZBC_ML_STE_ANASTASIE",
-    "description": "**Numéro de Work Order** : WO-224579 + WO-244582\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-13\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Garde Est Chemin forestier\n**Numéro de département** : 15\n**Nom du site** : ZBC_ML_STE_ANASTASIE\n**Coordonnées** : 45.170270, 2.964988\n[[https://www.google.com/maps?q=45.170270,2.964988|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.170270,2.964988|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1441,2.97886|Déchèterie de Neussargues (Neussargues-Moissac, 3.1 km)]] — 0471202262\n[[https://www.google.com/maps?q=45.0485,3.10998|Decheterie de Saint Flour (Saint-Flour, 17.7 km)]] — 0471607558\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 20.4 km)]] — 0471230711\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.170270,2.964988,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 21/11/2025 Na cockpit O+M: Pour toute intervention, merci d'envoyer un mail à dtourvie@orange.fr Délai de prévenance: 2 jours à l'avance Accès en autonomie.",
+    "description": "**Numéro de Work Order** : WO-224579 + WO-244582\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-13\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-18\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Garde Est Chemin forestier\n**Numéro de département** : 15\n**Nom du site** : ZBC_ML_STE_ANASTASIE\n**Coordonnées** : 45.170270, 2.964988\n[[https://www.google.com/maps?q=45.170270,2.964988|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.170270,2.964988|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1441,2.97886|Déchèterie de Neussargues (Neussargues-Moissac, 3.1 km)]] — 0471202262\n[[https://www.google.com/maps?q=45.0485,3.10998|Decheterie de Saint Flour (Saint-Flour, 17.7 km)]] — 0471607558\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 20.4 km)]] — 0471230711\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.170270,2.964988,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 21/11/2025 Na cockpit O+M: Pour toute intervention, merci d'envoyer un mail à dtourvie@orange.fr Délai de prévenance: 2 jours à l'avance Accès en autonomie.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2753,12 +2753,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 21/11/2025 Na cockpit O+M: Pour toute intervention, merci d'envoyer un mail à dtourvie@orange.fr Délai de prévenance: 2 jours à l'avance Accès en autonomie.",
     "date_planification": "2026-10-13",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-18",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500025",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
