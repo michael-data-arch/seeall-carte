@@ -3135,7 +3135,7 @@
    },
    "properties": {
     "name": "FRA01500060 — SAINT_GERONS_FT",
-    "description": "**Numéro de Work Order** : WO-224045 + WO-244605\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LIEUDIT LES LANDES MARONCLE\n**Numéro de département** : 15\n**Nom du site** : SAINT_GERONS_FT\n**Coordonnées** : 44.947774, 2.177223\n[[https://www.google.com/maps?q=44.947774,2.177223|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.947774,2.177223|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9755,2.22238|Déchèterie du Pont d'Orgon (Laroquebrou, 4.7 km)]] — 0471460511\n[[https://www.google.com/maps?q=44.9008,2.06113|Déchèterie de Sousceyrac-Calviac (Calviac*, 10.5 km)]] — 0565106953\n[[https://www.google.com/maps?q=45.0358,2.05877|Decheterie de Goulles (Goulles, 13.5 km)]] — 0682563484\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.947774,2.177223,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: CLE CLASSE 4 AUVERGNE Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: ZENITH 45 Commentaire d'accès: 27/08/2025 M cockpit O+M: site DIG 2, full TOTEM , accès en autonomie.",
+    "description": "**Numéro de Work Order** : WO-224045 + WO-244605\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-19\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LIEUDIT LES LANDES MARONCLE\n**Numéro de département** : 15\n**Nom du site** : SAINT_GERONS_FT\n**Coordonnées** : 44.947774, 2.177223\n[[https://www.google.com/maps?q=44.947774,2.177223|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.947774,2.177223|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9755,2.22238|Déchèterie du Pont d'Orgon (Laroquebrou, 4.7 km)]] — 0471460511\n[[https://www.google.com/maps?q=44.9008,2.06113|Déchèterie de Sousceyrac-Calviac (Calviac*, 10.5 km)]] — 0565106953\n[[https://www.google.com/maps?q=45.0358,2.05877|Decheterie de Goulles (Goulles, 13.5 km)]] — 0682563484\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.947774,2.177223,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: CLE CLASSE 4 AUVERGNE Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: ZENITH 45 Commentaire d'accès: 27/08/2025 M cockpit O+M: site DIG 2, full TOTEM , accès en autonomie.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -3148,12 +3148,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: CLE CLASSE 4 AUVERGNE Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: ZENITH 45 Commentaire d'accès: 27/08/2025 M cockpit O+M: site DIG 2, full TOTEM , accès en autonomie.",
     "date_planification": "2026-10-20",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-19",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500060",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
