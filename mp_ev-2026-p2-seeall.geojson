@@ -2468,7 +2468,7 @@
    },
    "properties": {
     "name": "FRA01500021 — ZB2_ML_ST_VICTOR",
-    "description": "**Numéro de Work Order** : WO-225942 + WO-244579\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-12\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Dep. 352\n**Numéro de département** : 15\n**Nom du site** : ZB2_ML_ST_VICTOR\n**Coordonnées** : 45.010550, 2.292499\n[[https://www.google.com/maps?q=45.010550,2.292499|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.010550,2.292499|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9755,2.22238|Déchèterie du Pont d'Orgon (Laroquebrou, 6.8 km)]] — 0471460511\n[[https://www.google.com/maps?q=45.1145,2.30917|Déchèterie Pleaux (Pleaux, 11.6 km)]] — 0683634813\n[[https://www.google.com/maps?q=45.0446,2.43558|Déchèterie Saint-cernin (Saint-Cernin, 11.9 km)]] — 0683634813\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.010550,2.292499,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 24/06/2026 M cockpit O+M Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-225942 + WO-244579\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-12\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-19\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Dep. 352\n**Numéro de département** : 15\n**Nom du site** : ZB2_ML_ST_VICTOR\n**Coordonnées** : 45.010550, 2.292499\n[[https://www.google.com/maps?q=45.010550,2.292499|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.010550,2.292499|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9755,2.22238|Déchèterie du Pont d'Orgon (Laroquebrou, 6.8 km)]] — 0471460511\n[[https://www.google.com/maps?q=45.1145,2.30917|Déchèterie Pleaux (Pleaux, 11.6 km)]] — 0683634813\n[[https://www.google.com/maps?q=45.0446,2.43558|Déchèterie Saint-cernin (Saint-Cernin, 11.9 km)]] — 0683634813\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.010550,2.292499,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 24/06/2026 M cockpit O+M Site en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2481,12 +2481,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 24/06/2026 M cockpit O+M Site en accès libre",
     "date_planification": "2026-10-12",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-19",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500021",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
