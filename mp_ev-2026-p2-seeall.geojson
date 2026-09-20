@@ -3034,7 +3034,7 @@
    },
    "properties": {
     "name": "FRA01500051 — VIC_SUR_CERE",
-    "description": "**Numéro de Work Order** : WO-225536 + WO-244602\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Curebourse\n**Numéro de département** : 15\n**Nom du site** : VIC_SUR_CERE\n**Coordonnées** : 44.970000, 2.643333\n[[https://www.google.com/maps?q=44.970000,2.643333|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.970000,2.643333|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9663,2.60996|Déchèterie Intercommunale de Comblat le Château (Vic-sur-Cère, 2.7 km)]] — 0672016144\n[[https://www.google.com/maps?q=44.8297,2.66074|Déchèterie de Mur-de-barrez (Mur-de-Barrez, 15.7 km)]]\n[[https://www.google.com/maps?q=44.9271,2.84256|Decheterie de Pierrefort (Pierrefort, 16.4 km)]] — 0471201436\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.970000,2.643333,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 23/06/2026 Na cockpit O+M : Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-225536 + WO-244602\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-20\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Curebourse\n**Numéro de département** : 15\n**Nom du site** : VIC_SUR_CERE\n**Coordonnées** : 44.970000, 2.643333\n[[https://www.google.com/maps?q=44.970000,2.643333|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.970000,2.643333|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9663,2.60996|Déchèterie Intercommunale de Comblat le Château (Vic-sur-Cère, 2.7 km)]] — 0672016144\n[[https://www.google.com/maps?q=44.8297,2.66074|Déchèterie de Mur-de-barrez (Mur-de-Barrez, 15.7 km)]]\n[[https://www.google.com/maps?q=44.9271,2.84256|Decheterie de Pierrefort (Pierrefort, 16.4 km)]] — 0471201436\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.970000,2.643333,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 23/06/2026 Na cockpit O+M : Site en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -3047,12 +3047,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 23/06/2026 Na cockpit O+M : Site en accès libre",
     "date_planification": "2026-10-19",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-20",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500051",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
