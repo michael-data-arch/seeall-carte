@@ -2223,7 +2223,7 @@
    },
    "properties": {
     "name": "FRA01500014 — MONTAGNAC",
-    "description": "**Numéro de Work Order** : WO-224576 + WO-244572\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-08\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit CIPIERE\n**Numéro de département** : 15\n**Nom du site** : MONTAGNAC\n**Coordonnées** : 44.897500, 2.488611\n[[https://www.google.com/maps?q=44.897500,2.488611|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.897500,2.488611|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9086,2.44311|Déchèterie de l'Yser Aurillac (Aurillac, 3.8 km)]] — 0471645108\n[[https://www.google.com/maps?q=44.9405,2.41825|Déchèterie des 4 Chemins Naucelles (Naucelles, 7.3 km)]] — 0471430576\n[[https://www.google.com/maps?q=44.9663,2.60996|Déchèterie Intercommunale de Comblat le Château (Vic-sur-Cère, 12.2 km)]] — 0672016144\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.897500,2.488611,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès: 06/10/25 D cockpit O+M: Sans prévenance Accès: en autonomie",
+    "description": "**Numéro de Work Order** : WO-224576 + WO-244572\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-08\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-20\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit CIPIERE\n**Numéro de département** : 15\n**Nom du site** : MONTAGNAC\n**Coordonnées** : 44.897500, 2.488611\n[[https://www.google.com/maps?q=44.897500,2.488611|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.897500,2.488611|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9086,2.44311|Déchèterie de l'Yser Aurillac (Aurillac, 3.8 km)]] — 0471645108\n[[https://www.google.com/maps?q=44.9405,2.41825|Déchèterie des 4 Chemins Naucelles (Naucelles, 7.3 km)]] — 0471430576\n[[https://www.google.com/maps?q=44.9663,2.60996|Déchèterie Intercommunale de Comblat le Château (Vic-sur-Cère, 12.2 km)]] — 0672016144\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.897500,2.488611,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès: 06/10/25 D cockpit O+M: Sans prévenance Accès: en autonomie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2236,12 +2236,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès: 06/10/25 D cockpit O+M: Sans prévenance Accès: en autonomie",
     "date_planification": "2026-10-08",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-20",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500014",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
