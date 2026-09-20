@@ -885,7 +885,7 @@
    },
    "properties": {
     "name": "FRA07600327 — CRIEL_SUR_MER",
-    "description": "**Numéro de Work Order** : WO-244737\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\nDébroussaillage le long du chemin d'accès et débroussaillage de la zone technique\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-18\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : CRIEL_SUR_MER\n**Coordonnées** : 50.017983, 1.307660\n[[https://www.google.com/maps?q=50.017983,1.307660|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=50.017983,1.307660|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 1.8 km)]]\n[[https://www.google.com/maps?q=50.0605,1.39187|Déchèterie du Tréport (Le Tréport, 7.6 km)]] — 0227282087\n[[https://www.google.com/maps?q=49.9656,1.22679|Déchèterie Saint Martin en Campagne (Saint-Martin-en-Campagne*, 8.2 km)]] — 0235831757\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@50.017983,1.307660,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1mqgbgxrfELIYp_9H5P8azdJRFvBFtpBE/view|{{https://drive.google.com/thumbnail?id=1mqgbgxrfELIYp_9H5P8azdJRFvBFtpBE&sz=w200}}]] [[https://drive.google.com/file/d/1Dd_pHdLf96n0hVkBjrUYGfELWvlv4Sua/view|{{https://drive.google.com/thumbnail?id=1Dd_pHdLf96n0hVkBjrUYGfELWvlv4Sua&sz=w200}}]] [[https://drive.google.com/file/d/1rB9G6LW9F5QIoXy7mnpz3I33wZKo75H_/view|{{https://drive.google.com/thumbnail?id=1rB9G6LW9F5QIoXy7mnpz3I33wZKo75H_&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1_Kj1xvIxa7UwzRtnbmr_FS50k57nnm1b|📁 Toutes les pièces (3)]]",
+    "description": "**Numéro de Work Order** : WO-244737\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\nDébroussaillage le long du chemin d'accès et débroussaillage de la zone technique\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-18\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-09-20\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : CRIEL_SUR_MER\n**Coordonnées** : 50.017983, 1.307660\n[[https://www.google.com/maps?q=50.017983,1.307660|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=50.017983,1.307660|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 1.8 km)]]\n[[https://www.google.com/maps?q=50.0605,1.39187|Déchèterie du Tréport (Le Tréport, 7.6 km)]] — 0227282087\n[[https://www.google.com/maps?q=49.9656,1.22679|Déchèterie Saint Martin en Campagne (Saint-Martin-en-Campagne*, 8.2 km)]] — 0235831757\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@50.017983,1.307660,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1mqgbgxrfELIYp_9H5P8azdJRFvBFtpBE/view|{{https://drive.google.com/thumbnail?id=1mqgbgxrfELIYp_9H5P8azdJRFvBFtpBE&sz=w200}}]] [[https://drive.google.com/file/d/1Dd_pHdLf96n0hVkBjrUYGfELWvlv4Sua/view|{{https://drive.google.com/thumbnail?id=1Dd_pHdLf96n0hVkBjrUYGfELWvlv4Sua&sz=w200}}]] [[https://drive.google.com/file/d/1rB9G6LW9F5QIoXy7mnpz3I33wZKo75H_/view|{{https://drive.google.com/thumbnail?id=1rB9G6LW9F5QIoXy7mnpz3I33wZKo75H_&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1_Kj1xvIxa7UwzRtnbmr_FS50k57nnm1b|📁 Toutes les pièces (3)]]",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "CRIEL_SUR_MER",
@@ -895,12 +895,15 @@
     "scope": "EV - Espaces Verts",
     "departement": "76",
     "date_planification": "2026-09-18",
+    "etat_terrain": "fait",
+    "declare_par": "Said",
+    "declare_le": "2026-09-20",
     "calque": "mc",
     "code_fra": "FRA07600327",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
