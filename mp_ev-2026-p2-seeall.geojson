@@ -2260,7 +2260,7 @@
    },
    "properties": {
     "name": "FRA01500015 — ARPAJON",
-    "description": "**Numéro de Work Order** : WO-224040 + WO-244573\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-09\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue du Four à Chaux La Limage\n**Numéro de département** : 15\n**Nom du site** : ARPAJON\n**Coordonnées** : 44.902778, 2.463611\n[[https://www.google.com/maps?q=44.902778,2.463611|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.902778,2.463611|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9086,2.44311|Déchèterie de l'Yser Aurillac (Aurillac, 1.7 km)]] — 0471645108\n[[https://www.google.com/maps?q=44.9405,2.41825|Déchèterie des 4 Chemins Naucelles (Naucelles, 5.5 km)]] — 0471430576\n[[https://www.google.com/maps?q=44.8538,2.32072|Déchèterie de Lacoste Sud - Saint-mamet (Saint-Mamet-la-Salvetat, 12.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.902778,2.463611,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/03/2026 Na cockpit O+M : MME PRIVAT : 04 71 47 31 53 Pour toute intervention, merci d'envoyer un mail à famille-privat@orange.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès à solliciter dans le mail.",
+    "description": "**Numéro de Work Order** : WO-224040 + WO-244573\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-09\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-20\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue du Four à Chaux La Limage\n**Numéro de département** : 15\n**Nom du site** : ARPAJON\n**Coordonnées** : 44.902778, 2.463611\n[[https://www.google.com/maps?q=44.902778,2.463611|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.902778,2.463611|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9086,2.44311|Déchèterie de l'Yser Aurillac (Aurillac, 1.7 km)]] — 0471645108\n[[https://www.google.com/maps?q=44.9405,2.41825|Déchèterie des 4 Chemins Naucelles (Naucelles, 5.5 km)]] — 0471430576\n[[https://www.google.com/maps?q=44.8538,2.32072|Déchèterie de Lacoste Sud - Saint-mamet (Saint-Mamet-la-Salvetat, 12.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.902778,2.463611,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/03/2026 Na cockpit O+M : MME PRIVAT : 04 71 47 31 53 Pour toute intervention, merci d'envoyer un mail à famille-privat@orange.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès à solliciter dans le mail.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2273,12 +2273,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/03/2026 Na cockpit O+M : MME PRIVAT : 04 71 47 31 53 Pour toute intervention, merci d'envoyer un mail à famille-privat@orange.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès à solliciter dans le mail.",
     "date_planification": "2026-10-09",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-20",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500015",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
