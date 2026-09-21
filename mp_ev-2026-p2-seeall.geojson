@@ -2183,7 +2183,7 @@
    },
    "properties": {
     "name": "FRA01500017 — PRUNET_D920",
-    "description": "**Numéro de Work Order** : WO-224859 + WO-244575\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-09\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Les Travers Section B - Parcelle 254\n**Numéro de département** : 15\n**Nom du site** : PRUNET_D920\n**Coordonnées** : 44.823549, 2.492005\n[[https://www.google.com/maps?q=44.823549,2.492005|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.823549,2.492005|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.7732,2.45354|Déchèterie de Lafeuillade-en-vézie (Lafeuillade-en-Vézie, 6.4 km)]] — 0443331087\n[[https://www.google.com/maps?q=44.9086,2.44311|Déchèterie de l'Yser Aurillac (Aurillac, 10.2 km)]] — 0471645108\n[[https://www.google.com/maps?q=44.8297,2.66074|Déchèterie de Mur-de-barrez (Mur-de-Barrez, 13.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.823549,2.492005,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 01/06/2026 Na cockpit O+M : Terrain acquis par TOTEM",
+    "description": "**Numéro de Work Order** : WO-224859 + WO-244575\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-09\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-21\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Les Travers Section B - Parcelle 254\n**Numéro de département** : 15\n**Nom du site** : PRUNET_D920\n**Coordonnées** : 44.823549, 2.492005\n[[https://www.google.com/maps?q=44.823549,2.492005|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.823549,2.492005|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.7732,2.45354|Déchèterie de Lafeuillade-en-vézie (Lafeuillade-en-Vézie, 6.4 km)]] — 0443331087\n[[https://www.google.com/maps?q=44.9086,2.44311|Déchèterie de l'Yser Aurillac (Aurillac, 10.2 km)]] — 0471645108\n[[https://www.google.com/maps?q=44.8297,2.66074|Déchèterie de Mur-de-barrez (Mur-de-Barrez, 13.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.823549,2.492005,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 01/06/2026 Na cockpit O+M : Terrain acquis par TOTEM",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2196,12 +2196,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 01/06/2026 Na cockpit O+M : Terrain acquis par TOTEM",
     "date_planification": "2026-10-09",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-21",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500017",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
