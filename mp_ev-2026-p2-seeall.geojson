@@ -2499,7 +2499,7 @@
    },
    "properties": {
     "name": "FRA01500056 — ARPAJON_BANDOU_FT",
-    "description": "**Numéro de Work Order** : WO-224044 + WO-244604\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LIEUDIT LE BANDOU\n**Numéro de département** : 15\n**Nom du site** : ARPAJON_BANDOU_FT\n**Coordonnées** : 44.865275, 2.491387\n[[https://www.google.com/maps?q=44.865275,2.491387|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.865275,2.491387|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9086,2.44311|Déchèterie de l'Yser Aurillac (Aurillac, 6.1 km)]] — 0471645108\n[[https://www.google.com/maps?q=44.9405,2.41825|Déchèterie des 4 Chemins Naucelles (Naucelles, 10.2 km)]] — 0471430576\n[[https://www.google.com/maps?q=44.7732,2.45354|Déchèterie de Lafeuillade-en-vézie (Lafeuillade-en-Vézie, 10.7 km)]] — 0443331087\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.865275,2.491387,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 02/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-224044 + WO-244604\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-21\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LIEUDIT LE BANDOU\n**Numéro de département** : 15\n**Nom du site** : ARPAJON_BANDOU_FT\n**Coordonnées** : 44.865275, 2.491387\n[[https://www.google.com/maps?q=44.865275,2.491387|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.865275,2.491387|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.9086,2.44311|Déchèterie de l'Yser Aurillac (Aurillac, 6.1 km)]] — 0471645108\n[[https://www.google.com/maps?q=44.9405,2.41825|Déchèterie des 4 Chemins Naucelles (Naucelles, 10.2 km)]] — 0471430576\n[[https://www.google.com/maps?q=44.7732,2.45354|Déchèterie de Lafeuillade-en-vézie (Lafeuillade-en-Vézie, 10.7 km)]] — 0443331087\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.865275,2.491387,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 02/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2512,12 +2512,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 02/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
     "date_planification": "2026-10-20",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-21",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500056",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
