@@ -2080,7 +2080,7 @@
    },
    "properties": {
     "name": "FRA01500010 — ZB_JABRUN",
-    "description": "**Numéro de Work Order** : WO-224038 + WO-244568\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-08\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Travers des Besses Pierres Blanches\n**Numéro de département** : 15\n**Nom du site** : ZB_JABRUN\n**Coordonnées** : 44.809438, 2.969171\n[[https://www.google.com/maps?q=44.809438,2.969171|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.809438,2.969171|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.8482,3.00742|Déchèterie Chaudes-aigues (Chaudes-Aigues, 5.3 km)]]\n[[https://www.google.com/maps?q=44.8156,3.11184|Déchèterie de Fournels (FOURNELS, 11.3 km)]]\n[[https://www.google.com/maps?q=44.9271,2.84256|Decheterie de Pierrefort (Pierrefort, 16.5 km)]] — 0471201436\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.809438,2.969171,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 19/11/25 D cockpit O+M: DIG 2; en autonomie (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-224038 + WO-244568\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-08\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-21\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Travers des Besses Pierres Blanches\n**Numéro de département** : 15\n**Nom du site** : ZB_JABRUN\n**Coordonnées** : 44.809438, 2.969171\n[[https://www.google.com/maps?q=44.809438,2.969171|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.809438,2.969171|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.8482,3.00742|Déchèterie Chaudes-aigues (Chaudes-Aigues, 5.3 km)]]\n[[https://www.google.com/maps?q=44.8156,3.11184|Déchèterie de Fournels (FOURNELS, 11.3 km)]]\n[[https://www.google.com/maps?q=44.9271,2.84256|Decheterie de Pierrefort (Pierrefort, 16.5 km)]] — 0471201436\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.809438,2.969171,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 19/11/25 D cockpit O+M: DIG 2; en autonomie (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2093,12 +2093,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: NON Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 19/11/25 D cockpit O+M: DIG 2; en autonomie (Full TOTEM)",
     "date_planification": "2026-10-08",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-21",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500010",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
