@@ -2148,7 +2148,7 @@
    },
    "properties": {
     "name": "FRA01500012 — MONTSALVY",
-    "description": "**Numéro de Work Order** : WO-224039 + WO-244570\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-08\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 50 50M APRES LE PANNEAU MONTSALVY PUIS 400M\n**Numéro de département** : 15\n**Nom du site** : MONTSALVY\n**Coordonnées** : 44.717215, 2.500831\n[[https://www.google.com/maps?q=44.717215,2.500831|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.717215,2.500831|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.7732,2.45354|Déchèterie de Lafeuillade-en-vézie (Lafeuillade-en-Vézie, 7.3 km)]] — 0443331087\n[[https://www.google.com/maps?q=44.6383,2.56709|Déchèterie d'Entraygues (Entraygues-sur-Truyère, 10.2 km)]] — 0565660768\n[[https://www.google.com/maps?q=44.6762,2.66386|Déchèterie Saint-amans-des-cots (Saint-Amans-des-Cots, 13.7 km)]] — 0565441816\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.717215,2.500831,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : DIG 2, Full TOTEM",
+    "description": "**Numéro de Work Order** : WO-224039 + WO-244570\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-08\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-21\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 50 50M APRES LE PANNEAU MONTSALVY PUIS 400M\n**Numéro de département** : 15\n**Nom du site** : MONTSALVY\n**Coordonnées** : 44.717215, 2.500831\n[[https://www.google.com/maps?q=44.717215,2.500831|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.717215,2.500831|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.7732,2.45354|Déchèterie de Lafeuillade-en-vézie (Lafeuillade-en-Vézie, 7.3 km)]] — 0443331087\n[[https://www.google.com/maps?q=44.6383,2.56709|Déchèterie d'Entraygues (Entraygues-sur-Truyère, 10.2 km)]] — 0565660768\n[[https://www.google.com/maps?q=44.6762,2.66386|Déchèterie Saint-amans-des-cots (Saint-Amans-des-Cots, 13.7 km)]] — 0565441816\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.717215,2.500831,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : DIG 2, Full TOTEM",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2162,12 +2162,15 @@
     "consignation": "Consigne Particulière",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : DIG 2, Full TOTEM",
     "date_planification": "2026-10-08",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-21",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500012",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
