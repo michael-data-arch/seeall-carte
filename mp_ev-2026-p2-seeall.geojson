@@ -2711,7 +2711,7 @@
    },
    "properties": {
     "name": "FRA01500069 — MAURS_FT",
-    "description": "**Numéro de Work Order** : WO-224046 + WO-244607\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-20\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LE BOIS MIGIE\n**Numéro de département** : 15\n**Nom du site** : MAURS_FT\n**Coordonnées** : 44.704439, 2.171664\n[[https://www.google.com/maps?q=44.704439,2.171664|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.704439,2.171664|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.7022,2.1906|Déchèterie de Laborie Maurs (Maurs, 1.5 km)]] — 0471467708\n[[https://www.google.com/maps?q=44.667,2.16601|Déchèterie de Bagnac-sur-célé (BAGNAC-SUR-CELE, 4.2 km)]] — 0565119013\n[[https://www.google.com/maps?q=44.6031,2.24262|Déchèterie de Flagnac (Flagnac, 12.6 km)]] — 0967874138\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.704439,2.171664,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/11/25 D cockpit O+M: Accès: en autonomie (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-224046 + WO-244607\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-20\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-21\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LE BOIS MIGIE\n**Numéro de département** : 15\n**Nom du site** : MAURS_FT\n**Coordonnées** : 44.704439, 2.171664\n[[https://www.google.com/maps?q=44.704439,2.171664|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.704439,2.171664|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.7022,2.1906|Déchèterie de Laborie Maurs (Maurs, 1.5 km)]] — 0471467708\n[[https://www.google.com/maps?q=44.667,2.16601|Déchèterie de Bagnac-sur-célé (BAGNAC-SUR-CELE, 4.2 km)]] — 0565119013\n[[https://www.google.com/maps?q=44.6031,2.24262|Déchèterie de Flagnac (Flagnac, 12.6 km)]] — 0967874138\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.704439,2.171664,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/11/25 D cockpit O+M: Accès: en autonomie (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2726,12 +2726,15 @@
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/11/25 D cockpit O+M: Accès: en autonomie (Full TOTEM)",
     "date_planification": "2026-10-20",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-21",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500069",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }

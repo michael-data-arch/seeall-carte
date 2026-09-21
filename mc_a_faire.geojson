@@ -979,6 +979,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     1.268164,
+     49.428776
+    ]
+   },
+   "properties": {
+    "name": "FRA07600381 — BOIS_D_ENNEBOURG",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Il y a des guêpes sur le pylône sur la structure haute lorsque l'on tape le pylône en bas\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Terre du bois d ennebourg 76160 Bois d ennebourg\n**Nom du site** : BOIS_D_ENNEBOURG\n**Coordonnées** : 49.428776, 1.268164\n[[https://www.google.com/maps?q=49.428776,1.268164|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.428776,1.268164|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.3814,1.37204|Déchèterie Charleval (Charleval, 9.2 km)]] — 0608891216\n[[https://www.google.com/maps?q=49.3221,1.25144|Déchèterie Romilly-sur-andelle (Romilly-sur-Andelle, 11.9 km)]] — 0662257300\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 11.9 km)]] — 0235889258\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.428776,1.268164,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "Il y a des guêpes sur le pylône sur la structure haute lorsque l'on tape le pylône en bas",
+    "etat_wo": "Activé",
+    "nom_site": "BOIS_D_ENNEBOURG",
+    "adresse": "Terre du bois d ennebourg 76160 Bois d ennebourg",
+    "calque": "mc",
+    "code_fra": "FRA07600381",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.767688,
      48.251981
     ]
