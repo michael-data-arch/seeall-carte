@@ -2603,7 +2603,7 @@
    },
    "properties": {
     "name": "FRA01500048 — QUEZAC_N122",
-    "description": "**Numéro de Work Order** : WO-225943 + WO-244600\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Pradelle\n**Numéro de département** : 15\n**Nom du site** : QUEZAC_N122\n**Coordonnées** : 44.760620, 2.180991\n[[https://www.google.com/maps?q=44.760620,2.180991|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.760620,2.180991|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.7022,2.1906|Déchèterie de Laborie Maurs (Maurs, 6.5 km)]] — 0471467708\n[[https://www.google.com/maps?q=44.667,2.16601|Déchèterie de Bagnac-sur-célé (BAGNAC-SUR-CELE, 10.5 km)]] — 0565119013\n[[https://www.google.com/maps?q=44.7987,2.05136|Déchèterie de Latronquière (LATRONQUIERE, 11.1 km)]] — 0565381877\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.760620,2.180991,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 02/02/2026 Na cockpit O+M : M. ROUQUET Gérard: 0683153077 Pour toute intervention, merci de contacter le 0683153077 Délai de prévenance: 5 jours ouvrés à l'avance Accès en autonomie.",
+    "description": "**Numéro de Work Order** : WO-225943 + WO-244600\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-21\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Pradelle\n**Numéro de département** : 15\n**Nom du site** : QUEZAC_N122\n**Coordonnées** : 44.760620, 2.180991\n[[https://www.google.com/maps?q=44.760620,2.180991|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.760620,2.180991|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.7022,2.1906|Déchèterie de Laborie Maurs (Maurs, 6.5 km)]] — 0471467708\n[[https://www.google.com/maps?q=44.667,2.16601|Déchèterie de Bagnac-sur-célé (BAGNAC-SUR-CELE, 10.5 km)]] — 0565119013\n[[https://www.google.com/maps?q=44.7987,2.05136|Déchèterie de Latronquière (LATRONQUIERE, 11.1 km)]] — 0565381877\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.760620,2.180991,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 02/02/2026 Na cockpit O+M : M. ROUQUET Gérard: 0683153077 Pour toute intervention, merci de contacter le 0683153077 Délai de prévenance: 5 jours ouvrés à l'avance Accès en autonomie.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2616,12 +2616,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 02/02/2026 Na cockpit O+M : M. ROUQUET Gérard: 0683153077 Pour toute intervention, merci de contacter le 0683153077 Délai de prévenance: 5 jours ouvrés à l'avance Accès en autonomie.",
     "date_planification": "2026-10-19",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-21",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500048",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
