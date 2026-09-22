@@ -1427,41 +1427,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.360593,
-     48.623617
-    ]
-   },
-   "properties": {
-    "name": "FRA09100202 — BONDOUFLE_GRAND_NOYER",
-    "description": "**Numéro de Work Order** : WO-236209\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Actions identifiées à la VT suite incendie. A réaliser après autorisation d'accès par les autorités.\n\n- Matériel du bailleur à enlever\n- débroussaillage\n- serrure\n- Autre ?\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-21\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Said\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : ensio\n**Numéro de département** : 91\n**Nom du site** : BONDOUFLE_GRAND_NOYER\n**Coordonnées** : 48.623617, 2.360593\n[[https://www.google.com/maps?q=48.623617,2.360593|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.623617,2.360593|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.6257,2.33324|Déchèterie de Sainte-genevieve-des-bois (Sainte-Geneviève-des-Bois, 2.0 km)]] — 0160166067\n[[https://www.google.com/maps?q=48.6213,2.32981|Déchèterie Saint-michel-sur-orge (Saint-Michel-sur-Orge, 2.3 km)]] — 0820629191\n[[https://www.google.com/maps?q=48.6468,2.39564|Déchèterie de Ris-orangis (Ris-Orangis, 3.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.623617,2.360593,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1VBVOa25lRG4g1GytomchRnSSczzeMfDZ/view|CRi FRA09100202 - BONDOUFLE_GRAND_NOYER (2).pdf]]\n[[https://drive.google.com/drive/folders/1MZoIFyy6UizHN7j9X2qwUqvy24_e38Ei|📁 Toutes les pièces (1)]]",
-    "origine": "ensio",
-    "travaux": "Actions identifiées à la VT suite incendie. A réaliser après autorisation d'accès par les autorités.\n\n- Matériel du bailleur à enlever\n- débroussaillage\n- serrure\n- Autre ?",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "BONDOUFLE_GRAND_NOYER",
-    "wo": "WO-236209",
-    "priorite": "Travaux Programmés",
-    "scope": "EVT - Environnement Technique",
-    "departement": "91",
-    "date_planification": "2026-09-21",
-    "equipe": "Said",
-    "semaine": 37,
-    "calque": "mc",
-    "code_fra": "FRA09100202",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "LargeCircle",
-     "iconSize": 32,
-     "iconUrl": "S"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.135616,
      49.101193
     ]
