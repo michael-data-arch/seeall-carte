@@ -1947,7 +1947,7 @@
    },
    "properties": {
     "name": "FRA01500005 — VABRES",
-    "description": "**Numéro de Work Order** : WO-224037 + WO-244564\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-07\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Montaffé Malepierre - Site FT\n**Numéro de département** : 15\n**Nom du site** : VABRES\n**Coordonnées** : 45.046262, 3.219103\n[[https://www.google.com/maps?q=45.046262,3.219103|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.046262,3.219103|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0485,3.10998|Decheterie de Saint Flour (Saint-Flour, 8.6 km)]] — 0471607558\n[[https://www.google.com/maps?q=45.1441,2.97886|Déchèterie de Neussargues (Neussargues-Moissac, 21.8 km)]] — 0471202262\n[[https://www.google.com/maps?q=45.0863,3.50642|Déchèterie de Langeac (LANGEAC, 23.0 km)]] — 0471771444\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.046262,3.219103,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: - Clef Deny spécifique. Portail ouvert ce jour en soulevant les tirettes car impossible d’ouvrir la BAC Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 18/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
+    "description": "**Numéro de Work Order** : WO-224037 + WO-244564\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-07\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-22\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Montaffé Malepierre - Site FT\n**Numéro de département** : 15\n**Nom du site** : VABRES\n**Coordonnées** : 45.046262, 3.219103\n[[https://www.google.com/maps?q=45.046262,3.219103|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.046262,3.219103|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0485,3.10998|Decheterie de Saint Flour (Saint-Flour, 8.6 km)]] — 0471607558\n[[https://www.google.com/maps?q=45.1441,2.97886|Déchèterie de Neussargues (Neussargues-Moissac, 21.8 km)]] — 0471202262\n[[https://www.google.com/maps?q=45.0863,3.50642|Déchèterie de Langeac (LANGEAC, 23.0 km)]] — 0471771444\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.046262,3.219103,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: - Clef Deny spécifique. Portail ouvert ce jour en soulevant les tirettes car impossible d’ouvrir la BAC Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 18/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1960,12 +1960,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: - Clef Deny spécifique. Portail ouvert ce jour en soulevant les tirettes car impossible d’ouvrir la BAC Délais de prévenance: Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 18/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
     "date_planification": "2026-10-07",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-22",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500005",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
