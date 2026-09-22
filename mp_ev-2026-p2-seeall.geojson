@@ -2823,7 +2823,7 @@
    },
    "properties": {
     "name": "FRA04300032 — ZB2_ST_ETIENNE_SUR_BLESLE",
-    "description": "**Numéro de Work Order** : WO-225623 + WO-244625\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Fromental Chemin rural nÂ°4\n**Numéro de département** : 43\n**Nom du site** : ZB2_ST_ETIENNE_SUR_BLESLE\n**Coordonnées** : 45.305355, 3.139935\n[[https://www.google.com/maps?q=45.305355,3.139935|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.305355,3.139935|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 6.4 km)]] — 0471230711\n[[https://www.google.com/maps?q=45.3776,3.11747|Déchèterie de la Planove Ardres-sur-couze (Ardes, 8.2 km)]]\n[[https://www.google.com/maps?q=45.3111,3.37105|Déchèterie de Brioude (BRIOUDE, 18.1 km)]] — 0471749551\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.305355,3.139935,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 24/10/2025 Na cockpit O+M: SAS AIRPORC : 0450514113 Pour toute intervention, merci d'envoyer un mail à c.dunand@verdannet.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès: toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
+    "description": "**Numéro de Work Order** : WO-225623 + WO-244625\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-22\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Fromental Chemin rural nÂ°4\n**Numéro de département** : 43\n**Nom du site** : ZB2_ST_ETIENNE_SUR_BLESLE\n**Coordonnées** : 45.305355, 3.139935\n[[https://www.google.com/maps?q=45.305355,3.139935|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.305355,3.139935|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 6.4 km)]] — 0471230711\n[[https://www.google.com/maps?q=45.3776,3.11747|Déchèterie de la Planove Ardres-sur-couze (Ardes, 8.2 km)]]\n[[https://www.google.com/maps?q=45.3111,3.37105|Déchèterie de Brioude (BRIOUDE, 18.1 km)]] — 0471749551\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.305355,3.139935,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 24/10/2025 Na cockpit O+M: SAS AIRPORC : 0450514113 Pour toute intervention, merci d'envoyer un mail à c.dunand@verdannet.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès: toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2836,12 +2836,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 5.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 24/10/2025 Na cockpit O+M: SAS AIRPORC : 0450514113 Pour toute intervention, merci d'envoyer un mail à c.dunand@verdannet.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès: toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
     "date_planification": "2026-10-26",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-22",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300032",
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
