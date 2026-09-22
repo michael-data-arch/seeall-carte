@@ -2094,7 +2094,7 @@
    },
    "properties": {
     "name": "FRA01500027 — ZBC_ML_VALJOUZE",
-    "description": "**Numéro de Work Order** : WO-224581 + WO-244584\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-13\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Bas Rebond\n**Numéro de département** : 15\n**Nom du site** : ZBC_ML_VALJOUZE\n**Coordonnées** : 45.159995, 3.061381\n[[https://www.google.com/maps?q=45.159995,3.061381|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.159995,3.061381|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1441,2.97886|Déchèterie de Neussargues (Neussargues-Moissac, 6.7 km)]] — 0471202262\n[[https://www.google.com/maps?q=45.0485,3.10998|Decheterie de Saint Flour (Saint-Flour, 13.0 km)]] — 0471607558\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 15.2 km)]] — 0471230711\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.159995,3.061381,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: non Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/05/26 D cockpit O+M: Accès: autonome, sans prévenance",
+    "description": "**Numéro de Work Order** : WO-224581 + WO-244584\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-13\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-22\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Bas Rebond\n**Numéro de département** : 15\n**Nom du site** : ZBC_ML_VALJOUZE\n**Coordonnées** : 45.159995, 3.061381\n[[https://www.google.com/maps?q=45.159995,3.061381|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.159995,3.061381|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1441,2.97886|Déchèterie de Neussargues (Neussargues-Moissac, 6.7 km)]] — 0471202262\n[[https://www.google.com/maps?q=45.0485,3.10998|Decheterie de Saint Flour (Saint-Flour, 13.0 km)]] — 0471607558\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 15.2 km)]] — 0471230711\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.159995,3.061381,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: non Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/05/26 D cockpit O+M: Accès: autonome, sans prévenance",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2107,12 +2107,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: non Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/05/26 D cockpit O+M: Accès: autonome, sans prévenance",
     "date_planification": "2026-10-13",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-22",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500027",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
