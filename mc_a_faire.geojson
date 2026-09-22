@@ -1288,7 +1288,7 @@
    },
    "properties": {
     "name": "FRA08300181 — LA_CAPTE",
-    "description": "**Numéro de Work Order** : WO-242808\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : site insallubre presence de fiancre d'oiseaux\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-18\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 83\n**Nom du site** : LA_CAPTE\n**Coordonnées** : 43.065833, 6.147500\n[[https://www.google.com/maps?q=43.065833,6.147500|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.065833,6.147500|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.0815,6.13607|Déchèterie d'Hyères (HYERES-LES-PALMIERS, 2.0 km)]] — 0494576762\n[[https://www.google.com/maps?q=43.1074,6.08808|Déchèterie de Carqueiranne (CARQUEIRANNE, 6.7 km)]]\n[[https://www.google.com/maps?q=43.1129,6.01458|Déchèterie du Pradet (PRADET, 12.0 km)]] — 0494140642\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.065833,6.147500,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1YGw6U4t-SfCxdif75VQycjkv6etDMCDT/view|{{https://drive.google.com/thumbnail?id=1YGw6U4t-SfCxdif75VQycjkv6etDMCDT&sz=w200}}]]\n[[https://drive.google.com/drive/folders/18Wesu0K2nTQnQhVS-tAjA2GJmUCBb25d|📁 Toutes les pièces (1)]]",
+    "description": "**Numéro de Work Order** : WO-242808\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : site insallubre presence de fiancre d'oiseaux\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-18\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-242808)\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-22\n**Provenance du repère** : airtable\n**Numéro de département** : 83\n**Nom du site** : LA_CAPTE\n**Coordonnées** : 43.065833, 6.147500\n[[https://www.google.com/maps?q=43.065833,6.147500|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.065833,6.147500|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.0815,6.13607|Déchèterie d'Hyères (HYERES-LES-PALMIERS, 2.0 km)]] — 0494576762\n[[https://www.google.com/maps?q=43.1074,6.08808|Déchèterie de Carqueiranne (CARQUEIRANNE, 6.7 km)]]\n[[https://www.google.com/maps?q=43.1129,6.01458|Déchèterie du Pradet (PRADET, 12.0 km)]] — 0494140642\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.065833,6.147500,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1YGw6U4t-SfCxdif75VQycjkv6etDMCDT/view|{{https://drive.google.com/thumbnail?id=1YGw6U4t-SfCxdif75VQycjkv6etDMCDT&sz=w200}}]]\n[[https://drive.google.com/drive/folders/18Wesu0K2nTQnQhVS-tAjA2GJmUCBb25d|📁 Toutes les pièces (1)]]",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "LA_CAPTE",
@@ -1298,12 +1298,16 @@
     "scope": "EVT - Environnement Technique",
     "departement": "83",
     "date_planification": "2026-09-18",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-22",
+    "commentaire_terrain": "CRI déposé (WO-242808)",
     "calque": "mc",
     "code_fra": "FRA08300181",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
