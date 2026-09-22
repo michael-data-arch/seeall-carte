@@ -2165,7 +2165,7 @@
    },
    "properties": {
     "name": "FRA01500044 — ST_MARY_LE_PLAIN",
-    "description": "**Numéro de Work Order** : WO-224042 + WO-244596\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LAIR\n**Numéro de département** : 15\n**Nom du site** : ST_MARY_LE_PLAIN\n**Coordonnées** : 45.184162, 3.187771\n[[https://www.google.com/maps?q=45.184162,3.187771|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.184162,3.187771|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 8.5 km)]] — 0471230711\n[[https://www.google.com/maps?q=45.0485,3.10998|Decheterie de Saint Flour (Saint-Flour, 16.3 km)]] — 0471607558\n[[https://www.google.com/maps?q=45.1441,2.97886|Déchèterie de Neussargues (Neussargues-Moissac, 17.0 km)]] — 0471202262\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.184162,3.187771,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: UI Auvergne Boite à clés: Non Portail / Portillon: Clef Socotel Délais de prévenance: 15.0 Accès équipement(s): Badge: Badge Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Non Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/10/25 D cockpit O+M: APW FRANCE: 07 56 42 48 23 Mode de prévenance par mail: patrimoine@apwfrance.fr Délai de prévenance: 2 semaines à l'avance Accès: en autonomie",
+    "description": "**Numéro de Work Order** : WO-224042 + WO-244596\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-22\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LAIR\n**Numéro de département** : 15\n**Nom du site** : ST_MARY_LE_PLAIN\n**Coordonnées** : 45.184162, 3.187771\n[[https://www.google.com/maps?q=45.184162,3.187771|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.184162,3.187771|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 8.5 km)]] — 0471230711\n[[https://www.google.com/maps?q=45.0485,3.10998|Decheterie de Saint Flour (Saint-Flour, 16.3 km)]] — 0471607558\n[[https://www.google.com/maps?q=45.1441,2.97886|Déchèterie de Neussargues (Neussargues-Moissac, 17.0 km)]] — 0471202262\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.184162,3.187771,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: UI Auvergne Boite à clés: Non Portail / Portillon: Clef Socotel Délais de prévenance: 15.0 Accès équipement(s): Badge: Badge Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Non Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/10/25 D cockpit O+M: APW FRANCE: 07 56 42 48 23 Mode de prévenance par mail: patrimoine@apwfrance.fr Délai de prévenance: 2 semaines à l'avance Accès: en autonomie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2178,12 +2178,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: UI Auvergne Boite à clés: Non Portail / Portillon: Clef Socotel Délais de prévenance: 15.0 Accès équipement(s): Badge: Badge Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Non Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/10/25 D cockpit O+M: APW FRANCE: 07 56 42 48 23 Mode de prévenance par mail: patrimoine@apwfrance.fr Délai de prévenance: 2 semaines à l'avance Accès: en autonomie",
     "date_planification": "2026-10-16",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-22",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA01500044",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
