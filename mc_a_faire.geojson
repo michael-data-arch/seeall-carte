@@ -934,6 +934,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     1.594967,
+     49.894018
+    ]
+   },
+   "properties": {
+    "name": "FRA07600160 — RS_SAINT_SYLVESTRE",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Espace vert à réaliser ; Grillage 20 m à reprendre ; Mousse sur pylône\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Pylone sur D407 foret d Eu 76340 ST RIQUIER EN RIVIERE\n**Nom du site** : RS_SAINT_SYLVESTRE\n**Coordonnées** : 49.894018, 1.594967\n[[https://www.google.com/maps?q=49.894018,1.594967|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.894018,1.594967|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.9334,1.62739|Déchèterie Foucarmont (Foucarmont, 5.0 km)]]\n[[https://www.google.com/maps?q=49.9305,1.64181|Déchèterie de Blangy-sur-bresle (Blangy-sur-Bresle, 5.3 km)]] — 0235933991\n[[https://www.google.com/maps?q=50.0101,1.51984|Déchèterie de Beauchamps (Beauchamps, 14.0 km)]] — 0227282078\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.894018,1.594967,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "Espace vert à réaliser ; Grillage 20 m à reprendre ; Mousse sur pylône",
+    "etat_wo": "Activé",
+    "nom_site": "RS_SAINT_SYLVESTRE",
+    "adresse": "Pylone sur D407 foret d Eu 76340 ST RIQUIER EN RIVIERE",
+    "calque": "mc",
+    "code_fra": "FRA07600160",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      1.380833,
      50.063056
     ]
