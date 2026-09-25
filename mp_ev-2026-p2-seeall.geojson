@@ -3428,7 +3428,7 @@
    },
    "properties": {
     "name": "FRA06300084 — RIOM_GARE",
-    "description": "**Numéro de Work Order** : WO-224202 + WO-244654\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-04\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 6 Rue Michel Servet\n**Numéro de département** : 63\n**Nom du site** : RIOM_GARE\n**Coordonnées** : 45.883889, 3.121111\n[[https://www.google.com/maps?q=45.883889,3.121111|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.883889,3.121111|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.912,3.14184|Déchèterie de Riom (Riom, 3.5 km)]] — 0473336892\n[[https://www.google.com/maps?q=45.9198,3.08284|Déchèterie de Chatel Guyon (Châtel-Guyon, 5.0 km)]] — 0473869389\n[[https://www.google.com/maps?q=45.8674,3.05041|Déchèterie de Volvic (Volvic, 5.8 km)]] — 0473333789\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.883889,3.121111,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: 1.0 Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: non Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 04/02/26 CZ EXPERIS Prévenance à faire 0473381067 Entreprise C DUMAS portail d’accès directe fermé le passage se fait depuis le portail de l’entreprise de transport C DUMAS appeler 24H avant au: 06 33 83 10 99 ou au 06 11 35 58 23",
+    "description": "**Numéro de Work Order** : WO-224202 + WO-244654\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-04\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-25\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 6 Rue Michel Servet\n**Numéro de département** : 63\n**Nom du site** : RIOM_GARE\n**Coordonnées** : 45.883889, 3.121111\n[[https://www.google.com/maps?q=45.883889,3.121111|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.883889,3.121111|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.912,3.14184|Déchèterie de Riom (Riom, 3.5 km)]] — 0473336892\n[[https://www.google.com/maps?q=45.9198,3.08284|Déchèterie de Chatel Guyon (Châtel-Guyon, 5.0 km)]] — 0473869389\n[[https://www.google.com/maps?q=45.8674,3.05041|Déchèterie de Volvic (Volvic, 5.8 km)]] — 0473333789\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.883889,3.121111,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: 1.0 Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: non Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 04/02/26 CZ EXPERIS Prévenance à faire 0473381067 Entreprise C DUMAS portail d’accès directe fermé le passage se fait depuis le portail de l’entreprise de transport C DUMAS appeler 24H avant au: 06 33 83 10 99 ou au 06 11 35 58 23",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -3442,12 +3442,15 @@
     "consignation": "Consigne Particulière",
     "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: 1.0 Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: non Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 04/02/26 CZ EXPERIS Prévenance à faire 0473381067 Entreprise C DUMAS portail d’accès directe fermé le passage se fait depuis le portail de l’entreprise de transport C DUMAS appeler 24H avant au: 06 33 83 10 99 ou au 06 11 35 58 23",
     "date_planification": "2026-11-04",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-25",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300084",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
