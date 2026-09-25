@@ -3463,7 +3463,7 @@
    },
    "properties": {
     "name": "FRA06300085 — RIOM_PEUPLIERS",
-    "description": "**Numéro de Work Order** : WO-224999 + WO-244655\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-04\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin de Montrosier Le Moulin\n**Numéro de département** : 63\n**Nom du site** : RIOM_PEUPLIERS\n**Coordonnées** : 45.881942, 3.096941\n[[https://www.google.com/maps?q=45.881942,3.096941|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.881942,3.096941|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8674,3.05041|Déchèterie de Volvic (Volvic, 3.9 km)]] — 0473333789\n[[https://www.google.com/maps?q=45.9198,3.08284|Déchèterie de Chatel Guyon (Châtel-Guyon, 4.3 km)]] — 0473869389\n[[https://www.google.com/maps?q=45.912,3.14184|Déchèterie de Riom (Riom, 4.8 km)]] — 0473336892\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.881942,3.096941,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 10.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 23/04/26 D cockpit O+M: (à titre informatif) COMMUNE DE RIOM: 04 73 33 79 00 Prévenance à faire par mail: dstau@ville-riom.fr/ 10j à l'avance Autonome",
+    "description": "**Numéro de Work Order** : WO-224999 + WO-244655\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-04\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-25\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin de Montrosier Le Moulin\n**Numéro de département** : 63\n**Nom du site** : RIOM_PEUPLIERS\n**Coordonnées** : 45.881942, 3.096941\n[[https://www.google.com/maps?q=45.881942,3.096941|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.881942,3.096941|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8674,3.05041|Déchèterie de Volvic (Volvic, 3.9 km)]] — 0473333789\n[[https://www.google.com/maps?q=45.9198,3.08284|Déchèterie de Chatel Guyon (Châtel-Guyon, 4.3 km)]] — 0473869389\n[[https://www.google.com/maps?q=45.912,3.14184|Déchèterie de Riom (Riom, 4.8 km)]] — 0473336892\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.881942,3.096941,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 10.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 23/04/26 D cockpit O+M: (à titre informatif) COMMUNE DE RIOM: 04 73 33 79 00 Prévenance à faire par mail: dstau@ville-riom.fr/ 10j à l'avance Autonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -3477,12 +3477,15 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 10.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 23/04/26 D cockpit O+M: (à titre informatif) COMMUNE DE RIOM: 04 73 33 79 00 Prévenance à faire par mail: dstau@ville-riom.fr/ 10j à l'avance Autonome",
     "date_planification": "2026-11-04",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-25",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300085",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
