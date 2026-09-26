@@ -1782,7 +1782,7 @@
    },
    "properties": {
     "name": "FRA00300121 — CESSET",
-    "description": "**Numéro de Work Order** : WO-244557\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Le Bois Saumon\n**Numéro de département** : 3\n**Nom du site** : CESSET\n**Coordonnées** : 46.314980, 3.193198\n[[https://www.google.com/maps?q=46.314980,3.193198|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.314980,3.193198|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2542,3.28227|Déchèterie de Bayet (Bayet, 9.6 km)]] — 0684747035\n[[https://www.google.com/maps?q=46.232,3.12151|Déchèterie de Chantelle Chezelle (Chantelle, 10.7 km)]] — 0680844931\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 10.7 km)]] — 0673673673\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.314980,3.193198,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 16/01/2026 Na cockpit O+M : Site full ILOQ Cadenas ILOQ 19293062 sur le portail et cadenas ILOQ 19095544 sur la porte coutier",
+    "description": "**Numéro de Work Order** : WO-244557\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-26\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Le Bois Saumon\n**Numéro de département** : 3\n**Nom du site** : CESSET\n**Coordonnées** : 46.314980, 3.193198\n[[https://www.google.com/maps?q=46.314980,3.193198|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.314980,3.193198|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2542,3.28227|Déchèterie de Bayet (Bayet, 9.6 km)]] — 0684747035\n[[https://www.google.com/maps?q=46.232,3.12151|Déchèterie de Chantelle Chezelle (Chantelle, 10.7 km)]] — 0680844931\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 10.7 km)]] — 0673673673\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.314980,3.193198,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 16/01/2026 Na cockpit O+M : Site full ILOQ Cadenas ILOQ 19293062 sur le portail et cadenas ILOQ 19095544 sur la porte coutier",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1795,12 +1795,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 16/01/2026 Na cockpit O+M : Site full ILOQ Cadenas ILOQ 19293062 sur le portail et cadenas ILOQ 19095544 sur la porte coutier",
     "date_planification": "2026-10-05",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-26",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300121",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
