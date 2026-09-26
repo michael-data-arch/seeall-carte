@@ -1878,7 +1878,7 @@
    },
    "properties": {
     "name": "FRA00300128 — GANNAT",
-    "description": "**Numéro de Work Order** : WO-224829 + WO-244562\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-06\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : PARCELLE 250 TERROIR DE LA COTE\n**Numéro de département** : 3\n**Nom du site** : GANNAT\n**Coordonnées** : 46.091139, 3.191041\n[[https://www.google.com/maps?q=46.091139,3.191041|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.091139,3.191041|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.0918,3.194|Déchèterie de Gannat (Gannat, 0.2 km)]] — 0608559854\n[[https://www.google.com/maps?q=46.1177,3.0887|Déchèterie de Ebreuil (Ébreuil, 8.4 km)]] — 0673673672\n[[https://www.google.com/maps?q=46.0001,3.19782|Déchèterie d'Aigueperse (Aigueperse, 10.1 km)]] — 0473386906\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.091139,3.191041,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY PORTAIL_ORT OR/ACBEG Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-224829 + WO-244562\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-06\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-09-26\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : PARCELLE 250 TERROIR DE LA COTE\n**Numéro de département** : 3\n**Nom du site** : GANNAT\n**Coordonnées** : 46.091139, 3.191041\n[[https://www.google.com/maps?q=46.091139,3.191041|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.091139,3.191041|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.0918,3.194|Déchèterie de Gannat (Gannat, 0.2 km)]] — 0608559854\n[[https://www.google.com/maps?q=46.1177,3.0887|Déchèterie de Ebreuil (Ébreuil, 8.4 km)]] — 0673673672\n[[https://www.google.com/maps?q=46.0001,3.19782|Déchèterie d'Aigueperse (Aigueperse, 10.1 km)]] — 0473386906\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.091139,3.191041,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY PORTAIL_ORT OR/ACBEG Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1892,12 +1892,15 @@
     "acces_detail": "Digicode: Non Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY PORTAIL_ORT OR/ACBEG Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
     "date_planification": "2026-10-06",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-09-26",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300128",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
