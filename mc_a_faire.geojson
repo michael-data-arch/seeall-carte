@@ -6,6 +6,66 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     5.791309,
+     43.82498
+    ]
+   },
+   "properties": {
+    "name": "FRA00400009 — MANOSQUE_ZI",
+    "description": "**Numéro de Work Order** : WO-246447\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour,\n\nMerci de prévoir le retrait d'un petit arbre et un très gros arbre derrière le local (voir photos)\n\nCdlt\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 4\n**Nom du site** : MANOSQUE_ZI\n**Coordonnées** : 43.824980, 5.791309\n[[https://www.google.com/maps?q=43.824980,5.791309|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.824980,5.791309|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.7899,5.80958|Déchèterie de Manosque (Manosque, 4.2 km)]] — 0492709800\n[[https://www.google.com/maps?q=43.8046,5.74145|Déchèterie de Pierrevert (Pierrevert, 4.6 km)]] — 0674210971\n[[https://www.google.com/maps?q=43.8811,5.87751|Déchèterie de Villeneuve (Villeneuve, 9.3 km)]] — 0685428743\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.824980,5.791309,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "MANOSQUE_ZI",
+    "wo": "WO-246447",
+    "travaux": "Bonjour,\n\nMerci de prévoir le retrait d'un petit arbre et un très gros arbre derrière le local (voir photos)\n\nCdlt\nOlivier",
+    "priorite": "P4",
+    "scope": "EV - Espaces Verts",
+    "departement": "4",
+    "calque": "mc",
+    "code_fra": "FRA00400009",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.766294,
+     43.848928
+    ]
+   },
+   "properties": {
+    "name": "FRA01300592 — GRAVESON_CENTRE",
+    "description": "**Numéro de Work Order** : WO-246346\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour,\n\nCe site sur dalle béton, a besoin d'un débroussaillage tout autour du grillage sur 1 m de largeur afin d'éviter l'envahissement des mauvaises herbes sur le grillage\n\nMerci\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 13\n**Nom du site** : GRAVESON_CENTRE\n**Coordonnées** : 43.848928, 4.766294\n[[https://www.google.com/maps?q=43.848928,4.766294|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.848928,4.766294|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.8385,4.77254|Déchèterie de Maillane (Maillane, 1.3 km)]]\n[[https://www.google.com/maps?q=43.8059,4.79965|Déchèterie de Saint Rémy de Provence (Saint-Rémy-de-Provence, 5.5 km)]] — 0484510620\n[[https://www.google.com/maps?q=43.8787,4.68711|Déchèterie de Boulbon (Boulbon, 7.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.848928,4.766294,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "GRAVESON_CENTRE",
+    "wo": "WO-246346",
+    "travaux": "Bonjour,\n\nCe site sur dalle béton, a besoin d'un débroussaillage tout autour du grillage sur 1 m de largeur afin d'éviter l'envahissement des mauvaises herbes sur le grillage\n\nMerci\nOlivier",
+    "priorite": "P4",
+    "scope": "EV - Espaces Verts",
+    "departement": "13",
+    "calque": "mc",
+    "code_fra": "FRA01300592",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -0.049288,
      49.221015
     ]
@@ -73,35 +133,27 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.582693,
-     48.453691
+     1.539163,
+     45.250363
     ]
    },
    "properties": {
-    "name": "FRA02800124 — CHARTRES_GASVILLE",
-    "description": "**Numéro de Work Order** : WO-240019\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser l'espace vert sur site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0213876\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-25\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 28\n**Nom du site** : CHARTRES_GASVILLE\n**Coordonnées** : 48.453691, 1.582693\n[[https://www.google.com/maps?q=48.453691,1.582693|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.453691,1.582693|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.4788,1.50454|Déchèterie de Champhol (Champhol, 6.4 km)]]\n[[https://www.google.com/maps?q=48.5228,1.62136|Déchèterie de Harleville (Bailleau-Armenonville, 8.2 km)]] — 0237909272\n[[https://www.google.com/maps?q=48.4117,1.454|Déchèterie Fontenay-sur-eure (Fontenay-sur-Eure, 10.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.453691,1.582693,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - Faire une demande d’accès auprès de d.sauvetre@aqualter.com pour nous ouvrir le portail de l’enceinte du château d’eau\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 20/02/2026 Na cockpit O+M :\nPour toute intervention, merci d'envoyer un mail à l.mangin@aqualter.com avec le plan de prévention dûment rempli (ci-dessous).\n\nDélai de prévenance: 10 jours à l'avance\n\nHoraires d'interventions: de 8h30 à 16h00, du lundi au vendredi\n\nAccès non Autonome\n\nNB : merci de bien préciser l’heure exacte de l’intervention pour l’ouverture du portail et du château d’eau.\n\nContact:\n- MANGIN Lise - Responsable exploitation eau potable:\n📞 06.45.01.35.74\n📧 l.mangin@aqualter.com",
-    "etat_wo": "Travaux planifiés",
+    "name": "FRA01900111 — DONZENAC_THEIL",
+    "description": "**Numéro de Work Order** : WO-246434\n**État du WO** : Activé\n**Travaux à réaliser** : espace vert à réaliser\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 19\n**Nom du site** : DONZENAC_THEIL\n**Coordonnées** : 45.250363, 1.539163\n[[https://www.google.com/maps?q=45.250363,1.539163|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.250363,1.539163|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2338,1.49745|Déchèterie d'Allassac - Donzenac (Donzenac, 3.7 km)]] — 0555856764\n[[https://www.google.com/maps?q=45.1779,1.49479|Déchèterie de Ussac (Ussac, 8.8 km)]] — 0555232593\n[[https://www.google.com/maps?q=45.1649,1.58222|Déchèterie de Malemort-sur-Correze (Malemort-sur-Corrèze*, 10.1 km)]] — 0555920718\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.250363,1.539163,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Activé",
     "origine": "airtable",
-    "nom_site": "CHARTRES_GASVILLE",
-    "wo": "WO-240019",
-    "travaux": "Action\n\nRéaliser l'espace vert sur site",
+    "nom_site": "DONZENAC_THEIL",
+    "wo": "WO-246434",
+    "travaux": "espace vert à réaliser",
     "priorite": "P4",
     "scope": "EV - Espaces Verts",
-    "departement": "28",
-    "date_planification": "2026-09-25",
-    "das_numero": "DAS-N0213876",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-25",
-    "das_fin": "2026-08-25",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - Faire une demande d’accès auprès de d.sauvetre@aqualter.com pour nous ouvrir le portail de l’enceinte du château d’eau\nDélais de prévenance: 10.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 20/02/2026 Na cockpit O+M :\nPour toute intervention, merci d'envoyer un mail à l.mangin@aqualter.com avec le plan de prévention dûment rempli (ci-dessous).\n\nDélai de prévenance: 10 jours à l'avance\n\nHoraires d'interventions: de 8h30 à 16h00, du lundi au vendredi\n\nAccès non Autonome\n\nNB : merci de bien préciser l’heure exacte de l’intervention pour l’ouverture du portail et du château d’eau.\n\nContact:\n- MANGIN Lise - Responsable exploitation eau potable:\n📞 06.45.01.35.74\n📧 l.mangin@aqualter.com",
-    "das_prevenance": "10 jours",
+    "departement": "19",
     "calque": "mc",
-    "code_fra": "FRA02800124",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "la fiche déclare l'accès non autonome",
+    "code_fra": "FRA01900111",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#DC2626",
      "iconClass": "Drop"
     }
    }
@@ -111,35 +163,28 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.099167,
-     43.6775
+     1.582693,
+     48.453691
     ]
    },
    "properties": {
-    "name": "FRA03400228 — LUNEL_LE_VERDIER",
-    "description": "**Numéro de Work Order** : WO-246207\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Élagage arbre échelle monotube\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0236139\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-25\n**Fin de validité** : 2026-09-25\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 34\n**Nom du site** : LUNEL_LE_VERDIER\n**Coordonnées** : 43.677500, 4.099167\n[[https://www.google.com/maps?q=43.677500,4.099167|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.677500,4.099167|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.6658,4.12026|Déchèterie de Lunel (Lunel, 2.1 km)]] — 0467838700\n[[https://www.google.com/maps?q=43.7,4.13|Déchèterie Villetelle (Villetelle, 3.5 km)]]\n[[https://www.google.com/maps?q=43.6566,4.1642|Déchèterie de Marsillargues (Marsillargues, 5.7 km)]] — 0467838700\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.677500,4.099167,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1u2uQiSpuZNIODS9P33GfcZRdDtLVxOTG/view|{{https://drive.google.com/thumbnail?id=1u2uQiSpuZNIODS9P33GfcZRdDtLVxOTG&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1ZXMEtSFZnv5y7ci-WzMG0dBvBWYwlMKM|📁 Toutes les pièces (1)]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - Ouvert en HO.\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 13/11/25 D cockpit O+M:\nSCI JPCM: 06 45 74 72 50\nVeuillez prévenir par téléphone au 06 45 74 72 50/ 48h à l'avance\nAccès: en autonomie",
-    "etat_wo": "Devis Envoyé",
+    "name": "FRA02800124 — CHARTRES_GASVILLE",
+    "description": "**Numéro de Work Order** : WO-240019\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser l'espace vert sur site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 28\n**Nom du site** : CHARTRES_GASVILLE\n**Coordonnées** : 48.453691, 1.582693\n[[https://www.google.com/maps?q=48.453691,1.582693|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.453691,1.582693|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.4788,1.50454|Déchèterie de Champhol (Champhol, 6.4 km)]]\n[[https://www.google.com/maps?q=48.5228,1.62136|Déchèterie de Harleville (Bailleau-Armenonville, 8.2 km)]] — 0237909272\n[[https://www.google.com/maps?q=48.4117,1.454|Déchèterie Fontenay-sur-eure (Fontenay-sur-Eure, 10.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.453691,1.582693,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
-    "nom_site": "LUNEL_LE_VERDIER",
-    "wo": "WO-246207",
-    "travaux": "Élagage arbre échelle monotube",
+    "nom_site": "CHARTRES_GASVILLE",
+    "wo": "WO-240019",
+    "travaux": "Action\n\nRéaliser l'espace vert sur site",
     "priorite": "P4",
     "scope": "EV - Espaces Verts",
-    "departement": "34",
+    "departement": "28",
     "date_planification": "2026-09-25",
-    "das_numero": "DAS-N0236139",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-09-25",
-    "das_fin": "2026-09-25",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - Ouvert en HO.\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 13/11/25 D cockpit O+M:\nSCI JPCM: 06 45 74 72 50\nVeuillez prévenir par téléphone au 06 45 74 72 50/ 48h à l'avance\nAccès: en autonomie",
-    "das_prevenance": "2 jours",
     "calque": "mc",
-    "code_fra": "FRA03400228",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "code_fra": "FRA02800124",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -360,8 +405,8 @@
    },
    "properties": {
     "name": "FRA03900087 — CONLIEGE",
-    "description": "**Numéro de Work Order** : WO-235239\n**État du WO** : Activé\n**Travaux à réaliser** : prévoir nettoyage accès antenne fientes de pigeons partout et pigeon mort a retirer. Prévoir un filet ou grille pour éviter entrées potentiels de pigeon.\nLa mairie souhaite être présent : les contacter au 03.84.24.13.20 lors de l'interventon\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 39\n**Nom du site** : CONLIEGE\n**Coordonnées** : 46.654430, 5.598913\n[[https://www.google.com/maps?q=46.654430,5.598913|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.654430,5.598913|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6837,5.58626|Déchèterie de Lons Nord (Perrigny, 3.4 km)]] — 0384245009\n[[https://www.google.com/maps?q=46.6573,5.51077|Déchèterie de Lons Sud (Messia-sur-Sorne, 6.7 km)]] — 0384439458\n[[https://www.google.com/maps?q=46.7578,5.59952|Déchèterie de Domblans (Domblans, 11.5 km)]] — 0384247136\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.654430,5.598913,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (5) :\n[[https://drive.google.com/file/d/1aQFgdpLm6wyRTx6tAcr8R95WHabFHk6K/view|{{https://drive.google.com/thumbnail?id=1aQFgdpLm6wyRTx6tAcr8R95WHabFHk6K&sz=w200}}]] [[https://drive.google.com/file/d/1hZesgwqWRrQiBdPkymvhhcko9CtoAQHe/view|{{https://drive.google.com/thumbnail?id=1hZesgwqWRrQiBdPkymvhhcko9CtoAQHe&sz=w200}}]] [[https://drive.google.com/file/d/1THjCaDUj6CwajCFKDGyKNtMdI9gzkcaY/view|{{https://drive.google.com/thumbnail?id=1THjCaDUj6CwajCFKDGyKNtMdI9gzkcaY&sz=w200}}]] [[https://drive.google.com/file/d/1ZcCK5SBrJNzMaQVYWgAJZVs9FBk6St0f/view|{{https://drive.google.com/thumbnail?id=1ZcCK5SBrJNzMaQVYWgAJZVs9FBk6St0f&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1Hvkwj1r-W9XyINDAUsZxF_wlEZcvxOKa|📁 Toutes les pièces (5)]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-235239\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : prévoir nettoyage accès antenne fientes de pigeons partout et pigeon mort a retirer. Prévoir un filet ou grille pour éviter entrées potentiels de pigeon.\nLa mairie souhaite être présent : les contacter au 03.84.24.13.20 lors de l'interventon\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-10-13\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 39\n**Nom du site** : CONLIEGE\n**Coordonnées** : 46.654430, 5.598913\n[[https://www.google.com/maps?q=46.654430,5.598913|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.654430,5.598913|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6837,5.58626|Déchèterie de Lons Nord (Perrigny, 3.4 km)]] — 0384245009\n[[https://www.google.com/maps?q=46.6573,5.51077|Déchèterie de Lons Sud (Messia-sur-Sorne, 6.7 km)]] — 0384439458\n[[https://www.google.com/maps?q=46.7578,5.59952|Déchèterie de Domblans (Domblans, 11.5 km)]] — 0384247136\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.654430,5.598913,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (5) :\n[[https://drive.google.com/file/d/1aQFgdpLm6wyRTx6tAcr8R95WHabFHk6K/view|{{https://drive.google.com/thumbnail?id=1aQFgdpLm6wyRTx6tAcr8R95WHabFHk6K&sz=w200}}]] [[https://drive.google.com/file/d/1hZesgwqWRrQiBdPkymvhhcko9CtoAQHe/view|{{https://drive.google.com/thumbnail?id=1hZesgwqWRrQiBdPkymvhhcko9CtoAQHe&sz=w200}}]] [[https://drive.google.com/file/d/1THjCaDUj6CwajCFKDGyKNtMdI9gzkcaY/view|{{https://drive.google.com/thumbnail?id=1THjCaDUj6CwajCFKDGyKNtMdI9gzkcaY&sz=w200}}]] [[https://drive.google.com/file/d/1ZcCK5SBrJNzMaQVYWgAJZVs9FBk6St0f/view|{{https://drive.google.com/thumbnail?id=1ZcCK5SBrJNzMaQVYWgAJZVs9FBk6St0f&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1Hvkwj1r-W9XyINDAUsZxF_wlEZcvxOKa|📁 Toutes les pièces (5)]]",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "CONLIEGE",
     "wo": "WO-235239",
@@ -369,12 +414,13 @@
     "priorite": "P4",
     "scope": "EVT - Environnement Technique",
     "departement": "39",
+    "date_planification": "2026-10-13",
     "calque": "mc",
     "code_fra": "FRA03900087",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -420,8 +466,8 @@
    },
    "properties": {
     "name": "FRA04400222 — PIRIAC_SUR_MER",
-    "description": "**Numéro de Work Order** : WO-246310\n**État du WO** : Activé\n**Travaux à réaliser** : pourriez-vous réalisé un débroussaillage sur le site avant la semaine 44 svp\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 44\n**Nom du site** : PIRIAC_SUR_MER\n**Coordonnées** : 47.380770, -2.505379\n[[https://www.google.com/maps?q=47.380770,-2.505379|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.380770,-2.505379|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.381,-2.50616|Déchèterie de Piriac-sur-mer (Piriac-sur-Mer, 0.1 km)]] — 0240236009\n[[https://www.google.com/maps?q=47.3225,-2.40732|Déchèterie de Guerande (Guérande, 9.8 km)]] — 0240156897\n[[https://www.google.com/maps?q=47.2883,-2.50339|Déchèterie du Croisic (Le Croisic, 10.3 km)]] — 0240232878\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.380770,-2.505379,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/19Rh646KRhIyMLp9478mDHOpaFoYPQBPm/view|{{https://drive.google.com/thumbnail?id=19Rh646KRhIyMLp9478mDHOpaFoYPQBPm&sz=w200}}]]\n[[https://drive.google.com/drive/folders/16jaCOYskbW2yHEDiz6KL6LX7ieSyL0b8|📁 Toutes les pièces (1)]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246310\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : pourriez-vous réalisé un débroussaillage sur le site avant la semaine 44 svp\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 44\n**Nom du site** : PIRIAC_SUR_MER\n**Coordonnées** : 47.380770, -2.505379\n[[https://www.google.com/maps?q=47.380770,-2.505379|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.380770,-2.505379|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.381,-2.50616|Déchèterie de Piriac-sur-mer (Piriac-sur-Mer, 0.1 km)]] — 0240236009\n[[https://www.google.com/maps?q=47.3225,-2.40732|Déchèterie de Guerande (Guérande, 9.8 km)]] — 0240156897\n[[https://www.google.com/maps?q=47.2883,-2.50339|Déchèterie du Croisic (Le Croisic, 10.3 km)]] — 0240232878\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.380770,-2.505379,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/19Rh646KRhIyMLp9478mDHOpaFoYPQBPm/view|{{https://drive.google.com/thumbnail?id=19Rh646KRhIyMLp9478mDHOpaFoYPQBPm&sz=w200}}]]\n[[https://drive.google.com/drive/folders/16jaCOYskbW2yHEDiz6KL6LX7ieSyL0b8|📁 Toutes les pièces (1)]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "PIRIAC_SUR_MER",
     "wo": "WO-246310",
@@ -429,12 +475,13 @@
     "priorite": "Travaux Programmés",
     "scope": "EV - Espaces Verts",
     "departement": "44",
+    "date_planification": "2026-10-16",
     "calque": "mc",
     "code_fra": "FRA04400222",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -488,8 +535,8 @@
    },
    "properties": {
     "name": "FRA04900118 — LA_VARENNE",
-    "description": "**Numéro de Work Order** : WO-246288\n**État du WO** : Activé\n**Travaux à réaliser** : bonjour\npouvez-vous prévoir un nettoyage du site svp et regarder pour boucher les entrées de pigeons ou si impossible les identifier\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 49\n**Nom du site** : LA_VARENNE\n**Coordonnées** : 47.314255, -1.322587\n[[https://www.google.com/maps?q=47.314255,-1.322587|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.314255,-1.322587|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2424,-1.3317|Déchèterie le Loroux-bottereau - Cad (Le Loroux-Bottereau, 8.0 km)]] — 0251717571\n[[https://www.google.com/maps?q=47.3517,-1.42029|Déchèterie de Saint-Mars-du-Désert (Saint-Mars-du-Désert, 8.5 km)]] — 0614147758\n[[https://www.google.com/maps?q=47.4036,-1.36553|Déchèterie Ligné (Ligné, 10.4 km)]] — 0240963189\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.314255,-1.322587,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1OTZdgTsFtOGyiofmOvrYWzqvbpZImkjl/view|{{https://drive.google.com/thumbnail?id=1OTZdgTsFtOGyiofmOvrYWzqvbpZImkjl&sz=w200}}]] [[https://drive.google.com/file/d/1bv2-_hK8xfGahcu_i1f8y9wlIyohfmJO/view|{{https://drive.google.com/thumbnail?id=1bv2-_hK8xfGahcu_i1f8y9wlIyohfmJO&sz=w200}}]] [[https://drive.google.com/file/d/1AvjIEs7xX-Y9VRiRL7_EZF3CjU1n7cuA/view|{{https://drive.google.com/thumbnail?id=1AvjIEs7xX-Y9VRiRL7_EZF3CjU1n7cuA&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1wlYKO6Q3Q5n9WurJdNBk-daXYGME0RL1|📁 Toutes les pièces (3)]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246288\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : bonjour\npouvez-vous prévoir un nettoyage du site svp et regarder pour boucher les entrées de pigeons ou si impossible les identifier\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-14\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 49\n**Nom du site** : LA_VARENNE\n**Coordonnées** : 47.314255, -1.322587\n[[https://www.google.com/maps?q=47.314255,-1.322587|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.314255,-1.322587|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2424,-1.3317|Déchèterie le Loroux-bottereau - Cad (Le Loroux-Bottereau, 8.0 km)]] — 0251717571\n[[https://www.google.com/maps?q=47.3517,-1.42029|Déchèterie de Saint-Mars-du-Désert (Saint-Mars-du-Désert, 8.5 km)]] — 0614147758\n[[https://www.google.com/maps?q=47.4036,-1.36553|Déchèterie Ligné (Ligné, 10.4 km)]] — 0240963189\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.314255,-1.322587,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1OTZdgTsFtOGyiofmOvrYWzqvbpZImkjl/view|{{https://drive.google.com/thumbnail?id=1OTZdgTsFtOGyiofmOvrYWzqvbpZImkjl&sz=w200}}]] [[https://drive.google.com/file/d/1bv2-_hK8xfGahcu_i1f8y9wlIyohfmJO/view|{{https://drive.google.com/thumbnail?id=1bv2-_hK8xfGahcu_i1f8y9wlIyohfmJO&sz=w200}}]] [[https://drive.google.com/file/d/1AvjIEs7xX-Y9VRiRL7_EZF3CjU1n7cuA/view|{{https://drive.google.com/thumbnail?id=1AvjIEs7xX-Y9VRiRL7_EZF3CjU1n7cuA&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1wlYKO6Q3Q5n9WurJdNBk-daXYGME0RL1|📁 Toutes les pièces (3)]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "LA_VARENNE",
     "wo": "WO-246288",
@@ -498,12 +545,13 @@
     "scope": "EVT - Environnement Technique",
     "departement": "49",
     "consignation": "Consigne Particulière",
+    "date_planification": "2026-10-14",
     "calque": "mc",
     "code_fra": "FRA04900118",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -558,22 +606,23 @@
    },
    "properties": {
     "name": "FRA05000088 — AMFREVILLE_TER",
-    "description": "**Numéro de Work Order** : WO-246292\n**État du WO** : Activé\n**Travaux à réaliser** : Espace vert à entretenir et possibilité de nid de frelons dans le coffret de lovage fibres\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de la Fière 50480 Ste-Mère-Église\n**Numéro de département** : 50\n**Nom du site** : AMFREVILLE_TER\n**Coordonnées** : 49.406538, -1.352169\n[[https://www.google.com/maps?q=49.406538,-1.352169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.406538,-1.352169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.3833,-1.32462|Decheterie de Carquebut (Carquebut, 3.3 km)]] — 0233423074\n[[https://www.google.com/maps?q=49.3935,-1.52416|Decheterie de Rauville la Place (Rauville-la-Place, 12.5 km)]] — 0233033239\n[[https://www.google.com/maps?q=49.2748,-1.27822|Decheterie de Carentan (Carentan*, 15.6 km)]] — 0233778700\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.406538,-1.352169,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1lJm2XsiPPELz5HejnDxyS4LjBKN_idhR/view|{{https://drive.google.com/thumbnail?id=1lJm2XsiPPELz5HejnDxyS4LjBKN_idhR&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1EmyISzbz07pEJqKAa2rPt4q1hF9H6BdH|📁 Toutes les pièces (1)]]",
+    "description": "**Numéro de Work Order** : WO-246292\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Espace vert à entretenir et possibilité de nid de frelons dans le coffret de lovage fibres\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de la Fière 50480 Ste-Mère-Église\n**Numéro de département** : 50\n**Nom du site** : AMFREVILLE_TER\n**Coordonnées** : 49.406538, -1.352169\n[[https://www.google.com/maps?q=49.406538,-1.352169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.406538,-1.352169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.3833,-1.32462|Decheterie de Carquebut (Carquebut, 3.3 km)]] — 0233423074\n[[https://www.google.com/maps?q=49.3935,-1.52416|Decheterie de Rauville la Place (Rauville-la-Place, 12.5 km)]] — 0233033239\n[[https://www.google.com/maps?q=49.2748,-1.27822|Decheterie de Carentan (Carentan*, 15.6 km)]] — 0233778700\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.406538,-1.352169,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1lJm2XsiPPELz5HejnDxyS4LjBKN_idhR/view|{{https://drive.google.com/thumbnail?id=1lJm2XsiPPELz5HejnDxyS4LjBKN_idhR&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1EmyISzbz07pEJqKAa2rPt4q1hF9H6BdH|📁 Toutes les pièces (1)]]",
     "origine": "ensio",
     "travaux": "Espace vert à entretenir et possibilité de nid de frelons dans le coffret de lovage fibres",
-    "etat_wo": "Activé",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "AMFREVILLE_TER",
     "adresse": "Rue de la Fière 50480 Ste-Mère-Église",
     "wo": "WO-246292",
     "priorite": "P4",
     "scope": "EV - Espaces Verts",
     "departement": "50",
+    "date_planification": "2026-10-30",
     "calque": "mc",
     "code_fra": "FRA05000088",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "LargeCircle",
      "iconSize": 32
     }
@@ -621,8 +670,8 @@
    },
    "properties": {
     "name": "FRA05300053 — SAINT_PIERRE_DES_NIDS",
-    "description": "**Numéro de Work Order** : WO-246259\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour\nprévoir un nettoyage du site et regarder si possible d’identifier des entrées de pigeons et les boucher\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 53\n**Nom du site** : SAINT_PIERRE_DES_NIDS\n**Coordonnées** : 48.399788, -0.098010\n[[https://www.google.com/maps?q=48.399788,-0.098010|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.399788,-0.098010|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.4056,-0.0808249|Déchèterie de Saint-pierre-des-nids (Saint-Pierre-des-Nids, 1.4 km)]] — 0243035141\n[[https://www.google.com/maps?q=48.4623,-0.189231|Déchèterie de Pré-en-pail (Pré-en-Pail, 9.7 km)]] — 0243035141\n[[https://www.google.com/maps?q=48.338,-0.270771|Déchèterie de Villaines-la-juhel (Villaines-la-Juhel, 14.5 km)]] — 0607474989\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.399788,-0.098010,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1TWcNJ7QlHMzigbUJPOVV0FBERgmx_Ey7/view|{{https://drive.google.com/thumbnail?id=1TWcNJ7QlHMzigbUJPOVV0FBERgmx_Ey7&sz=w200}}]] [[https://drive.google.com/file/d/1oK_GxFLVjmpisL4SN3GaL7fBXmfs78ME/view|{{https://drive.google.com/thumbnail?id=1oK_GxFLVjmpisL4SN3GaL7fBXmfs78ME&sz=w200}}]] [[https://drive.google.com/file/d/1A9z31LEb81Cai7sp1NPDiy96_8bzy4Gc/view|{{https://drive.google.com/thumbnail?id=1A9z31LEb81Cai7sp1NPDiy96_8bzy4Gc&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1xOKQnFCyzGHGHzJ-kaDTUWN562vgV5KQ|📁 Toutes les pièces (3)]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246259\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Bonjour\nprévoir un nettoyage du site et regarder si possible d’identifier des entrées de pigeons et les boucher\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 53\n**Nom du site** : SAINT_PIERRE_DES_NIDS\n**Coordonnées** : 48.399788, -0.098010\n[[https://www.google.com/maps?q=48.399788,-0.098010|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.399788,-0.098010|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.4056,-0.0808249|Déchèterie de Saint-pierre-des-nids (Saint-Pierre-des-Nids, 1.4 km)]] — 0243035141\n[[https://www.google.com/maps?q=48.4623,-0.189231|Déchèterie de Pré-en-pail (Pré-en-Pail, 9.7 km)]] — 0243035141\n[[https://www.google.com/maps?q=48.338,-0.270771|Déchèterie de Villaines-la-juhel (Villaines-la-Juhel, 14.5 km)]] — 0607474989\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.399788,-0.098010,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1TWcNJ7QlHMzigbUJPOVV0FBERgmx_Ey7/view|{{https://drive.google.com/thumbnail?id=1TWcNJ7QlHMzigbUJPOVV0FBERgmx_Ey7&sz=w200}}]] [[https://drive.google.com/file/d/1oK_GxFLVjmpisL4SN3GaL7fBXmfs78ME/view|{{https://drive.google.com/thumbnail?id=1oK_GxFLVjmpisL4SN3GaL7fBXmfs78ME&sz=w200}}]] [[https://drive.google.com/file/d/1A9z31LEb81Cai7sp1NPDiy96_8bzy4Gc/view|{{https://drive.google.com/thumbnail?id=1A9z31LEb81Cai7sp1NPDiy96_8bzy4Gc&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1xOKQnFCyzGHGHzJ-kaDTUWN562vgV5KQ|📁 Toutes les pièces (3)]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "SAINT_PIERRE_DES_NIDS",
     "wo": "WO-246259",
@@ -630,12 +679,13 @@
     "priorite": "Travaux Programmés",
     "scope": "EVT - Environnement Technique",
     "departement": "53",
+    "date_planification": "2026-10-12",
     "calque": "mc",
     "code_fra": "FRA05300053",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -682,8 +732,8 @@
    },
    "properties": {
     "name": "FRA05600072 — PONTIVY",
-    "description": "**Numéro de Work Order** : WO-246324\n**État du WO** : Activé\n**Travaux à réaliser** : bonjour,\nmerci de faire l'EV du site et enlever le lière et arbuste présent dans la ZT et qui envahisse le local technique, merci\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : PONTIVY\n**Coordonnées** : 48.072063, -2.960569\n[[https://www.google.com/maps?q=48.072063,-2.960569|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.072063,-2.960569|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0858,-2.94049|Déchèterie de Kerponner (Noyal-Pontivy, 2.1 km)]]\n[[https://www.google.com/maps?q=48.0381,-2.9661|Déchèterie de Pontivy (Pontivy, 3.8 km)]] — 0297251769\n[[https://www.google.com/maps?q=48.0707,-2.87525|Déchèterie de Noyal-Pontivy (Noyal-Pontivy, 6.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.072063,-2.960569,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246324\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : bonjour,\nmerci de faire l'EV du site et enlever le lière et arbuste présent dans la ZT et qui envahisse le local technique, merci\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : PONTIVY\n**Coordonnées** : 48.072063, -2.960569\n[[https://www.google.com/maps?q=48.072063,-2.960569|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.072063,-2.960569|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0858,-2.94049|Déchèterie de Kerponner (Noyal-Pontivy, 2.1 km)]]\n[[https://www.google.com/maps?q=48.0381,-2.9661|Déchèterie de Pontivy (Pontivy, 3.8 km)]] — 0297251769\n[[https://www.google.com/maps?q=48.0707,-2.87525|Déchèterie de Noyal-Pontivy (Noyal-Pontivy, 6.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.072063,-2.960569,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "PONTIVY",
     "wo": "WO-246324",
@@ -691,12 +741,13 @@
     "priorite": "Travaux Programmés",
     "scope": "EV - Espaces Verts",
     "departement": "56",
+    "date_planification": "2026-10-15",
     "calque": "mc",
     "code_fra": "FRA05600072",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -712,8 +763,8 @@
    },
    "properties": {
     "name": "FRA06100072 — LA_FERTE_MACE_NEW",
-    "description": "**Numéro de Work Order** : WO-246318\n**État du WO** : Activé\n**Travaux à réaliser** : Prevoir un debrousaillage urgent\nLes ronces rentrent dans les equipement\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 61\n**Nom du site** : LA_FERTE_MACE_NEW\n**Coordonnées** : 48.596313, -0.355164\n[[https://www.google.com/maps?q=48.596313,-0.355164|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.596313,-0.355164|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.637,-0.20687|Déchèterie de Rânes (Rânes, 11.8 km)]] — 0233673062\n[[https://www.google.com/maps?q=48.5503,-0.52238|Déchèterie de Juvigny-sous-andaine (Juvigny-sous-Andaine*, 13.3 km)]] — 0233388716\n[[https://www.google.com/maps?q=48.7111,-0.530439|Déchèterie Messei (Messei, 18.1 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.596313,-0.355164,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1hkiy4Pf7iw2stce8ZURzNXbXPZ7_lhwb/view|{{https://drive.google.com/thumbnail?id=1hkiy4Pf7iw2stce8ZURzNXbXPZ7_lhwb&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1n6Y9hYZaQCMUU-qGvBuxVNG06qtZCy0J|📁 Toutes les pièces (1)]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246318\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Prevoir un debrousaillage urgent\nLes ronces rentrent dans les equipement\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-10-01\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0238115\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-09-29\n**Fin de validité** : 2026-09-29\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 61\n**Nom du site** : LA_FERTE_MACE_NEW\n**Coordonnées** : 48.596313, -0.355164\n[[https://www.google.com/maps?q=48.596313,-0.355164|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.596313,-0.355164|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.637,-0.20687|Déchèterie de Rânes (Rânes, 11.8 km)]] — 0233673062\n[[https://www.google.com/maps?q=48.5503,-0.52238|Déchèterie de Juvigny-sous-andaine (Juvigny-sous-Andaine*, 13.3 km)]] — 0233388716\n[[https://www.google.com/maps?q=48.7111,-0.530439|Déchèterie Messei (Messei, 18.1 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.596313,-0.355164,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1hkiy4Pf7iw2stce8ZURzNXbXPZ7_lhwb/view|{{https://drive.google.com/thumbnail?id=1hkiy4Pf7iw2stce8ZURzNXbXPZ7_lhwb&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1n6Y9hYZaQCMUU-qGvBuxVNG06qtZCy0J|📁 Toutes les pièces (1)]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/02/26 D cockpit O+M:\nROBILLIARD Denys: 0687414410\nPrévenance à faire par mail: robilliard.denys@neuf.fr/ 48h à l'avance\nAutonome",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "LA_FERTE_MACE_NEW",
     "wo": "WO-246318",
@@ -721,12 +772,20 @@
     "priorite": "P4",
     "scope": "EVT - Environnement Technique",
     "departement": "61",
+    "date_planification": "2026-10-01",
+    "das_numero": "DAS-N0238115",
+    "das_statut": "Vérification",
+    "das_debut": "2026-09-29",
+    "das_fin": "2026-09-29",
+    "das_provenance": "airtable",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance: 2.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique\nCadenas:\n\nCommentaire d'accès: 04/02/26 D cockpit O+M:\nROBILLIARD Denys: 0687414410\nPrévenance à faire par mail: robilliard.denys@neuf.fr/ 48h à l'avance\nAutonome",
+    "das_prevenance": "2 jours",
     "calque": "mc",
     "code_fra": "FRA06100072",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -736,38 +795,27 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.815945,
-     42.751301
+     2.758054,
+     45.659446
     ]
    },
    "properties": {
-    "name": "FRA06600085 — BAIXAS",
-    "description": "**Numéro de Work Order** : WO-245797\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nMerci de réaliser l'entretient EV du site et de voir pour couper l'arbre qui remonte sur la plateforme.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-22\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0227606\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-22\n**Fin de validité** : 2026-09-22\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said (via Michael)\n**Date de la déclaration** : 2026-09-12\n**Provenance du repère** : airtable\n**Numéro de département** : 66\n**Nom du site** : BAIXAS\n**Coordonnées** : 42.751301, 2.815945\n[[https://www.google.com/maps?q=42.751301,2.815945|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.751301,2.815945|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=42.7879,2.86819|Déchèterie de Rivesaltes (Rivesaltes, 5.9 km)]] — 0468344375\n[[https://www.google.com/maps?q=42.698,2.8419|Déchèterie de Saint Estève (Saint-Estève, 6.3 km)]] — 0468380169\n[[https://www.google.com/maps?q=42.7476,2.92444|Déchèterie de Pia (Pia, 8.9 km)]] — 0468527266\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@42.751301,2.815945,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1op7rEIA1f6_18l55ud5gHVu01iedy7VP/view|{{https://drive.google.com/thumbnail?id=1op7rEIA1f6_18l55ud5gHVu01iedy7VP&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1EFH5CJO7_Y5KoAaEGQkYe2Q_9CqEu2r6|📁 Toutes les pièces (1)]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - PORTAIL OUVERT EN HO Préavis à donner au propriétaire 2 jrs avant intervention à M. MASSINE 06 18 35 37 51 Se présenter au bureau de la cave situé en face pour indiqué votre présence sur le registre des visiteurs. Horaire d’ouverture de la Cave 9H/12H - 14H/17H\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: MK - 30/10/2025\nPrévenance à faire à Mr Massine :\nm.massine@dom-brial.com",
-    "etat_wo": "Travaux planifiés",
+    "name": "FRA06300180 — LAQUEUILLE",
+    "description": "**Numéro de Work Order** : WO-246297\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour,\n\nÉlagage à prévoir : les branches encombrent le pylône et gênent son accès.\n\nMerci\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 63\n**Nom du site** : LAQUEUILLE\n**Coordonnées** : 45.659446, 2.758054\n[[https://www.google.com/maps?q=45.659446,2.758054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.659446,2.758054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.6854,2.79759|Déchèterie de Rochefort (Rochefort-Montagne, 4.2 km)]] — 0473659099\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 8.1 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 10.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.659446,2.758054,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Activé",
     "origine": "airtable",
-    "nom_site": "BAIXAS",
-    "wo": "WO-245797",
-    "travaux": "Bonjour,\n\nMerci de réaliser l'entretient EV du site et de voir pour couper l'arbre qui remonte sur la plateforme.\n\nCordialement",
-    "priorite": "Travaux Programmés",
+    "nom_site": "LAQUEUILLE",
+    "wo": "WO-246297",
+    "travaux": "Bonjour,\n\nÉlagage à prévoir : les branches encombrent le pylône et gênent son accès.\n\nMerci\nOlivier",
+    "priorite": "P4",
     "scope": "EV - Espaces Verts",
-    "departement": "66",
-    "date_planification": "2026-09-22",
-    "das_numero": "DAS-N0227606",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-09-22",
-    "das_fin": "2026-09-22",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - PORTAIL OUVERT EN HO Préavis à donner au propriétaire 2 jrs avant intervention à M. MASSINE 06 18 35 37 51 Se présenter au bureau de la cave situé en face pour indiqué votre présence sur le registre des visiteurs. Horaire d’ouverture de la Cave 9H/12H - 14H/17H\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: MK - 30/10/2025\nPrévenance à faire à Mr Massine :\nm.massine@dom-brial.com",
-    "das_prevenance": "15 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Said (via Michael)",
-    "declare_le": "2026-09-12",
+    "departement": "63",
     "calque": "mc",
-    "code_fra": "FRA06600085",
+    "code_fra": "FRA06300180",
     "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#15803D",
+     "color": "#DC2626",
      "iconClass": "Drop"
     }
    }
@@ -921,8 +969,8 @@
    },
    "properties": {
     "name": "FRA07500404 — PARC_DE_BELLEVILLE",
-    "description": "**Numéro de Work Order** : WO-246248\n**État du WO** : Activé\n**Travaux à réaliser** : Le technicien nous a signalé la présence des guêpes sur le site , il a vu des guêpes sortir en nombre des tubes du garde corps de la plateforme\nvérifier si présence de nids de guêpes et traiter\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 75\n**Nom du site** : PARC_DE_BELLEVILLE\n**Coordonnées** : 48.869796, 2.388226\n[[https://www.google.com/maps?q=48.869796,2.388226|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.869796,2.388226|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9207,2.37516|Déchèterie Aubervilliers (Aubervilliers, 5.7 km)]]\n[[https://www.google.com/maps?q=48.93,2.4506|Cti Dugny Drancy (Drancy, 8.1 km)]] — 0148965050\n[[https://www.google.com/maps?q=48.9467,2.33666|Déchèterie Épinay-sur-seine (Épinay-sur-Seine, 9.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.869796,2.388226,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/16BWQ9dO5CqVqtfqNTkq4Wv1odh6W8J-L/view|{{https://drive.google.com/thumbnail?id=16BWQ9dO5CqVqtfqNTkq4Wv1odh6W8J-L&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1yen8YHAVT-z6RJnDGDHr2MJVapulY7Rc|📁 Toutes les pièces (1)]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246248\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Le technicien nous a signalé la présence des guêpes sur le site , il a vu des guêpes sortir en nombre des tubes du garde corps de la plateforme\nvérifier si présence de nids de guêpes et traiter\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-10-08\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 75\n**Nom du site** : PARC_DE_BELLEVILLE\n**Coordonnées** : 48.869796, 2.388226\n[[https://www.google.com/maps?q=48.869796,2.388226|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.869796,2.388226|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9207,2.37516|Déchèterie Aubervilliers (Aubervilliers, 5.7 km)]]\n[[https://www.google.com/maps?q=48.93,2.4506|Cti Dugny Drancy (Drancy, 8.1 km)]] — 0148965050\n[[https://www.google.com/maps?q=48.9467,2.33666|Déchèterie Épinay-sur-seine (Épinay-sur-Seine, 9.3 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.869796,2.388226,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/16BWQ9dO5CqVqtfqNTkq4Wv1odh6W8J-L/view|{{https://drive.google.com/thumbnail?id=16BWQ9dO5CqVqtfqNTkq4Wv1odh6W8J-L&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1yen8YHAVT-z6RJnDGDHr2MJVapulY7Rc|📁 Toutes les pièces (1)]]",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "PARC_DE_BELLEVILLE",
     "wo": "WO-246248",
@@ -930,12 +978,13 @@
     "priorite": "P3",
     "scope": "EVT - Environnement Technique",
     "departement": "75",
+    "date_planification": "2026-10-08",
     "calque": "mc",
     "code_fra": "FRA07500404",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -951,8 +1000,8 @@
    },
    "properties": {
     "name": "FRA07600069 — YPORT",
-    "description": "**Numéro de Work Order** : WO-246287\n**État du WO** : Activé\n**Travaux à réaliser** : Action\n\nProjet de REAM S49 donc réalisé le nettoyage du site pour S48.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0211757\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-25\n**Fin de validité** : 2026-08-26\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : YPORT\n**Coordonnées** : 49.737482, 0.314189\n[[https://www.google.com/maps?q=49.737482,0.314189|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.737482,0.314189|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 4.0 km)]] — 0235292898\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 11.5 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 12.4 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.737482,0.314189,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 22/10/25 D cockpit O+M:\nCOMMUNE D'YPORT: 02 35 27 30 24\nMode de prévenance par mail: mairie@ville-yport.fr/ 1 semaine à l'avance\nAccès: non autonomie; l’accès lui sera ouvert par un technicien de la mairie",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246287\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Action\n\nProjet de REAM S49 donc réalisé le nettoyage du site pour S48.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-23\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : YPORT\n**Coordonnées** : 49.737482, 0.314189\n[[https://www.google.com/maps?q=49.737482,0.314189|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.737482,0.314189|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 4.0 km)]] — 0235292898\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 11.5 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 12.4 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.737482,0.314189,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "YPORT",
     "wo": "WO-246287",
@@ -961,19 +1010,13 @@
     "scope": "EVT - Environnement Technique",
     "departement": "76",
     "consignation": "Consigne Particulière",
-    "das_numero": "DAS-N0211757",
-    "das_statut": "Refusée",
-    "das_debut": "2026-08-25",
-    "das_fin": "2026-08-26",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 22/10/25 D cockpit O+M:\nCOMMUNE D'YPORT: 02 35 27 30 24\nMode de prévenance par mail: mairie@ville-yport.fr/ 1 semaine à l'avance\nAccès: non autonomie; l’accès lui sera ouvert par un technicien de la mairie",
-    "das_prevenance": "7 jours",
+    "date_planification": "2026-11-23",
     "calque": "mc",
     "code_fra": "FRA07600069",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "la fiche déclare l'accès non autonome",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -1091,15 +1134,15 @@
    },
    "properties": {
     "name": "FRA07600160 — RS_SAINT_SYLVESTRE",
-    "description": "**Numéro de Work Order** : WO-246349\n**État du WO** : Activé\n**Travaux à réaliser** : Actions\n\nManque GC palier 3 et 4\nEspace vert à réaliser\ngrillage 20 m à reprendre\nmousse sur pylône\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : P4\n**Date de planification** : 2026-01-13\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Pylone sur D407 foret d Eu 76340 ST RIQUIER EN RIVIERE\n**Numéro de département** : 76\n**Nom du site** : RS_SAINT_SYLVESTRE\n**Coordonnées** : 49.894018, 1.594967\n[[https://www.google.com/maps?q=49.894018,1.594967|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.894018,1.594967|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.9334,1.62739|Déchèterie Foucarmont (Foucarmont, 5.0 km)]]\n[[https://www.google.com/maps?q=49.9305,1.64181|Déchèterie de Blangy-sur-bresle (Blangy-sur-Bresle, 5.3 km)]] — 0235933991\n[[https://www.google.com/maps?q=50.0101,1.51984|Déchèterie de Beauchamps (Beauchamps, 14.0 km)]] — 0227282078\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.894018,1.594967,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-246407\n**État du WO** : Activé\n**Travaux à réaliser** : Action\n\nAbsence de GC\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P4\n**Date de planification** : 2026-01-13\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Pylone sur D407 foret d Eu 76340 ST RIQUIER EN RIVIERE\n**Numéro de département** : 76\n**Nom du site** : RS_SAINT_SYLVESTRE\n**Coordonnées** : 49.894018, 1.594967\n[[https://www.google.com/maps?q=49.894018,1.594967|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.894018,1.594967|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.9334,1.62739|Déchèterie Foucarmont (Foucarmont, 5.0 km)]]\n[[https://www.google.com/maps?q=49.9305,1.64181|Déchèterie de Blangy-sur-bresle (Blangy-sur-Bresle, 5.3 km)]] — 0235933991\n[[https://www.google.com/maps?q=50.0101,1.51984|Déchèterie de Beauchamps (Beauchamps, 14.0 km)]] — 0227282078\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.894018,1.594967,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
-    "travaux": "Actions\n\nManque GC palier 3 et 4\nEspace vert à réaliser\ngrillage 20 m à reprendre\nmousse sur pylône",
+    "travaux": "Action\n\nAbsence de GC",
     "etat_wo": "Activé",
     "nom_site": "RS_SAINT_SYLVESTRE",
     "adresse": "Pylone sur D407 foret d Eu 76340 ST RIQUIER EN RIVIERE",
-    "wo": "WO-246349",
+    "wo": "WO-246407",
     "priorite": "P4",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
+    "scope": "SH - Structure Haute",
     "departement": "76",
     "date_planification": "2026-01-13",
     "calque": "mc",
@@ -1124,7 +1167,7 @@
    },
    "properties": {
     "name": "FRA07600205 — LE_TREPORT_BIS",
-    "description": "**Numéro de Work Order** : WO-245954\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2027-09-01\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0235281\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-10-07\n**Fin de validité** : 2026-10-07\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : LE_TREPORT_BIS\n**Coordonnées** : 50.063056, 1.380833\n[[https://www.google.com/maps?q=50.063056,1.380833|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=50.063056,1.380833|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=50.0605,1.39187|Déchèterie du Tréport (Le Tréport, 0.8 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0886,1.4504|Déchèterie de Ault (Ault, 5.7 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 7.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@50.063056,1.380833,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (5) :\n[[https://drive.google.com/file/d/1GozsPcfc2BkdjAxkuPhyWL5uGS2MrNpG/view|{{https://drive.google.com/thumbnail?id=1GozsPcfc2BkdjAxkuPhyWL5uGS2MrNpG&sz=w200}}]] [[https://drive.google.com/file/d/1grusB0U_hHHSJl7X5Hg31hOW1P_ZwwSV/view|{{https://drive.google.com/thumbnail?id=1grusB0U_hHHSJl7X5Hg31hOW1P_ZwwSV&sz=w200}}]] [[https://drive.google.com/file/d/1FyR_HKci6pvdHHSKd9IQxglOz_KIbgst/view|{{https://drive.google.com/thumbnail?id=1FyR_HKci6pvdHHSKd9IQxglOz_KIbgst&sz=w200}}]] [[https://drive.google.com/file/d/1Gf2B6CTC4zzg8Qs2lNBODPiqPHsTF9EX/view|{{https://drive.google.com/thumbnail?id=1Gf2B6CTC4zzg8Qs2lNBODPiqPHsTF9EX&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1ShKxqeWQ1vYZqni9CxkJA3W47MPQBjBa|📁 Toutes les pièces (5)]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 09/04/2026\nChaine+cadenas a code 7667 sur le portillon ZT\nCadenas ILOQ 19091128 sur le shelter\n\n16/04/2026 Na cockpit O+M :\nPour toute intervention, merci d’envoyer un mail aux adresses ci-dessous et de contacter simultanément les personnes par téléphone :\n\n- Delothel Ludovic – ludovic.delothel@smpsm.fr – 06.72.59.33.42\n- Marquet Vincent – vincent.marquet@smpsm.fr – 06.86.48.01.98\n\nDélai de prévenance:\n- Pour une intervention simple : 15 jours à l’avance, avec confirmation par mail la veille.\n- Pour les interventions nécessitant la mise en place d’une nacelle sur le domaine public maritime : 1 mois à l’avance.\n\nAccès : en autonomie, sauf en cas d’utilisation d’une nacelle, où une autorisation est requise.\n\nNB:\n- Si l’intervention nécessite un positionnement à l’intérieur de l’enceinte portuaire, une seconde autorisation sera nécessaire.",
+    "description": "**Numéro de Work Order** : WO-245954\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2027-09-01\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0235281\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-07\n**Fin de validité** : 2026-10-07\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : LE_TREPORT_BIS\n**Coordonnées** : 50.063056, 1.380833\n[[https://www.google.com/maps?q=50.063056,1.380833|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=50.063056,1.380833|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=50.0605,1.39187|Déchèterie du Tréport (Le Tréport, 0.8 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0886,1.4504|Déchèterie de Ault (Ault, 5.7 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 7.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@50.063056,1.380833,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (5) :\n[[https://drive.google.com/file/d/1GozsPcfc2BkdjAxkuPhyWL5uGS2MrNpG/view|{{https://drive.google.com/thumbnail?id=1GozsPcfc2BkdjAxkuPhyWL5uGS2MrNpG&sz=w200}}]] [[https://drive.google.com/file/d/1grusB0U_hHHSJl7X5Hg31hOW1P_ZwwSV/view|{{https://drive.google.com/thumbnail?id=1grusB0U_hHHSJl7X5Hg31hOW1P_ZwwSV&sz=w200}}]] [[https://drive.google.com/file/d/1FyR_HKci6pvdHHSKd9IQxglOz_KIbgst/view|{{https://drive.google.com/thumbnail?id=1FyR_HKci6pvdHHSKd9IQxglOz_KIbgst&sz=w200}}]] [[https://drive.google.com/file/d/1Gf2B6CTC4zzg8Qs2lNBODPiqPHsTF9EX/view|{{https://drive.google.com/thumbnail?id=1Gf2B6CTC4zzg8Qs2lNBODPiqPHsTF9EX&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1ShKxqeWQ1vYZqni9CxkJA3W47MPQBjBa|📁 Toutes les pièces (5)]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 09/04/2026\nChaine+cadenas a code 7667 sur le portillon ZT\nCadenas ILOQ 19091128 sur le shelter\n\n16/04/2026 Na cockpit O+M :\nPour toute intervention, merci d’envoyer un mail aux adresses ci-dessous et de contacter simultanément les personnes par téléphone :\n\n- Delothel Ludovic – ludovic.delothel@smpsm.fr – 06.72.59.33.42\n- Marquet Vincent – vincent.marquet@smpsm.fr – 06.86.48.01.98\n\nDélai de prévenance:\n- Pour une intervention simple : 15 jours à l’avance, avec confirmation par mail la veille.\n- Pour les interventions nécessitant la mise en place d’une nacelle sur le domaine public maritime : 1 mois à l’avance.\n\nAccès : en autonomie, sauf en cas d’utilisation d’une nacelle, où une autorisation est requise.\n\nNB:\n- Si l’intervention nécessite un positionnement à l’intérieur de l’enceinte portuaire, une seconde autorisation sera nécessaire.",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "LE_TREPORT_BIS",
@@ -1135,7 +1178,7 @@
     "departement": "76",
     "date_planification": "2027-09-01",
     "das_numero": "DAS-N0235281",
-    "das_statut": "Suspendue",
+    "das_statut": "Acceptée",
     "das_debut": "2026-10-07",
     "das_fin": "2026-10-07",
     "das_provenance": "airtable",
@@ -1199,7 +1242,7 @@
    },
    "properties": {
     "name": "FRA07600312 — SOTTEVILLE_QUATRE_MARES",
-    "description": "**Numéro de Work Order** : WO-236372\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nEspace vert\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0211397\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-08-24\n**Fin de validité** : 2026-08-24\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : SOTTEVILLE_QUATRE_MARES\n**Coordonnées** : 49.394106, 1.107169\n[[https://www.google.com/maps?q=49.394106,1.107169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.394106,1.107169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 4.5 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 10.4 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 11.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.394106,1.107169,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1oTm1IhQiGgsqhgGDE62daXAOenaysv9K/view|{{https://drive.google.com/thumbnail?id=1oTm1IhQiGgsqhgGDE62daXAOenaysv9K&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1IMRD3nOMOd4E_4xeM3JZzO9a3p7ubSvI|📁 Toutes les pièces (1)]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique - boite a cle retirer le 31/03/2021 accé local ,portillon et pylone en aboly\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 06/08/26\nPrévenance à titre informatif auprès de la SNCF.\nhttps://rmp.telecom.reseau.sncf.fr/demande\nPylône en accès libre.",
+    "description": "**Numéro de Work Order** : WO-236372\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nEspace vert\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : SOTTEVILLE_QUATRE_MARES\n**Coordonnées** : 49.394106, 1.107169\n[[https://www.google.com/maps?q=49.394106,1.107169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.394106,1.107169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 4.5 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 10.4 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 11.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.394106,1.107169,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1oTm1IhQiGgsqhgGDE62daXAOenaysv9K/view|{{https://drive.google.com/thumbnail?id=1oTm1IhQiGgsqhgGDE62daXAOenaysv9K&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1IMRD3nOMOd4E_4xeM3JZzO9a3p7ubSvI|📁 Toutes les pièces (1)]]",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "SOTTEVILLE_QUATRE_MARES",
@@ -1208,58 +1251,12 @@
     "priorite": "Travaux Programmés",
     "departement": "76",
     "date_planification": "2026-09-14",
-    "das_numero": "DAS-N0211397",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-08-24",
-    "das_fin": "2026-08-24",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique - boite a cle retirer le 31/03/2021 accé local ,portillon et pylone en aboly\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 06/08/26\nPrévenance à titre informatif auprès de la SNCF.\nhttps://rmp.telecom.reseau.sncf.fr/demande\nPylône en accès libre.",
     "calque": "mc",
     "code_fra": "FRA07600312",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.30766,
-     50.017983
-    ]
-   },
-   "properties": {
-    "name": "FRA07600327 — CRIEL_SUR_MER",
-    "description": "**Numéro de Work Order** : WO-244737\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\nDébroussaillage le long du chemin d'accès et débroussaillage de la zone technique\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-18\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0235294\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-22\n**Fin de validité** : 2026-09-22\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said\n**Date de la déclaration** : 2026-09-20\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : CRIEL_SUR_MER\n**Coordonnées** : 50.017983, 1.307660\n[[https://www.google.com/maps?q=50.017983,1.307660|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=50.017983,1.307660|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 1.8 km)]]\n[[https://www.google.com/maps?q=50.0605,1.39187|Déchèterie du Tréport (Le Tréport, 7.6 km)]] — 0227282087\n[[https://www.google.com/maps?q=49.9656,1.22679|Déchèterie Saint Martin en Campagne (Saint-Martin-en-Campagne*, 8.2 km)]] — 0235831757\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@50.017983,1.307660,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1mqgbgxrfELIYp_9H5P8azdJRFvBFtpBE/view|{{https://drive.google.com/thumbnail?id=1mqgbgxrfELIYp_9H5P8azdJRFvBFtpBE&sz=w200}}]] [[https://drive.google.com/file/d/1Dd_pHdLf96n0hVkBjrUYGfELWvlv4Sua/view|{{https://drive.google.com/thumbnail?id=1Dd_pHdLf96n0hVkBjrUYGfELWvlv4Sua&sz=w200}}]] [[https://drive.google.com/file/d/1rB9G6LW9F5QIoXy7mnpz3I33wZKo75H_/view|{{https://drive.google.com/thumbnail?id=1rB9G6LW9F5QIoXy7mnpz3I33wZKo75H_&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1_Kj1xvIxa7UwzRtnbmr_FS50k57nnm1b|📁 Toutes les pièces (3)]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: COCKPIT O+M Ta : 26/08/2026\nCadenas ILOQ ID 64056677 sur pylône\nAccès site : portail CAC – code 7676.\nPortillon ZT : cadenas ILOQ ID 19085438.\nPorte chantier : cadenas ILOQ ID 64056677.\nContrôle du pylône effectué en 08/2026.",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "CRIEL_SUR_MER",
-    "wo": "WO-244737",
-    "travaux": "Bonjour,\nDébroussaillage le long du chemin d'accès et débroussaillage de la zone technique",
-    "priorite": "Travaux Programmés",
-    "scope": "EV - Espaces Verts",
-    "departement": "76",
-    "date_planification": "2026-09-18",
-    "das_numero": "DAS-N0235294",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-09-22",
-    "das_fin": "2026-09-22",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: COCKPIT O+M Ta : 26/08/2026\nCadenas ILOQ ID 64056677 sur pylône\nAccès site : portail CAC – code 7676.\nPortillon ZT : cadenas ILOQ ID 19085438.\nPorte chantier : cadenas ILOQ ID 64056677.\nContrôle du pylône effectué en 08/2026.",
-    "etat_terrain": "fait",
-    "declare_par": "Said",
-    "declare_le": "2026-09-20",
-    "calque": "mc",
-    "code_fra": "FRA07600327",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
@@ -1345,10 +1342,10 @@
    },
    "properties": {
     "name": "FRA07600381 — BOIS_D_ENNEBOURG",
-    "description": "**Numéro de Work Order** : WO-240008\n**État du WO** : Activé\n**Travaux à réaliser** : Il y a des guêpes sur le pylône sur la structure haute lorsque l'on tape le pylône en bas\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Terre du bois d ennebourg 76160 Bois d ennebourg\n**Numéro de département** : 76\n**Nom du site** : BOIS_D_ENNEBOURG\n**Coordonnées** : 49.428776, 1.268164\n[[https://www.google.com/maps?q=49.428776,1.268164|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.428776,1.268164|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.3814,1.37204|Déchèterie Charleval (Charleval, 9.2 km)]] — 0608891216\n[[https://www.google.com/maps?q=49.3221,1.25144|Déchèterie Romilly-sur-andelle (Romilly-sur-Andelle, 11.9 km)]] — 0662257300\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 11.9 km)]] — 0235889258\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.428776,1.268164,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1zpMWPmq6CSwIvYhR4ZaYX8arJ_Ro8Ny0/view|{{https://drive.google.com/thumbnail?id=1zpMWPmq6CSwIvYhR4ZaYX8arJ_Ro8Ny0&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1xrS0rYp2iKs64VToIsd7GvSlhSe6IY8B|📁 Toutes les pièces (1)]]",
+    "description": "**Numéro de Work Order** : WO-240008\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Il y a des guêpes sur le pylône sur la structure haute lorsque l'on tape le pylône en bas\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Terre du bois d ennebourg 76160 Bois d ennebourg\n**Numéro de département** : 76\n**Nom du site** : BOIS_D_ENNEBOURG\n**Coordonnées** : 49.428776, 1.268164\n[[https://www.google.com/maps?q=49.428776,1.268164|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.428776,1.268164|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.3814,1.37204|Déchèterie Charleval (Charleval, 9.2 km)]] — 0608891216\n[[https://www.google.com/maps?q=49.3221,1.25144|Déchèterie Romilly-sur-andelle (Romilly-sur-Andelle, 11.9 km)]] — 0662257300\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 11.9 km)]] — 0235889258\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.428776,1.268164,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1zpMWPmq6CSwIvYhR4ZaYX8arJ_Ro8Ny0/view|{{https://drive.google.com/thumbnail?id=1zpMWPmq6CSwIvYhR4ZaYX8arJ_Ro8Ny0&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1xrS0rYp2iKs64VToIsd7GvSlhSe6IY8B|📁 Toutes les pièces (1)]]",
     "origine": "ensio",
     "travaux": "Il y a des guêpes sur le pylône sur la structure haute lorsque l'on tape le pylône en bas",
-    "etat_wo": "Activé",
+    "etat_wo": "Devis Envoyé",
     "nom_site": "BOIS_D_ENNEBOURG",
     "adresse": "Terre du bois d ennebourg 76160 Bois d ennebourg",
     "wo": "WO-240008",
@@ -1361,7 +1358,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "LargeCircle",
      "iconSize": 32
     }
@@ -1409,8 +1406,8 @@
    },
    "properties": {
     "name": "FRA07800114 — POISSY_TOURNELLE",
-    "description": "**Numéro de Work Order** : WO-246276\n**État du WO** : Activé\n**Travaux à réaliser** : nettoyage des combles et pose d'un filet solide anti pigeon (le dernier filet posé en février n'a pas tenu)\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 78\n**Nom du site** : POISSY_TOURNELLE\n**Coordonnées** : 48.931268, 2.039311\n[[https://www.google.com/maps?q=48.931268,2.039311|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.931268,2.039311|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9161,1.9484|Déchèterie d'Orgeval (Orgeval, 6.9 km)]]\n[[https://www.google.com/maps?q=48.9842,1.93135|Déchèterie des Mureaux (Les Mureaux, 9.8 km)]] — 0130914701\n[[https://www.google.com/maps?q=48.8964,2.18023|Déchèterie Nanterre (Nanterre, 11.0 km)]] — 0147291222\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.931268,2.039311,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1mPD1iOOndJeD_5dJWKA68yCSzHW9dnp5/view|{{https://drive.google.com/thumbnail?id=1mPD1iOOndJeD_5dJWKA68yCSzHW9dnp5&sz=w200}}]] [[https://drive.google.com/file/d/1oIkYnTn5T1r9Ue30dfJkobwwgI3-lAgc/view|{{https://drive.google.com/thumbnail?id=1oIkYnTn5T1r9Ue30dfJkobwwgI3-lAgc&sz=w200}}]]\n[[https://drive.google.com/drive/folders/11c-nemwSff5k3mtX8AkIR6kWEeASuOa2|📁 Toutes les pièces (2)]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246276\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : nettoyage des combles et pose d'un filet solide anti pigeon (le dernier filet posé en février n'a pas tenu)\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 78\n**Nom du site** : POISSY_TOURNELLE\n**Coordonnées** : 48.931268, 2.039311\n[[https://www.google.com/maps?q=48.931268,2.039311|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.931268,2.039311|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9161,1.9484|Déchèterie d'Orgeval (Orgeval, 6.9 km)]]\n[[https://www.google.com/maps?q=48.9842,1.93135|Déchèterie des Mureaux (Les Mureaux, 9.8 km)]] — 0130914701\n[[https://www.google.com/maps?q=48.8964,2.18023|Déchèterie Nanterre (Nanterre, 11.0 km)]] — 0147291222\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.931268,2.039311,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1mPD1iOOndJeD_5dJWKA68yCSzHW9dnp5/view|{{https://drive.google.com/thumbnail?id=1mPD1iOOndJeD_5dJWKA68yCSzHW9dnp5&sz=w200}}]] [[https://drive.google.com/file/d/1oIkYnTn5T1r9Ue30dfJkobwwgI3-lAgc/view|{{https://drive.google.com/thumbnail?id=1oIkYnTn5T1r9Ue30dfJkobwwgI3-lAgc&sz=w200}}]]\n[[https://drive.google.com/drive/folders/11c-nemwSff5k3mtX8AkIR6kWEeASuOa2|📁 Toutes les pièces (2)]]",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "POISSY_TOURNELLE",
     "wo": "WO-246276",
@@ -1418,12 +1415,13 @@
     "priorite": "P4",
     "scope": "EVT - Environnement Technique",
     "departement": "78",
+    "date_planification": "2026-10-15",
     "calque": "mc",
     "code_fra": "FRA07800114",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -1469,8 +1467,8 @@
    },
    "properties": {
     "name": "FRA08500017 — PUYBELLIARD",
-    "description": "**Numéro de Work Order** : WO-246306\n**État du WO** : Activé\n**Travaux à réaliser** : Merci de faire l'espace vert du site, et aussi la taille de la haie de part et d'autre, notamment pour que le capot du chemin de câble soit accessible.\nil est marqué que la zone est en ILOQ, si vous rencontrez d'autres moyens d'accès, vous pouvez forcer.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 85\n**Nom du site** : PUYBELLIARD\n**Coordonnées** : 46.704253, -1.025284\n[[https://www.google.com/maps?q=46.704253,-1.025284|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.704253,-1.025284|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7029,-1.06451|Déchèterie de Chantonnay (Chantonnay, 3.0 km)]] — 0251485113\n[[https://www.google.com/maps?q=46.7874,-1.06605|Decheterie de Mouchamps (Mouchamps, 9.8 km)]]\n[[https://www.google.com/maps?q=46.5754,-0.952231|Déchèterie de la Chapelle-Thémer (La Chapelle-Thémer, 15.4 km)]] — 0251276592\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.704253,-1.025284,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1ij1hcagrWSO21Jsh8g0lLxhyNcSupjLW/view|{{https://drive.google.com/thumbnail?id=1ij1hcagrWSO21Jsh8g0lLxhyNcSupjLW&sz=w200}}]] [[https://drive.google.com/file/d/1HWnBWG4QVZEL48x8YfguhR7xaSiy3GgD/view|{{https://drive.google.com/thumbnail?id=1HWnBWG4QVZEL48x8YfguhR7xaSiy3GgD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1i1Z1VjaEkI9quqj-rmtaWkVSTOsLrSgj|📁 Toutes les pièces (2)]]",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246306\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Merci de faire l'espace vert du site, et aussi la taille de la haie de part et d'autre, notamment pour que le capot du chemin de câble soit accessible.\nil est marqué que la zone est en ILOQ, si vous rencontrez d'autres moyens d'accès, vous pouvez forcer.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 85\n**Nom du site** : PUYBELLIARD\n**Coordonnées** : 46.704253, -1.025284\n[[https://www.google.com/maps?q=46.704253,-1.025284|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.704253,-1.025284|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7029,-1.06451|Déchèterie de Chantonnay (Chantonnay, 3.0 km)]] — 0251485113\n[[https://www.google.com/maps?q=46.7874,-1.06605|Decheterie de Mouchamps (Mouchamps, 9.8 km)]]\n[[https://www.google.com/maps?q=46.5754,-0.952231|Déchèterie de la Chapelle-Thémer (La Chapelle-Thémer, 15.4 km)]] — 0251276592\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.704253,-1.025284,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1ij1hcagrWSO21Jsh8g0lLxhyNcSupjLW/view|{{https://drive.google.com/thumbnail?id=1ij1hcagrWSO21Jsh8g0lLxhyNcSupjLW&sz=w200}}]] [[https://drive.google.com/file/d/1HWnBWG4QVZEL48x8YfguhR7xaSiy3GgD/view|{{https://drive.google.com/thumbnail?id=1HWnBWG4QVZEL48x8YfguhR7xaSiy3GgD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1i1Z1VjaEkI9quqj-rmtaWkVSTOsLrSgj|📁 Toutes les pièces (2)]]",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "PUYBELLIARD",
     "wo": "WO-246306",
@@ -1478,12 +1476,13 @@
     "priorite": "Travaux Programmés",
     "scope": "EV - Espaces Verts",
     "departement": "85",
+    "date_planification": "2026-10-16",
     "calque": "mc",
     "code_fra": "FRA08500017",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -1582,8 +1581,8 @@
    },
    "properties": {
     "name": "FRA09500077 — HEROUVILLE",
-    "description": "**Numéro de Work Order** : WO-246301\n**État du WO** : Activé\n**Travaux à réaliser** : Procéder au nettoyage de la ZT uniquement ( pas le reste du bâtiment) et poser filets pour protéger la ZT\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : passage obligatoire par un accueil\n**Numéro de DAS** : DAS-N0236391\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-10-13\n**Fin de validité** : 2026-10-13\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 95\n**Nom du site** : HEROUVILLE\n**Coordonnées** : 49.101193, 2.135616\n[[https://www.google.com/maps?q=49.101193,2.135616|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.101193,2.135616|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.03,2.18842|DEchEterie de Bessancourt (Bessancourt, 8.8 km)]] — 0130408000\n[[https://www.google.com/maps?q=49.1414,2.25475|DÉchÈterie de Champagne-sur-oise (CHAMPAGNE-SUR-OISE, 9.8 km)]] — 0134701609\n[[https://www.google.com/maps?q=49.1452,1.97119|DÉchÈterie de Marines (MARINES, 12.9 km)]] — 0130392120\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.101193,2.135616,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1fRDm2W_4AZz_FY4N7lp-IfvPuzHGEHyz/view|FRA09500077_HEROUVILLE_CP_18092026.pdf]]\n[[https://drive.google.com/drive/folders/15BHy8wuMoM2FIoPIEk19d3hAw7on917U|📁 Toutes les pièces (1)]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Non - -1 clé : Cadenas portail. (conforme le 03/01/2021 )\nDélais de prévenance: 3.0\n\nAccès équipement(s):\nBadge: Non\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés:\nCadenas:\n\nCommentaire d'accès: 19/08/2026 FA COCKPIT O+M:\nUne prévenance est nécessaire à l'adresse : dop.maintenance@natup.coop\nDélai de prévenance : 72 h\nPlan de prévention annuel à signer avant intervention.\nPréciser dans la demande le type d’intervention : maintenance ou travaux.\nSe présenter à l’accueil à l’arrivée et au départ et renseigner le registre.\nPour les travaux dangereux, fournir un mode opératoire détaillé.\nAcces en autonomie\n\nContact en cas de besoin : Romain DUFOUR – Tél. 02 59 58 12 79 / 06 09 74 62 32 – romain.dufour@natup.coop",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246301\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Procéder au nettoyage de la ZT uniquement ( pas le reste du bâtiment) et poser filets pour protéger la ZT\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-10-25\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : passage obligatoire par un accueil\n**Numéro de DAS** : DAS-N0236391\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-10-13\n**Fin de validité** : 2026-10-13\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 95\n**Nom du site** : HEROUVILLE\n**Coordonnées** : 49.101193, 2.135616\n[[https://www.google.com/maps?q=49.101193,2.135616|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.101193,2.135616|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.03,2.18842|DEchEterie de Bessancourt (Bessancourt, 8.8 km)]] — 0130408000\n[[https://www.google.com/maps?q=49.1414,2.25475|DÉchÈterie de Champagne-sur-oise (CHAMPAGNE-SUR-OISE, 9.8 km)]] — 0134701609\n[[https://www.google.com/maps?q=49.1452,1.97119|DÉchÈterie de Marines (MARINES, 12.9 km)]] — 0130392120\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.101193,2.135616,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1fRDm2W_4AZz_FY4N7lp-IfvPuzHGEHyz/view|FRA09500077_HEROUVILLE_CP_18092026.pdf]]\n[[https://drive.google.com/drive/folders/15BHy8wuMoM2FIoPIEk19d3hAw7on917U|📁 Toutes les pièces (1)]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Non - -1 clé : Cadenas portail. (conforme le 03/01/2021 )\nDélais de prévenance: 3.0\n\nAccès équipement(s):\nBadge: Non\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés:\nCadenas:\n\nCommentaire d'accès: 19/08/2026 FA COCKPIT O+M:\nUne prévenance est nécessaire à l'adresse : dop.maintenance@natup.coop\nDélai de prévenance : 72 h\nPlan de prévention annuel à signer avant intervention.\nPréciser dans la demande le type d’intervention : maintenance ou travaux.\nSe présenter à l’accueil à l’arrivée et au départ et renseigner le registre.\nPour les travaux dangereux, fournir un mode opératoire détaillé.\nAcces en autonomie\n\nContact en cas de besoin : Romain DUFOUR – Tél. 02 59 58 12 79 / 06 09 74 62 32 – romain.dufour@natup.coop",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "HEROUVILLE",
     "wo": "WO-246301",
@@ -1592,6 +1591,7 @@
     "scope": "EVT - Environnement Technique",
     "departement": "95",
     "consignation": "Consigne Particulière",
+    "date_planification": "2026-10-25",
     "das_numero": "DAS-N0236391",
     "das_statut": "Suspendue",
     "das_debut": "2026-10-13",
@@ -1604,7 +1604,7 @@
     "acces_autonome": "non_autonome",
     "acces_motif": "passage obligatoire par un accueil",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
