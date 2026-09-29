@@ -912,7 +912,7 @@
    },
    "properties": {
     "name": "FRA07000049 — ROYE",
-    "description": "**Numéro de Work Order** : WO-243867\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : EV du site\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 70\n**Nom du site** : ROYE\n**Coordonnées** : 47.667595, 6.534031\n[[https://www.google.com/maps?q=47.667595,6.534031|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.667595,6.534031|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.6828,6.51912|Déchèterie de Lure (Lure, 2.0 km)]] — 0384303853\n[[https://www.google.com/maps?q=47.6947,6.65619|Déchèterie Semi-fixe de Champagney (Champagney, 9.6 km)]]\n[[https://www.google.com/maps?q=47.7578,6.5858|Déchèterie de Mélisey (Mélisey, 10.8 km)]] — 0384632704\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.667595,6.534031,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1KQ1PJq948OnIuK4m_6R8qE6K-S81G91P/view|{{https://drive.google.com/thumbnail?id=1KQ1PJq948OnIuK4m_6R8qE6K-S81G91P&sz=w200}}]] [[https://drive.google.com/file/d/130jID5BjeaSn_hT1oMZXU71PODIYd6po/view|{{https://drive.google.com/thumbnail?id=130jID5BjeaSn_hT1oMZXU71PODIYd6po&sz=w200}}]] [[https://drive.google.com/file/d/1ctp4unFJwBQFHtiZXQFRDYQoRtQ5IlK_/view|{{https://drive.google.com/thumbnail?id=1ctp4unFJwBQFHtiZXQFRDYQoRtQ5IlK_&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1x6lpkJntOTAYGbdxpXRk_mlH46LYd89A|📁 Toutes les pièces (3)]]\n**Parties liées** :\nCOMMUNE DE ROYE — Bailleur, Contact Bailleur (Migration GID part3) — 03 84 30 10 97",
+    "description": "**Numéro de Work Order** : WO-243867\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : EV du site\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-29\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 70\n**Nom du site** : ROYE\n**Coordonnées** : 47.667595, 6.534031\n[[https://www.google.com/maps?q=47.667595,6.534031|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.667595,6.534031|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.6828,6.51912|Déchèterie de Lure (Lure, 2.0 km)]] — 0384303853\n[[https://www.google.com/maps?q=47.6947,6.65619|Déchèterie Semi-fixe de Champagney (Champagney, 9.6 km)]]\n[[https://www.google.com/maps?q=47.7578,6.5858|Déchèterie de Mélisey (Mélisey, 10.8 km)]] — 0384632704\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.667595,6.534031,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1KQ1PJq948OnIuK4m_6R8qE6K-S81G91P/view|{{https://drive.google.com/thumbnail?id=1KQ1PJq948OnIuK4m_6R8qE6K-S81G91P&sz=w200}}]] [[https://drive.google.com/file/d/130jID5BjeaSn_hT1oMZXU71PODIYd6po/view|{{https://drive.google.com/thumbnail?id=130jID5BjeaSn_hT1oMZXU71PODIYd6po&sz=w200}}]] [[https://drive.google.com/file/d/1ctp4unFJwBQFHtiZXQFRDYQoRtQ5IlK_/view|{{https://drive.google.com/thumbnail?id=1ctp4unFJwBQFHtiZXQFRDYQoRtQ5IlK_&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1x6lpkJntOTAYGbdxpXRk_mlH46LYd89A|📁 Toutes les pièces (3)]]\n**Parties liées** :\nCOMMUNE DE ROYE — Bailleur, Contact Bailleur (Migration GID part3) — 03 84 30 10 97",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "ROYE",
@@ -923,12 +923,15 @@
     "departement": "70",
     "date_planification": "2026-09-30",
     "equipe": "Manu",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-29",
     "calque": "mc",
     "code_fra": "FRA07000049",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop",
      "iconUrl": "M"
     }
