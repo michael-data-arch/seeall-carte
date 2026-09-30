@@ -1268,7 +1268,7 @@
    },
    "properties": {
     "name": "FRA07600312 — SOTTEVILLE_QUATRE_MARES",
-    "description": "**Numéro de Work Order** : WO-236372\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nEspace vert\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : SOTTEVILLE_QUATRE_MARES\n**Coordonnées** : 49.394106, 1.107169\n[[https://www.google.com/maps?q=49.394106,1.107169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.394106,1.107169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 4.5 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 10.4 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 11.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.394106,1.107169,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1oTm1IhQiGgsqhgGDE62daXAOenaysv9K/view|{{https://drive.google.com/thumbnail?id=1oTm1IhQiGgsqhgGDE62daXAOenaysv9K&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1IMRD3nOMOd4E_4xeM3JZzO9a3p7ubSvI|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nAccès — conforme le 2025-12-23\nM.MACREL — Accès aux équipements — 02 35 52 11 59\n**Parties liées** :\nSNCF RESEAU 2018 TVA — Bailleur, Contact Bailleur (Migration GID part4) — 0633190429 — conforme le 2026-09-28\nPatrick Sciortino-Monaco — conforme le 2026-06-26\nRichard Toulon — conforme le 2026-06-26\nKarine Hamami — conforme le 2026-06-26",
+    "description": "**Numéro de Work Order** : WO-236372\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nEspace vert\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-14\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-236372)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-09-30\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : SOTTEVILLE_QUATRE_MARES\n**Coordonnées** : 49.394106, 1.107169\n[[https://www.google.com/maps?q=49.394106,1.107169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.394106,1.107169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 4.5 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 10.4 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 11.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.394106,1.107169,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1oTm1IhQiGgsqhgGDE62daXAOenaysv9K/view|{{https://drive.google.com/thumbnail?id=1oTm1IhQiGgsqhgGDE62daXAOenaysv9K&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1IMRD3nOMOd4E_4xeM3JZzO9a3p7ubSvI|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nAccès — conforme le 2025-12-23\nM.MACREL — Accès aux équipements — 02 35 52 11 59\n**Parties liées** :\nSNCF RESEAU 2018 TVA — Bailleur, Contact Bailleur (Migration GID part4) — 0633190429 — conforme le 2026-09-28\nPatrick Sciortino-Monaco — conforme le 2026-06-26\nRichard Toulon — conforme le 2026-06-26\nKarine Hamami — conforme le 2026-06-26",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "SOTTEVILLE_QUATRE_MARES",
@@ -1277,12 +1277,16 @@
     "priorite": "Travaux Programmés",
     "departement": "76",
     "date_planification": "2026-09-14",
+    "etat_terrain": "fait",
+    "declare_par": "Michael",
+    "declare_le": "2026-09-30",
+    "commentaire_terrain": "CRI déposé (WO-236372)",
     "calque": "mc",
     "code_fra": "FRA07600312",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
