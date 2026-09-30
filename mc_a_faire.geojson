@@ -162,6 +162,39 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     1.156174,
+     49.0114
+    ]
+   },
+   "properties": {
+    "name": "FRA02700012 — EVREUX_POTERIE",
+    "description": "**Numéro de Work Order** : WO-246454\n**État du WO** : Activé\n**Travaux à réaliser** : Action\nréaliser l'espace vert sur site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : 36 Rue de la Solidarité 27000 Evreux\n**Numéro de département** : 27\n**Nom du site** : EVREUX_POTERIE\n**Coordonnées** : 49.011400, 1.156174\n[[https://www.google.com/maps?q=49.011400,1.156174|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.011400,1.156174|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9853,1.18411|Déchèterie de Saint Laurent (guichainville) (Guichainville, 3.5 km)]]\n[[https://www.google.com/maps?q=49.1055,1.25526|Déchèterie la Croix Saint Leufroy (La Croix-Saint-Leufroy, 12.7 km)]] — 0232677220\n[[https://www.google.com/maps?q=49.0029,1.35029|Déchèterie Saint Aquilin de Pacy (Saint-Aquilin-de-Pacy*, 14.2 km)]] — 0611233289\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.011400,1.156174,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nP Gibourdel — Accès\nS Kerdat — Accès\nM Raymond — Accès\nSylvain KERDAT — Accès — 06 75 95 26 49\n\n**Parties liées** :\nArnaud MASSET — Bailleur, Service exploitation eau potable — 06 08 75 37 40 — conforme le 2026-07-15\nCA EVREUX PORTES DE NORMANDIE — Bailleur, Contact Bailleur (Migration GID création delta ID tiers 46609) — 02 32 31 92 92 — conforme le 2026-01-09",
+    "origine": "ensio",
+    "travaux": "Action\nréaliser l'espace vert sur site",
+    "etat_wo": "Activé",
+    "nom_site": "EVREUX_POTERIE",
+    "adresse": "36 Rue de la Solidarité 27000 Evreux",
+    "wo": "WO-246454",
+    "priorite": "P4",
+    "scope": "EV - Espaces Verts",
+    "departement": "27",
+    "date_planification": "2026-10-15",
+    "calque": "mc",
+    "code_fra": "FRA02700012",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      1.582693,
      48.453691
     ]
@@ -855,6 +888,66 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.766274,
+     48.552251
+    ]
+   },
+   "properties": {
+    "name": "FRA06700085 — STG_CASERNE_LIZE",
+    "description": "**Numéro de Work Order** : WO-246530\n**État du WO** : Activé\n**Travaux à réaliser** : Un problème d’insalubrité nous a été remonté sur ce site avec la présence de fientes de pigeons. Il faudrait également mettre une protection grillage tout autour de la zone technique afin de l’isoler et d’empêcher l’accès des pigeons par l’extérieur (petit schema/proposition sur pièce jointe).\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 67\n**Nom du site** : STG_CASERNE_LIZE\n**Coordonnées** : 48.552251, 7.766274\n[[https://www.google.com/maps?q=48.552251,7.766274|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.552251,7.766274|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5788,7.60439|Déchèterie de Breuschwickersheim (Breuschwickersheim, 12.3 km)]] — 0368985190\n[[https://www.google.com/maps?q=48.6388,7.65808|Déchèterie de Pfulgriesheim (Pfulgriesheim, 12.5 km)]] — 0388562655\n[[https://www.google.com/maps?q=48.5332,7.59419|Déchèterie de Duppigheim (Duppigheim, 12.8 km)]] — 0388200973\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.552251,7.766274,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1TjZv75vrQBKDeQ_cWintJ3aImo7b7zCp/view|{{https://drive.google.com/thumbnail?id=1TjZv75vrQBKDeQ_cWintJ3aImo7b7zCp&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1qN_aS1syBNO5wdbKQ2T4yBD5tsSPjyVd|📁 Toutes les pièces (1)]]\n**Parties liées** :\nCOPROPRIETE NEUHOF — Bailleur, Contact Bailleur (Migration GID part4)",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "STG_CASERNE_LIZE",
+    "wo": "WO-246530",
+    "travaux": "Un problème d’insalubrité nous a été remonté sur ce site avec la présence de fientes de pigeons. Il faudrait également mettre une protection grillage tout autour de la zone technique afin de l’isoler et d’empêcher l’accès des pigeons par l’extérieur (petit schema/proposition sur pièce jointe).",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique",
+    "departement": "67",
+    "calque": "mc",
+    "code_fra": "FRA06700085",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.49787,
+     47.609943
+    ]
+   },
+   "properties": {
+    "name": "FRA06800151 — BLOTZHEIM_VILLE",
+    "description": "**Numéro de Work Order** : WO-246527\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour,\n\npourriez-vous svp réaliser l'Espace Vert de ce site et notamment la Zone Technique de SFR.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 68\n**Nom du site** : BLOTZHEIM_VILLE\n**Coordonnées** : 47.609943, 7.497870\n[[https://www.google.com/maps?q=47.609943,7.497870|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.609943,7.497870|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5602,7.45139|Déchèterie Michelbach-le-haut (Michelbach-le-Haut, 6.5 km)]]\n[[https://www.google.com/maps?q=47.602,7.58798|Déchèterie de Village Neuf (Village-Neuf, 6.8 km)]] — 0389678836\n[[https://www.google.com/maps?q=47.5006,7.4867|Déchèterie de Leymen (Leymen, 12.2 km)]] — 0389685733\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.609943,7.497870,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1vj2YTbhtPMC7_Yt8IJtDiKjlNF7u0LIk/view|{{https://drive.google.com/thumbnail?id=1vj2YTbhtPMC7_Yt8IJtDiKjlNF7u0LIk&sz=w200}}]] [[https://drive.google.com/file/d/1lKrzxOV0WP9OE-W7imb4so1wBwRmd3h5/view|{{https://drive.google.com/thumbnail?id=1lKrzxOV0WP9OE-W7imb4so1wBwRmd3h5&sz=w200}}]] [[https://drive.google.com/file/d/122pGfo7wgcdAnONSUgeh7-6stoaBEv06/view|{{https://drive.google.com/thumbnail?id=122pGfo7wgcdAnONSUgeh7-6stoaBEv06&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1MUdX5yIfQdaUA7cBYzXxv_6W-qOXYPZz|📁 Toutes les pièces (3)]]\n**Parties liées** :\nSCI CHAPOLIA — Bailleur, Contact Bailleur (Migration GID part4) — 03 89 68 46 65",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "BLOTZHEIM_VILLE",
+    "wo": "WO-246527",
+    "travaux": "Bonjour,\n\npourriez-vous svp réaliser l'Espace Vert de ce site et notamment la Zone Technique de SFR.",
+    "priorite": "P4",
+    "scope": "EV - Espaces Verts",
+    "departement": "68",
+    "calque": "mc",
+    "code_fra": "FRA06800151",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
      "iconClass": "Drop"
     }
    }
