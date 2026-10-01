@@ -174,7 +174,7 @@
    },
    "properties": {
     "name": "FRA02300015 — ST_AVIT_DE_TARDES",
-    "description": "**Numéro de Work Order** : WO-246580\n**État du WO** : Activé\n**Travaux à réaliser** : Travaux REAM prévu S42.\n\nPour caler une nacelle au pied du pylône :\n- Nacelle PL : débroussailler le terrain à faire\n- chemin d'acces à dégager pour la nacelle PL\n- Pied du pylone à élaguer\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : P3\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 23\n**Nom du site** : ST_AVIT_DE_TARDES\n**Coordonnées** : 45.928883, 2.308326\n[[https://www.google.com/maps?q=45.928883,2.308326|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.928883,2.308326|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.9321,2.17043|Déchèterie de Moutier-Rozeille (Moutier-Rozeille, 10.7 km)]] — 0555668273\n[[https://www.google.com/maps?q=46.0302,2.48496|Déchèterie d'Auzances (Auzances, 17.7 km)]] — 0555671322\n[[https://www.google.com/maps?q=45.8097,2.46898|Déchèterie de Giat (Giat, 18.2 km)]] — 0473217772\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.928883,2.308326,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nSCI ST JEAN — Bailleur, Contact Bailleur (Migration GID part4)",
+    "description": "**Numéro de Work Order** : WO-246580\n**État du WO** : Activé\n**Travaux à réaliser** : Travaux REAM prévu S42.\n\nPour caler une nacelle au pied du pylône :\n- Nacelle PL : débroussailler le terrain à faire\n- chemin d'acces à dégager pour la nacelle PL\n- Pied du pylone à élaguer\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : P3\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 23\n**Nom du site** : ST_AVIT_DE_TARDES\n**Coordonnées** : 45.928883, 2.308326\n[[https://www.google.com/maps?q=45.928883,2.308326|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.928883,2.308326|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.9321,2.17043|Déchèterie de Moutier-Rozeille (Moutier-Rozeille, 10.7 km)]] — 0555668273\n[[https://www.google.com/maps?q=46.0302,2.48496|Déchèterie d'Auzances (Auzances, 17.7 km)]] — 0555671322\n[[https://www.google.com/maps?q=45.8097,2.46898|Déchèterie de Giat (Giat, 18.2 km)]] — 0473217772\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.928883,2.308326,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nSCI ST JEAN — Bailleur, Contact Bailleur (Migration GID part4)",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "ST_AVIT_DE_TARDES",
@@ -183,13 +183,15 @@
     "priorite": "P3",
     "scope": "EVT - Environnement Technique + EV - Espaces Verts",
     "departement": "23",
+    "equipe": "Manu",
     "calque": "mc",
     "code_fra": "FRA02300015",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "M"
     }
    }
   },
@@ -1043,7 +1045,7 @@
    },
    "properties": {
     "name": "FRA06300180 — LAQUEUILLE",
-    "description": "**Numéro de Work Order** : WO-246297\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nÉlagage à prévoir : les branches encombrent le pylône et gênent son accès.\n\nMerci\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 63\n**Nom du site** : LAQUEUILLE\n**Coordonnées** : 45.659446, 2.758054\n[[https://www.google.com/maps?q=45.659446,2.758054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.659446,2.758054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.6854,2.79759|Déchèterie de Rochefort (Rochefort-Montagne, 4.2 km)]] — 0473659099\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 8.1 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 10.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.659446,2.758054,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1OUSLeei-9PaLHhxlsPZ9b0bDVilWrm2r/view|{{https://drive.google.com/thumbnail?id=1OUSLeei-9PaLHhxlsPZ9b0bDVilWrm2r&sz=w200}}]] [[https://drive.google.com/file/d/1u6hF2n9P8aRn3s8aREA895hzR2PZ7-0w/view|{{https://drive.google.com/thumbnail?id=1u6hF2n9P8aRn3s8aREA895hzR2PZ7-0w&sz=w200}}]] [[https://drive.google.com/file/d/1UxJjyXbPLWoWgAeKupt7jLaYFU31Bwo8/view|{{https://drive.google.com/thumbnail?id=1UxJjyXbPLWoWgAeKupt7jLaYFU31Bwo8&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1cwD5sHTTONe0QaIqk9IAIh9qt9Ns4xNO|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nAccès — conforme le 2025-12-26\n**Parties liées** :\nChristian CHABANAT — Bailleur, Contact Bailleur (Migration GID part2)",
+    "description": "**Numéro de Work Order** : WO-246297\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nÉlagage à prévoir : les branches encombrent le pylône et gênent son accès.\n\nMerci\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-01\n**Provenance du repère** : airtable\n**Numéro de département** : 63\n**Nom du site** : LAQUEUILLE\n**Coordonnées** : 45.659446, 2.758054\n[[https://www.google.com/maps?q=45.659446,2.758054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.659446,2.758054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.6854,2.79759|Déchèterie de Rochefort (Rochefort-Montagne, 4.2 km)]] — 0473659099\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 8.1 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 10.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.659446,2.758054,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1OUSLeei-9PaLHhxlsPZ9b0bDVilWrm2r/view|{{https://drive.google.com/thumbnail?id=1OUSLeei-9PaLHhxlsPZ9b0bDVilWrm2r&sz=w200}}]] [[https://drive.google.com/file/d/1u6hF2n9P8aRn3s8aREA895hzR2PZ7-0w/view|{{https://drive.google.com/thumbnail?id=1u6hF2n9P8aRn3s8aREA895hzR2PZ7-0w&sz=w200}}]] [[https://drive.google.com/file/d/1UxJjyXbPLWoWgAeKupt7jLaYFU31Bwo8/view|{{https://drive.google.com/thumbnail?id=1UxJjyXbPLWoWgAeKupt7jLaYFU31Bwo8&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1cwD5sHTTONe0QaIqk9IAIh9qt9Ns4xNO|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nAccès — conforme le 2025-12-26\n**Parties liées** :\nChristian CHABANAT — Bailleur, Contact Bailleur (Migration GID part2)",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "LAQUEUILLE",
@@ -1053,12 +1055,15 @@
     "scope": "EV - Espaces Verts",
     "departement": "63",
     "date_planification": "2026-10-15",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-10-01",
     "calque": "mc",
     "code_fra": "FRA06300180",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
