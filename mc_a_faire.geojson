@@ -174,8 +174,8 @@
    },
    "properties": {
     "name": "FRA02300015 — ST_AVIT_DE_TARDES",
-    "description": "**Numéro de Work Order** : WO-246580\n**État du WO** : Activé\n**Travaux à réaliser** : Travaux REAM prévu S42.\n\nPour caler une nacelle au pied du pylône :\n- Nacelle PL : débroussailler le terrain à faire\n- chemin d'acces à dégager pour la nacelle PL\n- Pied du pylone à élaguer\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : P3\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 23\n**Nom du site** : ST_AVIT_DE_TARDES\n**Coordonnées** : 45.928883, 2.308326\n[[https://www.google.com/maps?q=45.928883,2.308326|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.928883,2.308326|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.9321,2.17043|Déchèterie de Moutier-Rozeille (Moutier-Rozeille, 10.7 km)]] — 0555668273\n[[https://www.google.com/maps?q=46.0302,2.48496|Déchèterie d'Auzances (Auzances, 17.7 km)]] — 0555671322\n[[https://www.google.com/maps?q=45.8097,2.46898|Déchèterie de Giat (Giat, 18.2 km)]] — 0473217772\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.928883,2.308326,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nSCI ST JEAN — Bailleur, Contact Bailleur (Migration GID part4)",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246580\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Travaux REAM prévu S42.\n\nPour caler une nacelle au pied du pylône :\n- Nacelle PL : débroussailler le terrain à faire\n- chemin d'acces à dégager pour la nacelle PL\n- Pied du pylone à élaguer\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : P3\n**Date de planification** : 2026-10-09\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 23\n**Nom du site** : ST_AVIT_DE_TARDES\n**Coordonnées** : 45.928883, 2.308326\n[[https://www.google.com/maps?q=45.928883,2.308326|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.928883,2.308326|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.9321,2.17043|Déchèterie de Moutier-Rozeille (Moutier-Rozeille, 10.7 km)]] — 0555668273\n[[https://www.google.com/maps?q=46.0302,2.48496|Déchèterie d'Auzances (Auzances, 17.7 km)]] — 0555671322\n[[https://www.google.com/maps?q=45.8097,2.46898|Déchèterie de Giat (Giat, 18.2 km)]] — 0473217772\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.928883,2.308326,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nSCI ST JEAN — Bailleur, Contact Bailleur (Migration GID part4)",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "ST_AVIT_DE_TARDES",
     "wo": "WO-246580",
@@ -183,13 +183,14 @@
     "priorite": "P3",
     "scope": "EVT - Environnement Technique + EV - Espaces Verts",
     "departement": "23",
+    "date_planification": "2026-10-09",
     "equipe": "Manu",
     "calque": "mc",
     "code_fra": "FRA02300015",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop",
      "iconUrl": "M"
     }
@@ -399,8 +400,8 @@
    },
    "properties": {
     "name": "FRA03700041 — PUSSIGNY_LGV",
-    "description": "**Numéro de Work Order** : WO-246585\n**État du WO** : Activé\n**Travaux à réaliser** : Action\n\nDébroussaillage à réaliser svp avant S45 car REAM en cours\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Numéro de DAS** : DAS-N0227010\n**Statut de la DAS** : Acceptée\n**Origine de la DAS** : ensio\n**Provenance du repère** : airtable\n**Numéro de département** : 37\n**Nom du site** : PUSSIGNY_LGV\n**Coordonnées** : 46.993611, 0.544167\n[[https://www.google.com/maps?q=46.993611,0.544167|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.993611,0.544167|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0105,0.562524|Déchèterie de Ports sur Vienne (Ports, 2.3 km)]] — 0247658827\n[[https://www.google.com/maps?q=46.929,0.608361|Déchèterie de Dangé-saint-romain (Dangé-Saint-Romain, 8.7 km)]] — 0784394852\n[[https://www.google.com/maps?q=46.9814,0.673157|Déchèterie de Descartes (Descartes, 9.9 km)]] — 0640659685\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.993611,0.544167,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/17wQRFQRvJ0GLGDGZ7UBC_y7TMXRZ6zuo/view|{{https://drive.google.com/thumbnail?id=17wQRFQRvJ0GLGDGZ7UBC_y7TMXRZ6zuo&sz=w200}}]] [[https://drive.google.com/file/d/10yVsbwO_gHXe7RMc0WbygQo2N8RrnfG1/view|{{https://drive.google.com/thumbnail?id=10yVsbwO_gHXe7RMc0WbygQo2N8RrnfG1&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1kD0-eoPNWwGuJNZGfLlnRw4fZZEk4YYO|📁 Toutes les pièces (2)]]\n**Parties liées** :\nJean Michel MALAGU — Bailleur, Contact Bailleur (Migration GID part2)",
-    "etat_wo": "Activé",
+    "description": "**Numéro de Work Order** : WO-246585\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Action\n\nDébroussaillage à réaliser svp avant S45 car REAM en cours\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Numéro de DAS** : DAS-N0227010\n**Statut de la DAS** : Acceptée\n**Origine de la DAS** : ensio\n**Provenance du repère** : airtable\n**Numéro de département** : 37\n**Nom du site** : PUSSIGNY_LGV\n**Coordonnées** : 46.993611, 0.544167\n[[https://www.google.com/maps?q=46.993611,0.544167|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.993611,0.544167|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0105,0.562524|Déchèterie de Ports sur Vienne (Ports, 2.3 km)]] — 0247658827\n[[https://www.google.com/maps?q=46.929,0.608361|Déchèterie de Dangé-saint-romain (Dangé-Saint-Romain, 8.7 km)]] — 0784394852\n[[https://www.google.com/maps?q=46.9814,0.673157|Déchèterie de Descartes (Descartes, 9.9 km)]] — 0640659685\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.993611,0.544167,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/17wQRFQRvJ0GLGDGZ7UBC_y7TMXRZ6zuo/view|{{https://drive.google.com/thumbnail?id=17wQRFQRvJ0GLGDGZ7UBC_y7TMXRZ6zuo&sz=w200}}]] [[https://drive.google.com/file/d/10yVsbwO_gHXe7RMc0WbygQo2N8RrnfG1/view|{{https://drive.google.com/thumbnail?id=10yVsbwO_gHXe7RMc0WbygQo2N8RrnfG1&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1kD0-eoPNWwGuJNZGfLlnRw4fZZEk4YYO|📁 Toutes les pièces (2)]]\n**Parties liées** :\nJean Michel MALAGU — Bailleur, Contact Bailleur (Migration GID part2)",
+    "etat_wo": "Devis Envoyé",
     "origine": "airtable",
     "nom_site": "PUSSIGNY_LGV",
     "wo": "WO-246585",
@@ -408,6 +409,7 @@
     "priorite": "P4",
     "scope": "EV - Espaces Verts",
     "departement": "37",
+    "date_planification": "2026-10-22",
     "das_numero": "DAS-N0227010",
     "das_statut": "Acceptée",
     "das_provenance": "ensio",
@@ -416,7 +418,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#2563EB",
      "iconClass": "Drop"
     }
    }
@@ -531,7 +533,7 @@
    },
    "properties": {
     "name": "FRA03700122 — ST_BRANCHS",
-    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de bien vouloir procéder au nettoyage de la ZT.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : site Back to Back, modalités à obtenir via Orange\n**Numéro de DAS** : DAS-N0218768\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-09\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Numéro de département** : 37\n**Nom du site** : ST_BRANCHS\n**Coordonnées** : 47.231149, 0.757528\n[[https://www.google.com/maps?q=47.231149,0.757528|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231149,0.757528|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 0.5 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 6.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 6.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231149,0.757528,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1jL1wX7XRpnL3mAo01k4zFEOLgIqC0Iru/view|RemontÃ©e_terrain___SI035661_SAINT-BRANCHS_ESPACE_VERT.pdf]]\n[[https://drive.google.com/drive/folders/1j8Aa2kXpqFE3EHtRd6-Umn81i9AZtiEh|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nTOURS METROPOLE — Accès — à prévenir — conforme le 2025-12-12\nMoreau — Accès\nMaxime Hufenus — Accès\n**Parties liées** :\nCC TOURAINE VALLEE INDRE — Bailleur, Contact Bailleur (Migration GID part3) — conforme le 2026-09-21\nVEOLIA TVDL SOLOGNE — Bailleur, Contact Bailleur (Migration GID part4) — 02 47 48 44 56\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
+    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de bien vouloir procéder au nettoyage de la ZT.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : site Back to Back, modalités à obtenir via Orange\n**Numéro de DAS** : DAS-N0218768\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-09\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Numéro de département** : 37\n**Nom du site** : ST_BRANCHS\n**Coordonnées** : 47.231149, 0.757528\n[[https://www.google.com/maps?q=47.231149,0.757528|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231149,0.757528|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 0.5 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 6.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 6.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231149,0.757528,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1jL1wX7XRpnL3mAo01k4zFEOLgIqC0Iru/view|RemontÃ©e_terrain___SI035661_SAINT-BRANCHS_ESPACE_VERT.pdf]]\n[[https://drive.google.com/drive/folders/1j8Aa2kXpqFE3EHtRd6-Umn81i9AZtiEh|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nTOURS METROPOLE — Accès — à prévenir — conforme le 2025-12-12\nMoreau — Accès\nMaxime Hufenus — Accès\n**Parties liées** :\nCC TOURAINE VALLEE INDRE — Bailleur, Contact Bailleur (Migration GID part3) — conforme le 2026-09-21\nVEOLIA TVDL SOLOGNE — Bailleur, Contact Bailleur (Migration GID part4) — 02 47 48 44 56\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
     "origine": "ensio",
     "etat_wo": "Travaux planifiés",
     "nom_site": "ST_BRANCHS",
@@ -542,7 +544,7 @@
     "priorite": "Travaux Programmés",
     "scope": "EVT - Environnement Technique",
     "departement": "37",
-    "date_planification": "2026-09-30",
+    "date_planification": "2026-10-12",
     "das_numero": "DAS-N0218768",
     "das_statut": "Refusée",
     "das_debut": "2026-09-09",
@@ -1522,45 +1524,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.268164,
-     49.428776
-    ]
-   },
-   "properties": {
-    "name": "FRA07600381 — BOIS_D_ENNEBOURG",
-    "description": "**Numéro de Work Order** : WO-240008\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Il y a des guêpes sur le pylône sur la structure haute lorsque l'on tape le pylône en bas\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0239131\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-09-29\n**Fin de validité** : 2026-09-29\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Terre du bois d ennebourg 76160 Bois d ennebourg\n**Numéro de département** : 76\n**Nom du site** : BOIS_D_ENNEBOURG\n**Coordonnées** : 49.428776, 1.268164\n[[https://www.google.com/maps?q=49.428776,1.268164|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.428776,1.268164|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.3814,1.37204|Déchèterie Charleval (Charleval, 9.2 km)]] — 0608891216\n[[https://www.google.com/maps?q=49.3221,1.25144|Déchèterie Romilly-sur-andelle (Romilly-sur-Andelle, 11.9 km)]] — 0662257300\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 11.9 km)]] — 0235889258\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.428776,1.268164,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1zpMWPmq6CSwIvYhR4ZaYX8arJ_Ro8Ny0/view|{{https://drive.google.com/thumbnail?id=1zpMWPmq6CSwIvYhR4ZaYX8arJ_Ro8Ny0&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1xrS0rYp2iKs64VToIsd7GvSlhSe6IY8B|📁 Toutes les pièces (1)]]\n**Parties liées** :\nAnnick DUFOUR — Bailleur, Contact Bailleur (Migration GID part2)\nCatherine BAUCE — Bailleur, Contact Bailleur (Migration GID part2)\nRégis DUFOUR — Bailleur, Contact Bailleur (Migration GID part2)\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 28/11/25 P cockpit O+M\n\naccès en autonomie - sans prévenance - accès en full iloq",
-    "origine": "ensio",
-    "travaux": "Il y a des guêpes sur le pylône sur la structure haute lorsque l'on tape le pylône en bas",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "BOIS_D_ENNEBOURG",
-    "adresse": "Terre du bois d ennebourg 76160 Bois d ennebourg",
-    "wo": "WO-240008",
-    "priorite": "Travaux Programmés",
-    "scope": "EVT - Environnement Technique",
-    "departement": "76",
-    "date_planification": "2026-10-30",
-    "das_numero": "DAS-N0239131",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-09-29",
-    "das_fin": "2026-09-29",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 28/11/25 P cockpit O+M\n\naccès en autonomie - sans prévenance - accès en full iloq",
-    "calque": "mc",
-    "code_fra": "FRA07600381",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "LargeCircle",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.767688,
      48.251981
     ]
@@ -1598,7 +1561,7 @@
    },
    "properties": {
     "name": "FRA07700110 — LE_PIN_A104",
-    "description": "**Numéro de Work Order** : WO-246584\n**État du WO** : Activé\n**Travaux à réaliser** : Déconsignation : Sécurisation des RRU\n\nAttention :\n- Massif pylône ( Cf plan de 2024 )\n- RRU doivent rester accessible en maintenance\n- prévoir Iloq\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P2\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 77\n**Nom du site** : LE_PIN_A104\n**Coordonnées** : 48.918631, 2.631073\n[[https://www.google.com/maps?q=48.918631,2.631073|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.918631,2.631073|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9403,2.54125|Déchèterie de Sevran (Sevran, 7.0 km)]] — 0143845454\n[[https://www.google.com/maps?q=48.9792,2.56169|Déchèterie de Tremblay-en-france (Tremblay-en-france, 8.4 km)]] — 0141974141\n[[https://www.google.com/maps?q=48.9594,2.52788|Déchèterie de Villepinte (Villepinte, 8.8 km)]] — 0141521880\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.918631,2.631073,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1ocNnz2wAweXKgf9Vv30e5a_3YWP6SXZR/view|{{https://drive.google.com/thumbnail?id=1ocNnz2wAweXKgf9Vv30e5a_3YWP6SXZR&sz=w200}}]]\n[[https://drive.google.com/file/d/1-TjeEEHfwNHOoBYUzOuBmao2NklxpQ_J/view|N000065839_Plan_Massif_171224.pdf]] · [[https://drive.google.com/file/d/1i6Yis7NhrGqNJ13M-Zpb4a9LruaUExxd/view|Consignation - FRA07700110 - 01102026.pdf]]\n[[https://drive.google.com/drive/folders/1IGtie_dsQXbuC55He_Ms04aMyebpS0DF|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nM SZYSZKA Mickael (Responsable Services Techniques) — Accès — 0630706494 — à prévenir — conforme le 2026-02-04\nAccès, Gardien, Responsable Technique — conforme le 2026-02-04\nAccès, Gardien, Responsable Technique — conforme le 2026-02-04\n**Parties liées** :\nCOMMUNE LE PIN — Bailleur, Contact Bailleur (Migration GID part4) — conforme le 2026-07-06",
+    "description": "**Numéro de Work Order** : WO-246584\n**État du WO** : Activé\n**Travaux à réaliser** : Déconsignation : Sécurisation des RRU\n\nAttention :\n- Massif pylône ( Cf plan de 2024 )\n- RRU doivent rester accessible en maintenance\n- prévoir Iloq\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P2\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 77\n**Nom du site** : LE_PIN_A104\n**Coordonnées** : 48.918631, 2.631073\n[[https://www.google.com/maps?q=48.918631,2.631073|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.918631,2.631073|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9403,2.54125|Déchèterie de Sevran (Sevran, 7.0 km)]] — 0143845454\n[[https://www.google.com/maps?q=48.9792,2.56169|Déchèterie de Tremblay-en-france (Tremblay-en-france, 8.4 km)]] — 0141974141\n[[https://www.google.com/maps?q=48.9594,2.52788|Déchèterie de Villepinte (Villepinte, 8.8 km)]] — 0141521880\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.918631,2.631073,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1ocNnz2wAweXKgf9Vv30e5a_3YWP6SXZR/view|{{https://drive.google.com/thumbnail?id=1ocNnz2wAweXKgf9Vv30e5a_3YWP6SXZR&sz=w200}}]]\n[[https://drive.google.com/file/d/1-TjeEEHfwNHOoBYUzOuBmao2NklxpQ_J/view|N000065839_Plan_Massif_171224.pdf]] · [[https://drive.google.com/file/d/1i6Yis7NhrGqNJ13M-Zpb4a9LruaUExxd/view|Consignation - FRA07700110 - 01102026.pdf]]\n[[https://drive.google.com/drive/folders/1IGtie_dsQXbuC55He_Ms04aMyebpS0DF|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nM SZYSZKA Mickael (Responsable Services Techniques) — Accès — 0630706494 — à prévenir — conforme le 2026-02-04\nAccès, Gardien, Responsable Technique — conforme le 2026-02-04\nAccès, Gardien, Responsable Technique — conforme le 2026-02-04\n**Parties liées** :\nCOMMUNE LE PIN — Bailleur, Contact Bailleur (Migration GID part4) — conforme le 2026-07-06",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "LE_PIN_A104",
@@ -1607,6 +1570,7 @@
     "priorite": "P2",
     "scope": "EVT - Environnement Technique",
     "departement": "77",
+    "consignation": "Consignation",
     "calque": "mc",
     "code_fra": "FRA07700110",
     "acces_autonome": "a_confirmer",
