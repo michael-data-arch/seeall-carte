@@ -143,7 +143,7 @@
    },
    "properties": {
     "name": "FRA01900111 — DONZENAC_THEIL",
-    "description": "**Numéro de Work Order** : WO-246434\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : espace vert à réaliser\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-23\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 19\n**Nom du site** : DONZENAC_THEIL\n**Coordonnées** : 45.250363, 1.539163\n[[https://www.google.com/maps?q=45.250363,1.539163|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.250363,1.539163|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2338,1.49745|Déchèterie d'Allassac - Donzenac (Donzenac, 3.7 km)]] — 0555856764\n[[https://www.google.com/maps?q=45.1779,1.49479|Déchèterie de Ussac (Ussac, 8.8 km)]] — 0555232593\n[[https://www.google.com/maps?q=45.1649,1.58222|Déchèterie de Malemort-sur-Correze (Malemort-sur-Corrèze*, 10.1 km)]] — 0555920718\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.250363,1.539163,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1bCvXaNdXco0_g7FPhnZRqs4-5AXi4BHI/view|{{https://drive.google.com/thumbnail?id=1bCvXaNdXco0_g7FPhnZRqs4-5AXi4BHI&sz=w200}}]] [[https://drive.google.com/file/d/16_KUEBvKl27JBUQe00ZSDm4y_Qun0i0E/view|{{https://drive.google.com/thumbnail?id=16_KUEBvKl27JBUQe00ZSDm4y_Qun0i0E&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1YdWLOlDNCEV1LzZIUFxLBslezSXwaoAF|📁 Toutes les pièces (2)]]\n**Parties liées** :\nDominique DELMOND — Bailleur, Contact Bailleur (Migration GID part1)",
+    "description": "**Numéro de Work Order** : WO-246434\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : espace vert à réaliser\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-23\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-02\n**Provenance du repère** : airtable\n**Numéro de département** : 19\n**Nom du site** : DONZENAC_THEIL\n**Coordonnées** : 45.250363, 1.539163\n[[https://www.google.com/maps?q=45.250363,1.539163|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.250363,1.539163|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2338,1.49745|Déchèterie d'Allassac - Donzenac (Donzenac, 3.7 km)]] — 0555856764\n[[https://www.google.com/maps?q=45.1779,1.49479|Déchèterie de Ussac (Ussac, 8.8 km)]] — 0555232593\n[[https://www.google.com/maps?q=45.1649,1.58222|Déchèterie de Malemort-sur-Correze (Malemort-sur-Corrèze*, 10.1 km)]] — 0555920718\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.250363,1.539163,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1bCvXaNdXco0_g7FPhnZRqs4-5AXi4BHI/view|{{https://drive.google.com/thumbnail?id=1bCvXaNdXco0_g7FPhnZRqs4-5AXi4BHI&sz=w200}}]] [[https://drive.google.com/file/d/16_KUEBvKl27JBUQe00ZSDm4y_Qun0i0E/view|{{https://drive.google.com/thumbnail?id=16_KUEBvKl27JBUQe00ZSDm4y_Qun0i0E&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1YdWLOlDNCEV1LzZIUFxLBslezSXwaoAF|📁 Toutes les pièces (2)]]\n**Parties liées** :\nDominique DELMOND — Bailleur, Contact Bailleur (Migration GID part1)",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "DONZENAC_THEIL",
@@ -153,12 +153,15 @@
     "scope": "EV - Espaces Verts",
     "departement": "19",
     "date_planification": "2026-10-23",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-10-02",
     "calque": "mc",
     "code_fra": "FRA01900111",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
