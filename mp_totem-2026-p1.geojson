@@ -1847,41 +1847,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.3260042,
-     50.0370978
-    ]
-   },
-   "properties": {
-    "name": "FRA07600328 — YAUVILLE",
-    "description": "**Numéro de Work Order** : WO-205624 + WO-228573 + WO-243306\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-15\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : présence d'un tiers obligatoire\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau\n**Numéro de département** : 76\n**Nom du site** : YAUVILLE\n**Coordonnées** : 50.037098, 1.326004\n[[https://www.google.com/maps?q=50.037098,1.326004|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=50.037098,1.326004|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 3.4 km)]]\n[[https://www.google.com/maps?q=50.0605,1.39187|Déchèterie du Tréport (Le Tréport, 5.4 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0886,1.4504|Déchèterie de Ault (Ault, 10.6 km)]] — 0227282087\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@50.037098,1.326004,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Cadenas bailleur clé dans la BAC Délais de prévenance: 3.0 Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 04/11/25 P cockpit O+M Prévenance à effectuer 3 jours avant l’intervention par mail à : antenniste76.eau-no@veolia.com En copie : willy.bretagne@veolia.com, secretaria@seacne.fr Ouverture du site : uniquement en présence d’un agent. Documents à fournir : Pièce d’identité des intervenants Fiche opérateur antenniste à compléter Contact en cas de soucis : M. Willy BRETAGNE Tel : 0628511976",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "YAUVILLE",
-    "adresse": "Château d'eau",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205624 + WO-228573 + WO-243306",
-    "consignation": "Consigne Particulière",
-    "acces_detail": "Digicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Cadenas bailleur clé dans la BAC Délais de prévenance: 3.0 Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 04/11/25 P cockpit O+M Prévenance à effectuer 3 jours avant l’intervention par mail à : antenniste76.eau-no@veolia.com En copie : willy.bretagne@veolia.com, secretaria@seacne.fr Ouverture du site : uniquement en présence d’un agent. Documents à fournir : Pièce d’identité des intervenants Fiche opérateur antenniste à compléter Contact en cas de soucis : M. Willy BRETAGNE Tel : 0628511976",
-    "date_planification": "2026-10-15",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600328",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "présence d'un tiers obligatoire",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.7233089,
      49.4976112
     ]
