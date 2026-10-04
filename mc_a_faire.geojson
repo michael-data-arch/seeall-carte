@@ -442,7 +442,7 @@
    },
    "properties": {
     "name": "FRA03700064 — PLANCHOURY",
-    "description": "**Numéro de Work Order** : WO-246356\n**État du WO** : Activé\n**Travaux à réaliser** : Action\n\nReprendre la porte détériorée + contrôle autres dégâts\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 37\n**Nom du site** : PLANCHOURY\n**Coordonnées** : 47.308141, 0.347474\n[[https://www.google.com/maps?q=47.308141,0.347474|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.308141,0.347474|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2851,0.309461|Déchèterie de Saint Patrice (Saint-Patrice, 3.8 km)]]\n[[https://www.google.com/maps?q=47.268,0.362361|Déchèterie de Rivarennes (Rivarennes, 4.6 km)]] — 0247955810\n[[https://www.google.com/maps?q=47.33,0.232111|Déchèterie de Benais (BENAIS, 9.0 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.308141,0.347474,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1_k-EhLl9SS4iZ0dCaoLqkxWN5q_jgB4A/view|{{https://drive.google.com/thumbnail?id=1_k-EhLl9SS4iZ0dCaoLqkxWN5q_jgB4A&sz=w200}}]]\n[[https://drive.google.com/drive/folders/12SxqoxUyrr01MRZZVBvcVxP0z9i7yYN0|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nAURELIA FORESTAS — Accès — 09 69 39 40 00 — à prévenir — conforme le 2026-06-05\nAccès — conforme le 2026-02-23\n**Parties liées** :\nCC TOURAINE OUEST VAL DE LOIRE NAJ — Bailleur, Contact Bailleur (Migration GID création delta ID tiers 53237) — conforme le 2026-04-10\nVEOLIA EAU — Bailleur, Contact Bailleur (Migration GID création delta ID tiers 31189) — 0247677307\nCOMMUNE DE COTEAUX SUR LOIRE — Bailleur, Contact Bailleur (Migration GID part4) — 02 47 96 98 15",
+    "description": "**Numéro de Work Order** : WO-246356\n**État du WO** : Activé\n**Travaux à réaliser** : Action\n\nReprendre la porte détériorée + contrôle autres dégâts\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Sous-traitant affecté** : Enzo\n**Provenance du repère** : airtable\n**Numéro de département** : 37\n**Nom du site** : PLANCHOURY\n**Coordonnées** : 47.308141, 0.347474\n[[https://www.google.com/maps?q=47.308141,0.347474|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.308141,0.347474|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2851,0.309461|Déchèterie de Saint Patrice (Saint-Patrice, 3.8 km)]]\n[[https://www.google.com/maps?q=47.268,0.362361|Déchèterie de Rivarennes (Rivarennes, 4.6 km)]] — 0247955810\n[[https://www.google.com/maps?q=47.33,0.232111|Déchèterie de Benais (BENAIS, 9.0 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.308141,0.347474,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1_k-EhLl9SS4iZ0dCaoLqkxWN5q_jgB4A/view|{{https://drive.google.com/thumbnail?id=1_k-EhLl9SS4iZ0dCaoLqkxWN5q_jgB4A&sz=w200}}]]\n[[https://drive.google.com/drive/folders/12SxqoxUyrr01MRZZVBvcVxP0z9i7yYN0|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nAURELIA FORESTAS — Accès — 09 69 39 40 00 — à prévenir — conforme le 2026-06-05\nAccès — conforme le 2026-02-23\n**Parties liées** :\nCC TOURAINE OUEST VAL DE LOIRE NAJ — Bailleur, Contact Bailleur (Migration GID création delta ID tiers 53237) — conforme le 2026-04-10\nVEOLIA EAU — Bailleur, Contact Bailleur (Migration GID création delta ID tiers 31189) — 0247677307\nCOMMUNE DE COTEAUX SUR LOIRE — Bailleur, Contact Bailleur (Migration GID part4) — 02 47 96 98 15",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "PLANCHOURY",
@@ -451,13 +451,15 @@
     "priorite": "P4",
     "scope": "EVT - Environnement Technique",
     "departement": "37",
+    "sous_traitant": "Enzo",
     "calque": "mc",
     "code_fra": "FRA03700064",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#DC2626",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "E"
     }
    }
   },
