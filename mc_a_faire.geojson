@@ -821,6 +821,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     2.492429,
+     47.621524
+    ]
+   },
+   "properties": {
+    "name": "FRA04500211 — COULLONS_CENTRE",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Nettoyage du site (présence de pigeons et de déchets) et, si possible, mise en place d’un filet ou d’un grillage afin d’empêcher toute intrusion. ; CSH à réaliser\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de la Nation 45720 Coullons\n**Nom du site** : COULLONS_CENTRE\n**Coordonnées** : 47.621524, 2.492429\n[[https://www.google.com/maps?q=47.621524,2.492429|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.621524,2.492429|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.6298,2.36447|Déchèterie de Cerdon (Cerdon, 9.6 km)]] — 0238360018\n[[https://www.google.com/maps?q=47.6646,2.6121|Déchèterie Poilly-lez-gien (Poilly-lez-Gien, 10.2 km)]] — 0620526188\n[[https://www.google.com/maps?q=47.4902,2.39836|Déchèterie d'Aubigny sur Nere (Aubigny-sur-Nère, 16.2 km)]] — 0248583725\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.621524,2.492429,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "Nettoyage du site (présence de pigeons et de déchets) et, si possible, mise en place d’un filet ou d’un grillage afin d’empêcher toute intrusion. ; CSH à réaliser",
+    "etat_wo": "Activé",
+    "nom_site": "COULLONS_CENTRE",
+    "adresse": "Rue de la Nation 45720 Coullons",
+    "calque": "mc",
+    "code_fra": "FRA04500211",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -0.48606,
      47.545639
     ]
