@@ -3419,7 +3419,7 @@
    },
    "properties": {
     "name": "FRA03700102 — MONTLOUIS_SUR_LOIRE",
-    "description": "**Numéro de Work Order** : WO-204573 + WO-227852 + WO-243508\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0240439\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-10-09\n**Fin de validité** : 2026-10-09\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 3 W RUE MAD VERNET ROUTE BONDESIR\n**Numéro de département** : 37\n**Nom du site** : MONTLOUIS_SUR_LOIRE\n**Coordonnées** : 47.388845, 0.849970\n[[https://www.google.com/maps?q=47.388845,0.849970|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.388845,0.849970|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 3.8 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 4.9 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.3287,0.919077|Déchèterie d'Athée sur Cher (Athée-sur-Cher, 8.5 km)]] — 0247308106\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.388845,0.849970,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Non - Clé Abloy pour le portail accès shelter Cadenas a code 3737 sur le portail accès local\nDélais de prévenance: 7.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique - Clé électronique ABLOY\nCadenas: Cadenas à code\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 06/10/2025 Cockpit O+M / A\nFaire une DAS à cheriveau@ville-montlouis-loire.fr\nDélai de prévenance : 7jours\nOuverture du site : 7h 30 à 14h",
+    "description": "**Numéro de Work Order** : WO-204573 + WO-227852 + WO-243508\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0240439\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-10-09\n**Fin de validité** : 2026-10-09\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 3 W RUE MAD VERNET ROUTE BONDESIR\n**Numéro de département** : 37\n**Nom du site** : MONTLOUIS_SUR_LOIRE\n**Coordonnées** : 47.388845, 0.849970\n[[https://www.google.com/maps?q=47.388845,0.849970|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.388845,0.849970|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 3.8 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 4.9 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.3287,0.919077|Déchèterie d'Athée sur Cher (Athée-sur-Cher, 8.5 km)]] — 0247308106\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.388845,0.849970,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Non - Clé Abloy pour le portail accès shelter Cadenas a code 3737 sur le portail accès local\nDélais de prévenance: 7.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique - Clé électronique ABLOY\nCadenas: Cadenas à code\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 06/10/2025 Cockpit O+M / A\nFaire une DAS à cheriveau@ville-montlouis-loire.fr\nDélai de prévenance : 7jours\nOuverture du site : 7h 30 à 14h",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -3439,12 +3439,15 @@
     "das_fin": "2026-10-09",
     "das_provenance": "airtable",
     "das_prevenance": "7 jours",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-05",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700102",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
