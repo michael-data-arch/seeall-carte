@@ -2812,7 +2812,7 @@
    },
    "properties": {
     "name": "FRA03700065 — BENAIS",
-    "description": "**Numéro de Work Order** : WO-204927 + WO-228145 + WO-243490\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit\n**Numéro de département** : 37\n**Nom du site** : BENAIS\n**Coordonnées** : 47.289589, 0.198123\n[[https://www.google.com/maps?q=47.289589,0.198123|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.289589,0.198123|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2736,0.160955|Déchèterie de Bourgueuil (BOURGUEIL, 3.3 km)]] — 0247978975\n[[https://www.google.com/maps?q=47.33,0.232111|Déchèterie de Benais (BENAIS, 5.2 km)]]\n[[https://www.google.com/maps?q=47.2851,0.309461|Déchèterie de Saint Patrice (Saint-Patrice, 8.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.289589,0.198123,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - dans la BAC clé du portail d’accés enceinte Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: libre accès",
+    "description": "**Numéro de Work Order** : WO-204927 + WO-228145 + WO-243490\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit\n**Numéro de département** : 37\n**Nom du site** : BENAIS\n**Coordonnées** : 47.289589, 0.198123\n[[https://www.google.com/maps?q=47.289589,0.198123|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.289589,0.198123|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2736,0.160955|Déchèterie de Bourgueuil (BOURGUEIL, 3.3 km)]] — 0247978975\n[[https://www.google.com/maps?q=47.33,0.232111|Déchèterie de Benais (BENAIS, 5.2 km)]]\n[[https://www.google.com/maps?q=47.2851,0.309461|Déchèterie de Saint Patrice (Saint-Patrice, 8.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.289589,0.198123,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - dans la BAC clé du portail d’accés enceinte Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: libre accès",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -2825,12 +2825,15 @@
     "wo": "WO-204927 + WO-228145 + WO-243490",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - dans la BAC clé du portail d’accés enceinte Délais de prévenance: Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: libre accès",
     "date_planification": "2026-11-15",
+    "etat_terrain": "fait",
+    "declare_par": "Enzo (via Michael)",
+    "declare_le": "2026-10-05",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700065",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
