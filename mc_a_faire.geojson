@@ -240,7 +240,7 @@
    },
    "properties": {
     "name": "FRA02800124 — CHARTRES_GASVILLE",
-    "description": "**Numéro de Work Order** : WO-240019\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser l'espace vert sur site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 28\n**Nom du site** : CHARTRES_GASVILLE\n**Coordonnées** : 48.453691, 1.582693\n[[https://www.google.com/maps?q=48.453691,1.582693|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.453691,1.582693|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.4788,1.50454|Déchèterie de Champhol (Champhol, 6.4 km)]]\n[[https://www.google.com/maps?q=48.5228,1.62136|Déchèterie de Harleville (Bailleau-Armenonville, 8.2 km)]] — 0237909272\n[[https://www.google.com/maps?q=48.4117,1.454|Déchèterie Fontenay-sur-eure (Fontenay-sur-Eure, 10.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.453691,1.582693,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nSauvetre — Accès — 437501557\nCHARTRES METROPOLES Guillaume JIQUEL — Bailleur, FERMIER — 06 44 33 10 66\nCHARTRES METROPOLES Matthieu GABORI — Accès aux équipements, FERMIER — 06 44 33 10 66\nCHARTRES METROPOLES a.louiset — Accès aux équipements\nLA COMMUNE DE NOGENT LE PHAYE — Accès aux équipements — 02 37 31 68 48\nMANGIN Lise - Responsable exploitation eau potable — Accès — 06.45.01.35.74 — à prévenir — conforme le 2026-02-20\n**Parties liées** :\nCOMMUNE DE NOGENT LE PHAYE — Bailleur, Contact Bailleur (Migration GID part4)",
+    "description": "**Numéro de Work Order** : WO-240019\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser l'espace vert sur site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-06\n**Provenance du repère** : airtable\n**Numéro de département** : 28\n**Nom du site** : CHARTRES_GASVILLE\n**Coordonnées** : 48.453691, 1.582693\n[[https://www.google.com/maps?q=48.453691,1.582693|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.453691,1.582693|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.4788,1.50454|Déchèterie de Champhol (Champhol, 6.4 km)]]\n[[https://www.google.com/maps?q=48.5228,1.62136|Déchèterie de Harleville (Bailleau-Armenonville, 8.2 km)]] — 0237909272\n[[https://www.google.com/maps?q=48.4117,1.454|Déchèterie Fontenay-sur-eure (Fontenay-sur-Eure, 10.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.453691,1.582693,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nSauvetre — Accès — 437501557\nCHARTRES METROPOLES Guillaume JIQUEL — Bailleur, FERMIER — 06 44 33 10 66\nCHARTRES METROPOLES Matthieu GABORI — Accès aux équipements, FERMIER — 06 44 33 10 66\nCHARTRES METROPOLES a.louiset — Accès aux équipements\nLA COMMUNE DE NOGENT LE PHAYE — Accès aux équipements — 02 37 31 68 48\nMANGIN Lise - Responsable exploitation eau potable — Accès — 06.45.01.35.74 — à prévenir — conforme le 2026-02-20\n**Parties liées** :\nCOMMUNE DE NOGENT LE PHAYE — Bailleur, Contact Bailleur (Migration GID part4)",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "CHARTRES_GASVILLE",
@@ -250,12 +250,15 @@
     "scope": "EV - Espaces Verts",
     "departement": "28",
     "date_planification": "2026-09-25",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-06",
     "calque": "mc",
     "code_fra": "FRA02800124",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
