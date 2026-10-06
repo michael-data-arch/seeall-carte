@@ -43,8 +43,8 @@
    },
    "properties": {
     "name": "FRA01300165 — MRS_PLAN_D_AOU_BIS",
-    "description": "**Numéro de Work Order** : WO-246589\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Bonjour,\nImpossible d'accéder au compteur ENEDIS qui se situe à gauche du local Transfo, il y'a des ronces.\n=> merci de débroussailler cette zone (voir plan des réseaux joint) pour que la logette ENEDIS d'Orange soit accessible\n\nCdlt\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 13\n**Nom du site** : MRS_PLAN_D_AOU_BIS\n**Coordonnées** : 43.371389, 5.352222\n[[https://www.google.com/maps?q=43.371389,5.352222|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.371389,5.352222|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.4017,5.33106|Déchèterie les Pennes Mirabeau Ct2 (Les Pennes-Mirabeau, 3.8 km)]]\n[[https://www.google.com/maps?q=43.4469,5.40373|Déchèterie de Bouc-bel-air Ct2 (Bouc-Bel-Air, 9.4 km)]] — 0442229530\n[[https://www.google.com/maps?q=43.4522,5.49684|Déchèterie de Gardanne Ct2 (Gardanne, 14.7 km)]] — 0442584579\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.371389,5.352222,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (4) :\n[[https://drive.google.com/file/d/1J-YBE9q5p7bM_h5_CDdY4WIhvkuUZgRO/view|{{https://drive.google.com/thumbnail?id=1J-YBE9q5p7bM_h5_CDdY4WIhvkuUZgRO&sz=w200}}]] [[https://drive.google.com/file/d/1O7SsC2LtzyiF_R8S_c890syf7zoVwg2Y/view|{{https://drive.google.com/thumbnail?id=1O7SsC2LtzyiF_R8S_c890syf7zoVwg2Y&sz=w200}}]] [[https://drive.google.com/file/d/1jKFipD9WtWk-7Yhq4rTHIB8HXETZEbhY/view|{{https://drive.google.com/thumbnail?id=1jKFipD9WtWk-7Yhq4rTHIB8HXETZEbhY&sz=w200}}]] [[https://drive.google.com/file/d/1p1_BLSObCy3pbOiad7V3IVIl0H0QmE22/view|{{https://drive.google.com/thumbnail?id=1p1_BLSObCy3pbOiad7V3IVIl0H0QmE22&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1sUYtD8TJ2rexw68cuR9qDqZIz_JyeLlF|📁 Toutes les pièces (4)]]\n**Contacts d'accès** :\nAhmed Zerouali — Accès — 659324162\n**Parties liées** :\nSCI DU GRAND LITTORAL — Bailleur, Contact Bailleur (Migration GID part3)\nSCI LE LACYDON — Bailleur, Contact Bailleur (Migration GID part3)",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-246589\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\nImpossible d'accéder au compteur ENEDIS qui se situe à gauche du local Transfo, il y'a des ronces.\n=> merci de débroussailler cette zone (voir plan des réseaux joint) pour que la logette ENEDIS d'Orange soit accessible\n\nCdlt\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 13\n**Nom du site** : MRS_PLAN_D_AOU_BIS\n**Coordonnées** : 43.371389, 5.352222\n[[https://www.google.com/maps?q=43.371389,5.352222|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.371389,5.352222|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.4017,5.33106|Déchèterie les Pennes Mirabeau Ct2 (Les Pennes-Mirabeau, 3.8 km)]]\n[[https://www.google.com/maps?q=43.4469,5.40373|Déchèterie de Bouc-bel-air Ct2 (Bouc-Bel-Air, 9.4 km)]] — 0442229530\n[[https://www.google.com/maps?q=43.4522,5.49684|Déchèterie de Gardanne Ct2 (Gardanne, 14.7 km)]] — 0442584579\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.371389,5.352222,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (4) :\n[[https://drive.google.com/file/d/1J-YBE9q5p7bM_h5_CDdY4WIhvkuUZgRO/view|{{https://drive.google.com/thumbnail?id=1J-YBE9q5p7bM_h5_CDdY4WIhvkuUZgRO&sz=w200}}]] [[https://drive.google.com/file/d/1O7SsC2LtzyiF_R8S_c890syf7zoVwg2Y/view|{{https://drive.google.com/thumbnail?id=1O7SsC2LtzyiF_R8S_c890syf7zoVwg2Y&sz=w200}}]] [[https://drive.google.com/file/d/1jKFipD9WtWk-7Yhq4rTHIB8HXETZEbhY/view|{{https://drive.google.com/thumbnail?id=1jKFipD9WtWk-7Yhq4rTHIB8HXETZEbhY&sz=w200}}]] [[https://drive.google.com/file/d/1p1_BLSObCy3pbOiad7V3IVIl0H0QmE22/view|{{https://drive.google.com/thumbnail?id=1p1_BLSObCy3pbOiad7V3IVIl0H0QmE22&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1sUYtD8TJ2rexw68cuR9qDqZIz_JyeLlF|📁 Toutes les pièces (4)]]\n**Contacts d'accès** :\nAhmed Zerouali — Accès — 659324162\n**Parties liées** :\nSCI DU GRAND LITTORAL — Bailleur, Contact Bailleur (Migration GID part3)\nSCI LE LACYDON — Bailleur, Contact Bailleur (Migration GID part3)",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "MRS_PLAN_D_AOU_BIS",
     "wo": "WO-246589",
@@ -58,7 +58,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -74,8 +74,8 @@
    },
    "properties": {
     "name": "FRA01300426 — NOVES_CENTRE",
-    "description": "**Numéro de Work Order** : WO-246599\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Bonjour,\n\nMerci de planifier une intervention pour couper l'ensemble des ronces qui pénètrent sur ce site => débroussailler sur 1 mètre autour de la ZT\n\ncdlt\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 13\n**Nom du site** : NOVES_CENTRE\n**Coordonnées** : 43.878778, 4.902850\n[[https://www.google.com/maps?q=43.878778,4.902850|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.878778,4.902850|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.9014,4.87225|Déchèterie Intercommunale de Chateaurenard (Châteaurenard, 3.5 km)]] — 0432620987\n[[https://www.google.com/maps?q=43.8406,4.87728|Déchèterie d'Eyragues (Eyragues, 4.7 km)]] — 0490928666\n[[https://www.google.com/maps?q=43.9329,4.86149|Déchèterie d'Avignon Montfavet (Avignon, 6.9 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.878778,4.902850,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/180OR5JWfdl9gz9wJTUjW9wp9aICO3AbS/view|{{https://drive.google.com/thumbnail?id=180OR5JWfdl9gz9wJTUjW9wp9aICO3AbS&sz=w200}}]]\n[[https://drive.google.com/drive/folders/10oqlu11bG_d-6waT2hMjl2rPS3Q3lzvY|📁 Toutes les pièces (1)]]\n**Parties liées** :\nLE CELLIER DE LAURE TVA — Bailleur, Contact Bailleur (Migration GID part4) — 04 90 94 01 30\nLE CELLIER DE LAURE — Bailleur, Contact Bailleur (Migration GID part4) — 04 90 94 01 30",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-246599\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nMerci de planifier une intervention pour couper l'ensemble des ronces qui pénètrent sur ce site => débroussailler sur 1 mètre autour de la ZT\n\ncdlt\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 13\n**Nom du site** : NOVES_CENTRE\n**Coordonnées** : 43.878778, 4.902850\n[[https://www.google.com/maps?q=43.878778,4.902850|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.878778,4.902850|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.9014,4.87225|Déchèterie Intercommunale de Chateaurenard (Châteaurenard, 3.5 km)]] — 0432620987\n[[https://www.google.com/maps?q=43.8406,4.87728|Déchèterie d'Eyragues (Eyragues, 4.7 km)]] — 0490928666\n[[https://www.google.com/maps?q=43.9329,4.86149|Déchèterie d'Avignon Montfavet (Avignon, 6.9 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.878778,4.902850,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/180OR5JWfdl9gz9wJTUjW9wp9aICO3AbS/view|{{https://drive.google.com/thumbnail?id=180OR5JWfdl9gz9wJTUjW9wp9aICO3AbS&sz=w200}}]]\n[[https://drive.google.com/drive/folders/10oqlu11bG_d-6waT2hMjl2rPS3Q3lzvY|📁 Toutes les pièces (1)]]\n**Parties liées** :\nLE CELLIER DE LAURE TVA — Bailleur, Contact Bailleur (Migration GID part4) — 04 90 94 01 30\nLE CELLIER DE LAURE — Bailleur, Contact Bailleur (Migration GID part4) — 04 90 94 01 30",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "NOVES_CENTRE",
     "wo": "WO-246599",
@@ -89,7 +89,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -201,82 +201,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.539163,
-     45.250363
-    ]
-   },
-   "properties": {
-    "name": "FRA01900111 — DONZENAC_THEIL",
-    "description": "**Numéro de Work Order** : WO-246434\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : espace vert à réaliser\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-23\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-02\n**Provenance du repère** : airtable\n**Numéro de département** : 19\n**Nom du site** : DONZENAC_THEIL\n**Coordonnées** : 45.250363, 1.539163\n[[https://www.google.com/maps?q=45.250363,1.539163|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.250363,1.539163|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2338,1.49745|Déchèterie d'Allassac - Donzenac (Donzenac, 3.7 km)]] — 0555856764\n[[https://www.google.com/maps?q=45.1779,1.49479|Déchèterie de Ussac (Ussac, 8.8 km)]] — 0555232593\n[[https://www.google.com/maps?q=45.1649,1.58222|Déchèterie de Malemort-sur-Correze (Malemort-sur-Corrèze*, 10.1 km)]] — 0555920718\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.250363,1.539163,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1bCvXaNdXco0_g7FPhnZRqs4-5AXi4BHI/view|{{https://drive.google.com/thumbnail?id=1bCvXaNdXco0_g7FPhnZRqs4-5AXi4BHI&sz=w200}}]] [[https://drive.google.com/file/d/16_KUEBvKl27JBUQe00ZSDm4y_Qun0i0E/view|{{https://drive.google.com/thumbnail?id=16_KUEBvKl27JBUQe00ZSDm4y_Qun0i0E&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1YdWLOlDNCEV1LzZIUFxLBslezSXwaoAF|📁 Toutes les pièces (2)]]\n**Parties liées** :\nDominique DELMOND — Bailleur, Contact Bailleur (Migration GID part1)",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "DONZENAC_THEIL",
-    "wo": "WO-246434",
-    "travaux": "espace vert à réaliser",
-    "priorite": "P4",
-    "scope": "EV - Espaces Verts",
-    "departement": "19",
-    "date_planification": "2026-10-23",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-02",
-    "calque": "mc",
-    "code_fra": "FRA01900111",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.308326,
-     45.928883
-    ]
-   },
-   "properties": {
-    "name": "FRA02300015 — ST_AVIT_DE_TARDES",
-    "description": "**Numéro de Work Order** : WO-246580\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Travaux REAM prévu S42.\n\nPour caler une nacelle au pied du pylône :\n- Nacelle PL : débroussailler le terrain à faire\n- chemin d'acces à dégager pour la nacelle PL\n- Pied du pylone à élaguer\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : P3\n**Date de planification** : 2026-10-09\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0240654\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-02\n**Fin de validité** : 2026-10-02\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-02\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 23\n**Nom du site** : ST_AVIT_DE_TARDES\n**Coordonnées** : 45.928883, 2.308326\n[[https://www.google.com/maps?q=45.928883,2.308326|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.928883,2.308326|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.9321,2.17043|Déchèterie de Moutier-Rozeille (Moutier-Rozeille, 10.7 km)]] — 0555668273\n[[https://www.google.com/maps?q=46.0302,2.48496|Déchèterie d'Auzances (Auzances, 17.7 km)]] — 0555671322\n[[https://www.google.com/maps?q=45.8097,2.46898|Déchèterie de Giat (Giat, 18.2 km)]] — 0473217772\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.928883,2.308326,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nSCI ST JEAN — Bailleur, Contact Bailleur (Migration GID part4)\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 07/11/2025 Na cockpit O+M:\nSCI ST JEAN: 0555664796\n\nAprès confirmation auprès du propriétaire: sans prévenance\n\nAccès en Autonomie",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "ST_AVIT_DE_TARDES",
-    "wo": "WO-246580",
-    "travaux": "Travaux REAM prévu S42.\n\nPour caler une nacelle au pied du pylône :\n- Nacelle PL : débroussailler le terrain à faire\n- chemin d'acces à dégager pour la nacelle PL\n- Pied du pylone à élaguer",
-    "priorite": "P3",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts",
-    "departement": "23",
-    "date_planification": "2026-10-09",
-    "das_numero": "DAS-N0240654",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-02",
-    "das_fin": "2026-10-02",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 07/11/2025 Na cockpit O+M:\nSCI ST JEAN: 0555664796\n\nAprès confirmation auprès du propriétaire: sans prévenance\n\nAccès en Autonomie",
-    "equipe": "Manu",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-02",
-    "calque": "mc",
-    "code_fra": "FRA02300015",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop",
-     "iconUrl": "M"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.156174,
      49.0114
     ]
@@ -347,8 +271,8 @@
    },
    "properties": {
     "name": "FRA03500040 — RENNES_ST_GUENOLE_BIS",
-    "description": "**Numéro de Work Order** : WO-246539\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : l'arbre semble etre dans l'emprise TOTEM, si oui, merci de l'abattre.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-29\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : RENNES_ST_GUENOLE_BIS\n**Coordonnées** : 48.098660, -1.714560\n[[https://www.google.com/maps?q=48.098660,-1.714560|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.098660,-1.714560|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.1086,-1.67484|Déchèterie de Rennes Boëdriers (Rennes, 3.1 km)]] — 0299509278\n[[https://www.google.com/maps?q=48.1115,-1.7511|Déchèterie de Vezin-le-Coquet (Vezin-le-Coquet, 3.1 km)]]\n[[https://www.google.com/maps?q=48.1268,-1.70941|Déchèterie de Rennes la Harpe (Rennes, 3.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.098660,-1.714560,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1rtV_VK-nmgthq4cmEGaWLSZHsa3DbCIO/view|{{https://drive.google.com/thumbnail?id=1rtV_VK-nmgthq4cmEGaWLSZHsa3DbCIO&sz=w200}}]] [[https://drive.google.com/file/d/1BT7NeA9KytXY9Wt_Mb6f8i-SveNq_Kjg/view|{{https://drive.google.com/thumbnail?id=1BT7NeA9KytXY9Wt_Mb6f8i-SveNq_Kjg&sz=w200}}]] [[https://drive.google.com/file/d/1OVEBDpG5nwMuAD1J2nqOOt2hIsjAROKD/view|{{https://drive.google.com/thumbnail?id=1OVEBDpG5nwMuAD1J2nqOOt2hIsjAROKD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1fWccviTfzwKM-mKAeuzJspad_vBzO36f|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nFranck LEPETIT — Accès — 06.87.05.77.60 — à prévenir — conforme le 2026-03-16\n**Parties liées** :\nFranck LEPETIT — Bailleur, Contact Bailleur (Migration GID part2) — 06.87.05.77.60 — conforme le 2026-03-23",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-246539\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : l'arbre semble etre dans l'emprise TOTEM, si oui, merci de l'abattre.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-29\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : RENNES_ST_GUENOLE_BIS\n**Coordonnées** : 48.098660, -1.714560\n[[https://www.google.com/maps?q=48.098660,-1.714560|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.098660,-1.714560|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.1086,-1.67484|Déchèterie de Rennes Boëdriers (Rennes, 3.1 km)]] — 0299509278\n[[https://www.google.com/maps?q=48.1115,-1.7511|Déchèterie de Vezin-le-Coquet (Vezin-le-Coquet, 3.1 km)]]\n[[https://www.google.com/maps?q=48.1268,-1.70941|Déchèterie de Rennes la Harpe (Rennes, 3.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.098660,-1.714560,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1rtV_VK-nmgthq4cmEGaWLSZHsa3DbCIO/view|{{https://drive.google.com/thumbnail?id=1rtV_VK-nmgthq4cmEGaWLSZHsa3DbCIO&sz=w200}}]] [[https://drive.google.com/file/d/1BT7NeA9KytXY9Wt_Mb6f8i-SveNq_Kjg/view|{{https://drive.google.com/thumbnail?id=1BT7NeA9KytXY9Wt_Mb6f8i-SveNq_Kjg&sz=w200}}]] [[https://drive.google.com/file/d/1OVEBDpG5nwMuAD1J2nqOOt2hIsjAROKD/view|{{https://drive.google.com/thumbnail?id=1OVEBDpG5nwMuAD1J2nqOOt2hIsjAROKD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1fWccviTfzwKM-mKAeuzJspad_vBzO36f|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nFranck LEPETIT — Accès — 06.87.05.77.60 — à prévenir — conforme le 2026-03-16\n**Parties liées** :\nFranck LEPETIT — Bailleur, Contact Bailleur (Migration GID part2) — 06.87.05.77.60 — conforme le 2026-03-23",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "RENNES_ST_GUENOLE_BIS",
     "wo": "WO-246539",
@@ -362,7 +286,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -378,8 +302,8 @@
    },
    "properties": {
     "name": "FRA03500107 — BRUZ_CICE_BLOSSAC",
-    "description": "**Numéro de Work Order** : WO-246541\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci d'abattre l'arbre et la haie svp\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-29\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : BRUZ_CICE_BLOSSAC\n**Coordonnées** : 48.035761, -1.765897\n[[https://www.google.com/maps?q=48.035761,-1.765897|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.035761,-1.765897|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0239,-1.74316|Déchèterie de Bruz (Bruz, 2.1 km)]] — 0299055914\n[[https://www.google.com/maps?q=48.0617,-1.72417|Déchèterie de Saint-Jacques-de-la-Lande (Saint-Jacques-de-la-Lande, 4.2 km)]]\n[[https://www.google.com/maps?q=48.0183,-1.68096|Déchèterie de Saint-Erblon (Saint-Erblon, 6.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.035761,-1.765897,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1yzVRgYbtwLdaIL_5tR9EGlbVAm_UbYUd/view|{{https://drive.google.com/thumbnail?id=1yzVRgYbtwLdaIL_5tR9EGlbVAm_UbYUd&sz=w200}}]] [[https://drive.google.com/file/d/1A6W-4KSwBHNIK2lKekbJnMUqbQMxaEPD/view|{{https://drive.google.com/thumbnail?id=1A6W-4KSwBHNIK2lKekbJnMUqbQMxaEPD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1XNaoFDtGiV3RP63PXFLnO5ATNuTF1Mqi|📁 Toutes les pièces (2)]]\n**Parties liées** :\nCARDIGEST — Bailleur, Contact Bailleur (Migration GID part3) — 02 99 52 77 80 — conforme le 2025-11-26",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-246541\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci d'abattre l'arbre et la haie svp\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-29\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : BRUZ_CICE_BLOSSAC\n**Coordonnées** : 48.035761, -1.765897\n[[https://www.google.com/maps?q=48.035761,-1.765897|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.035761,-1.765897|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0239,-1.74316|Déchèterie de Bruz (Bruz, 2.1 km)]] — 0299055914\n[[https://www.google.com/maps?q=48.0617,-1.72417|Déchèterie de Saint-Jacques-de-la-Lande (Saint-Jacques-de-la-Lande, 4.2 km)]]\n[[https://www.google.com/maps?q=48.0183,-1.68096|Déchèterie de Saint-Erblon (Saint-Erblon, 6.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.035761,-1.765897,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1yzVRgYbtwLdaIL_5tR9EGlbVAm_UbYUd/view|{{https://drive.google.com/thumbnail?id=1yzVRgYbtwLdaIL_5tR9EGlbVAm_UbYUd&sz=w200}}]] [[https://drive.google.com/file/d/1A6W-4KSwBHNIK2lKekbJnMUqbQMxaEPD/view|{{https://drive.google.com/thumbnail?id=1A6W-4KSwBHNIK2lKekbJnMUqbQMxaEPD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1XNaoFDtGiV3RP63PXFLnO5ATNuTF1Mqi|📁 Toutes les pièces (2)]]\n**Parties liées** :\nCARDIGEST — Bailleur, Contact Bailleur (Migration GID part3) — 02 99 52 77 80 — conforme le 2025-11-26",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "BRUZ_CICE_BLOSSAC",
     "wo": "WO-246541",
@@ -393,7 +317,7 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -624,7 +548,7 @@
    },
    "properties": {
     "name": "FRA03700122 — ST_BRANCHS",
-    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de bien vouloir procéder au nettoyage de la ZT.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : site Back to Back, modalités à obtenir via Orange\n**Numéro de DAS** : DAS-N0218768\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-09-09\n**Fin de validité** : 2026-09-09\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Numéro de département** : 37\n**Nom du site** : ST_BRANCHS\n**Coordonnées** : 47.231149, 0.757528\n[[https://www.google.com/maps?q=47.231149,0.757528|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231149,0.757528|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 0.5 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 6.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 6.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231149,0.757528,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1jL1wX7XRpnL3mAo01k4zFEOLgIqC0Iru/view|RemontÃ©e_terrain___SI035661_SAINT-BRANCHS_ESPACE_VERT.pdf]]\n[[https://drive.google.com/drive/folders/1j8Aa2kXpqFE3EHtRd6-Umn81i9AZtiEh|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nTOURS METROPOLE — Accès — à prévenir — conforme le 2025-12-12\nMoreau — Accès\nMaxime Hufenus — Accès\n**Parties liées** :\nCC TOURAINE VALLEE INDRE — Bailleur, Contact Bailleur (Migration GID part3) — conforme le 2026-09-21\nVEOLIA TVDL SOLOGNE — Bailleur, Contact Bailleur (Migration GID part4) — 02 47 48 44 56\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
+    "description": "**Numéro de Work Order** : WO-236469\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Merci de bien vouloir procéder au nettoyage de la ZT.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-26\n**Équipe affectée** : Lassana\n**Provenance du repère** : ensio\n**Numéro de département** : 37\n**Nom du site** : ST_BRANCHS\n**Coordonnées** : 47.231149, 0.757528\n[[https://www.google.com/maps?q=47.231149,0.757528|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231149,0.757528|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 0.5 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 6.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 6.5 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231149,0.757528,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1jL1wX7XRpnL3mAo01k4zFEOLgIqC0Iru/view|RemontÃ©e_terrain___SI035661_SAINT-BRANCHS_ESPACE_VERT.pdf]]\n[[https://drive.google.com/drive/folders/1j8Aa2kXpqFE3EHtRd6-Umn81i9AZtiEh|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nTOURS METROPOLE — Accès — à prévenir — conforme le 2025-12-12\nMoreau — Accès\nMaxime Hufenus — Accès\n**Parties liées** :\nCC TOURAINE VALLEE INDRE — Bailleur, Contact Bailleur (Migration GID part3) — conforme le 2026-09-21\nVEOLIA TVDL SOLOGNE — Bailleur, Contact Bailleur (Migration GID part4) — 02 47 48 44 56",
     "origine": "ensio",
     "etat_wo": "Travaux planifiés",
     "nom_site": "ST_BRANCHS",
@@ -636,18 +560,11 @@
     "scope": "EVT - Environnement Technique",
     "departement": "37",
     "date_planification": "2026-10-12",
-    "das_numero": "DAS-N0218768",
-    "das_statut": "Refusée",
-    "das_debut": "2026-09-09",
-    "das_fin": "2026-09-09",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - deny 37 P\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n\n*Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com\n\n⚠️Site Back to Back : Une fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur Envoyer un mail à acces.ouest@orange.com",
-    "das_prevenance": "15 jours",
     "equipe": "Lassana",
     "calque": "mc",
     "code_fra": "FRA03700122",
     "acces_autonome": "a_confirmer",
-    "acces_motif": "site Back to Back, modalités à obtenir via Orange",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
@@ -726,40 +643,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.598913,
-     46.65443
-    ]
-   },
-   "properties": {
-    "name": "FRA03900087 — CONLIEGE",
-    "description": "**Numéro de Work Order** : WO-235239\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : prévoir nettoyage accès antenne fientes de pigeons partout et pigeon mort a retirer. Prévoir un filet ou grille pour éviter entrées potentiels de pigeon.\nLa mairie souhaite être présent : les contacter au 03.84.24.13.20 lors de l'interventon\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-10-13\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-30\n**Provenance du repère** : airtable\n**Numéro de département** : 39\n**Nom du site** : CONLIEGE\n**Coordonnées** : 46.654430, 5.598913\n[[https://www.google.com/maps?q=46.654430,5.598913|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.654430,5.598913|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6837,5.58626|Déchèterie de Lons Nord (Perrigny, 3.4 km)]] — 0384245009\n[[https://www.google.com/maps?q=46.6573,5.51077|Déchèterie de Lons Sud (Messia-sur-Sorne, 6.7 km)]] — 0384439458\n[[https://www.google.com/maps?q=46.7578,5.59952|Déchèterie de Domblans (Domblans, 11.5 km)]] — 0384247136\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.654430,5.598913,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (5) :\n[[https://drive.google.com/file/d/1aQFgdpLm6wyRTx6tAcr8R95WHabFHk6K/view|{{https://drive.google.com/thumbnail?id=1aQFgdpLm6wyRTx6tAcr8R95WHabFHk6K&sz=w200}}]] [[https://drive.google.com/file/d/1hZesgwqWRrQiBdPkymvhhcko9CtoAQHe/view|{{https://drive.google.com/thumbnail?id=1hZesgwqWRrQiBdPkymvhhcko9CtoAQHe&sz=w200}}]] [[https://drive.google.com/file/d/1THjCaDUj6CwajCFKDGyKNtMdI9gzkcaY/view|{{https://drive.google.com/thumbnail?id=1THjCaDUj6CwajCFKDGyKNtMdI9gzkcaY&sz=w200}}]] [[https://drive.google.com/file/d/1ZcCK5SBrJNzMaQVYWgAJZVs9FBk6St0f/view|{{https://drive.google.com/thumbnail?id=1ZcCK5SBrJNzMaQVYWgAJZVs9FBk6St0f&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1Hvkwj1r-W9XyINDAUsZxF_wlEZcvxOKa|📁 Toutes les pièces (5)]]\n**Contacts d'accès** :\nAccueil de la mairie — Accès, Mairie — 03 84 24 13 20 — à prévenir — conforme le 2026-03-23\nAccès, Mairie — conforme le 2026-03-23\n**Parties liées** :\nCOMMUNE DE CONLIEGE — Bailleur, Contact Bailleur (Migration GID part3) — 06 83 31 64 51 — conforme le 2026-06-05\nDominique PERNOT — conforme le 2026-04-28",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "CONLIEGE",
-    "wo": "WO-235239",
-    "travaux": "prévoir nettoyage accès antenne fientes de pigeons partout et pigeon mort a retirer. Prévoir un filet ou grille pour éviter entrées potentiels de pigeon.\nLa mairie souhaite être présent : les contacter au 03.84.24.13.20 lors de l'interventon",
-    "priorite": "P4",
-    "scope": "EVT - Environnement Technique",
-    "departement": "39",
-    "date_planification": "2026-10-13",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-09-30",
-    "calque": "mc",
-    "code_fra": "FRA03900087",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.131856,
      47.298607
     ]
@@ -827,18 +710,24 @@
    },
    "properties": {
     "name": "FRA04500211 — COULLONS_CENTRE",
-    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Nettoyage du site (présence de pigeons et de déchets) et, si possible, mise en place d’un filet ou d’un grillage afin d’empêcher toute intrusion. ; CSH à réaliser\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de la Nation 45720 Coullons\n**Nom du site** : COULLONS_CENTRE\n**Coordonnées** : 47.621524, 2.492429\n[[https://www.google.com/maps?q=47.621524,2.492429|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.621524,2.492429|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.6298,2.36447|Déchèterie de Cerdon (Cerdon, 9.6 km)]] — 0238360018\n[[https://www.google.com/maps?q=47.6646,2.6121|Déchèterie Poilly-lez-gien (Poilly-lez-Gien, 10.2 km)]] — 0620526188\n[[https://www.google.com/maps?q=47.4902,2.39836|Déchèterie d'Aubigny sur Nere (Aubigny-sur-Nère, 16.2 km)]] — 0248583725\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.621524,2.492429,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Numéro de Work Order** : WO-246342\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Site totalement insalubre. Aériens inaccessible.\nCSH à réaliser\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-10-19\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de la Nation 45720 Coullons\n**Numéro de département** : 45\n**Nom du site** : COULLONS_CENTRE\n**Coordonnées** : 47.621524, 2.492429\n[[https://www.google.com/maps?q=47.621524,2.492429|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.621524,2.492429|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.6298,2.36447|Déchèterie de Cerdon (Cerdon, 9.6 km)]] — 0238360018\n[[https://www.google.com/maps?q=47.6646,2.6121|Déchèterie Poilly-lez-gien (Poilly-lez-Gien, 10.2 km)]] — 0620526188\n[[https://www.google.com/maps?q=47.4902,2.39836|Déchèterie d'Aubigny sur Nere (Aubigny-sur-Nère, 16.2 km)]] — 0248583725\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.621524,2.492429,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nMairie — Accès, Mairie — 0 2 38 36 10 10 — à prévenir\n**Parties liées** :\nCOMMUNE DE COULLONS — Bailleur, Contact Bailleur (Migration GID part3) — 02 38 36 10 10",
     "origine": "ensio",
-    "travaux": "Nettoyage du site (présence de pigeons et de déchets) et, si possible, mise en place d’un filet ou d’un grillage afin d’empêcher toute intrusion. ; CSH à réaliser",
-    "etat_wo": "Activé",
+    "travaux": "Site totalement insalubre. Aériens inaccessible.\nCSH à réaliser",
+    "etat_wo": "Travaux planifiés",
     "nom_site": "COULLONS_CENTRE",
     "adresse": "Rue de la Nation 45720 Coullons",
+    "wo": "WO-246342",
+    "priorite": "P4",
+    "scope": "EVT - Environnement Technique",
+    "departement": "45",
+    "consignation": "Consigne Particulière",
+    "date_planification": "2026-10-19",
     "calque": "mc",
     "code_fra": "FRA04500211",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
+     "color": "#F59E0B",
      "iconClass": "LargeCircle",
      "iconSize": 32
     }
@@ -957,7 +846,7 @@
    },
    "properties": {
     "name": "FRA05000088 — AMFREVILLE_TER",
-    "description": "**Numéro de Work Order** : WO-246292\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Espace vert à entretenir et possibilité de nid de frelons dans le coffret de lovage fibres\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0240273\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-06\n**Fin de validité** : 2026-10-07\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de la Fière 50480 Ste-Mère-Église\n**Numéro de département** : 50\n**Nom du site** : AMFREVILLE_TER\n**Coordonnées** : 49.406538, -1.352169\n[[https://www.google.com/maps?q=49.406538,-1.352169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.406538,-1.352169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.3833,-1.32462|Decheterie de Carquebut (Carquebut, 3.3 km)]] — 0233423074\n[[https://www.google.com/maps?q=49.3935,-1.52416|Decheterie de Rauville la Place (Rauville-la-Place, 12.5 km)]] — 0233033239\n[[https://www.google.com/maps?q=49.2748,-1.27822|Decheterie de Carentan (Carentan*, 15.6 km)]] — 0233778700\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.406538,-1.352169,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1lJm2XsiPPELz5HejnDxyS4LjBKN_idhR/view|{{https://drive.google.com/thumbnail?id=1lJm2XsiPPELz5HejnDxyS4LjBKN_idhR&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1EmyISzbz07pEJqKAa2rPt4q1hF9H6BdH|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nLaurent MARAIS — Accès — 0609414064 — à prévenir — conforme le 2025-10-10\n**Parties liées** :\nLaurent MARAIS — Bailleur, Contact Bailleur (Migration GID part2) — 0609414064\nSANDRINE MARAIS — Usufruitier, BAILLEUR\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 10/10/25 D cockpit O+M:\nSans prévenance\nAccès: en autonomie",
+    "description": "**Numéro de Work Order** : WO-246292\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Espace vert à entretenir et possibilité de nid de frelons dans le coffret de lovage fibres\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue de la Fière 50480 Ste-Mère-Église\n**Numéro de département** : 50\n**Nom du site** : AMFREVILLE_TER\n**Coordonnées** : 49.406538, -1.352169\n[[https://www.google.com/maps?q=49.406538,-1.352169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.406538,-1.352169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.3833,-1.32462|Decheterie de Carquebut (Carquebut, 3.3 km)]] — 0233423074\n[[https://www.google.com/maps?q=49.3935,-1.52416|Decheterie de Rauville la Place (Rauville-la-Place, 12.5 km)]] — 0233033239\n[[https://www.google.com/maps?q=49.2748,-1.27822|Decheterie de Carentan (Carentan*, 15.6 km)]] — 0233778700\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.406538,-1.352169,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1lJm2XsiPPELz5HejnDxyS4LjBKN_idhR/view|{{https://drive.google.com/thumbnail?id=1lJm2XsiPPELz5HejnDxyS4LjBKN_idhR&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1EmyISzbz07pEJqKAa2rPt4q1hF9H6BdH|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nLaurent MARAIS — Accès — 0609414064 — à prévenir — conforme le 2025-10-10\n**Parties liées** :\nLaurent MARAIS — Bailleur, Contact Bailleur (Migration GID part2) — 0609414064\nSANDRINE MARAIS — Usufruitier, BAILLEUR",
     "origine": "ensio",
     "travaux": "Espace vert à entretenir et possibilité de nid de frelons dans le coffret de lovage fibres",
     "etat_wo": "Travaux planifiés",
@@ -968,16 +857,10 @@
     "scope": "EV - Espaces Verts",
     "departement": "50",
     "date_planification": "2026-10-30",
-    "das_numero": "DAS-N0240273",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-06",
-    "das_fin": "2026-10-07",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 10/10/25 D cockpit O+M:\nSans prévenance\nAccès: en autonomie",
     "calque": "mc",
     "code_fra": "FRA05000088",
-    "acces_autonome": "autonome",
-    "acces_motif": "la fiche déclare l'accès autonome",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
@@ -996,7 +879,7 @@
    },
    "properties": {
     "name": "FRA05000114 — QUETTEHOU_RABEY",
-    "description": "**Numéro de Work Order** : WO-245916\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci de faire l'EV du site svp y compris zone free\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0240247\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-06\n**Fin de validité** : 2026-10-07\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 50\n**Nom du site** : QUETTEHOU_RABEY\n**Coordonnées** : 49.579971, -1.351159\n[[https://www.google.com/maps?q=49.579971,-1.351159|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.579971,-1.351159|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6283,-1.28818|Déchèterie de Anneville en Saire (Anneville-en-Saire, 7.0 km)]] — 0233239045\n[[https://www.google.com/maps?q=49.6638,-1.38613|Decheterie de Varouville (Varouville, 9.7 km)]] — 0233544984\n[[https://www.google.com/maps?q=49.5172,-1.50571|Decheterie de Valognes (Valognes, 13.2 km)]] — 0233952105\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.579971,-1.351159,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1mo-8E7zgacGOXLuQfy4Er2erQOyje2GJ/view|{{https://drive.google.com/thumbnail?id=1mo-8E7zgacGOXLuQfy4Er2erQOyje2GJ&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1i9tCp2gNVmhfyDvNzaREqjU35OLZGsUU|📁 Toutes les pièces (1)]]\n**Parties liées** :\nEugene VILLARD — Bailleur, Contact Bailleur (Migration GID part2) — 0233541479\nJacques VILLARD — Bailleur, Contact Bailleur (Migration GID part2)\nHubert VILLARD — Bailleur, Contact Bailleur (Migration GID part2)\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 08/06/26 D cockpit O+M:\nTerrain acquis par TOTEM",
+    "description": "**Numéro de Work Order** : WO-245916\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci de faire l'EV du site svp y compris zone free\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-20\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 50\n**Nom du site** : QUETTEHOU_RABEY\n**Coordonnées** : 49.579971, -1.351159\n[[https://www.google.com/maps?q=49.579971,-1.351159|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.579971,-1.351159|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6283,-1.28818|Déchèterie de Anneville en Saire (Anneville-en-Saire, 7.0 km)]] — 0233239045\n[[https://www.google.com/maps?q=49.6638,-1.38613|Decheterie de Varouville (Varouville, 9.7 km)]] — 0233544984\n[[https://www.google.com/maps?q=49.5172,-1.50571|Decheterie de Valognes (Valognes, 13.2 km)]] — 0233952105\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.579971,-1.351159,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1mo-8E7zgacGOXLuQfy4Er2erQOyje2GJ/view|{{https://drive.google.com/thumbnail?id=1mo-8E7zgacGOXLuQfy4Er2erQOyje2GJ&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1i9tCp2gNVmhfyDvNzaREqjU35OLZGsUU|📁 Toutes les pièces (1)]]\n**Parties liées** :\nEugene VILLARD — Bailleur, Contact Bailleur (Migration GID part2) — 0233541479\nJacques VILLARD — Bailleur, Contact Bailleur (Migration GID part2)\nHubert VILLARD — Bailleur, Contact Bailleur (Migration GID part2)",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "QUETTEHOU_RABEY",
@@ -1006,19 +889,42 @@
     "scope": "EV - Espaces Verts",
     "departement": "50",
     "date_planification": "2026-09-20",
-    "das_numero": "DAS-N0240247",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-06",
-    "das_fin": "2026-10-07",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance: 0.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 08/06/26 D cockpit O+M:\nTerrain acquis par TOTEM",
-    "das_prevenance": "aucune",
     "calque": "mc",
     "code_fra": "FRA05000114",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.333678,
+     47.870961
+    ]
+   },
+   "properties": {
+    "name": "FRA05200049 — LANGRES_ST_GILLES",
+    "description": "**Numéro de Work Order** : WO-246529\n**État du WO** : Activé\n**Travaux à réaliser** : Prévoir élagage autour du site plusieurs branches d'arbres dans ZTO\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 52\n**Nom du site** : LANGRES_ST_GILLES\n**Coordonnées** : 47.870961, 5.333678\n[[https://www.google.com/maps?q=47.870961,5.333678|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.870961,5.333678|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.8608,5.35491|Déchèterie de Langres (Langres, 1.9 km)]] — 0325849301\n[[https://www.google.com/maps?q=47.9489,5.27835|Déchèterie de Rolampont (Rolampont, 9.6 km)]] — 0325902486\n[[https://www.google.com/maps?q=47.7979,5.44531|Déchèterie de Chalindrey (Chalindrey, 11.6 km)]] — 0325884992\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.870961,5.333678,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nCOMMUNE DE LANGRES — Accès — 03 25 87 77 77 — à prévenir — conforme le 2026-03-02\n**Parties liées** :\nAnne-Laure FRICQUEGNON — Bailleur, Agent de gestion financière et comptable — conforme le 2026-09-22\nSylvain COULON — Bailleur, Directeur service informatique — 03 25 87 77 77 — conforme le 2026-04-29",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "LANGRES_ST_GILLES",
+    "wo": "WO-246529",
+    "travaux": "Prévoir élagage autour du site plusieurs branches d'arbres dans ZTO",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "52",
+    "calque": "mc",
+    "code_fra": "FRA05200049",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
      "iconClass": "Drop"
     }
    }
@@ -1065,7 +971,7 @@
    },
    "properties": {
     "name": "FRA05400079 — TOUL_CENTRE",
-    "description": "**Numéro de Work Order** : WO-245876\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Pourriez vous aller nettoyer l'accès aux antennes et l'espace ou sont situées les antennes svp : fientes de pigeons ? Le bailleur m'indique également que les filets sont trouées : pourriez vous les changer ou les réparer si possible ?\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-29\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0238446\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-06\n**Fin de validité** : 2026-10-06\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 54\n**Nom du site** : TOUL_CENTRE\n**Coordonnées** : 48.675017, 5.889801\n[[https://www.google.com/maps?q=48.675017,5.889801|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.675017,5.889801|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.695,5.73215|Déchèterie Pagny-sur-meuse (Pagny-sur-Meuse, 11.8 km)]]\n[[https://www.google.com/maps?q=48.5517,5.89466|Déchèterie d'Allain (Colombey-les-Belles, 13.7 km)]] — 0354956241\n[[https://www.google.com/maps?q=48.6241,5.67607|Déchèterie de Vaucouleurs (Vaucouleurs, 16.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.675017,5.889801,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1BoUjE7aLLy0nwpbVY2gsogxMPcDx0tWg/view|{{https://drive.google.com/thumbnail?id=1BoUjE7aLLy0nwpbVY2gsogxMPcDx0tWg&sz=w200}}]] [[https://drive.google.com/file/d/1b2aAv5b1TSg8Ly0K8seztJyIaJeato-m/view|{{https://drive.google.com/thumbnail?id=1b2aAv5b1TSg8Ly0K8seztJyIaJeato-m&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1SOowlxG8O7bMk3L1OGm3GCdqB1vAJtG_|📁 Toutes les pièces (2)]]\n**Contacts d'accès** :\nCOMMUNE DE TOUL — Accès, Mairie — 03 83 63 70 00 — à prévenir — conforme le 2025-10-15\n**Parties liées** :\nCOMMUNE DE TOUL — Bailleur, Contact Bailleur (Migration GID part3) — 03 83 63 76 09 — conforme le 2025-11-21\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 7.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 15/10/25 D cockpit O+M:\nCOMMUNE DE TOUL: 03 83 63 70 00\n\nMode de prévenance par mail: secretariat.batiment@mairie-toul.fr/ 1 semaine à l'avance\n\nAccès: les informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance (bailleur lui-même n’est pas certain de l’autonomie du technicien)",
+    "description": "**Numéro de Work Order** : WO-245876\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Pourriez vous aller nettoyer l'accès aux antennes et l'espace ou sont situées les antennes svp : fientes de pigeons ? Le bailleur m'indique également que les filets sont trouées : pourriez vous les changer ou les réparer si possible ?\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-29\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 54\n**Nom du site** : TOUL_CENTRE\n**Coordonnées** : 48.675017, 5.889801\n[[https://www.google.com/maps?q=48.675017,5.889801|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.675017,5.889801|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.695,5.73215|Déchèterie Pagny-sur-meuse (Pagny-sur-Meuse, 11.8 km)]]\n[[https://www.google.com/maps?q=48.5517,5.89466|Déchèterie d'Allain (Colombey-les-Belles, 13.7 km)]] — 0354956241\n[[https://www.google.com/maps?q=48.6241,5.67607|Déchèterie de Vaucouleurs (Vaucouleurs, 16.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.675017,5.889801,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1BoUjE7aLLy0nwpbVY2gsogxMPcDx0tWg/view|{{https://drive.google.com/thumbnail?id=1BoUjE7aLLy0nwpbVY2gsogxMPcDx0tWg&sz=w200}}]] [[https://drive.google.com/file/d/1b2aAv5b1TSg8Ly0K8seztJyIaJeato-m/view|{{https://drive.google.com/thumbnail?id=1b2aAv5b1TSg8Ly0K8seztJyIaJeato-m&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1SOowlxG8O7bMk3L1OGm3GCdqB1vAJtG_|📁 Toutes les pièces (2)]]\n**Contacts d'accès** :\nCOMMUNE DE TOUL — Accès, Mairie — 03 83 63 70 00 — à prévenir — conforme le 2025-10-15\n**Parties liées** :\nCOMMUNE DE TOUL — Bailleur, Contact Bailleur (Migration GID part3) — 03 83 63 76 09 — conforme le 2025-11-21",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "TOUL_CENTRE",
@@ -1075,18 +981,11 @@
     "scope": "EVT - Environnement Technique",
     "departement": "54",
     "date_planification": "2026-09-29",
-    "das_numero": "DAS-N0238446",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-06",
-    "das_fin": "2026-10-06",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 7.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 15/10/25 D cockpit O+M:\nCOMMUNE DE TOUL: 03 83 63 70 00\n\nMode de prévenance par mail: secretariat.batiment@mairie-toul.fr/ 1 semaine à l'avance\n\nAccès: les informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance (bailleur lui-même n’est pas certain de l’autonomie du technicien)",
-    "das_prevenance": "7 jours",
     "equipe": "Manu",
     "calque": "mc",
     "code_fra": "FRA05400079",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop",
@@ -1136,8 +1035,8 @@
    },
    "properties": {
     "name": "FRA05600074 — PONTIVY_KEROPERT",
-    "description": "**Numéro de Work Order** : WO-246536\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : merci d’abattre l'arbre qui touche le pylône, et faire l'espace vert du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : PONTIVY_KEROPERT\n**Coordonnées** : 48.049855, -2.960591\n[[https://www.google.com/maps?q=48.049855,-2.960591|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.049855,-2.960591|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0381,-2.9661|Déchèterie de Pontivy (Pontivy, 1.4 km)]] — 0297251769\n[[https://www.google.com/maps?q=48.0858,-2.94049|Déchèterie de Kerponner (Noyal-Pontivy, 4.3 km)]]\n[[https://www.google.com/maps?q=48.0707,-2.87525|Déchèterie de Noyal-Pontivy (Noyal-Pontivy, 6.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.049855,-2.960591,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/12fI0DAzy80SwAREWqyP_PXU5ACdk3FGD/view|{{https://drive.google.com/thumbnail?id=12fI0DAzy80SwAREWqyP_PXU5ACdk3FGD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1kXSjOo3rlgTz75b-fj1iRXGNSh29JiI9|📁 Toutes les pièces (1)]]\n**Parties liées** :\nPONTIVY COMMUNAUTE — Bailleur, Contact Bailleur (Migration GID part4) — 0297250170 — conforme le 2026-02-20",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-246536\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci d’abattre l'arbre qui touche le pylône, et faire l'espace vert du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : PONTIVY_KEROPERT\n**Coordonnées** : 48.049855, -2.960591\n[[https://www.google.com/maps?q=48.049855,-2.960591|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.049855,-2.960591|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0381,-2.9661|Déchèterie de Pontivy (Pontivy, 1.4 km)]] — 0297251769\n[[https://www.google.com/maps?q=48.0858,-2.94049|Déchèterie de Kerponner (Noyal-Pontivy, 4.3 km)]]\n[[https://www.google.com/maps?q=48.0707,-2.87525|Déchèterie de Noyal-Pontivy (Noyal-Pontivy, 6.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.049855,-2.960591,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/12fI0DAzy80SwAREWqyP_PXU5ACdk3FGD/view|{{https://drive.google.com/thumbnail?id=12fI0DAzy80SwAREWqyP_PXU5ACdk3FGD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1kXSjOo3rlgTz75b-fj1iRXGNSh29JiI9|📁 Toutes les pièces (1)]]\n**Parties liées** :\nPONTIVY COMMUNAUTE — Bailleur, Contact Bailleur (Migration GID part4) — 0297250170 — conforme le 2026-02-20",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "PONTIVY_KEROPERT",
     "wo": "WO-246536",
@@ -1151,44 +1050,8 @@
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.758054,
-     45.659446
-    ]
-   },
-   "properties": {
-    "name": "FRA06300180 — LAQUEUILLE",
-    "description": "**Numéro de Work Order** : WO-246297\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\nÉlagage à prévoir : les branches encombrent le pylône et gênent son accès.\n\nMerci\nOlivier\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-01\n**Équipe affectée** : Manu\n**Provenance du repère** : airtable\n**Numéro de département** : 63\n**Nom du site** : LAQUEUILLE\n**Coordonnées** : 45.659446, 2.758054\n[[https://www.google.com/maps?q=45.659446,2.758054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.659446,2.758054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.6854,2.79759|Déchèterie de Rochefort (Rochefort-Montagne, 4.2 km)]] — 0473659099\n[[https://www.google.com/maps?q=45.5911,2.72045|Déchèterie de la Bourboule (La Bourboule, 8.1 km)]] — 0473655154\n[[https://www.google.com/maps?q=45.6244,2.62825|Mini Déchèterie Saint-sauves-d'auvergne (Saint-Sauves-d'Auvergne, 10.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.659446,2.758054,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1OUSLeei-9PaLHhxlsPZ9b0bDVilWrm2r/view|{{https://drive.google.com/thumbnail?id=1OUSLeei-9PaLHhxlsPZ9b0bDVilWrm2r&sz=w200}}]] [[https://drive.google.com/file/d/1u6hF2n9P8aRn3s8aREA895hzR2PZ7-0w/view|{{https://drive.google.com/thumbnail?id=1u6hF2n9P8aRn3s8aREA895hzR2PZ7-0w&sz=w200}}]] [[https://drive.google.com/file/d/1UxJjyXbPLWoWgAeKupt7jLaYFU31Bwo8/view|{{https://drive.google.com/thumbnail?id=1UxJjyXbPLWoWgAeKupt7jLaYFU31Bwo8&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1cwD5sHTTONe0QaIqk9IAIh9qt9Ns4xNO|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nAccès — conforme le 2025-12-26\n**Parties liées** :\nChristian CHABANAT — Bailleur, Contact Bailleur (Migration GID part2)",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "LAQUEUILLE",
-    "wo": "WO-246297",
-    "travaux": "Bonjour,\n\nÉlagage à prévoir : les branches encombrent le pylône et gênent son accès.\n\nMerci\nOlivier",
-    "priorite": "P4",
-    "scope": "EV - Espaces Verts",
-    "departement": "63",
-    "date_planification": "2026-10-15",
-    "equipe": "Manu",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-01",
-    "calque": "mc",
-    "code_fra": "FRA06300180",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop",
-     "iconUrl": "M"
     }
    }
   },
@@ -1203,8 +1066,8 @@
    },
    "properties": {
     "name": "FRA06700085 — STG_CASERNE_LIZE",
-    "description": "**Numéro de Work Order** : WO-246530\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Un problème d’insalubrité nous a été remonté sur ce site avec la présence de fientes de pigeons. Il faudrait également mettre une protection grillage tout autour de la zone technique afin de l’isoler et d’empêcher l’accès des pigeons par l’extérieur (petit schema/proposition sur pièce jointe).\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0241585\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-08\n**Fin de validité** : 2026-10-09\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 67\n**Nom du site** : STG_CASERNE_LIZE\n**Coordonnées** : 48.552251, 7.766274\n[[https://www.google.com/maps?q=48.552251,7.766274|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.552251,7.766274|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5788,7.60439|Déchèterie de Breuschwickersheim (Breuschwickersheim, 12.3 km)]] — 0368985190\n[[https://www.google.com/maps?q=48.6388,7.65808|Déchèterie de Pfulgriesheim (Pfulgriesheim, 12.5 km)]] — 0388562655\n[[https://www.google.com/maps?q=48.5332,7.59419|Déchèterie de Duppigheim (Duppigheim, 12.8 km)]] — 0388200973\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.552251,7.766274,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1TjZv75vrQBKDeQ_cWintJ3aImo7b7zCp/view|{{https://drive.google.com/thumbnail?id=1TjZv75vrQBKDeQ_cWintJ3aImo7b7zCp&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1qN_aS1syBNO5wdbKQ2T4yBD5tsSPjyVd|📁 Toutes les pièces (1)]]\n**Parties liées** :\nCOPROPRIETE NEUHOF — Bailleur, Contact Bailleur (Migration GID part4)\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-246530\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Un problème d’insalubrité nous a été remonté sur ce site avec la présence de fientes de pigeons. Il faudrait également mettre une protection grillage tout autour de la zone technique afin de l’isoler et d’empêcher l’accès des pigeons par l’extérieur (petit schema/proposition sur pièce jointe).\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 67\n**Nom du site** : STG_CASERNE_LIZE\n**Coordonnées** : 48.552251, 7.766274\n[[https://www.google.com/maps?q=48.552251,7.766274|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.552251,7.766274|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.5788,7.60439|Déchèterie de Breuschwickersheim (Breuschwickersheim, 12.3 km)]] — 0368985190\n[[https://www.google.com/maps?q=48.6388,7.65808|Déchèterie de Pfulgriesheim (Pfulgriesheim, 12.5 km)]] — 0388562655\n[[https://www.google.com/maps?q=48.5332,7.59419|Déchèterie de Duppigheim (Duppigheim, 12.8 km)]] — 0388200973\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.552251,7.766274,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1TjZv75vrQBKDeQ_cWintJ3aImo7b7zCp/view|{{https://drive.google.com/thumbnail?id=1TjZv75vrQBKDeQ_cWintJ3aImo7b7zCp&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1qN_aS1syBNO5wdbKQ2T4yBD5tsSPjyVd|📁 Toutes les pièces (1)]]\n**Parties liées** :\nCOPROPRIETE NEUHOF — Bailleur, Contact Bailleur (Migration GID part4)",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "STG_CASERNE_LIZE",
     "wo": "WO-246530",
@@ -1213,18 +1076,12 @@
     "scope": "EVT - Environnement Technique",
     "departement": "67",
     "date_planification": "2026-10-16",
-    "das_numero": "DAS-N0241585",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-08",
-    "das_fin": "2026-10-09",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
     "calque": "mc",
     "code_fra": "FRA06700085",
     "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -1240,8 +1097,8 @@
    },
    "properties": {
     "name": "FRA06800151 — BLOTZHEIM_VILLE",
-    "description": "**Numéro de Work Order** : WO-246527\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Bonjour,\n\npourriez-vous svp réaliser l'Espace Vert de ce site et notamment la Zone Technique de SFR.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0241586\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-10-10\n**Fin de validité** : 2026-10-10\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 68\n**Nom du site** : BLOTZHEIM_VILLE\n**Coordonnées** : 47.609943, 7.497870\n[[https://www.google.com/maps?q=47.609943,7.497870|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.609943,7.497870|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5602,7.45139|Déchèterie Michelbach-le-haut (Michelbach-le-Haut, 6.5 km)]]\n[[https://www.google.com/maps?q=47.602,7.58798|Déchèterie de Village Neuf (Village-Neuf, 6.8 km)]] — 0389678836\n[[https://www.google.com/maps?q=47.5006,7.4867|Déchèterie de Leymen (Leymen, 12.2 km)]] — 0389685733\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.609943,7.497870,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1vj2YTbhtPMC7_Yt8IJtDiKjlNF7u0LIk/view|{{https://drive.google.com/thumbnail?id=1vj2YTbhtPMC7_Yt8IJtDiKjlNF7u0LIk&sz=w200}}]] [[https://drive.google.com/file/d/1lKrzxOV0WP9OE-W7imb4so1wBwRmd3h5/view|{{https://drive.google.com/thumbnail?id=1lKrzxOV0WP9OE-W7imb4so1wBwRmd3h5&sz=w200}}]] [[https://drive.google.com/file/d/122pGfo7wgcdAnONSUgeh7-6stoaBEv06/view|{{https://drive.google.com/thumbnail?id=122pGfo7wgcdAnONSUgeh7-6stoaBEv06&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1MUdX5yIfQdaUA7cBYzXxv_6W-qOXYPZz|📁 Toutes les pièces (3)]]\n**Parties liées** :\nSCI CHAPOLIA — Bailleur, Contact Bailleur (Migration GID part4) — 03 89 68 46 65\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - Cle dans BAC\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 10/04/2026 Na Cockpit O+M: voici les nouvelles mises à jour:\nInterdiction de prendre tous les badges présents dans la box. Seul le badge rattaché au site concerné doit être pris.\nMerci de remettre les accès dans chaque tiroir concerné après chaque intervention\n\nFRA: FRA06800151\nEmplacement TOTEMBOX : MULHOUSE\nNuméro Casier: Casier-6 / Etiquetage: FRA06800151-BOX2-TK06\nAdresse TOTEMBOX: CHACUN SON BOX (à côté du Consigne Pickup), 2 Rue Robert Schuman, 68170 RIXHEIM\nListe précise de l'ensemble des clés : 1 clé abus",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-246527\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\n\npourriez-vous svp réaliser l'Espace Vert de ce site et notamment la Zone Technique de SFR.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0241586\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-10\n**Fin de validité** : 2026-10-10\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 68\n**Nom du site** : BLOTZHEIM_VILLE\n**Coordonnées** : 47.609943, 7.497870\n[[https://www.google.com/maps?q=47.609943,7.497870|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.609943,7.497870|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5602,7.45139|Déchèterie Michelbach-le-haut (Michelbach-le-Haut, 6.5 km)]]\n[[https://www.google.com/maps?q=47.602,7.58798|Déchèterie de Village Neuf (Village-Neuf, 6.8 km)]] — 0389678836\n[[https://www.google.com/maps?q=47.5006,7.4867|Déchèterie de Leymen (Leymen, 12.2 km)]] — 0389685733\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.609943,7.497870,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1vj2YTbhtPMC7_Yt8IJtDiKjlNF7u0LIk/view|{{https://drive.google.com/thumbnail?id=1vj2YTbhtPMC7_Yt8IJtDiKjlNF7u0LIk&sz=w200}}]] [[https://drive.google.com/file/d/1lKrzxOV0WP9OE-W7imb4so1wBwRmd3h5/view|{{https://drive.google.com/thumbnail?id=1lKrzxOV0WP9OE-W7imb4so1wBwRmd3h5&sz=w200}}]] [[https://drive.google.com/file/d/122pGfo7wgcdAnONSUgeh7-6stoaBEv06/view|{{https://drive.google.com/thumbnail?id=122pGfo7wgcdAnONSUgeh7-6stoaBEv06&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1MUdX5yIfQdaUA7cBYzXxv_6W-qOXYPZz|📁 Toutes les pièces (3)]]\n**Parties liées** :\nSCI CHAPOLIA — Bailleur, Contact Bailleur (Migration GID part4) — 03 89 68 46 65\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - Cle dans BAC\nDélais de prévenance: 5.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 10/04/2026 Na Cockpit O+M: voici les nouvelles mises à jour:\nInterdiction de prendre tous les badges présents dans la box. Seul le badge rattaché au site concerné doit être pris.\nMerci de remettre les accès dans chaque tiroir concerné après chaque intervention\n\nFRA: FRA06800151\nEmplacement TOTEMBOX : MULHOUSE\nNuméro Casier: Casier-6 / Etiquetage: FRA06800151-BOX2-TK06\nAdresse TOTEMBOX: CHACUN SON BOX (à côté du Consigne Pickup), 2 Rue Robert Schuman, 68170 RIXHEIM\nListe précise de l'ensemble des clés : 1 clé abus",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "BLOTZHEIM_VILLE",
     "wo": "WO-246527",
@@ -1251,7 +1108,7 @@
     "departement": "68",
     "date_planification": "2026-10-16",
     "das_numero": "DAS-N0241586",
-    "das_statut": "Vérification",
+    "das_statut": "Acceptée",
     "das_debut": "2026-10-10",
     "das_fin": "2026-10-10",
     "das_provenance": "airtable",
@@ -1262,7 +1119,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -1309,7 +1166,7 @@
    },
    "properties": {
     "name": "FRA07200100 — MAYET_CENTRE",
-    "description": "**Numéro de Work Order** : WO-245730\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci de faire le nettoyage de la zone technique et de boucher les entrées des pigeons là ou c'est possible.\nfaire un rapport photo complet des entrées de pigeons car si besoin nous solliciterons la mairie\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-18\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0241575\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-10-13\n**Fin de validité** : 2026-10-13\n**Délai de prévenance** : 4 jours\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 72\n**Nom du site** : MAYET_CENTRE\n**Coordonnées** : 47.760153, 0.275110\n[[https://www.google.com/maps?q=47.760153,0.275110|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.760153,0.275110|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.7215,0.29511|Décheterie de Verneil le Chetif (Verneil-le-Chétif, 4.6 km)]] — 0243467330\n[[https://www.google.com/maps?q=47.816,0.278995|Déchèterie d'Ecommoy (Écommoy, 6.2 km)]] — 0243426064\n[[https://www.google.com/maps?q=47.7873,0.111357|Déchèterie Oize (Oizé, 12.6 km)]] — 0243770322\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.760153,0.275110,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1AqsbyECGqcQN52v5lkH47Yo1G3_2mTUk/view|{{https://drive.google.com/thumbnail?id=1AqsbyECGqcQN52v5lkH47Yo1G3_2mTUk&sz=w200}}]] [[https://drive.google.com/file/d/1NWt9-z_FGNfHS3fHN0W6_dDgiJf8hRFK/view|{{https://drive.google.com/thumbnail?id=1NWt9-z_FGNfHS3fHN0W6_dDgiJf8hRFK&sz=w200}}]] [[https://drive.google.com/file/d/17vycZyk0bJZFB_BkGjC-2S77z1maHktB/view|{{https://drive.google.com/thumbnail?id=17vycZyk0bJZFB_BkGjC-2S77z1maHktB&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1t7pSjv-fzEIY58rVlRoXiODnLJVAzbLN|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nMartine Dufour — Accès, Responsable Service Technique — 243448624\nMAIRIE DE MAYET — Accès, Mairie — 243466011 — à prévenir — conforme le 2025-10-09\nPRETRE — Accès, Responsable Service Technique — 243463064\n**Parties liées** :\nMAIRIE DE MAYET — Bailleur, Contact Bailleur (Migration GID part4) — 0243466011\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 4.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 09/10/25 Na cockpit O+M:\nMAIRIE DE MAYET: 0243466011\nMode de prévenance: par mail\nservicestechniques@mairie-mayet.fr 4jours à l'avance\n\nAccès: les informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance",
+    "description": "**Numéro de Work Order** : WO-245730\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci de faire le nettoyage de la zone technique et de boucher les entrées des pigeons là ou c'est possible.\nfaire un rapport photo complet des entrées de pigeons car si besoin nous solliciterons la mairie\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-09-18\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0241575\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-13\n**Fin de validité** : 2026-10-13\n**Délai de prévenance** : 4 jours\n**Origine de la DAS** : airtable\n**Équipe affectée** : Lassana\n**Semaine ISO d'intervention** : 37\n**Provenance du repère** : airtable\n**Numéro de département** : 72\n**Nom du site** : MAYET_CENTRE\n**Coordonnées** : 47.760153, 0.275110\n[[https://www.google.com/maps?q=47.760153,0.275110|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.760153,0.275110|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.7215,0.29511|Décheterie de Verneil le Chetif (Verneil-le-Chétif, 4.6 km)]] — 0243467330\n[[https://www.google.com/maps?q=47.816,0.278995|Déchèterie d'Ecommoy (Écommoy, 6.2 km)]] — 0243426064\n[[https://www.google.com/maps?q=47.7873,0.111357|Déchèterie Oize (Oizé, 12.6 km)]] — 0243770322\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.760153,0.275110,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1AqsbyECGqcQN52v5lkH47Yo1G3_2mTUk/view|{{https://drive.google.com/thumbnail?id=1AqsbyECGqcQN52v5lkH47Yo1G3_2mTUk&sz=w200}}]] [[https://drive.google.com/file/d/1NWt9-z_FGNfHS3fHN0W6_dDgiJf8hRFK/view|{{https://drive.google.com/thumbnail?id=1NWt9-z_FGNfHS3fHN0W6_dDgiJf8hRFK&sz=w200}}]] [[https://drive.google.com/file/d/17vycZyk0bJZFB_BkGjC-2S77z1maHktB/view|{{https://drive.google.com/thumbnail?id=17vycZyk0bJZFB_BkGjC-2S77z1maHktB&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1t7pSjv-fzEIY58rVlRoXiODnLJVAzbLN|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nMartine Dufour — Accès, Responsable Service Technique — 243448624\nMAIRIE DE MAYET — Accès, Mairie — 243466011 — à prévenir — conforme le 2025-10-09\nPRETRE — Accès, Responsable Service Technique — 243463064\n**Parties liées** :\nMAIRIE DE MAYET — Bailleur, Contact Bailleur (Migration GID part4) — 0243466011\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 4.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 09/10/25 Na cockpit O+M:\nMAIRIE DE MAYET: 0243466011\nMode de prévenance: par mail\nservicestechniques@mairie-mayet.fr 4jours à l'avance\n\nAccès: les informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "MAYET_CENTRE",
@@ -1321,7 +1178,7 @@
     "consignation": "Consigne Particulière",
     "date_planification": "2026-09-18",
     "das_numero": "DAS-N0241575",
-    "das_statut": "Vérification",
+    "das_statut": "Acceptée",
     "das_debut": "2026-10-13",
     "das_fin": "2026-10-13",
     "das_provenance": "airtable",
@@ -1520,7 +1377,7 @@
    },
    "properties": {
     "name": "FRA07600205 — LE_TREPORT_BIS",
-    "description": "**Numéro de Work Order** : WO-245954\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2027-09-01\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0235281\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-07\n**Fin de validité** : 2026-10-07\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said (via Michael)\n**Date de la déclaration** : 2026-10-04\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : LE_TREPORT_BIS\n**Coordonnées** : 50.063056, 1.380833\n[[https://www.google.com/maps?q=50.063056,1.380833|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=50.063056,1.380833|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=50.0605,1.39187|Déchèterie du Tréport (Le Tréport, 0.8 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0886,1.4504|Déchèterie de Ault (Ault, 5.7 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 7.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@50.063056,1.380833,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (5) :\n[[https://drive.google.com/file/d/1GozsPcfc2BkdjAxkuPhyWL5uGS2MrNpG/view|{{https://drive.google.com/thumbnail?id=1GozsPcfc2BkdjAxkuPhyWL5uGS2MrNpG&sz=w200}}]] [[https://drive.google.com/file/d/1grusB0U_hHHSJl7X5Hg31hOW1P_ZwwSV/view|{{https://drive.google.com/thumbnail?id=1grusB0U_hHHSJl7X5Hg31hOW1P_ZwwSV&sz=w200}}]] [[https://drive.google.com/file/d/1FyR_HKci6pvdHHSKd9IQxglOz_KIbgst/view|{{https://drive.google.com/thumbnail?id=1FyR_HKci6pvdHHSKd9IQxglOz_KIbgst&sz=w200}}]] [[https://drive.google.com/file/d/1Gf2B6CTC4zzg8Qs2lNBODPiqPHsTF9EX/view|{{https://drive.google.com/thumbnail?id=1Gf2B6CTC4zzg8Qs2lNBODPiqPHsTF9EX&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1ShKxqeWQ1vYZqni9CxkJA3W47MPQBjBa|📁 Toutes les pièces (5)]]\n**Contacts d'accès** :\nSMPSM — Accès — 06.86.48.01.98 — à prévenir — conforme le 2026-04-16\n**Parties liées** :\nCCI LITTORAL HAUTS DE FRANCE — Bailleur, Contact Bailleur (Migration GID part3) — 03 22 25 47 96\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 09/04/2026\nChaine+cadenas a code 7667 sur le portillon ZT\nCadenas ILOQ 19091128 sur le shelter\n\n16/04/2026 Na cockpit O+M :\nPour toute intervention, merci d’envoyer un mail aux adresses ci-dessous et de contacter simultanément les personnes par téléphone :\n\n- Delothel Ludovic – ludovic.delothel@smpsm.fr – 06.72.59.33.42\n- Marquet Vincent – vincent.marquet@smpsm.fr – 06.86.48.01.98\n\nDélai de prévenance:\n- Pour une intervention simple : 15 jours à l’avance, avec confirmation par mail la veille.\n- Pour les interventions nécessitant la mise en place d’une nacelle sur le domaine public maritime : 1 mois à l’avance.\n\nAccès : en autonomie, sauf en cas d’utilisation d’une nacelle, où une autorisation est requise.\n\nNB:\n- Si l’intervention nécessite un positionnement à l’intérieur de l’enceinte portuaire, une seconde autorisation sera nécessaire.",
+    "description": "**Numéro de Work Order** : WO-245954\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Débroussaillage du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2027-09-01\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said (via Michael)\n**Date de la déclaration** : 2026-10-04\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : LE_TREPORT_BIS\n**Coordonnées** : 50.063056, 1.380833\n[[https://www.google.com/maps?q=50.063056,1.380833|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=50.063056,1.380833|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=50.0605,1.39187|Déchèterie du Tréport (Le Tréport, 0.8 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0886,1.4504|Déchèterie de Ault (Ault, 5.7 km)]] — 0227282087\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 7.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@50.063056,1.380833,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (5) :\n[[https://drive.google.com/file/d/1GozsPcfc2BkdjAxkuPhyWL5uGS2MrNpG/view|{{https://drive.google.com/thumbnail?id=1GozsPcfc2BkdjAxkuPhyWL5uGS2MrNpG&sz=w200}}]] [[https://drive.google.com/file/d/1grusB0U_hHHSJl7X5Hg31hOW1P_ZwwSV/view|{{https://drive.google.com/thumbnail?id=1grusB0U_hHHSJl7X5Hg31hOW1P_ZwwSV&sz=w200}}]] [[https://drive.google.com/file/d/1FyR_HKci6pvdHHSKd9IQxglOz_KIbgst/view|{{https://drive.google.com/thumbnail?id=1FyR_HKci6pvdHHSKd9IQxglOz_KIbgst&sz=w200}}]] [[https://drive.google.com/file/d/1Gf2B6CTC4zzg8Qs2lNBODPiqPHsTF9EX/view|{{https://drive.google.com/thumbnail?id=1Gf2B6CTC4zzg8Qs2lNBODPiqPHsTF9EX&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1ShKxqeWQ1vYZqni9CxkJA3W47MPQBjBa|📁 Toutes les pièces (5)]]\n**Contacts d'accès** :\nSMPSM — Accès — 06.86.48.01.98 — à prévenir — conforme le 2026-04-16\n**Parties liées** :\nCCI LITTORAL HAUTS DE FRANCE — Bailleur, Contact Bailleur (Migration GID part3) — 03 22 25 47 96",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "LE_TREPORT_BIS",
@@ -1530,20 +1387,13 @@
     "scope": "EV - Espaces Verts",
     "departement": "76",
     "date_planification": "2027-09-01",
-    "das_numero": "DAS-N0235281",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-07",
-    "das_fin": "2026-10-07",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: COCKPIT O+M Ta : 09/04/2026\nChaine+cadenas a code 7667 sur le portillon ZT\nCadenas ILOQ 19091128 sur le shelter\n\n16/04/2026 Na cockpit O+M :\nPour toute intervention, merci d’envoyer un mail aux adresses ci-dessous et de contacter simultanément les personnes par téléphone :\n\n- Delothel Ludovic – ludovic.delothel@smpsm.fr – 06.72.59.33.42\n- Marquet Vincent – vincent.marquet@smpsm.fr – 06.86.48.01.98\n\nDélai de prévenance:\n- Pour une intervention simple : 15 jours à l’avance, avec confirmation par mail la veille.\n- Pour les interventions nécessitant la mise en place d’une nacelle sur le domaine public maritime : 1 mois à l’avance.\n\nAccès : en autonomie, sauf en cas d’utilisation d’une nacelle, où une autorisation est requise.\n\nNB:\n- Si l’intervention nécessite un positionnement à l’intérieur de l’enceinte portuaire, une seconde autorisation sera nécessaire.",
-    "das_prevenance": "15 jours",
     "etat_terrain": "fait",
     "declare_par": "Said (via Michael)",
     "declare_le": "2026-10-04",
     "calque": "mc",
     "code_fra": "FRA07600205",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#15803D",
      "iconClass": "Drop"
@@ -1859,7 +1709,7 @@
    },
    "properties": {
     "name": "FRA09500077 — HEROUVILLE",
-    "description": "**Numéro de Work Order** : WO-246301\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Procéder au nettoyage de la ZT uniquement ( pas le reste du bâtiment) et poser filets pour protéger la ZT\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-10-25\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : passage obligatoire par un accueil\n**Numéro de DAS** : DAS-N0236391\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-13\n**Fin de validité** : 2026-10-13\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 95\n**Nom du site** : HEROUVILLE\n**Coordonnées** : 49.101193, 2.135616\n[[https://www.google.com/maps?q=49.101193,2.135616|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.101193,2.135616|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.03,2.18842|DEchEterie de Bessancourt (Bessancourt, 8.8 km)]] — 0130408000\n[[https://www.google.com/maps?q=49.1414,2.25475|DÉchÈterie de Champagne-sur-oise (CHAMPAGNE-SUR-OISE, 9.8 km)]] — 0134701609\n[[https://www.google.com/maps?q=49.1452,1.97119|DÉchÈterie de Marines (MARINES, 12.9 km)]] — 0130392120\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.101193,2.135616,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1fRDm2W_4AZz_FY4N7lp-IfvPuzHGEHyz/view|FRA09500077_HEROUVILLE_CP_18092026.pdf]]\n[[https://drive.google.com/drive/folders/15BHy8wuMoM2FIoPIEk19d3hAw7on917U|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nACCUEIL — Accès — 235123512\nBarrois — Accès — 235123527\nSILO — Accès — 134665420\n**Parties liées** :\nNATUP — Bailleur, Contact Bailleur (Migration GID création delta ID tiers 38987) — 02 35 12 35 12 — conforme le 2025-10-09\nNATUP — Bailleur, Contact Bailleur (Migration GID part3) — 02 35 12 35 12\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Non - -1 clé : Cadenas portail. (conforme le 03/01/2021 )\nDélais de prévenance: 3.0\n\nAccès équipement(s):\nBadge: Non\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés:\nCadenas:\n\nCommentaire d'accès: 19/08/2026 FA COCKPIT O+M:\nUne prévenance est nécessaire à l'adresse : dop.maintenance@natup.coop\nDélai de prévenance : 72 h\nPlan de prévention annuel à signer avant intervention.\nPréciser dans la demande le type d’intervention : maintenance ou travaux.\nSe présenter à l’accueil à l’arrivée et au départ et renseigner le registre.\nPour les travaux dangereux, fournir un mode opératoire détaillé.\nAcces en autonomie\n\nContact en cas de besoin : Romain DUFOUR – Tél. 02 59 58 12 79 / 06 09 74 62 32 – romain.dufour@natup.coop",
+    "description": "**Numéro de Work Order** : WO-246301\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Procéder au nettoyage de la ZT uniquement ( pas le reste du bâtiment) et poser filets pour protéger la ZT\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-10-25\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 95\n**Nom du site** : HEROUVILLE\n**Coordonnées** : 49.101193, 2.135616\n[[https://www.google.com/maps?q=49.101193,2.135616|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.101193,2.135616|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.03,2.18842|DEchEterie de Bessancourt (Bessancourt, 8.8 km)]] — 0130408000\n[[https://www.google.com/maps?q=49.1414,2.25475|DÉchÈterie de Champagne-sur-oise (CHAMPAGNE-SUR-OISE, 9.8 km)]] — 0134701609\n[[https://www.google.com/maps?q=49.1452,1.97119|DÉchÈterie de Marines (MARINES, 12.9 km)]] — 0130392120\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.101193,2.135616,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1fRDm2W_4AZz_FY4N7lp-IfvPuzHGEHyz/view|FRA09500077_HEROUVILLE_CP_18092026.pdf]]\n[[https://drive.google.com/drive/folders/15BHy8wuMoM2FIoPIEk19d3hAw7on917U|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nACCUEIL — Accès — 235123512\nBarrois — Accès — 235123527\nSILO — Accès — 134665420\n**Parties liées** :\nNATUP — Bailleur, Contact Bailleur (Migration GID création delta ID tiers 38987) — 02 35 12 35 12 — conforme le 2025-10-09\nNATUP — Bailleur, Contact Bailleur (Migration GID part3) — 02 35 12 35 12",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "HEROUVILLE",
@@ -1870,17 +1720,10 @@
     "departement": "95",
     "consignation": "Consigne Particulière",
     "date_planification": "2026-10-25",
-    "das_numero": "DAS-N0236391",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-13",
-    "das_fin": "2026-10-13",
-    "das_provenance": "airtable",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés: Oui\nPortail / Portillon: Non - -1 clé : Cadenas portail. (conforme le 03/01/2021 )\nDélais de prévenance: 3.0\n\nAccès équipement(s):\nBadge: Non\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés:\nCadenas:\n\nCommentaire d'accès: 19/08/2026 FA COCKPIT O+M:\nUne prévenance est nécessaire à l'adresse : dop.maintenance@natup.coop\nDélai de prévenance : 72 h\nPlan de prévention annuel à signer avant intervention.\nPréciser dans la demande le type d’intervention : maintenance ou travaux.\nSe présenter à l’accueil à l’arrivée et au départ et renseigner le registre.\nPour les travaux dangereux, fournir un mode opératoire détaillé.\nAcces en autonomie\n\nContact en cas de besoin : Romain DUFOUR – Tél. 02 59 58 12 79 / 06 09 74 62 32 – romain.dufour@natup.coop",
-    "das_prevenance": "3 jours",
     "calque": "mc",
     "code_fra": "FRA09500077",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "passage obligatoire par un accueil",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Drop"
