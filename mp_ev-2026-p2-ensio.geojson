@@ -4014,7 +4014,7 @@
    },
    "properties": {
     "name": "FRA03700176 — ST_EPAIN_SOUVRES_TGV",
-    "description": "**Numéro de Work Order** : WO-204607 + WO-227884 + WO-243545\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit\n**Numéro de département** : 37\n**Nom du site** : ST_EPAIN_SOUVRES_TGV\n**Coordonnées** : 47.130833, 0.598611\n[[https://www.google.com/maps?q=47.130833,0.598611|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.130833,0.598611|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.115,0.575574|Déchèterie de Noyant de Touraine (Noyant-de-Touraine, 2.5 km)]] — 0247658827\n[[https://www.google.com/maps?q=47.1237,0.435958|Déchèterie de l'île Bouchard (L'Île-Bouchard, 12.3 km)]] — 0247970214\n[[https://www.google.com/maps?q=47.0105,0.562524|Déchèterie de Ports sur Vienne (Ports, 13.7 km)]] — 0247658827\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.130833,0.598611,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/06/2026 FA COCKPIT O+M: Vérification macaron : 03/2026",
+    "description": "**Numéro de Work Order** : WO-204607 + WO-227884 + WO-243545\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-08\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit\n**Numéro de département** : 37\n**Nom du site** : ST_EPAIN_SOUVRES_TGV\n**Coordonnées** : 47.130833, 0.598611\n[[https://www.google.com/maps?q=47.130833,0.598611|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.130833,0.598611|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.115,0.575574|Déchèterie de Noyant de Touraine (Noyant-de-Touraine, 2.5 km)]] — 0247658827\n[[https://www.google.com/maps?q=47.1237,0.435958|Déchèterie de l'île Bouchard (L'Île-Bouchard, 12.3 km)]] — 0247970214\n[[https://www.google.com/maps?q=47.0105,0.562524|Déchèterie de Ports sur Vienne (Ports, 13.7 km)]] — 0247658827\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.130833,0.598611,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/06/2026 FA COCKPIT O+M: Vérification macaron : 03/2026",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -4028,12 +4028,15 @@
     "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/06/2026 FA COCKPIT O+M: Vérification macaron : 03/2026",
     "date_planification": "2026-11-15",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-08",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700176",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
