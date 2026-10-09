@@ -3579,7 +3579,7 @@
    },
    "properties": {
     "name": "FRA03700169 — PERRUSSON",
-    "description": "**Numéro de Work Order** : WO-204947 + WO-228165 + WO-243540\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Terrain sis\n**Numéro de département** : 37\n**Nom du site** : PERRUSSON\n**Coordonnées** : 47.108311, 1.004798\n[[https://www.google.com/maps?q=47.108311,1.004798|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.108311,1.004798|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.14,0.992367|Déchèterie de Loches (Loches, 3.6 km)]] — 0681934762\n[[https://www.google.com/maps?q=47.1806,1.11553|Déchèterie de Génillé (Genillé, 11.6 km)]] — 0675283457\n[[https://www.google.com/maps?q=47.0809,0.774274|Déchèterie de la Chapelle Blanche Saint Martin (La Chapelle-Blanche-Saint-Martin, 17.7 km)]] — 0247599373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.108311,1.004798,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 17/11/25 D cockpit O+M: DOLLET Marcel: 0607434085 Veuillez prévenir par téléphone au 0607434085/ 48h à l'avance Accès: en autonomie 07/09/2026 CZ EXPERIS Accès sans prévenance terrain propriété TOTEM",
+    "description": "**Numéro de Work Order** : WO-204947 + WO-228165 + WO-243540\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-09\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Terrain sis\n**Numéro de département** : 37\n**Nom du site** : PERRUSSON\n**Coordonnées** : 47.108311, 1.004798\n[[https://www.google.com/maps?q=47.108311,1.004798|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.108311,1.004798|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.14,0.992367|Déchèterie de Loches (Loches, 3.6 km)]] — 0681934762\n[[https://www.google.com/maps?q=47.1806,1.11553|Déchèterie de Génillé (Genillé, 11.6 km)]] — 0675283457\n[[https://www.google.com/maps?q=47.0809,0.774274|Déchèterie de la Chapelle Blanche Saint Martin (La Chapelle-Blanche-Saint-Martin, 17.7 km)]] — 0247599373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.108311,1.004798,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 17/11/25 D cockpit O+M: DOLLET Marcel: 0607434085 Veuillez prévenir par téléphone au 0607434085/ 48h à l'avance Accès: en autonomie 07/09/2026 CZ EXPERIS Accès sans prévenance terrain propriété TOTEM",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -3592,12 +3592,15 @@
     "wo": "WO-204947 + WO-228165 + WO-243540",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 17/11/25 D cockpit O+M: DOLLET Marcel: 0607434085 Veuillez prévenir par téléphone au 0607434085/ 48h à l'avance Accès: en autonomie 07/09/2026 CZ EXPERIS Accès sans prévenance terrain propriété TOTEM",
     "date_planification": "2026-11-15",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-09",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700169",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
