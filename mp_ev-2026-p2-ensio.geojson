@@ -2717,7 +2717,7 @@
    },
    "properties": {
     "name": "FRA03700070 — LUZILLE",
-    "description": "**Numéro de Work Order** : WO-204930 + WO-228148 + WO-243494\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Chauvinière\n**Numéro de département** : 37\n**Nom du site** : LUZILLE\n**Coordonnées** : 47.288517, 1.047302\n[[https://www.google.com/maps?q=47.288517,1.047302|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.288517,1.047302|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3245,1.02138|Déchèterie de Bléré (Bléré, 4.5 km)]] — 0247308106\n[[https://www.google.com/maps?q=47.3306,1.08046|Déchèterie de Chisseaux (Chisseaux, 5.3 km)]] — 0247308106\n[[https://www.google.com/maps?q=47.3287,0.919077|Déchèterie d'Athée sur Cher (Athée-sur-Cher, 10.7 km)]] — 0247308106\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.288517,1.047302,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 15.0 Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/03/26 D cockpit O+M: COMMUNE DE LUZILLE: 02 47 57 84 19 Prévenance à faire par mail: mairie@luzille.fr/ 15j à l'avance Les moyens d'accès sont à solliciter dans le mail",
+    "description": "**Numéro de Work Order** : WO-204930 + WO-228148 + WO-243494\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-09\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Chauvinière\n**Numéro de département** : 37\n**Nom du site** : LUZILLE\n**Coordonnées** : 47.288517, 1.047302\n[[https://www.google.com/maps?q=47.288517,1.047302|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.288517,1.047302|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3245,1.02138|Déchèterie de Bléré (Bléré, 4.5 km)]] — 0247308106\n[[https://www.google.com/maps?q=47.3306,1.08046|Déchèterie de Chisseaux (Chisseaux, 5.3 km)]] — 0247308106\n[[https://www.google.com/maps?q=47.3287,0.919077|Déchèterie d'Athée sur Cher (Athée-sur-Cher, 10.7 km)]] — 0247308106\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.288517,1.047302,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 15.0 Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/03/26 D cockpit O+M: COMMUNE DE LUZILLE: 02 47 57 84 19 Prévenance à faire par mail: mairie@luzille.fr/ 15j à l'avance Les moyens d'accès sont à solliciter dans le mail",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -2730,12 +2730,15 @@
     "wo": "WO-204930 + WO-228148 + WO-243494",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 15.0 Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/03/26 D cockpit O+M: COMMUNE DE LUZILLE: 02 47 57 84 19 Prévenance à faire par mail: mairie@luzille.fr/ 15j à l'avance Les moyens d'accès sont à solliciter dans le mail",
     "date_planification": "2026-11-15",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-09",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700070",
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
