@@ -2650,7 +2650,7 @@
    },
    "properties": {
     "name": "FRA03700068 — BLERE",
-    "description": "**Numéro de Work Order** : WO-204929 + WO-228147 + WO-243492\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Clos Chartier\n**Numéro de département** : 37\n**Nom du site** : BLERE\n**Coordonnées** : 47.314406, 0.990985\n[[https://www.google.com/maps?q=47.314406,0.990985|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.314406,0.990985|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3245,1.02138|Déchèterie de Bléré (Bléré, 2.6 km)]] — 0247308106\n[[https://www.google.com/maps?q=47.3287,0.919077|Déchèterie d'Athée sur Cher (Athée-sur-Cher, 5.6 km)]] — 0247308106\n[[https://www.google.com/maps?q=47.3306,1.08046|Déchèterie de Chisseaux (Chisseaux, 7.0 km)]] — 0247308106\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.314406,0.990985,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 21/10/25 D cockpit O+M: BOISGARD: 0661922440 Mode de prévenance par téléphone: 0661922440/ 48h à l'avance Accès: en autonomie",
+    "description": "**Numéro de Work Order** : WO-204929 + WO-228147 + WO-243492\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-09\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Clos Chartier\n**Numéro de département** : 37\n**Nom du site** : BLERE\n**Coordonnées** : 47.314406, 0.990985\n[[https://www.google.com/maps?q=47.314406,0.990985|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.314406,0.990985|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3245,1.02138|Déchèterie de Bléré (Bléré, 2.6 km)]] — 0247308106\n[[https://www.google.com/maps?q=47.3287,0.919077|Déchèterie d'Athée sur Cher (Athée-sur-Cher, 5.6 km)]] — 0247308106\n[[https://www.google.com/maps?q=47.3306,1.08046|Déchèterie de Chisseaux (Chisseaux, 7.0 km)]] — 0247308106\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.314406,0.990985,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 21/10/25 D cockpit O+M: BOISGARD: 0661922440 Mode de prévenance par téléphone: 0661922440/ 48h à l'avance Accès: en autonomie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -2664,12 +2664,15 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 21/10/25 D cockpit O+M: BOISGARD: 0661922440 Mode de prévenance par téléphone: 0661922440/ 48h à l'avance Accès: en autonomie",
     "date_planification": "2026-11-15",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-09",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700068",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
