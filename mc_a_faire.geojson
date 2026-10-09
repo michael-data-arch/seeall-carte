@@ -299,43 +299,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.67128,
-     47.389281
-    ]
-   },
-   "properties": {
-    "name": "FRA03700037 — TOURS_VICTOR_HUGO",
-    "description": "**Numéro de Work Order** : WO-238233\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : CHARNIÈRE DE LA PORTE ZT CASSÉE, PRÉVOIR SON REMPLACEMENT (PORTE PRÉSENTE DANS LA ZT)\nImpossible de réparer en MP... les charnières sont cassés et rouillé, ce genre de sujet ce traite Hors MP\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-10-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-07\n**Sous-traitant affecté** : Enzo\n**Provenance du repère** : ensio\n**Numéro de département** : 37\n**Nom du site** : TOURS_VICTOR_HUGO\n**Coordonnées** : 47.389281, 0.671280\n[[https://www.google.com/maps?q=47.389281,0.671280|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.389281,0.671280|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 9.7 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.4369,0.518596|Déchèterie de Pernay (Pernay, 12.7 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 13.3 km)]] — 0247298100\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.389281,0.671280,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (9) :\n[[https://drive.google.com/file/d/1TwCCibVWy2i9B37eNSxeMjzjzBWni2J1/view|{{https://drive.google.com/thumbnail?id=1TwCCibVWy2i9B37eNSxeMjzjzBWni2J1&sz=w200}}]] [[https://drive.google.com/file/d/14j9OfCPQGWhERdQg1kZUwNKxjOkGa-EA/view|{{https://drive.google.com/thumbnail?id=14j9OfCPQGWhERdQg1kZUwNKxjOkGa-EA&sz=w200}}]] [[https://drive.google.com/file/d/1g26iIQ3YErYKe3cQk8ulQyBGYAB1Irv6/view|{{https://drive.google.com/thumbnail?id=1g26iIQ3YErYKe3cQk8ulQyBGYAB1Irv6&sz=w200}}]] [[https://drive.google.com/file/d/16Vo_nh6ym6-Mf0PZqTgooIcBQ2Nn3W2w/view|{{https://drive.google.com/thumbnail?id=16Vo_nh6ym6-Mf0PZqTgooIcBQ2Nn3W2w&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1sJaHTsmWpUZle741ROosxXztd4mIvZXt|📁 Toutes les pièces (9)]]\n**Contacts d'accès** :\nPapin Landais — Accès — 660147749 — conforme le 2025-10-09\nPapin — Accès\n**Parties liées** :\nPapin Landais — Accès — 660147749 — conforme le 2025-10-09\nRomain Landais — Accès — 247601347 — conforme le 2025-10-09\nGardien — Accès, Gardien — 660143833 — conforme le 2025-10-09\nTOURS HABITAT — Bailleur, Contact Bailleur (Migration GID part4) — 02 47 60 13 47",
-    "origine": "ensio",
-    "travaux": "CHARNIÈRE DE LA PORTE ZT CASSÉE, PRÉVOIR SON REMPLACEMENT (PORTE PRÉSENTE DANS LA ZT)\nImpossible de réparer en MP... les charnières sont cassés et rouillé, ce genre de sujet ce traite Hors MP",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "TOURS_VICTOR_HUGO",
-    "wo": "WO-238233",
-    "priorite": "P4",
-    "scope": "EVT - Environnement Technique",
-    "departement": "37",
-    "date_planification": "2026-10-12",
-    "sous_traitant": "Enzo",
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-07",
-    "calque": "mc",
-    "code_fra": "FRA03700037",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "LargeCircle",
-     "iconSize": 32,
-     "iconUrl": "E"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.544167,
      46.993611
     ]
