@@ -3823,7 +3823,7 @@
    },
    "properties": {
     "name": "FRA03700200 — AMBOISE_NEW",
-    "description": "**Numéro de Work Order** : WO-205954 + WO-243556\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : LA VARENNE DE POCE\n**Numéro de département** : 37\n**Nom du site** : AMBOISE_NEW\n**Coordonnées** : 47.429816, 0.986522\n[[https://www.google.com/maps?q=47.429816,0.986522|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.429816,0.986522|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.4136,1.00894|Déchèterie d'Amboise (Amboise, 2.5 km)]] — 0247234744\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 10.7 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.519,0.91555|Déchèterie de Neuillé le Lierre (Neuillé-le-Lierre, 11.3 km)]] — 0247296669\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.429816,0.986522,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès équipement(s): Accès aérien(s): Commentaire d'accès: 11/05/26 D cockpit O+M: BORDIER: 0613562187 Il est pas nécessaire de prévenir Autonome",
+    "description": "**Numéro de Work Order** : WO-205954 + WO-243556\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-09\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : LA VARENNE DE POCE\n**Numéro de département** : 37\n**Nom du site** : AMBOISE_NEW\n**Coordonnées** : 47.429816, 0.986522\n[[https://www.google.com/maps?q=47.429816,0.986522|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.429816,0.986522|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.4136,1.00894|Déchèterie d'Amboise (Amboise, 2.5 km)]] — 0247234744\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 10.7 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.519,0.91555|Déchèterie de Neuillé le Lierre (Neuillé-le-Lierre, 11.3 km)]] — 0247296669\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.429816,0.986522,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès équipement(s): Accès aérien(s): Commentaire d'accès: 11/05/26 D cockpit O+M: BORDIER: 0613562187 Il est pas nécessaire de prévenir Autonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -3836,12 +3836,15 @@
     "wo": "WO-205954 + WO-243556",
     "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès équipement(s): Accès aérien(s): Commentaire d'accès: 11/05/26 D cockpit O+M: BORDIER: 0613562187 Il est pas nécessaire de prévenir Autonome",
     "date_planification": "2026-11-15",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-09",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700200",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
