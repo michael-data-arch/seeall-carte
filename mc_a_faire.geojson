@@ -299,43 +299,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.544167,
-     46.993611
-    ]
-   },
-   "properties": {
-    "name": "FRA03700041 — PUSSIGNY_LGV",
-    "description": "**Numéro de Work Order** : WO-246585\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nDébroussaillage à réaliser svp avant S45 car REAM en cours\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Numéro de DAS** : DAS-N0227010\n**Statut de la DAS** : Acceptée\n**Origine de la DAS** : ensio\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-08\n**Provenance du repère** : airtable\n**Numéro de département** : 37\n**Nom du site** : PUSSIGNY_LGV\n**Coordonnées** : 46.993611, 0.544167\n[[https://www.google.com/maps?q=46.993611,0.544167|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.993611,0.544167|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0105,0.562524|Déchèterie de Ports sur Vienne (Ports, 2.3 km)]] — 0247658827\n[[https://www.google.com/maps?q=46.929,0.608361|Déchèterie de Dangé-saint-romain (Dangé-Saint-Romain, 8.7 km)]] — 0784394852\n[[https://www.google.com/maps?q=46.9814,0.673157|Déchèterie de Descartes (Descartes, 9.9 km)]] — 0640659685\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.993611,0.544167,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/17wQRFQRvJ0GLGDGZ7UBC_y7TMXRZ6zuo/view|{{https://drive.google.com/thumbnail?id=17wQRFQRvJ0GLGDGZ7UBC_y7TMXRZ6zuo&sz=w200}}]] [[https://drive.google.com/file/d/10yVsbwO_gHXe7RMc0WbygQo2N8RrnfG1/view|{{https://drive.google.com/thumbnail?id=10yVsbwO_gHXe7RMc0WbygQo2N8RrnfG1&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1kD0-eoPNWwGuJNZGfLlnRw4fZZEk4YYO|📁 Toutes les pièces (2)]]\n**Parties liées** :\nJean Michel MALAGU — Bailleur, Contact Bailleur (Migration GID part2)",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "PUSSIGNY_LGV",
-    "wo": "WO-246585",
-    "travaux": "Action\n\nDébroussaillage à réaliser svp avant S45 car REAM en cours",
-    "priorite": "P4",
-    "scope": "EV - Espaces Verts",
-    "departement": "37",
-    "date_planification": "2026-10-22",
-    "das_numero": "DAS-N0227010",
-    "das_statut": "Acceptée",
-    "das_provenance": "ensio",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-10-08",
-    "calque": "mc",
-    "code_fra": "FRA03700041",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.347474,
      47.308141
     ]
@@ -1390,46 +1353,6 @@
     "_umap_options": {
      "color": "#15803D",
      "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.032222,
-     49.524722
-    ]
-   },
-   "properties": {
-    "name": "FRA07600301 — MALAUNAY_CENTRE",
-    "description": "**Numéro de Work Order** : WO-242875\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nSuite à la VT\nTraiter l'espace vert et la problématique liées aux trappes\n**Scope de maintenance** : SH - Structure Haute + EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-12\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Said (via Michael)\n**Date de la déclaration** : 2026-10-04\n**Équipe affectée** : Said\n**Semaine ISO d'intervention** : 38\n**Provenance du repère** : ensio\n**Adresse du site** : Rue Notre-Dame des Champs 76770 Malaunay\n**Numéro de département** : 76\n**Nom du site** : MALAUNAY_CENTRE\n**Coordonnées** : 49.524722, 1.032222\n[[https://www.google.com/maps?q=49.524722,1.032222|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.524722,1.032222|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 7.7 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 11.3 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.635,1.17411|Déchèterie Bosc le Hard (Bosc-le-Hard, 16.0 km)]] — 0235769343\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.524722,1.032222,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1MdNrvLr7xbljAHUrD_FSplncVMQHalJV/view|CRi FRA07600301 - MALAUNAY_CENTRE.pdf]]\n[[https://drive.google.com/drive/folders/1ylWOkgMGqqLsma3IuctqhMf7sVgapUpg|📁 Toutes les pièces (1)]]\n**Parties liées** :\nSNCF RESEAU 2018 TVA — Bailleur, Contact Bailleur (Migration GID part4) — 0633190429 — conforme le 2026-09-28\nPatrick Sciortino-Monaco — conforme le 2026-06-26\nRichard Toulon — conforme le 2026-06-26\nKarine Hamami — conforme le 2026-06-26",
-    "origine": "ensio",
-    "travaux": "Action\n\nSuite à la VT\nTraiter l'espace vert et la problématique liées aux trappes",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "MALAUNAY_CENTRE",
-    "adresse": "Rue Notre-Dame des Champs 76770 Malaunay",
-    "wo": "WO-242875",
-    "priorite": "P4",
-    "scope": "SH - Structure Haute + EV - Espaces Verts",
-    "departement": "76",
-    "consignation": "Consignation",
-    "date_planification": "2026-10-12",
-    "equipe": "Said",
-    "semaine": 38,
-    "etat_terrain": "fait",
-    "declare_par": "Said (via Michael)",
-    "declare_le": "2026-10-04",
-    "calque": "mc",
-    "code_fra": "FRA07600301",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "LargeCircle",
-     "iconSize": 32,
-     "iconUrl": "S"
     }
    }
   },
