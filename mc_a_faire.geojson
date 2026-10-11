@@ -907,7 +907,7 @@
    },
    "properties": {
     "name": "FRA05600074 — PONTIVY_KEROPERT",
-    "description": "**Numéro de Work Order** : WO-246536\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci d’abattre l'arbre qui touche le pylône, et faire l'espace vert du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : PONTIVY_KEROPERT\n**Coordonnées** : 48.049855, -2.960591\n[[https://www.google.com/maps?q=48.049855,-2.960591|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.049855,-2.960591|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0381,-2.9661|Déchèterie de Pontivy (Pontivy, 1.4 km)]] — 0297251769\n[[https://www.google.com/maps?q=48.0858,-2.94049|Déchèterie de Kerponner (Noyal-Pontivy, 4.3 km)]]\n[[https://www.google.com/maps?q=48.0707,-2.87525|Déchèterie de Noyal-Pontivy (Noyal-Pontivy, 6.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.049855,-2.960591,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/12fI0DAzy80SwAREWqyP_PXU5ACdk3FGD/view|{{https://drive.google.com/thumbnail?id=12fI0DAzy80SwAREWqyP_PXU5ACdk3FGD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1kXSjOo3rlgTz75b-fj1iRXGNSh29JiI9|📁 Toutes les pièces (1)]]\n**Parties liées** :\nPONTIVY COMMUNAUTE — Bailleur, Contact Bailleur (Migration GID part4) — 0297250170 — conforme le 2026-02-20",
+    "description": "**Numéro de Work Order** : WO-246536\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : merci d’abattre l'arbre qui touche le pylône, et faire l'espace vert du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Équipe affectée** : Lassana\n**Provenance du repère** : airtable\n**Numéro de département** : 56\n**Nom du site** : PONTIVY_KEROPERT\n**Coordonnées** : 48.049855, -2.960591\n[[https://www.google.com/maps?q=48.049855,-2.960591|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.049855,-2.960591|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0381,-2.9661|Déchèterie de Pontivy (Pontivy, 1.4 km)]] — 0297251769\n[[https://www.google.com/maps?q=48.0858,-2.94049|Déchèterie de Kerponner (Noyal-Pontivy, 4.3 km)]]\n[[https://www.google.com/maps?q=48.0707,-2.87525|Déchèterie de Noyal-Pontivy (Noyal-Pontivy, 6.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.049855,-2.960591,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/12fI0DAzy80SwAREWqyP_PXU5ACdk3FGD/view|{{https://drive.google.com/thumbnail?id=12fI0DAzy80SwAREWqyP_PXU5ACdk3FGD&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1kXSjOo3rlgTz75b-fj1iRXGNSh29JiI9|📁 Toutes les pièces (1)]]\n**Parties liées** :\nPONTIVY COMMUNAUTE — Bailleur, Contact Bailleur (Migration GID part4) — 0297250170 — conforme le 2026-02-20",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "PONTIVY_KEROPERT",
@@ -917,13 +917,15 @@
     "scope": "EV - Espaces Verts",
     "departement": "56",
     "date_planification": "2026-10-30",
+    "equipe": "Lassana",
     "calque": "mc",
     "code_fra": "FRA05600074",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "L"
     }
    }
   },
