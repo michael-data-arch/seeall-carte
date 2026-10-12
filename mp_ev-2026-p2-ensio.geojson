@@ -2531,7 +2531,7 @@
    },
    "properties": {
     "name": "FRA03700082 — VOUVRAY",
-    "description": "**Numéro de Work Order** : WO-204570 + WO-227849 + WO-243499\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-09-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Délai de prévenance** : 15 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau. Lieu-dit: La Gaudrelle\n**Numéro de département** : 37\n**Nom du site** : VOUVRAY\n**Coordonnées** : 47.428027, 0.793607\n[[https://www.google.com/maps?q=47.428027,0.793607|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.428027,0.793607|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 3.8 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 4.1 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.519,0.91555|Déchèterie de Neuillé le Lierre (Neuillé-le-Lierre, 13.7 km)]] — 0247296669\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.428027,0.793607,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Bailleur Délais de prévenance: 15.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 08/06/2026 M cockpit O+M *Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com *Délai de prévenance: 15 jours à l'avance *Les accès sont à solliciter dans le mail.",
+    "description": "**Numéro de Work Order** : WO-204570 + WO-227849 + WO-243499\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-09-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Délai de prévenance** : 15 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau. Lieu-dit: La Gaudrelle\n**Numéro de département** : 37\n**Nom du site** : VOUVRAY\n**Coordonnées** : 47.428027, 0.793607\n[[https://www.google.com/maps?q=47.428027,0.793607|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.428027,0.793607|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 3.8 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 4.1 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.519,0.91555|Déchèterie de Neuillé le Lierre (Neuillé-le-Lierre, 13.7 km)]] — 0247296669\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.428027,0.793607,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Bailleur Délais de prévenance: 15.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 08/06/2026 M cockpit O+M *Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com *Délai de prévenance: 15 jours à l'avance *Les accès sont à solliciter dans le mail.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -2545,13 +2545,16 @@
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Bailleur Délais de prévenance: 15.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 08/06/2026 M cockpit O+M *Pour toute intervention, merci d'envoyer le formulaire ci-dessous par mail à veolia.anc-cctvi@veolia.com *Délai de prévenance: 15 jours à l'avance *Les accès sont à solliciter dans le mail.",
     "date_planification": "2026-09-15",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-05",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700082",
     "das_prevenance": "15 jours",
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
@@ -2602,7 +2605,7 @@
    },
    "properties": {
     "name": "FRA03700090 — LIGUEIL",
-    "description": "**Numéro de Work Order** : WO-204571 + WO-227850 + WO-243503\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Délai de prévenance** : 7 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau - Lieu-dit La Grimauderie\n**Numéro de département** : 37\n**Nom du site** : LIGUEIL\n**Coordonnées** : 47.023854, 0.816513\n[[https://www.google.com/maps?q=47.023854,0.816513|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.023854,0.816513|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0809,0.774274|Déchèterie de la Chapelle Blanche Saint Martin (La Chapelle-Blanche-Saint-Martin, 7.1 km)]] — 0247599373\n[[https://www.google.com/maps?q=46.9223,0.793056|Déchèterie du Grand Pressigny (Le Grand-Pressigny, 11.4 km)]] — 0247910489\n[[https://www.google.com/maps?q=46.9814,0.673157|Déchèterie de Descartes (Descartes, 11.9 km)]] — 0640659685\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.023854,0.816513,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: - Dans la BAC/ Délais de prévenance: 7.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 01/10/2026 LC TOTEM : Les intervenants devrons présenter leur cartes professionnelles Accompagnement obligatoire 🕑 Horaires d'intervention : 8h-12h / 13h30/17h30 👷 Contact pour DAS : Service eau et assainissement 📧 eau@lochessudtouraine.com 📞 02 47 59 03 05",
+    "description": "**Numéro de Work Order** : WO-204571 + WO-227850 + WO-243503\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Délai de prévenance** : 7 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-08\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau - Lieu-dit La Grimauderie\n**Numéro de département** : 37\n**Nom du site** : LIGUEIL\n**Coordonnées** : 47.023854, 0.816513\n[[https://www.google.com/maps?q=47.023854,0.816513|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.023854,0.816513|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0809,0.774274|Déchèterie de la Chapelle Blanche Saint Martin (La Chapelle-Blanche-Saint-Martin, 7.1 km)]] — 0247599373\n[[https://www.google.com/maps?q=46.9223,0.793056|Déchèterie du Grand Pressigny (Le Grand-Pressigny, 11.4 km)]] — 0247910489\n[[https://www.google.com/maps?q=46.9814,0.673157|Déchèterie de Descartes (Descartes, 11.9 km)]] — 0640659685\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.023854,0.816513,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: - Dans la BAC/ Délais de prévenance: 7.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 01/10/2026 LC TOTEM : Les intervenants devrons présenter leur cartes professionnelles Accompagnement obligatoire 🕑 Horaires d'intervention : 8h-12h / 13h30/17h30 👷 Contact pour DAS : Service eau et assainissement 📧 eau@lochessudtouraine.com 📞 02 47 59 03 05",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -2616,13 +2619,16 @@
     "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: - Dans la BAC/ Délais de prévenance: 7.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 01/10/2026 LC TOTEM : Les intervenants devrons présenter leur cartes professionnelles Accompagnement obligatoire 🕑 Horaires d'intervention : 8h-12h / 13h30/17h30 👷 Contact pour DAS : Service eau et assainissement 📧 eau@lochessudtouraine.com 📞 02 47 59 03 05",
     "date_planification": "2026-11-30",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-08",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700090",
     "das_prevenance": "7 jours",
     "acces_autonome": "non_autonome",
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
@@ -2748,7 +2754,7 @@
    },
    "properties": {
     "name": "FRA03700115 — JOUE_LES_TOURS_BIS",
-    "description": "**Numéro de Work Order** : WO-204936 + WO-228154 + WO-243514\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 10 Rue Gutenberg\n**Numéro de département** : 37\n**Nom du site** : JOUE_LES_TOURS_BIS\n**Coordonnées** : 47.353078, 0.652748\n[[https://www.google.com/maps?q=47.353078,0.652748|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.353078,0.652748|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 10.8 km)]]\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 11.9 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 12.3 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.353078,0.652748,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non Badge: Boite à clés: Portail / Portillon: Non - CLE ABLOY POUR PORTAIL Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Cadenas à code Accès aérien(s): Digicode: Non Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: Site DIG 2; autonome",
+    "description": "**Numéro de Work Order** : WO-204936 + WO-228154 + WO-243514\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 10 Rue Gutenberg\n**Numéro de département** : 37\n**Nom du site** : JOUE_LES_TOURS_BIS\n**Coordonnées** : 47.353078, 0.652748\n[[https://www.google.com/maps?q=47.353078,0.652748|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.353078,0.652748|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 10.8 km)]]\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 11.9 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 12.3 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.353078,0.652748,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non Badge: Boite à clés: Portail / Portillon: Non - CLE ABLOY POUR PORTAIL Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Cadenas à code Accès aérien(s): Digicode: Non Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: Site DIG 2; autonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -2762,12 +2768,15 @@
     "acces_detail": "Digicode: Non Badge: Boite à clés: Portail / Portillon: Non - CLE ABLOY POUR PORTAIL Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Cadenas à code Accès aérien(s): Digicode: Non Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: Site DIG 2; autonome",
     "date_planification": "2026-11-15",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Enzo (via Michael)",
+    "declare_le": "2026-10-07",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700115",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
