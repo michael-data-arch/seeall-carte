@@ -212,6 +212,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -4.269931,
+     47.913584
+    ]
+   },
+   "properties": {
+    "name": "FRA02900214 — PLONEOUR_LANVERN",
+    "description": "**Numéro de Work Order** : WO-246666\n**État du WO** : Activé\n**Travaux à réaliser** : Prévoir un gros élagage et débroussaillage\nAccès au site Pylône très compliqué\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 29\n**Nom du site** : PLONEOUR_LANVERN\n**Coordonnées** : 47.913584, -4.269931\n[[https://www.google.com/maps?q=47.913584,-4.269931|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.913584,-4.269931|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9544,-4.16961|Déchèterie de Kerbenhir (Pluguffan, 8.7 km)]]\n[[https://www.google.com/maps?q=48.0493,-4.2095|Déchèterie de Guengat (Guengat, 15.7 km)]]\n[[https://www.google.com/maps?q=47.9227,-4.01965|Déchèterie de Fouesnant (Fouesnant, 18.7 km)]] — 0298567108\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.913584,-4.269931,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nGestionnaire Sécurité Et Services Occupants Gsso — Accès, Gestionnaire Sécurité Et Services Occupants Gsso — 229008369\nRégis Horostéguy — Accès, Gestionnaire Sécurité Et Services Occupants Gsso\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Non - Abloy Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 17/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "PLONEOUR_LANVERN",
+    "wo": "WO-246666",
+    "travaux": "Prévoir un gros élagage et débroussaillage\nAccès au site Pylône très compliqué",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "29",
+    "acces_detail": "Digicode: Badge: Boite à clés: Oui Portail / Portillon: Non - Abloy Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 17/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
+    "calque": "mc",
+    "code_fra": "FRA02900214",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "non_autonome",
+    "acces_motif": "site DIG Orange, non autonome par prudence",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -1.71456,
      48.09866
     ]
@@ -252,6 +284,37 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -1.1475,
+     48.423333
+    ]
+   },
+   "properties": {
+    "name": "FRA03500081 — LANDEAN",
+    "description": "**Numéro de Work Order** : WO-246719\n**État du WO** : Activé\n**Travaux à réaliser** : Grand site complètement envahi par la végétation, nous avons fait les accès aux équipements\n**Priorité** : P4\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : LANDEAN\n**Coordonnées** : 48.423333, -1.147500\n[[https://www.google.com/maps?q=48.423333,-1.147500|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.423333,-1.147500|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.4154,-1.15694|Déchèterie de Landéan (Landéan, 1.1 km)]]\n[[https://www.google.com/maps?q=48.4271,-1.18854|Déchèterie de Parigné (Parigné, 3.1 km)]] — 0298704017\n[[https://www.google.com/maps?q=48.4862,-1.12547|Déchèterie de Louvigné-du-Désert (Louvigné-du-Désert, 7.2 km)]] — 0299981365\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.423333,-1.147500,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nJean-marc PAVIS — Bailleur, Contact Bailleur (Migration GID part2) — 02 33 68 18 51\nSUCCESSION PAVIS JEAN-MARC — Bailleur, Contact Bailleur (Migration GID part4)\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Non - Clé Abloy OR/ABKUW Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 03/06/2026 M cockpit O+M Site en accès libre",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "LANDEAN",
+    "wo": "WO-246719",
+    "travaux": "Grand site complètement envahi par la végétation, nous avons fait les accès aux équipements",
+    "priorite": "P4",
+    "departement": "35",
+    "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: Non - Clé Abloy OR/ABKUW Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 03/06/2026 M cockpit O+M Site en accès libre",
+    "calque": "mc",
+    "code_fra": "FRA03500081",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -1.765897,
      48.035761
     ]
@@ -284,6 +347,38 @@
      "color": "#F59E0B",
      "iconClass": "Drop",
      "iconUrl": "L"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.157592,
+     48.215609
+    ]
+   },
+   "properties": {
+    "name": "FRA03500141 — QUEDILLAC",
+    "description": "**Numéro de Work Order** : WO-246767\n**État du WO** : Activé\n**Travaux à réaliser** : Traiter l'espace vert\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : QUEDILLAC\n**Coordonnées** : 48.215609, -2.157592\n[[https://www.google.com/maps?q=48.215609,-2.157592|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.215609,-2.157592|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.2022,-2.24755|Déchèterie de Loscouet sur Meu (Loscouët-sur-Meu, 6.8 km)]]\n[[https://www.google.com/maps?q=48.2969,-2.14624|Déchèterie de Caulnes (Caulnes, 9.1 km)]] — 0296887206\n[[https://www.google.com/maps?q=48.1981,-2.03323|Déchèterie de Montauban (Montauban-de-Bretagne*, 9.4 km)]] — 0299063948\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.215609,-2.157592,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nJean Claude MASSARD — Bailleur, Contact Bailleur (Migration GID part2) — 0299096662\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/08/2026 Na cockpit O+M : Site en accès libre",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "QUEDILLAC",
+    "wo": "WO-246767",
+    "travaux": "Traiter l'espace vert",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "35",
+    "acces_detail": "Digicode: Badge: Boite à clés: Oui Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 19/08/2026 Na cockpit O+M : Site en accès libre",
+    "calque": "mc",
+    "code_fra": "FRA03500141",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
     }
    }
   },
@@ -625,6 +720,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     2.587968,
+     48.046454
+    ]
+   },
+   "properties": {
+    "name": "FRA04500114 — ND_4GF_CHAPELON_ORF",
+    "description": "**Numéro de Work Order** : WO-246545\n**État du WO** : Activé\n**Travaux à réaliser** : Elagage et espace vert\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 45\n**Nom du site** : ND_4GF_CHAPELON_ORF\n**Coordonnées** : 48.046454, 2.587968\n[[https://www.google.com/maps?q=48.046454,2.587968|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.046454,2.587968|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0352,2.66458|Déchèterie de Corquilleroy (CORQUILLEROY, 5.8 km)]] — 0238873742\n[[https://www.google.com/maps?q=47.992,2.45644|Déchèterie Ouzouer-sous-bellegarde (Ouzouer-sous-Bellegarde, 11.5 km)]]\n[[https://www.google.com/maps?q=48.0809,2.43411|Déchèterie de Beaune la Rolande (Beaune-la-Rolande, 12.1 km)]] — 0238333091\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.046454,2.587968,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nMr William GUILLAUMIN — Accès — 02 38 95 60 01 — à prévenir\n**Parties liées** :\nWilliam GUILLAUMIN — Bailleur, Contact Bailleur (Migration GID part2) — 02 38 95 60 01\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 01/09/2025 M cockpit O+M: Après confirmation auprès du propriétaire Mr William GUILLAUMIN , le site est en accès libre , pas de prévenance.",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "ND_4GF_CHAPELON_ORF",
+    "wo": "WO-246545",
+    "travaux": "Elagage et espace vert",
+    "priorite": "P4",
+    "scope": "EV - Espaces Verts",
+    "departement": "45",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 01/09/2025 M cockpit O+M: Après confirmation auprès du propriétaire Mr William GUILLAUMIN , le site est en accès libre , pas de prévenance.",
+    "calque": "mc",
+    "code_fra": "FRA04500114",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.842131,
+     47.828422
+    ]
+   },
+   "properties": {
+    "name": "FRA04500139 — MAREAU_A71",
+    "description": "**Numéro de Work Order** : WO-246602\n**État du WO** : Activé\n**Travaux à réaliser** : Site envahi de ronces et végétation, provoquant la détérioration des équipements\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : accès libre\n**Délai de prévenance** : aucune\n**Provenance du repère** : airtable\n**Numéro de département** : 45\n**Nom du site** : MAREAU_A71\n**Coordonnées** : 47.828422, 1.842131\n[[https://www.google.com/maps?q=47.828422,1.842131|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.828422,1.842131|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.8291,1.76967|Déchèterie de Cléry Saint André (Cléry-Saint-André, 5.4 km)]] — 0633246412\n[[https://www.google.com/maps?q=47.8828,1.86247|Comptoir du réemploi et du recyclage de Saint-pryvé-saint-mesmin (Saint-Pryvé-Saint-Mesmin, 6.2 km)]]\n[[https://www.google.com/maps?q=47.884,1.86356|Végé'tri de Saint-pryvé-saint-mesmin (Saint-Pryvé-Saint-Mesmin, 6.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.828422,1.842131,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nMr De Feraudy Pierre Et Olivier FERME NEUVE — Bailleur, Contact Bailleur (Migration GID part2)\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: 0.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: Site en accès libre, 24h/24 et 7j/7",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "MAREAU_A71",
+    "wo": "WO-246602",
+    "travaux": "Site envahi de ronces et végétation, provoquant la détérioration des équipements",
+    "priorite": "P4",
+    "scope": "EV - Espaces Verts",
+    "departement": "45",
+    "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: 0.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: Site en accès libre, 24h/24 et 7j/7",
+    "calque": "mc",
+    "code_fra": "FRA04500139",
+    "das_prevenance": "aucune",
+    "acces_autonome": "autonome",
+    "acces_motif": "accès libre",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.492429,
      47.621524
     ]
@@ -653,6 +812,39 @@
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
      "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.190638,
+     44.527088
+    ]
+   },
+   "properties": {
+    "name": "FRA04700035 — MARMANDE_FT",
+    "description": "**Numéro de Work Order** : WO-246785\n**État du WO** : Activé\n**Travaux à réaliser** : Bonjour Michael,\n\nNous avons besoin d'un entretien EV autour du pylône sur les arbres qui viennent empiéter dessus. Nous sommes propriétaires de la parcelle 002 qui fait 600m² je ne pense que l'entretien EV sur toute la parcelle soit nécessaire mais qu'une coupe des arbres suffisamment importante soit faite pour éradiquer cette problématique pendant un moment.\n\nCordialement\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 47\n**Nom du site** : MARMANDE_FT\n**Coordonnées** : 44.527088, 0.190638\n[[https://www.google.com/maps?q=44.527088,0.190638|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=44.527088,0.190638|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=44.5316,0.188126|Déchèterie de Marmande (MARMANDE, 0.5 km)]] — 0553644768\n[[https://www.google.com/maps?q=44.533,0.092242|Déchèterie de Sainte-bazeille (Sainte-Bazeille, 7.8 km)]] — 0553644469\n[[https://www.google.com/maps?q=44.5666,0.288268|Déchèterie de Seyches (SEYCHES, 8.9 km)]] — 0553931564\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@44.527088,0.190638,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 10/02/2026 Cockpit O+M / A Site DIG 2 TOTEM Cadenas ILOQ 19190782 Cadenas ILOQ 19188434 sur le Shelter",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "MARMANDE_FT",
+    "wo": "WO-246785",
+    "travaux": "Bonjour Michael,\n\nNous avons besoin d'un entretien EV autour du pylône sur les arbres qui viennent empiéter dessus. Nous sommes propriétaires de la parcelle 002 qui fait 600m² je ne pense que l'entretien EV sur toute la parcelle soit nécessaire mais qu'une coupe des arbres suffisamment importante soit faite pour éradiquer cette problématique pendant un moment.\n\nCordialement",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "47",
+    "consignation": "Consigne Particulière",
+    "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 10/02/2026 Cockpit O+M / A Site DIG 2 TOTEM Cadenas ILOQ 19190782 Cadenas ILOQ 19188434 sur le Shelter",
+    "calque": "mc",
+    "code_fra": "FRA04700035",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "non_autonome",
+    "acces_motif": "site DIG Orange, non autonome par prudence",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
     }
    }
   },
@@ -722,6 +914,70 @@
      "color": "#F59E0B",
      "iconClass": "Drop",
      "iconUrl": "L"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.980932,
+     47.116089
+    ]
+   },
+   "properties": {
+    "name": "FRA04900185 — ST_MACAIRE_EN_MAUGES",
+    "description": "**Numéro de Work Order** : WO-246684\n**État du WO** : Activé\n**Travaux à réaliser** : EV de l'enclos de la ZT et celui du pylône\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 49\n**Nom du site** : ST_MACAIRE_EN_MAUGES\n**Coordonnées** : 47.116089, -0.980932\n[[https://www.google.com/maps?q=47.116089,-0.980932|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.116089,-0.980932|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1156,-1.01962|Déchèterie de Saint-macaire-en-mauges (Saint-Macaire-en-Mauges*, 2.9 km)]] — 0241717755\n[[https://www.google.com/maps?q=47.1079,-0.903492|Déchèterie Saint-léger-sous-cholet (Saint-Léger-sous-Cholet, 5.9 km)]] — 0244092560\n[[https://www.google.com/maps?q=47.0444,-0.919343|Déchèterie de Cholet du Cormier (Cholet, 9.2 km)]] — 0241466588\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.116089,-0.980932,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nCOMMUNE SEVREMOINE — Bailleur, Contact Bailleur (Migration GID part4) — 02 41 55 36 76 — conforme le 2025-09-26\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "ST_MACAIRE_EN_MAUGES",
+    "wo": "WO-246684",
+    "travaux": "EV de l'enclos de la ZT et celui du pylône",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique + EV - Espaces Verts",
+    "departement": "49",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
+    "calque": "mc",
+    "code_fra": "FRA04900185",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.802785,
+     47.571671
+    ]
+   },
+   "properties": {
+    "name": "FRA04900228 — BRAIN_SUR_LONGUENEE_FT",
+    "description": "**Numéro de Work Order** : WO-246772\n**État du WO** : Activé\n**Travaux à réaliser** : bonjour\nmerci de faire l'EV du site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : aucune\n**Provenance du repère** : airtable\n**Numéro de département** : 49\n**Nom du site** : BRAIN_SUR_LONGUENEE_FT\n**Coordonnées** : 47.571671, -0.802785\n[[https://www.google.com/maps?q=47.571671,-0.802785|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.571671,-0.802785|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.6169,-0.882691|Déchèterie de Chazé-sur-argos (Chazé-sur-Argos, 7.8 km)]] — 0241925272\n[[https://www.google.com/maps?q=47.6309,-0.741338|Déchèterie du Lion d'Angers (Le Lion-d'Angers*, 8.0 km)]] — 0241956975\n[[https://www.google.com/maps?q=47.5119,-0.911977|Déchèterie du Louroux-béconnais (LE LOUROUX-BECONNAIS, 10.6 km)]] — 0241774514\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.571671,-0.802785,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nAccès — conforme le 2025-12-12\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: 0.0 Accès autonome ? Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 07/05/26 D cockpit O+M: Site DIG 3, responsable à contacter en cas de soucis d'accès: guillaume.mary@orange.com",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "BRAIN_SUR_LONGUENEE_FT",
+    "wo": "WO-246772",
+    "travaux": "bonjour\nmerci de faire l'EV du site",
+    "priorite": "Travaux Programmés",
+    "scope": "EV - Espaces Verts",
+    "departement": "49",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: 0.0 Accès autonome ? Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 07/05/26 D cockpit O+M: Site DIG 3, responsable à contacter en cas de soucis d'accès: guillaume.mary@orange.com",
+    "calque": "mc",
+    "code_fra": "FRA04900228",
+    "das_prevenance": "aucune",
+    "acces_autonome": "non_autonome",
+    "acces_motif": "site DIG Orange, non autonome par prudence",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
     }
    }
   },
@@ -921,6 +1177,71 @@
      "color": "#F59E0B",
      "iconClass": "Drop",
      "iconUrl": "L"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.966718,
+     49.02295
+    ]
+   },
+   "properties": {
+    "name": "FRA06700128 — WISSEMBOURG_ALTENSTADT",
+    "description": "**Numéro de Work Order** : WO-246669\n**État du WO** : Activé\n**Travaux à réaliser** : Pouvez-vous intervenir pour le débroussaillage du site\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 67\n**Nom du site** : WISSEMBOURG_ALTENSTADT\n**Coordonnées** : 49.022950, 7.966718\n[[https://www.google.com/maps?q=49.022950,7.966718|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.022950,7.966718|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.0262,7.94512|Déchèterie de Wissembourg (WISSEMBOURG, 1.6 km)]] — 0388543954\n[[https://www.google.com/maps?q=48.9287,7.89451|Déchèterie de Soultz-sous-forets (SOULTZ-SOUS-FORETS, 11.7 km)]] — 0388806654\n[[https://www.google.com/maps?q=48.9621,8.19229|Déchèterie de Lauterbourg (Lauterbourg, 17.8 km)]] — 0388948380\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.022950,7.966718,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nCOM COM PAYS DE WISSEMBOURG — Bailleur, Contact Bailleur (Migration GID création delta 07/06-Complement) ID tiers 37962 — conforme le 2026-10-06\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 09/07/2026 M cockpit O+M Site en accès libre",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "WISSEMBOURG_ALTENSTADT",
+    "wo": "WO-246669",
+    "travaux": "Pouvez-vous intervenir pour le débroussaillage du site",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique + EV - Espaces Verts",
+    "departement": "67",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 09/07/2026 M cockpit O+M Site en accès libre",
+    "calque": "mc",
+    "code_fra": "FRA06700128",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.043994,
+     47.633753
+    ]
+   },
+   "properties": {
+    "name": "FRA06800068 — VALDIEU",
+    "description": "**Numéro de Work Order** : WO-246660\n**État du WO** : Activé\n**Travaux à réaliser** : - prevoir coupe d arbre toute autour du site gros chantier a prevoir\n- troue dans le grillage a raccorder ou a remplacer\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 10 jours\n**Provenance du repère** : airtable\n**Numéro de département** : 68\n**Nom du site** : VALDIEU\n**Coordonnées** : 47.633753, 7.043994\n[[https://www.google.com/maps?q=47.633753,7.043994|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.633753,7.043994|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.6537,7.00457|Déchèterie Fontaine (Fontaine, 3.7 km)]] — 0384901171\n[[https://www.google.com/maps?q=47.63,7.10062|Centre de valorisation de Retzwiller (Retzwiller, 4.3 km)]] — 0389883839\n[[https://www.google.com/maps?q=47.7212,6.94578|Déchèterie Fixe du Szsv (Anjoutey, 12.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.633753,7.043994,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nCOMMUNE DE VALDIEU LUTRAN — Accès — 03 89 25 02 39 — à prévenir — conforme le 2026-01-12\n**Parties liées** :\nCOMMUNE DE VALDIEU LUTRAN — Bailleur, Contact Bailleur (Migration GID part4) — 03 89 25 02 39\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY Délais de prévenance: 10.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Clé mécanique Cadenas: Commentaire d'accès: 12/01/26 D cockpit O+M: COMMUNE DE VALDIEU LUTRAN: 03 89 25 02 39 Prévenance à faire par mail: secretariat@valdieu-lutran.fr/ en copie: maire@valdieu-lutran.fr Délai de prévenance: 10j à l'avance Autonome",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "VALDIEU",
+    "wo": "WO-246660",
+    "travaux": "- prevoir coupe d arbre toute autour du site gros chantier a prevoir\n- troue dans le grillage a raccorder ou a remplacer",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique + EV - Espaces Verts",
+    "departement": "68",
+    "consignation": "Consignation",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY Délais de prévenance: 10.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Clé mécanique Cadenas: Commentaire d'accès: 12/01/26 D cockpit O+M: COMMUNE DE VALDIEU LUTRAN: 03 89 25 02 39 Prévenance à faire par mail: secretariat@valdieu-lutran.fr/ en copie: maire@valdieu-lutran.fr Délai de prévenance: 10j à l'avance Autonome",
+    "calque": "mc",
+    "code_fra": "FRA06800068",
+    "das_prevenance": "10 jours",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
     }
    }
   },
@@ -1288,6 +1609,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     2.647084,
+     48.195309
+    ]
+   },
+   "properties": {
+    "name": "FRA07700010 — BOUGLIGNY",
+    "description": "**Numéro de Work Order** : WO-246774\n**État du WO** : Activé\n**Travaux à réaliser** : demande installation d'une caméra factice (voir modèle en pj)\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P4\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 77\n**Nom du site** : BOUGLIGNY\n**Coordonnées** : 48.195309, 2.647084\n[[https://www.google.com/maps?q=48.195309,2.647084|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.195309,2.647084|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.1548,2.68528|Déchèterie Château-landon (Château-Landon, 5.3 km)]] — 0613221184\n[[https://www.google.com/maps?q=48.2791,2.68986|Déchèterie de Saint Pierre les Nemours (Saint-Pierre-lès-Nemours, 9.8 km)]]\n[[https://www.google.com/maps?q=48.1476,2.78554|Déchèterie de Dordives (DORDIVES, 11.6 km)]] — 0238921495\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.195309,2.647084,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nAutre contact — Accès — 164287056\nMairie — Accès, Mairie\n**Parties liées** :\nCOMMUNDE BOUGLIGNY — Bailleur, Contact Bailleur (Migration GID part3) — conforme le 2026-09-25\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 7J/7J - 24h/24h et jours fériés.",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "BOUGLIGNY",
+    "wo": "WO-246774",
+    "travaux": "demande installation d'une caméra factice (voir modèle en pj)",
+    "priorite": "P4",
+    "scope": "SH - Structure Haute",
+    "departement": "77",
+    "acces_detail": "Digicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 7J/7J - 24h/24h et jours fériés.",
+    "calque": "mc",
+    "code_fra": "FRA07700010",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.767688,
      48.251981
     ]
@@ -1343,6 +1696,38 @@
     "das_prevenance": "3 jours",
     "acces_autonome": "autonome",
     "acces_motif": "boîte à clés sur site",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.236445,
+     48.398273
+    ]
+   },
+   "properties": {
+    "name": "FRA07700223 — BRAY_SUR_SEINE",
+    "description": "**Numéro de Work Order** : WO-246782\n**État du WO** : Activé\n**Travaux à réaliser** : remplacer le grillage endommagé\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 77\n**Nom du site** : BRAY_SUR_SEINE\n**Coordonnées** : 48.398273, 3.236445\n[[https://www.google.com/maps?q=48.398273,3.236445|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.398273,3.236445|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.4091,3.25066|Déchèterie de Bray-sur-seine (Bray-sur-Seine, 1.6 km)]] — 0164002645\n[[https://www.google.com/maps?q=48.4817,3.29063|Déchèterie de Gouaix (Gouaix, 10.1 km)]]\n[[https://www.google.com/maps?q=48.3489,3.07517|Déchèterie de Villeneuve la Guyard (Villeneuve-la-Guyard, 13.1 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.398273,3.236445,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 26/11/2025 Na cockpit O+M: Site DIG 1, Accès en Autonomie, Full TOTEM",
+    "etat_wo": "Activé",
+    "origine": "airtable",
+    "nom_site": "BRAY_SUR_SEINE",
+    "wo": "WO-246782",
+    "travaux": "remplacer le grillage endommagé",
+    "priorite": "Travaux Programmés",
+    "scope": "EVT - Environnement Technique",
+    "departement": "77",
+    "acces_detail": "Digicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 26/11/2025 Na cockpit O+M: Site DIG 1, Accès en Autonomie, Full TOTEM",
+    "calque": "mc",
+    "code_fra": "FRA07700223",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "non_autonome",
+    "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#DC2626",
      "iconClass": "Drop"
