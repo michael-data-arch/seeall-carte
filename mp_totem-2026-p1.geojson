@@ -316,6 +316,35 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     2.368278,
+     47.995557
+    ]
+   },
+   "properties": {
+    "name": "FRA04500115 — ND_RS_NESPLOY_ORF",
+    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Numéro de département** : 45\n**Nom du site** : ND_RS_NESPLOY_ORF\n**Coordonnées** : 47.995557, 2.368278\n[[https://www.google.com/maps?q=47.995557,2.368278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.995557,2.368278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.992,2.45644|Déchèterie Ouzouer-sous-bellegarde (Ouzouer-sous-Bellegarde, 6.6 km)]]\n[[https://www.google.com/maps?q=47.937,2.28585|Déchèterie de Vitry aux Loges (Vitry-aux-Loges, 8.9 km)]] — 0238593749\n[[https://www.google.com/maps?q=48.0809,2.43411|Déchèterie de Beaune la Rolande (Beaune-la-Rolande, 10.7 km)]] — 0238333091\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.995557,2.368278,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "import",
+    "campagne": "TOTEM 2026 passage 1",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL",
+    "nom_site": "ND_RS_NESPLOY_ORF",
+    "departement": "45",
+    "scope": "EVT + SH",
+    "calque": "mp-totem-2026-p1",
+    "code_fra": "FRA04500115",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#67718A",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.3647815,
      48.1204905
     ]
