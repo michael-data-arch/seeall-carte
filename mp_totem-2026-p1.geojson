@@ -322,20 +322,24 @@
    },
    "properties": {
     "name": "FRA04500115 — ND_RS_NESPLOY_ORF",
-    "description": "**Scope de maintenance** : EVT + SH\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : import\n**Numéro de département** : 45\n**Nom du site** : ND_RS_NESPLOY_ORF\n**Coordonnées** : 47.995557, 2.368278\n[[https://www.google.com/maps?q=47.995557,2.368278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.995557,2.368278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.992,2.45644|Déchèterie Ouzouer-sous-bellegarde (Ouzouer-sous-Bellegarde, 6.6 km)]]\n[[https://www.google.com/maps?q=47.937,2.28585|Déchèterie de Vitry aux Loges (Vitry-aux-Loges, 8.9 km)]] — 0238593749\n[[https://www.google.com/maps?q=48.0809,2.43411|Déchèterie de Beaune la Rolande (Beaune-la-Rolande, 10.7 km)]] — 0238333091\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.995557,2.368278,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "origine": "import",
+    "description": "**Numéro de Work Order** : WO-205972\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-09-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Numéro de département** : 45\n**Nom du site** : ND_RS_NESPLOY_ORF\n**Coordonnées** : 47.995557, 2.368278\n[[https://www.google.com/maps?q=47.995557,2.368278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.995557,2.368278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.992,2.45644|Déchèterie Ouzouer-sous-bellegarde (Ouzouer-sous-Bellegarde, 6.6 km)]]\n[[https://www.google.com/maps?q=47.937,2.28585|Déchèterie de Vitry aux Loges (Vitry-aux-Loges, 8.9 km)]] — 0238593749\n[[https://www.google.com/maps?q=48.0809,2.43411|Déchèterie de Beaune la Rolande (Beaune-la-Rolande, 10.7 km)]] — 0238333091\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.995557,2.368278,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
+    "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
     "ressources": "SEE ALL",
     "nom_site": "ND_RS_NESPLOY_ORF",
     "departement": "45",
-    "scope": "EVT + SH",
+    "scope": "EVT - Environnement Technique + SH - Structure Haute",
+    "etat_wo": "Travaux planifiés",
+    "wo": "WO-205972",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
+    "date_planification": "2026-09-30",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA04500115",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#67718A",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -591,7 +595,7 @@
    },
    "properties": {
     "name": "FRA07600018 — ROUEN_UAP",
-    "description": "**Numéro de Work Order** : WO-205669\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-08-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Numéro de DAS** : DAS-N0241579\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-10-16\n**Fin de validité** : 2026-10-16\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 4, Rue du Champs de Mars\n**Numéro de département** : 76\n**Nom du site** : ROUEN_UAP\n**Coordonnées** : 49.436639, 1.106534\n[[https://www.google.com/maps?q=49.436639,1.106534|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.436639,1.106534|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 0.3 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 14.5 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 16.0 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.436639,1.106534,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: Magnetique(entrée de l’immeuble)\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 2.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 29/07/2026 Cockpit O+M C\nLes demandes d’accès doivent être adressées à TDF à l’adresse suivante : franck.magrez@tdf.fr. Elles seront ensuite transmises au bailleur.\nLes délais applicables sont les suivants :\n-48 h pour une intervention courante ;\n-10 jours pour des travaux programmés.\nDans l’attente de l’installation de la BAC TDF en remplacement de la BAC TOTEM, contacter M. Malmaison (Rouen Habitat) au 06 85 71 63 32 afin de récupérer les clés.\n\nResponsable du site :\nFranck Magrez\nT. 02 31 29 30 04 | M. 06 85 72 17 85\nfranck.magrez@tdf.fr",
+    "description": "**Numéro de Work Order** : WO-205669\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-08-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Numéro de DAS** : DAS-N0241579\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-10-16\n**Fin de validité** : 2026-10-16\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 4, Rue du Champs de Mars\n**Numéro de département** : 76\n**Nom du site** : ROUEN_UAP\n**Coordonnées** : 49.436639, 1.106534\n[[https://www.google.com/maps?q=49.436639,1.106534|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.436639,1.106534|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 0.3 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 14.5 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 16.0 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.436639,1.106534,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: Magnetique(entrée de l’immeuble)\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 2.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 29/07/2026 Cockpit O+M C\nLes demandes d’accès doivent être adressées à TDF à l’adresse suivante : franck.magrez@tdf.fr. Elles seront ensuite transmises au bailleur.\nLes délais applicables sont les suivants :\n-48 h pour une intervention courante ;\n-10 jours pour des travaux programmés.\nDans l’attente de l’installation de la BAC TDF en remplacement de la BAC TOTEM, contacter M. Malmaison (Rouen Habitat) au 06 85 71 63 32 afin de récupérer les clés.\n\nResponsable du site :\nFranck Magrez\nT. 02 31 29 30 04 | M. 06 85 72 17 85\nfranck.magrez@tdf.fr",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -606,7 +610,7 @@
     "date_planification": "2026-08-31",
     "nacelle": true,
     "das_numero": "DAS-N0241579",
-    "das_statut": "Suspendue",
+    "das_statut": "En attente",
     "das_debut": "2026-10-16",
     "das_fin": "2026-10-16",
     "das_provenance": "airtable",
