@@ -867,7 +867,7 @@
    },
    "properties": {
     "name": "FRA07600062 — ROUEN_LES_CHARTREUX",
-    "description": "**Numéro de Work Order** : WO-205897\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : carte CMS à retirer au préalable\n**Numéro de DAS** : DAS-N0240452\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-15\n**Fin de validité** : 2026-10-15\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 9 Rue de la Motte\n**Numéro de département** : 76\n**Nom du site** : ROUEN_LES_CHARTREUX\n**Coordonnées** : 49.433830, 1.073775\n[[https://www.google.com/maps?q=49.433830,1.073775|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.433830,1.073775|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 2.2 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 14.7 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 15.4 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.433830,1.073775,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: controle d’acces:DATA CONTROL\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: JPG 26092025\nCDS :\nSimple visite pas besoin de prévenance\nTravaux : Faire prévenance 7 jours avant vers directeur de site henrik.hiblot@orange.com\nSite mixte local Orange en CMS depuis 19/09/2025\nBien s'assurer que l'intervenant est en possession d'une carte\nCMS Carte Multi Service en cours de validité.",
+    "description": "**Numéro de Work Order** : WO-205897\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : carte CMS à retirer au préalable\n**Numéro de DAS** : DAS-N0240452\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-15\n**Fin de validité** : 2026-10-15\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-15\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 9 Rue de la Motte\n**Numéro de département** : 76\n**Nom du site** : ROUEN_LES_CHARTREUX\n**Coordonnées** : 49.433830, 1.073775\n[[https://www.google.com/maps?q=49.433830,1.073775|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.433830,1.073775|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 2.2 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 14.7 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 15.4 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.433830,1.073775,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: controle d’acces:DATA CONTROL\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: JPG 26092025\nCDS :\nSimple visite pas besoin de prévenance\nTravaux : Faire prévenance 7 jours avant vers directeur de site henrik.hiblot@orange.com\nSite mixte local Orange en CMS depuis 19/09/2025\nBien s'assurer que l'intervenant est en possession d'une carte\nCMS Carte Multi Service en cours de validité.",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -886,12 +886,15 @@
     "das_fin": "2026-10-15",
     "das_provenance": "airtable",
     "das_prevenance": "7 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-10-15",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600062",
     "acces_autonome": "non_autonome",
     "acces_motif": "carte CMS à retirer au préalable",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
