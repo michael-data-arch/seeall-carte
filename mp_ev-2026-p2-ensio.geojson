@@ -2755,28 +2755,23 @@
    },
    "properties": {
     "name": "FRA03700114 — TOURS_MALRAUX",
-    "description": "**Numéro de Work Order** : WO-204595 + WO-227872 + WO-243513\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 8 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Les Vaux\n**Numéro de département** : 37\n**Nom du site** : TOURS_MALRAUX\n**Coordonnées** : 47.343974, 0.642988\n[[https://www.google.com/maps?q=47.343974,0.642988|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.343974,0.642988|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 10.0 km)]]\n[[https://www.google.com/maps?q=47.2564,0.569535|Déchèterie de Saché (Saché, 11.2 km)]] — 0247732552\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 12.5 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.343974,0.642988,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 8.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 23/01/26 D cockpit O+M: SAS JUMA: 0247677541 Prévenance à faire par mail: superu.jouelestours.direction@systeme-u.fr/ 8j à l'avance Autonome NB: veuillez préciser le type d’intervention dans",
-    "origine": "airtable",
+    "description": "**Scope de maintenance** : EV\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Délai de prévenance** : 8 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : import\n**Adresse du site** : Les Vaux\n**Numéro de département** : 37\n**Nom du site** : TOURS_MALRAUX\n**Coordonnées** : 47.343974, 0.642988\n[[https://www.google.com/maps?q=47.343974,0.642988|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.343974,0.642988|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 10.0 km)]]\n[[https://www.google.com/maps?q=47.2564,0.569535|Déchèterie de Saché (Saché, 11.2 km)]] — 0247732552\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 12.5 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.343974,0.642988,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "import",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
     "ressources": "SEE ALL (ST ENSIO)",
     "nom_site": "TOURS_MALRAUX",
     "adresse": "Les Vaux",
     "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204595 + WO-227872 + WO-243513",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 8.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 23/01/26 D cockpit O+M: SAS JUMA: 0247677541 Prévenance à faire par mail: superu.jouelestours.direction@systeme-u.fr/ 8j à l'avance Autonome NB: veuillez préciser le type d’intervention dans",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
+    "scope": "EV",
     "etat_terrain": "fait",
     "declare_par": "Enzo (via Michael)",
     "declare_le": "2026-10-05",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700114",
     "das_prevenance": "8 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#15803D",
      "iconClass": "Ball"
@@ -2867,32 +2862,28 @@
    },
    "properties": {
     "name": "FRA03700118 — TAUXIGNY",
-    "description": "**Numéro de Work Order** : WO-204575 + WO-227853 + WO-243516\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0246752\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-10-29\n**Fin de validité** : 2026-10-30\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : CHAT D EAU SUR LA D83\n**Numéro de département** : 37\n**Nom du site** : TAUXIGNY\n**Coordonnées** : 47.219448, 0.843606\n[[https://www.google.com/maps?q=47.219448,0.843606|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.219448,0.843606|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 4.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 6.6 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 9.5 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.219448,0.843606,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
-    "origine": "airtable",
+    "description": "**Scope de maintenance** : EV\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0246752\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-10-29\n**Fin de validité** : 2026-10-30\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : import\n**Adresse du site** : CHAT D EAU SUR LA D83\n**Numéro de département** : 37\n**Nom du site** : TAUXIGNY\n**Coordonnées** : 47.219448, 0.843606\n[[https://www.google.com/maps?q=47.219448,0.843606|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.219448,0.843606|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 4.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 6.6 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 9.5 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.219448,0.843606,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
+    "origine": "import",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
     "ressources": "SEE ALL (ST ENSIO)",
     "nom_site": "TAUXIGNY",
     "adresse": "CHAT D EAU SUR LA D83",
     "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204575 + WO-227853 + WO-243516",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
+    "scope": "EV",
     "das_numero": "DAS-N0246752",
     "das_statut": "Suspendue",
     "das_debut": "2026-10-29",
     "das_fin": "2026-10-30",
     "das_provenance": "airtable",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
     "das_prevenance": "15 jours",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700118",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#67718A",
      "iconClass": "Ball"
     }
    }
@@ -2966,6 +2957,40 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#F59E0B",
+     "iconClass": "Ball"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.488497,
+     47.4957
+    ]
+   },
+   "properties": {
+    "name": "FRA03700128 — SONZAY",
+    "description": "**Scope de maintenance** : EV\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Délai de prévenance** : non renseigné par TOTEM\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-09-12\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : import\n**Adresse du site** : Lieu-dit Parc Chauveau Parcelle 36 section H\n**Numéro de département** : 37\n**Nom du site** : SONZAY\n**Coordonnées** : 47.495700, 0.488497\n[[https://www.google.com/maps?q=47.495700,0.488497|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.495700,0.488497|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.4369,0.518596|Déchèterie de Pernay (Pernay, 6.9 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 10.1 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.5977,0.519769|Déchèterie de Saint Paterne Racan (Saint-Paterne-Racan, 11.6 km)]] — 0247293950\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.495700,0.488497,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "import",
+    "campagne": "Espaces Verts 2026 P2-ENSIO",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL (ST ENSIO)",
+    "nom_site": "SONZAY",
+    "adresse": "Lieu-dit Parc Chauveau Parcelle 36 section H",
+    "departement": "37",
+    "scope": "EV",
+    "etat_terrain": "fait",
+    "declare_par": "Enzo (via Michael)",
+    "declare_le": "2026-09-12",
+    "calque": "mp-ev-2026-p2-ensio",
+    "code_fra": "FRA03700128",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
