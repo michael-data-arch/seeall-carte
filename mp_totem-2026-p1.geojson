@@ -1759,7 +1759,7 @@
    },
    "properties": {
     "name": "FRA07600316 — ST_ETIENNE_DU_ROUVRAY_OUEST",
-    "description": "**Numéro de Work Order** : WO-205934\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-15\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : boîte à clés hors service\n**Numéro de DAS** : DAS-N0240451\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-15\n**Fin de validité** : 2026-10-15\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Résidence\n**Numéro de département** : 76\n**Nom du site** : ST_ETIENNE_DU_ROUVRAY_OUEST\n**Coordonnées** : 49.387138, 1.089211\n[[https://www.google.com/maps?q=49.387138,1.089211|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.387138,1.089211|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 5.4 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 10.7 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 11.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.387138,1.089211,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge: Badge\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur - Clé mécanique\nCadenas:\n\nCommentaire d'accès: 31/10/25 P cockpit O+M\n\nLa prévention doit être effectuée sept jours avant l’intervention auprès de M. Gaylord au 06 08 74 93 55.\nVeuillez préciser l’heure exacte afin de permettre l’ouverture de l’accès au site.\nBac inutilisable.\nPerte récurrente d'échelle\nA chaque intervention, il faut ramener sa propre échelle",
+    "description": "**Numéro de Work Order** : WO-205934\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-15\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : boîte à clés hors service\n**Numéro de DAS** : DAS-N0240451\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-15\n**Fin de validité** : 2026-10-15\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-16\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Résidence\n**Numéro de département** : 76\n**Nom du site** : ST_ETIENNE_DU_ROUVRAY_OUEST\n**Coordonnées** : 49.387138, 1.089211\n[[https://www.google.com/maps?q=49.387138,1.089211|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.387138,1.089211|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 5.4 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 10.7 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 11.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.387138,1.089211,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge: Badge\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur - Clé mécanique\nCadenas:\n\nCommentaire d'accès: 31/10/25 P cockpit O+M\n\nLa prévention doit être effectuée sept jours avant l’intervention auprès de M. Gaylord au 06 08 74 93 55.\nVeuillez préciser l’heure exacte afin de permettre l’ouverture de l’accès au site.\nBac inutilisable.\nPerte récurrente d'échelle\nA chaque intervention, il faut ramener sa propre échelle",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -1779,12 +1779,15 @@
     "das_fin": "2026-10-15",
     "das_provenance": "airtable",
     "das_prevenance": "7 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-10-16",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600316",
     "acces_autonome": "non_autonome",
     "acces_motif": "boîte à clés hors service",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
