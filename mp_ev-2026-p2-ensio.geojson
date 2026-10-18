@@ -688,40 +688,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.796237,
-     46.876574
-    ]
-   },
-   "properties": {
-    "name": "FRA01800067 — CHARLY",
-    "description": "**Numéro de Work Order** : WO-204842 + WO-228063 + WO-243349\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Terrain nu. Lieu-dit Pierry. axe N76\n**Numéro de département** : 18\n**Nom du site** : CHARLY\n**Coordonnées** : 46.876574, 2.796237\n[[https://www.google.com/maps?q=46.876574,2.796237|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.876574,2.796237|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8954,2.73069|Déchèterie de Blet (Blet, 5.4 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.9288,2.78774|Point d'Apport Volontaire d'Ourouer les Bourdelins (Ourouer-les-Bourdelins, 5.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8407,2.9343|Déchèterie de Sancoins (Sancoins, 11.2 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.876574,2.796237,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: - ABLOY Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 16/10/2025 M cockpit O+M: Après confirmation auprès du propriétaire STÉ FOB (0632557943), le site est en accès libre, pas de prévenance",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "CHARLY",
-    "adresse": "Terrain nu. Lieu-dit Pierry. axe N76",
-    "departement": "18",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204842 + WO-228063 + WO-243349",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: - ABLOY Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 16/10/2025 M cockpit O+M: Après confirmation auprès du propriétaire STÉ FOB (0632557943), le site est en accès libre, pas de prévenance",
-    "date_planification": "2026-10-31",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA01800067",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.531175,
      46.580216
     ]
@@ -1425,7 +1391,7 @@
    },
    "properties": {
     "name": "FRA03600036 — TENDU",
-    "description": "**Numéro de Work Order** : WO-204553 + WO-227832 + WO-243451\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit l Aveneau\n**Numéro de département** : 36\n**Nom du site** : TENDU\n**Coordonnées** : 46.654167, 1.553333\n[[https://www.google.com/maps?q=46.654167,1.553333|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.654167,1.553333|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6405,1.39515|Déchèterie de Rivarennes (Rivarennes, 12.2 km)]] — 0254479733\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 18.1 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.4344,1.37265|Déchèterie de la Châtre Langlin (La Châtre-Langlin, 28.1 km)]] — 0254248451\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.654167,1.553333,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: - ABLOY Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 05/03/26 D cockpit O+M: COMMUNE DE TENDU: 02 54 24 13 56 Maintenance courante: aucune prévenance nécessaire Gros travaux: prévenir 15 jours à l’avance à l’adresse suivante: mairie.tendu@wanadoo.fr Autonome",
+    "description": "**Numéro de Work Order** : WO-204553 + WO-227832 + WO-243451\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0248779\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-20\n**Fin de validité** : 2026-10-21\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit l Aveneau\n**Numéro de département** : 36\n**Nom du site** : TENDU\n**Coordonnées** : 46.654167, 1.553333\n[[https://www.google.com/maps?q=46.654167,1.553333|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.654167,1.553333|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6405,1.39515|Déchèterie de Rivarennes (Rivarennes, 12.2 km)]] — 0254479733\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 18.1 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.4344,1.37265|Déchèterie de la Châtre Langlin (La Châtre-Langlin, 28.1 km)]] — 0254248451\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.654167,1.553333,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - ABLOY\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/03/26 D cockpit O+M:\nCOMMUNE DE TENDU: 02 54 24 13 56\nMaintenance courante: aucune prévenance nécessaire\nGros travaux: prévenir 15 jours à l’avance à l’adresse suivante: mairie.tendu@wanadoo.fr\nAutonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1437,9 +1403,14 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-204553 + WO-227832 + WO-243451",
     "consignation": "Consigne Particulière",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: - ABLOY Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 05/03/26 D cockpit O+M: COMMUNE DE TENDU: 02 54 24 13 56 Maintenance courante: aucune prévenance nécessaire Gros travaux: prévenir 15 jours à l’avance à l’adresse suivante: mairie.tendu@wanadoo.fr Autonome",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: - ABLOY\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/03/26 D cockpit O+M:\nCOMMUNE DE TENDU: 02 54 24 13 56\nMaintenance courante: aucune prévenance nécessaire\nGros travaux: prévenir 15 jours à l’avance à l’adresse suivante: mairie.tendu@wanadoo.fr\nAutonome",
     "date_planification": "2026-10-31",
     "nacelle": true,
+    "das_numero": "DAS-N0248779",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-10-20",
+    "das_fin": "2026-10-21",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600036",
     "das_prevenance": "non renseigné par TOTEM",
@@ -2227,44 +2198,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.70278,
-     47.378601
-    ]
-   },
-   "properties": {
-    "name": "FRA03700025 — TOURS_BEAUJARDIN",
-    "description": "**Numéro de Work Order** : WO-204579 + WO-227857 + WO-243475\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-09-12\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Rue de Guesde\n**Numéro de département** : 37\n**Nom du site** : TOURS_BEAUJARDIN\n**Coordonnées** : 47.378601, 0.702780\n[[https://www.google.com/maps?q=47.378601,0.702780|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.378601,0.702780|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 7.4 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 11.3 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 12.2 km)]] — 0247255550\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.378601,0.702780,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique - DANS LA BAC Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: Digicode :Mécanique - Boite Cle :Dans pilier du portail Abloy OR/ABLIT/DANS LA BAC/BAC contenant les clefs du portail Ok le 14/04/2021 et abloy pour ouverture Shelter Ok le 14/04/2021/SO/ABLOY BAC electronique_AAEET / MAJ DU 17/03/2022 : Le Guichet Exploitation Maintenance RMP Extérieur/RMP nous informe que le site n’est pas géré par SNCF RESEAU - Remonté auprès d’Orange.",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "TOURS_BEAUJARDIN",
-    "adresse": "Rue de Guesde",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204579 + WO-227857 + WO-243475",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique - DANS LA BAC Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: Digicode :Mécanique - Boite Cle :Dans pilier du portail Abloy OR/ABLIT/DANS LA BAC/BAC contenant les clefs du portail Ok le 14/04/2021 et abloy pour ouverture Shelter Ok le 14/04/2021/SO/ABLOY BAC electronique_AAEET / MAJ DU 17/03/2022 : Le Guichet Exploitation Maintenance RMP Extérieur/RMP nous informe que le site n’est pas géré par SNCF RESEAU - Remonté auprès d’Orange.",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-09-12",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700025",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.677625,
      47.430643
     ]
@@ -2376,44 +2309,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.973107,
-     47.596673
-    ]
-   },
-   "properties": {
-    "name": "FRA03700056 — SAUNAY_TGV",
-    "description": "**Numéro de Work Order** : WO-204583 + WO-227861 + WO-243485\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-09-09\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau Lieu-dit Martinet\n**Numéro de département** : 37\n**Nom du site** : SAUNAY_TGV\n**Coordonnées** : 47.596673, 0.973107\n[[https://www.google.com/maps?q=47.596673,0.973107|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.596673,0.973107|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.593,0.888063|Déchèterie de Château Renault (Château-Renault, 6.4 km)]] — 0247400676\n[[https://www.google.com/maps?q=47.519,0.91555|Déchèterie de Neuillé le Lierre (Neuillé-le-Lierre, 9.7 km)]] — 0247296669\n[[https://www.google.com/maps?q=47.6926,1.01144|Déchèterie de Saint-amand-longpré (Saint-Amand-Longpré, 11.0 km)]] — 0674403875\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.596673,0.973107,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique - Clés dans BAC ABLOY pour l’ouverture de l’enceinte château d’eau. Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 03/06/2026 Na cockpit O+M : Site en accès libre",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "SAUNAY_TGV",
-    "adresse": "Château d'eau Lieu-dit Martinet",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204583 + WO-227861 + WO-243485",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique - Clés dans BAC ABLOY pour l’ouverture de l’enceinte château d’eau. Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 03/06/2026 Na cockpit O+M : Site en accès libre",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-09-09",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700056",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.315682,
      47.018775
     ]
@@ -2441,81 +2336,6 @@
     "acces_motif": "la fiche déclare l'accès autonome",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.198123,
-     47.289589
-    ]
-   },
-   "properties": {
-    "name": "FRA03700065 — BENAIS",
-    "description": "**Numéro de Work Order** : WO-204927 + WO-228145 + WO-243490\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit\n**Numéro de département** : 37\n**Nom du site** : BENAIS\n**Coordonnées** : 47.289589, 0.198123\n[[https://www.google.com/maps?q=47.289589,0.198123|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.289589,0.198123|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2736,0.160955|Déchèterie de Bourgueuil (BOURGUEIL, 3.3 km)]] — 0247978975\n[[https://www.google.com/maps?q=47.33,0.232111|Déchèterie de Benais (BENAIS, 5.2 km)]]\n[[https://www.google.com/maps?q=47.2851,0.309461|Déchèterie de Saint Patrice (Saint-Patrice, 8.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.289589,0.198123,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - dans la BAC clé du portail d’accés enceinte Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: libre accès",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "BENAIS",
-    "adresse": "Lieu-dit",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204927 + WO-228145 + WO-243490",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - dans la BAC clé du portail d’accés enceinte Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: libre accès",
-    "date_planification": "2026-11-15",
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-05",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700065",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.158541,
-     47.276215
-    ]
-   },
-   "properties": {
-    "name": "FRA03700066 — BOURGUEIL",
-    "description": "**Numéro de Work Order** : WO-204928 + WO-228146 + WO-243491\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 7 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit\n**Numéro de département** : 37\n**Nom du site** : BOURGUEIL\n**Coordonnées** : 47.276215, 0.158541\n[[https://www.google.com/maps?q=47.276215,0.158541|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.276215,0.158541|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2736,0.160955|Déchèterie de Bourgueuil (BOURGUEIL, 0.3 km)]] — 0247978975\n[[https://www.google.com/maps?q=47.2114,0.162276|Déchèterie de Savigny en Véron (Savigny-en-Véron, 7.2 km)]] — 0247589419\n[[https://www.google.com/maps?q=47.33,0.232111|Déchèterie de Benais (BENAIS, 8.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.276215,0.158541,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Non Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: COCKPIT O+M Ta du 26/05/2026 Présence de gens du voyage sur le site. Avant toute intervention, contacter Mme DOLIVET au 07 77 88 75 39, une semaine à l’avance, afin d’obtenir l’accès au site (à titre d’information)",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "BOURGUEIL",
-    "adresse": "Lieu-dit",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204928 + WO-228146 + WO-243491",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Non Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: COCKPIT O+M Ta du 26/05/2026 Présence de gens du voyage sur le site. Avant toute intervention, contacter Mme DOLIVET au 07 77 88 75 39, une semaine à l’avance, afin d’obtenir l’accès au site (à titre d’information)",
-    "date_planification": "2026-11-15",
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-05",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700066",
-    "das_prevenance": "7 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
@@ -2709,83 +2529,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.642988,
-     47.343974
-    ]
-   },
-   "properties": {
-    "name": "FRA03700114 — TOURS_MALRAUX",
-    "description": "**Numéro de Work Order** : WO-204595 + WO-227872 + WO-243513\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 8 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Les Vaux\n**Numéro de département** : 37\n**Nom du site** : TOURS_MALRAUX\n**Coordonnées** : 47.343974, 0.642988\n[[https://www.google.com/maps?q=47.343974,0.642988|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.343974,0.642988|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 10.0 km)]]\n[[https://www.google.com/maps?q=47.2564,0.569535|Déchèterie de Saché (Saché, 11.2 km)]] — 0247732552\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 12.5 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.343974,0.642988,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 8.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 23/01/26 D cockpit O+M: SAS JUMA: 0247677541 Prévenance à faire par mail: superu.jouelestours.direction@systeme-u.fr/ 8j à l'avance Autonome NB: veuillez préciser le type d’intervention dans",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "TOURS_MALRAUX",
-    "adresse": "Les Vaux",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204595 + WO-227872 + WO-243513",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 8.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 23/01/26 D cockpit O+M: SAS JUMA: 0247677541 Prévenance à faire par mail: superu.jouelestours.direction@systeme-u.fr/ 8j à l'avance Autonome NB: veuillez préciser le type d’intervention dans",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-05",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700114",
-    "das_prevenance": "8 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.652748,
-     47.353078
-    ]
-   },
-   "properties": {
-    "name": "FRA03700115 — JOUE_LES_TOURS_BIS",
-    "description": "**Numéro de Work Order** : WO-204936 + WO-228154 + WO-243514\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 10 Rue Gutenberg\n**Numéro de département** : 37\n**Nom du site** : JOUE_LES_TOURS_BIS\n**Coordonnées** : 47.353078, 0.652748\n[[https://www.google.com/maps?q=47.353078,0.652748|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.353078,0.652748|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2575,0.680278|Déchèterie Ramage Sorigny (Sorigny, 10.8 km)]]\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 11.9 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 12.3 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.353078,0.652748,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non Badge: Boite à clés: Portail / Portillon: Non - CLE ABLOY POUR PORTAIL Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Cadenas à code Accès aérien(s): Digicode: Non Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: Site DIG 2; autonome",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "JOUE_LES_TOURS_BIS",
-    "adresse": "10 Rue Gutenberg",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204936 + WO-228154 + WO-243514",
-    "acces_detail": "Digicode: Non Badge: Boite à clés: Portail / Portillon: Non - CLE ABLOY POUR PORTAIL Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Cadenas à code Accès aérien(s): Digicode: Non Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: Site DIG 2; autonome",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-07",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700115",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.664751,
      47.321536
     ]
@@ -2862,45 +2605,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.320843,
-     47.442499
-    ]
-   },
-   "properties": {
-    "name": "FRA03700126 — HOMMES_FT",
-    "description": "**Numéro de Work Order** : WO-204598 + WO-227875 + WO-243518\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : aucune\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 2 Rue de la Gare\n**Numéro de département** : 37\n**Nom du site** : HOMMES_FT\n**Coordonnées** : 47.442499, 0.320843\n[[https://www.google.com/maps?q=47.442499,0.320843|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.442499,0.320843|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.4571,0.307844|Déchèterie de Savigné sur Lathan (Savigné sur lathan, 1.9 km)]]\n[[https://www.google.com/maps?q=47.5114,0.284467|Déchèterie de Saint Laurent de Lin (Saint-Laurent-de-Lin, 8.1 km)]] — 0247246543\n[[https://www.google.com/maps?q=47.33,0.232111|Déchèterie de Benais (BENAIS, 14.2 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.442499,0.320843,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - CLEF POLUX CVL Délais de prévenance: 0.0 Accès autonome ? Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 07/05/26 D cockpit O+M: Site DIG 6, responsable à contacter en cas de soucis d'accès: yannick.lemorvan@orange.com en copie sylvain.berrueco@orange.com",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "HOMMES_FT",
-    "adresse": "2 Rue de la Gare",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204598 + WO-227875 + WO-243518",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - CLEF POLUX CVL Délais de prévenance: 0.0 Accès autonome ? Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 07/05/26 D cockpit O+M: Site DIG 6, responsable à contacter en cas de soucis d'accès: yannick.lemorvan@orange.com en copie sylvain.berrueco@orange.com",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-05",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700126",
-    "das_prevenance": "aucune",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.780054,
      46.916605
     ]
@@ -2926,45 +2630,6 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.676743,
-     47.572276
-    ]
-   },
-   "properties": {
-    "name": "FRA03700129 — BEAUMONT",
-    "description": "**Numéro de Work Order** : WO-204600 + WO-227877 + WO-243521\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 2 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit la brindeliniere\n**Numéro de département** : 37\n**Nom du site** : BEAUMONT\n**Coordonnées** : 47.572276, 0.676743\n[[https://www.google.com/maps?q=47.572276,0.676743|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.572276,0.676743|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 8.6 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.5977,0.519769|Déchèterie de Saint Paterne Racan (Saint-Paterne-Racan, 12.1 km)]] — 0247293950\n[[https://www.google.com/maps?q=47.6715,0.758223|Déchèterie des Hermites (Les Hermites, 12.6 km)]] — 0247563341\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.572276,0.676743,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 04/12/2025 Na cockpit O+M: COMMUNE DE BEAUMONT LOUESTAULT: 02 47 24 42 15 Pour toute intervention, merci d'envoyer un mail à accueil@beaumont-louestault.fr Délai de prévenance: 2 jours à l'avance Accès : toutes les informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance (bailleur lui-même n’est pas certain de l’autonomie du technicien).",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "BEAUMONT",
-    "adresse": "Lieu-dit la brindeliniere",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204600 + WO-227877 + WO-243521",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 04/12/2025 Na cockpit O+M: COMMUNE DE BEAUMONT LOUESTAULT: 02 47 24 42 15 Pour toute intervention, merci d'envoyer un mail à accueil@beaumont-louestault.fr Délai de prévenance: 2 jours à l'avance Accès : toutes les informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance (bailleur lui-même n’est pas certain de l’autonomie du technicien).",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-05",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700129",
-    "das_prevenance": "2 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
@@ -3119,45 +2784,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.493627,
-     47.339764
-    ]
-   },
-   "properties": {
-    "name": "FRA03700155 — VILLANDRY",
-    "description": "**Numéro de Work Order** : WO-204605 + WO-227882 + WO-243536\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Tuilerie\n**Numéro de département** : 37\n**Nom du site** : VILLANDRY\n**Coordonnées** : 47.339764, 0.493627\n[[https://www.google.com/maps?q=47.339764,0.493627|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.339764,0.493627|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.348,0.469324|Déchèterie de Cinq Mars la Pile (Cinq-Mars-la-Pile, 2.0 km)]] — 0247965686\n[[https://www.google.com/maps?q=47.2729,0.476824|Déchèterie d'Azay le Rideau (Azay-le-Rideau, 7.5 km)]] — 0247454388\n[[https://www.google.com/maps?q=47.2564,0.569535|Déchèterie de Saché (Saché, 10.9 km)]] — 0247732552\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.339764,0.493627,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "VILLANDRY",
-    "adresse": "Lieu-dit La Tuilerie",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204605 + WO-227882 + WO-243536",
-    "consignation": "Consigne Particulière",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-05",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700155",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.659996,
      47.158052
     ]
@@ -3193,43 +2819,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.133507,
-     47.291074
-    ]
-   },
-   "properties": {
-    "name": "FRA03700190 — ST_NICOLAS_DE_BOURGUEIL",
-    "description": "**Numéro de Work Order** : WO-204953 + WO-228171 + WO-243554\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 2 LES FAUX G Rue de la Martellière\n**Numéro de département** : 37\n**Nom du site** : ST_NICOLAS_DE_BOURGUEIL\n**Coordonnées** : 47.291074, 0.133507\n[[https://www.google.com/maps?q=47.291074,0.133507|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.291074,0.133507|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2736,0.160955|Déchèterie de Bourgueuil (BOURGUEIL, 2.8 km)]] — 0247978975\n[[https://www.google.com/maps?q=47.2948,0.0295244|Déchèterie d'Allonnes (Allonnes, 7.9 km)]] — 0241520155\n[[https://www.google.com/maps?q=47.33,0.232111|Déchèterie de Benais (BENAIS, 8.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.291074,0.133507,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 01/04/26 D cockpit O+M: RENOU Claude: 0608820341 Il est pas nécessaire de prévenir Autonome",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "ST_NICOLAS_DE_BOURGUEIL",
-    "adresse": "2 LES FAUX G Rue de la Martellière",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204953 + WO-228171 + WO-243554",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 01/04/26 D cockpit O+M: RENOU Claude: 0608820341 Il est pas nécessaire de prévenir Autonome",
-    "date_planification": "2026-11-15",
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-05",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700190",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.271798,
      47.480479
     ]
@@ -3255,44 +2844,6 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.307183,
-     47.479635
-    ]
-   },
-   "properties": {
-    "name": "FRA03700210 — ND_RS_COURCELLES_DE_TOURAINE_ORF",
-    "description": "**Numéro de Work Order** : WO-204955 + WO-228173 + WO-243557\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-10-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 11 Rue du Stade\n**Numéro de département** : 37\n**Nom du site** : ND_RS_COURCELLES_DE_TOURAINE_ORF\n**Coordonnées** : 47.479635, 0.307183\n[[https://www.google.com/maps?q=47.479635,0.307183|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.479635,0.307183|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.4571,0.307844|Déchèterie de Savigné sur Lathan (Savigné sur lathan, 2.5 km)]]\n[[https://www.google.com/maps?q=47.5114,0.284467|Déchèterie de Saint Laurent de Lin (Saint-Laurent-de-Lin, 3.9 km)]] — 0247246543\n[[https://www.google.com/maps?q=47.5181,0.127229|Déchèterie de Noyant (Noyant*, 14.2 km)]] — 0241895114\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.479635,0.307183,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 17/10/2025 Na cockpit O+M: Pour toute intervention, merci d'envoyer un mail à secretariat@courcellesdetouraine.fr et de contacter 02.47.24.63.56. Délai de prévenance: 1 jour à l'avance Horaires d'intervention : Tous les jours ouvrés entre 8h et 17h sauf le mercredi Accès en autonomie: le site est ouvert les jours où les agents technique de la mairie travaille. NB: En cas d’intervention d’urgence le numéro d’astreinte de la mairie est le 06.13.54.20.60",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "ND_RS_COURCELLES_DE_TOURAINE_ORF",
-    "adresse": "11 Rue du Stade",
-    "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204955 + WO-228173 + WO-243557",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 17/10/2025 Na cockpit O+M: Pour toute intervention, merci d'envoyer un mail à secretariat@courcellesdetouraine.fr et de contacter 02.47.24.63.56. Délai de prévenance: 1 jour à l'avance Horaires d'intervention : Tous les jours ouvrés entre 8h et 17h sauf le mercredi Accès en autonomie: le site est ouvert les jours où les agents technique de la mairie travaille. NB: En cas d’intervention d’urgence le numéro d’astreinte de la mairie est le 06.13.54.20.60",
-    "date_planification": "2026-11-15",
-    "etat_terrain": "fait",
-    "declare_par": "Enzo (via Michael)",
-    "declare_le": "2026-10-05",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700210",
-    "das_prevenance": "1 jour",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
