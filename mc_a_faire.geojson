@@ -851,28 +851,19 @@
    },
    "properties": {
     "name": "FRA04100023 — SAINT_OUEN_ZI",
-    "description": "**Numéro de Work Order** : WO-235539\n**État du WO** : Activé\n**Travaux à réaliser** : Action\n\n_ Réaliser les travaux\n_ Refaire le DIUO\n\nReprendre le DIUO, mais il est nécessaire que les travaux pour les escaliers soient réalisés\n\nModifications des accès.\n\n• Travaux de maintenance ZT, l’accès se fera rue Jacques Cœur (Portillon installé à ce jour sans escalier) CRI en PJ.\nPour information : DP en cours pour l’installation d’un escalier.\n\n• Accès nacelle par la Rue Bergson\nPour information : MAJ DIUO en cours.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-16\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 2 jours\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-10-19\n**Provenance du repère** : manuel\n**Numéro de département** : 41\n**Nom du site** : SAINT_OUEN_ZI\n**Coordonnées** : 47.805272, 1.082545\n[[https://www.google.com/maps?q=47.805272,1.082545|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.805272,1.082545|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.8224,1.07877|Déchèterie de Saint-ouen (Saint-Ouen, 1.9 km)]] — 0254732566\n[[https://www.google.com/maps?q=47.7756,1.07245|Déchèterie de Vendôme (Vendôme, 3.4 km)]]\n[[https://www.google.com/maps?q=47.781,1.02944|Déchèterie de Naveil (Naveil, 4.8 km)]] — 0254732539\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.805272,1.082545,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 20/05/26 cockpit O+M Ta mise en place d’une chaîne abus et d’un cadenas à code 4114 sur le portillon ZT -Travaux de maintenance ZT, l’accès se fera rue Jacques Cœur (Portillon installé à ce jour sans escalier) Pas besoin de prévenance -Accès nacelle par la Rue Bergson *Uniquement pour une intervention par nacelle, merci de contacter et demander l’autorisation à - Valentin Vioux : 0698572444 - Alex Common : 0665269266 contact@amtps.fr",
-    "origine": "manuel",
+    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-10-19\n**Provenance du repère** : ensio\n**Nom du site** : SAINT_OUEN_ZI\n**Coordonnées** : 47.805272, 1.082545\n[[https://www.google.com/maps?q=47.805272,1.082545|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.805272,1.082545|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.8224,1.07877|Déchèterie de Saint-ouen (Saint-Ouen, 1.9 km)]] — 0254732566\n[[https://www.google.com/maps?q=47.7756,1.07245|Déchèterie de Vendôme (Vendôme, 3.4 km)]]\n[[https://www.google.com/maps?q=47.781,1.02944|Déchèterie de Naveil (Naveil, 4.8 km)]] — 0254732539\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.805272,1.082545,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
     "declare_par": "Michael",
     "declare_le": "2026-10-19",
     "nom_site": "SAINT_OUEN_ZI",
-    "etat_wo": "Activé",
-    "wo": "WO-235539",
-    "travaux": "Action\n\n_ Réaliser les travaux\n_ Refaire le DIUO\n\nReprendre le DIUO, mais il est nécessaire que les travaux pour les escaliers soient réalisés\n\nModifications des accès.\n\n• Travaux de maintenance ZT, l’accès se fera rue Jacques Cœur (Portillon installé à ce jour sans escalier) CRI en PJ.\nPour information : DP en cours pour l’installation d’un escalier.\n\n• Accès nacelle par la Rue Bergson\nPour information : MAJ DIUO en cours.",
-    "priorite": "Travaux Programmés",
-    "scope": "EVT - Environnement Technique",
-    "departement": "41",
-    "consignation": "Consigne Particulière",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: 2.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 20/05/26 cockpit O+M Ta mise en place d’une chaîne abus et d’un cadenas à code 4114 sur le portillon ZT -Travaux de maintenance ZT, l’accès se fera rue Jacques Cœur (Portillon installé à ce jour sans escalier) Pas besoin de prévenance -Accès nacelle par la Rue Bergson *Uniquement pour une intervention par nacelle, merci de contacter et demander l’autorisation à - Valentin Vioux : 0698572444 - Alex Common : 0665269266 contact@amtps.fr",
-    "date_planification": "2026-11-16",
     "calque": "mc",
     "code_fra": "FRA04100023",
-    "das_prevenance": "2 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
     "_umap_options": {
-     "color": "#DC2626",
-     "iconClass": "Drop"
+     "color": "#67718A",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
     }
    }
   },
