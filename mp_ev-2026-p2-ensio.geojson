@@ -866,40 +866,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.925582,
-     46.835426
-    ]
-   },
-   "properties": {
-    "name": "FRA01800089 — SANCOINS",
-    "description": "**Numéro de Work Order** : WO-204845 + WO-228066 + WO-243364\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Rue du cimetiere\n**Numéro de département** : 18\n**Nom du site** : SANCOINS\n**Coordonnées** : 46.835426, 2.925582\n[[https://www.google.com/maps?q=46.835426,2.925582|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.835426,2.925582|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8407,2.9343|Déchèterie de Sancoins (Sancoins, 0.9 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.9614,2.95989|Déchèterie de la Guerche (La Guerche-sur-l'Aubois, 14.2 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.9288,2.78774|Point d'Apport Volontaire d'Ourouer les Bourdelins (Ourouer-les-Bourdelins, 14.7 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.835426,2.925582,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Badge Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "SANCOINS",
-    "adresse": "Rue du cimetiere",
-    "departement": "18",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204845 + WO-228066 + WO-243364",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Badge Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
-    "date_planification": "2026-10-31",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA01800089",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.428064,
      47.480819
     ]

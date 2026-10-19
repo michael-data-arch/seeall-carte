@@ -239,41 +239,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.9407491,
-     47.7106001
-    ]
-   },
-   "properties": {
-    "name": "FRA04500103 — LA_FERTE_ST_AUBIN",
-    "description": "**Numéro de Work Order** : WO-205981\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-08-28\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Délai de prévenance** : 10 jours\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Eglise St Aubin RN20\n**Numéro de département** : 45\n**Nom du site** : LA_FERTE_ST_AUBIN\n**Coordonnées** : 47.710600, 1.940749\n[[https://www.google.com/maps?q=47.710600,1.940749|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.710600,1.940749|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.725,1.92873|Déchèterie de la Ferté Saint Aubin (La Ferté-Saint-Aubin, 1.8 km)]] — 0254885828\n[[https://www.google.com/maps?q=47.703,2.02452|Déchèterie de Ménestreau en Villette (Ménestreau-en-Villette, 6.3 km)]] — 0254885828\n[[https://www.google.com/maps?q=47.7666,2.03542|Décheterie de Marcilly en Villette (Marcilly-en-Villette, 9.4 km)]] — 0254885828\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.710600,1.940749,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Digicode :SO Nécessité nacelle ok le 26/01/2022 Badge: SO Boite à clés: Non Portail / Portillon: Non Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé bailleur - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 16/10/25 D cockpit O+M: COMMUNE DE LA FERTE ST AUBIN: 02 38 64 83 81 Mode de prévenance par mail: st@lafertesaintaubin.fr/ 10j à l'avance Accès: non autonomie; les clés sont à récupérer directement à la mairie, située au 12 Allée de la Chavannière, 45240 La Ferté-Saint-Aubin, aux horaires suivants: du lundi au vendredi : de 08h à 12h et de 13h à 16h30 NB: la mairie est fermée au public les mardis et jeudis après-midi",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LA_FERTE_ST_AUBIN",
-    "adresse": "Eglise St Aubin RN20",
-    "departement": "45",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205981",
-    "acces_detail": "Digicode: Digicode :SO Nécessité nacelle ok le 26/01/2022 Badge: SO Boite à clés: Non Portail / Portillon: Non Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé bailleur - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 16/10/25 D cockpit O+M: COMMUNE DE LA FERTE ST AUBIN: 02 38 64 83 81 Mode de prévenance par mail: st@lafertesaintaubin.fr/ 10j à l'avance Accès: non autonomie; les clés sont à récupérer directement à la mairie, située au 12 Allée de la Chavannière, 45240 La Ferté-Saint-Aubin, aux horaires suivants: du lundi au vendredi : de 08h à 12h et de 13h à 16h30 NB: la mairie est fermée au public les mardis et jeudis après-midi",
-    "date_planification": "2026-08-28",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA04500103",
-    "das_prevenance": "10 jours",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "la fiche déclare l'accès non autonome",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.4389626,
      47.9804542
     ]
@@ -1675,7 +1640,7 @@
    },
    "properties": {
     "name": "FRA07600299 — YERVILLE",
-    "description": "**Numéro de Work Order** : WO-205620\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Numéro de DAS** : DAS-N0247241\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-03\n**Fin de validité** : 2026-11-03\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau\n**Numéro de département** : 76\n**Nom du site** : YERVILLE\n**Coordonnées** : 49.668888, 0.917592\n[[https://www.google.com/maps?q=49.668888,0.917592|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.668888,0.917592|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6659,0.879327|Déchèterie Yerville (Yerville, 2.8 km)]] — 0235962263\n[[https://www.google.com/maps?q=49.6032,0.843458|Déchèterie de Croix-mare (Croix-Mare, 9.0 km)]] — 0607907785\n[[https://www.google.com/maps?q=49.6999,1.07605|Déchèterie Vassonville (Vassonville, 11.9 km)]] — 0235793070\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.668888,0.917592,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: RA 3/6/25\nConditions d'accès :\n- Pour toute intervention, remplir le formulaire et l’envoyer au fermier.\n\nContact bailleur :\n- Nom : M. GENDRIN\n- Téléphone : 02 32 70 14 46\n- Email : samuel.gendrin@siaepa-yerville.fr\nBoite Cle :La boite à clé se situe dans un plot béton sur la gauche du portail d’entrée /Vide / Attention, le site longe la N29 où circulent beaucoup de véhicules. Se garer sur la place de parking devant le château d’eau, ou à l’intérieur de la parcelle. Pour accéder au site, prévenir kevin.parent@veolia.com / antenniste76.eau-no@veolia.com\n\nAttention, le site longe la N29 où circulent beaucoup de véhicules. Se garer sur la place de parking devant le château d’eau, ou à l’intérieur de la parcelle. Pour accéder au site, prévenir Monsieur Nicolas LERIBLE (06 20 82 50 84) et demander les clefs à Monsieur Christophe SENECAL (06 20 30 68 85) - Effectuer la demande auprès de Samuel.Gendrin@siaepa-yerville.fr en priorité 1 semaine avant l’intervention",
+    "description": "**Numéro de Work Order** : WO-205620\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Numéro de DAS** : DAS-N0247241\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-11-03\n**Fin de validité** : 2026-11-03\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau\n**Numéro de département** : 76\n**Nom du site** : YERVILLE\n**Coordonnées** : 49.668888, 0.917592\n[[https://www.google.com/maps?q=49.668888,0.917592|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.668888,0.917592|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6659,0.879327|Déchèterie Yerville (Yerville, 2.8 km)]] — 0235962263\n[[https://www.google.com/maps?q=49.6032,0.843458|Déchèterie de Croix-mare (Croix-Mare, 9.0 km)]] — 0607907785\n[[https://www.google.com/maps?q=49.6999,1.07605|Déchèterie Vassonville (Vassonville, 11.9 km)]] — 0235793070\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.668888,0.917592,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: RA 3/6/25\nConditions d'accès :\n- Pour toute intervention, remplir le formulaire et l’envoyer au fermier.\n\nContact bailleur :\n- Nom : M. GENDRIN\n- Téléphone : 02 32 70 14 46\n- Email : samuel.gendrin@siaepa-yerville.fr\nBoite Cle :La boite à clé se situe dans un plot béton sur la gauche du portail d’entrée /Vide / Attention, le site longe la N29 où circulent beaucoup de véhicules. Se garer sur la place de parking devant le château d’eau, ou à l’intérieur de la parcelle. Pour accéder au site, prévenir kevin.parent@veolia.com / antenniste76.eau-no@veolia.com\n\nAttention, le site longe la N29 où circulent beaucoup de véhicules. Se garer sur la place de parking devant le château d’eau, ou à l’intérieur de la parcelle. Pour accéder au site, prévenir Monsieur Nicolas LERIBLE (06 20 82 50 84) et demander les clefs à Monsieur Christophe SENECAL (06 20 30 68 85) - Effectuer la demande auprès de Samuel.Gendrin@siaepa-yerville.fr en priorité 1 semaine avant l’intervention",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -1690,7 +1655,7 @@
     "date_planification": "2026-11-30",
     "nacelle": true,
     "das_numero": "DAS-N0247241",
-    "das_statut": "Vérification",
+    "das_statut": "Suspendue",
     "das_debut": "2026-11-03",
     "das_fin": "2026-11-03",
     "das_provenance": "airtable",
@@ -1779,44 +1744,6 @@
     "acces_motif": "la fiche déclare l'accès autonome",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.384634,
-     49.920612
-    ]
-   },
-   "properties": {
-    "name": "FRA07600426 — ND_RS_AVESNES_EN_VAL_ORF",
-    "description": "**Numéro de Work Order** : WO-206017\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 7 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-31\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Hameau Regnetuit\n**Numéro de département** : 76\n**Nom du site** : ND_RS_AVESNES_EN_VAL_ORF\n**Coordonnées** : 49.920612, 1.384634\n[[https://www.google.com/maps?q=49.920612,1.384634|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.920612,1.384634|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.8988,1.25214|Déchèterie Envermeu (Envermeu, 9.8 km)]] — 0235832920\n[[https://www.google.com/maps?q=50.0069,1.32567|Point Av Saint-pierre-en-val et Criel sur Mer (Saint-Pierre-en-Val, 10.5 km)]]\n[[https://www.google.com/maps?q=49.9656,1.22679|Déchèterie Saint Martin en Campagne (Saint-Martin-en-Campagne*, 12.4 km)]] — 0235831757\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.920612,1.384634,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Accès aérien(s): Commentaire d'accès: COCKPIT O+M 12/02/2026 : Jo Prévenance obligatoire à faire : - M. et Mme THERON - Téléphone : 06 72 50 22 00 - Adresse mail : theronfrancis@neuf.fr - Il est obligatoire de prévenir une semaine à l’avance par mail et appel téléphonique simultanément. - Les techniciens sont autonomes sur site. - Accès Portillon ZT : cadenas iloQ S/N 19182617",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ND_RS_AVESNES_EN_VAL_ORF",
-    "adresse": "Hameau Regnetuit",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-206017",
-    "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Accès aérien(s): Commentaire d'accès: COCKPIT O+M 12/02/2026 : Jo Prévenance obligatoire à faire : - M. et Mme THERON - Téléphone : 06 72 50 22 00 - Adresse mail : theronfrancis@neuf.fr - Il est obligatoire de prévenir une semaine à l’avance par mail et appel téléphonique simultanément. - Les techniciens sont autonomes sur site. - Accès Portillon ZT : cadenas iloQ S/N 19182617",
-    "date_planification": "2026-10-30",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-08-31",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600426",
-    "das_prevenance": "7 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
