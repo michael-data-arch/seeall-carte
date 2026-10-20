@@ -439,6 +439,46 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     2.468536,
+     46.726637
+    ]
+   },
+   "properties": {
+    "name": "FRA01800046 — ORVAL_NEW",
+    "description": "**Numéro de Work Order** : WO-205436 + WO-228495 + WO-243340\n**État du WO** : CR Refusé\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-06-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-09-08\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : ZA de la Couture\n**Numéro de département** : 18\n**Nom du site** : ORVAL_NEW\n**Coordonnées** : 46.726637, 2.468536\n[[https://www.google.com/maps?q=46.726637,2.468536|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.726637,2.468536|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7048,2.51821|Déchèterie de Drevant (Drevant, 4.5 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.8056,2.36593|Déchèterie de Vallenay (Vallenay, 11.8 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.7324,2.66935|Déchèterie de Charenton (Charenton-du-Cher, 15.3 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.726637,2.468536,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: Commentaire moyen d'accès:CLES ABLOY POUR PORTILLON ET PORTE ANTI MONTEE OK LE 09/03/2023 / En ho// abloy pour portillon et anti montée cadenas 1818v ok le 12/04/2022 01/03/2024 : TDF 2024 M ne pas accorder d'intervention entre le 08/07/2024 et le 09/07/2024/ si maintenance curative prévenir JP",
+    "origine": "airtable",
+    "campagne": "Espaces Verts 2026 P2-ENSIO",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL (ST ENSIO)",
+    "nom_site": "ORVAL_NEW",
+    "adresse": "ZA de la Couture",
+    "departement": "18",
+    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
+    "etat_wo": "CR Refusé",
+    "wo": "WO-205436 + WO-228495 + WO-243340",
+    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: Commentaire moyen d'accès:CLES ABLOY POUR PORTILLON ET PORTE ANTI MONTEE OK LE 09/03/2023 / En ho// abloy pour portillon et anti montée cadenas 1818v ok le 12/04/2022 01/03/2024 : TDF 2024 M ne pas accorder d'intervention entre le 08/07/2024 et le 09/07/2024/ si maintenance curative prévenir JP",
+    "date_planification": "2026-06-30",
+    "equipe": "Manu",
+    "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-09-08",
+    "calque": "mp-ev-2026-p2-ensio",
+    "code_fra": "FRA01800046",
+    "acces_autonome": "autonome",
+    "acces_motif": "clé électronique ILOQ ou ABLOY",
+    "_umap_options": {
+     "color": "#15803D",
+     "iconClass": "Ball",
+     "iconUrl": "M"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      2.609445,
      47.113672
     ]
@@ -836,7 +876,7 @@
    },
    "properties": {
     "name": "FRA01800084 — AVORD",
-    "description": "**Numéro de Work Order** : WO-204415 + WO-227767 + WO-243359\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Délai de prévenance** : 5 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau d AVORD\n**Numéro de département** : 18\n**Nom du site** : AVORD\n**Coordonnées** : 47.036985, 2.646860\n[[https://www.google.com/maps?q=47.036985,2.646860|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.036985,2.646860|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0364,2.65862|Déchèterie d'Avord (Avord, 0.9 km)]]\n[[https://www.google.com/maps?q=47.0839,2.71416|Déchèterie de Baugy (Baugy*, 7.3 km)]]\n[[https://www.google.com/maps?q=46.9958,2.80865|Déchèterie de Nérondes (Nérondes, 13.1 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.036985,2.646860,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 5.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 28/05/2026 Na cockpit O+M : Commune d'AVORD: 0248691016 Pour toute intervention, merci d'envoyer un mail à services-techniques@ville-avord.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès : toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
+    "description": "**Numéro de Work Order** : WO-204415 + WO-227767 + WO-243359\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Délai de prévenance** : 1 jour\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau d AVORD\n**Numéro de département** : 18\n**Nom du site** : AVORD\n**Coordonnées** : 47.036985, 2.646860\n[[https://www.google.com/maps?q=47.036985,2.646860|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.036985,2.646860|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0364,2.65862|Déchèterie d'Avord (Avord, 0.9 km)]]\n[[https://www.google.com/maps?q=47.0839,2.71416|Déchèterie de Baugy (Baugy*, 7.3 km)]]\n[[https://www.google.com/maps?q=46.9958,2.80865|Déchèterie de Nérondes (Nérondes, 13.1 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.036985,2.646860,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: RE-CDS EXPERIS 19/10/2026: Prévenance par mail : avec le CPR ou une carte pro services-techniques@villes-avord.fr accueil@ville-avord.fr par téléphone: 0671589422 0648388832 0248691916 28/05/2026 Na cockpit O+M : Commune d'AVORD: 0248691016 Pour toute intervention, merci d'envoyer un mail à services-techniques@ville-avord.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès : toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -847,12 +887,12 @@
     "scope": "EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts",
     "etat_wo": "Travaux planifiés",
     "wo": "WO-204415 + WO-227767 + WO-243359",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 5.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 28/05/2026 Na cockpit O+M : Commune d'AVORD: 0248691016 Pour toute intervention, merci d'envoyer un mail à services-techniques@ville-avord.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès : toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: RE-CDS EXPERIS 19/10/2026: Prévenance par mail : avec le CPR ou une carte pro services-techniques@villes-avord.fr accueil@ville-avord.fr par téléphone: 0671589422 0648388832 0248691916 28/05/2026 Na cockpit O+M : Commune d'AVORD: 0248691016 Pour toute intervention, merci d'envoyer un mail à services-techniques@ville-avord.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès : toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
     "date_planification": "2026-10-31",
     "nacelle": true,
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800084",
-    "das_prevenance": "5 jours",
+    "das_prevenance": "1 jour",
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
