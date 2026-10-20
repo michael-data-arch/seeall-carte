@@ -1578,7 +1578,7 @@
    },
    "properties": {
     "name": "FRA07600296 — BUCHY",
-    "description": "**Numéro de Work Order** : WO-205300\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute\n**Date de planification** : 2026-10-20\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0240544\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-20\n**Fin de validité** : 2026-10-20\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau. Chemin communal de BLAINVILLE\n**Numéro de département** : 76\n**Nom du site** : BUCHY\n**Coordonnées** : 49.590084, 1.363869\n[[https://www.google.com/maps?q=49.590084,1.363869|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.590084,1.363869|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5912,1.34958|Déchèterie Buchy (Buchy*, 1.0 km)]] — 0235231883\n[[https://www.google.com/maps?q=49.6861,1.35221|Decheterie Maucomble (Maucomble, 10.7 km)]] — 0235934372\n[[https://www.google.com/maps?q=49.635,1.54528|Déchèterie de Serqueux (Serqueux, 14.0 km)]] — 0235909264\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.590084,1.363869,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - Bailleur dans boite à clé\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-205300\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute\n**Date de planification** : 2026-10-20\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0240544\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-20\n**Fin de validité** : 2026-10-20\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-20\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau. Chemin communal de BLAINVILLE\n**Numéro de département** : 76\n**Nom du site** : BUCHY\n**Coordonnées** : 49.590084, 1.363869\n[[https://www.google.com/maps?q=49.590084,1.363869|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.590084,1.363869|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5912,1.34958|Déchèterie Buchy (Buchy*, 1.0 km)]] — 0235231883\n[[https://www.google.com/maps?q=49.6861,1.35221|Decheterie Maucomble (Maucomble, 10.7 km)]] — 0235934372\n[[https://www.google.com/maps?q=49.635,1.54528|Déchèterie de Serqueux (Serqueux, 14.0 km)]] — 0235909264\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.590084,1.363869,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - Bailleur dans boite à clé\nDélais de prévenance: 15.0\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -1598,12 +1598,15 @@
     "das_fin": "2026-10-20",
     "das_provenance": "airtable",
     "das_prevenance": "15 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-10-20",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600296",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
