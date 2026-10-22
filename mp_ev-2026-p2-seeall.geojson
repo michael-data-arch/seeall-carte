@@ -145,74 +145,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.905826,
-     46.405546
-    ]
-   },
-   "properties": {
-    "name": "FRA00300035 — LE_PIN",
-    "description": "**Numéro de Work Order** : WO-225925 + WO-244501\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LES EAUX\n**Numéro de département** : 3\n**Nom du site** : LE_PIN\n**Coordonnées** : 46.405546, 3.905826\n[[https://www.google.com/maps?q=46.405546,3.905826|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.405546,3.905826|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 10.1 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.4811,4.01045|Déchèterie de Digoin (Digoin, 11.6 km)]] — 0648643683\n[[https://www.google.com/maps?q=46.4573,4.10688|Déchèterie de Paray-le-monial (Paray-le-Monial, 16.4 km)]] — 0385819458\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.405546,3.905826,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 03/11/2025 M cockpit O+M: *Pour les petits travaux de maintenances: pas de prévenance, accès en autonomie *Pour les gros travaux de maintenances avec des engins: merci de prévenir le propriétaire Mr Pascal COMBALUZIER soit au 06 71 78 91 56 soit par mail à pascal.combaluzier@orange.fr, 2 jours à l'avance",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LE_PIN",
-    "adresse": "Lieu-dit LES EAUX",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225925 + WO-244501",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 03/11/2025 M cockpit O+M: *Pour les petits travaux de maintenances: pas de prévenance, accès en autonomie *Pour les gros travaux de maintenances avec des engins: merci de prévenir le propriétaire Mr Pascal COMBALUZIER soit au 06 71 78 91 56 soit par mail à pascal.combaluzier@orange.fr, 2 jours à l'avance",
-    "date_planification": "2026-09-17",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300035",
-    "acces_autonome": "autonome",
-    "acces_motif": "la fiche déclare l'accès autonome",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.929722,
-     46.357778
-    ]
-   },
-   "properties": {
-    "name": "FRA00300036 — ZB2_ML_LUNEAU",
-    "description": "**Numéro de Work Order** : WO-225289 + WO-244502\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Les Dupuis\n**Numéro de département** : 3\n**Nom du site** : ZB2_ML_LUNEAU\n**Coordonnées** : 46.357778, 3.929722\n[[https://www.google.com/maps?q=46.357778,3.929722|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.357778,3.929722|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 10.5 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.2727,4.03581|Déchèterie de Marcigny (MARCIGNY, 12.5 km)]] — 0385252209\n[[https://www.google.com/maps?q=46.4811,4.01045|Déchèterie de Digoin (Digoin, 15.0 km)]] — 0648643683\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.357778,3.929722,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Clé électronique ABLOY Cadenas: Commentaire d'accès: 21/05/2026 M cockpit O+M Site en accès libre sans prévenance",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ZB2_ML_LUNEAU",
-    "adresse": "Lieu-dit Les Dupuis",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225289 + WO-244502",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Clé électronique ABLOY Cadenas: Commentaire d'accès: 21/05/2026 M cockpit O+M Site en accès libre sans prévenance",
-    "date_planification": "2026-09-17",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300036",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.473306,
      46.275674
     ]
@@ -666,40 +598,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.538602,
-     46.535824
-    ]
-   },
-   "properties": {
-    "name": "FRA00300070 — THIEL_SUR_ACOLIN_N79",
-    "description": "**Numéro de Work Order** : WO-224823 + WO-244523\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-23\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : BOIS LA FORTE TERRE Les Gendelins\n**Numéro de département** : 3\n**Nom du site** : THIEL_SUR_ACOLIN_N79\n**Coordonnées** : 46.535824, 3.538602\n[[https://www.google.com/maps?q=46.535824,3.538602|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.535824,3.538602|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6242,3.73687|Déchèterie de Bourbon-lancy (nouvelle) (Bourbon-Lancy, 18.1 km)]] — 0385893018\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 25.4 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 27.6 km)]] — 0685017218\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.535824,3.538602,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 28/08/2026 M cockpit O+M : Site en accès libre",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "THIEL_SUR_ACOLIN_N79",
-    "adresse": "BOIS LA FORTE TERRE Les Gendelins",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224823 + WO-244523",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 28/08/2026 M cockpit O+M : Site en accès libre",
-    "date_planification": "2026-09-23",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300070",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.65105,
      46.06162
     ]
@@ -793,41 +691,6 @@
     "das_prevenance": "aucune",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.696289,
-     46.503313
-    ]
-   },
-   "properties": {
-    "name": "FRA00300079 — DOMPIERRE_SUR_BESBRE",
-    "description": "**Numéro de Work Order** : WO-224309 + WO-244527\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : CHEMIN VICINAL ORDINAIRE N 4 D\n**Numéro de département** : 3\n**Nom du site** : DOMPIERRE_SUR_BESBRE\n**Coordonnées** : 46.503313, 3.696289\n[[https://www.google.com/maps?q=46.503313,3.696289|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.503313,3.696289|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6242,3.73687|Déchèterie de Bourbon-lancy (nouvelle) (Bourbon-Lancy, 13.8 km)]] — 0385893018\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 17.7 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.4811,4.01045|Déchèterie de Digoin (Digoin, 24.2 km)]] — 0648643683\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.503313,3.696289,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non Badge: Boite à clés: Portail / Portillon: Non - Socotel Auvergne Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : DIG 2, Full TOTEM",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "DOMPIERRE_SUR_BESBRE",
-    "adresse": "CHEMIN VICINAL ORDINAIRE N 4 D",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224309 + WO-244527",
-    "scope": "EV - Espaces Verts",
-    "consignation": "Consigne Particulière",
-    "acces_detail": "Digicode: Non Badge: Boite à clés: Portail / Portillon: Non - Socotel Auvergne Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : DIG 2, Full TOTEM",
-    "date_planification": "2026-09-24",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300079",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Default"
@@ -1014,40 +877,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.493889,
-     46.525823
-    ]
-   },
-   "properties": {
-    "name": "FRA00300091 — MONTBEUGNY",
-    "description": "**Numéro de Work Order** : WO-224022 + WO-244536\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-28\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Route du Chapeau (EDF) Stade municipal de Montbeugny\n**Numéro de département** : 3\n**Nom du site** : MONTBEUGNY\n**Coordonnées** : 46.525823, 3.493889\n[[https://www.google.com/maps?q=46.525823,3.493889|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.525823,3.493889|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6242,3.73687|Déchèterie de Bourbon-lancy (nouvelle) (Bourbon-Lancy, 21.6 km)]] — 0385893018\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 22.2 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 25.5 km)]] — 0685017218\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.525823,3.493889,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Clé dans BAC ABLOY ORANGE Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "MONTBEUGNY",
-    "adresse": "Route du Chapeau (EDF) Stade municipal de Montbeugny",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224022 + WO-244536",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Clé dans BAC ABLOY ORANGE Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
-    "date_planification": "2026-09-28",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300091",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.392907,
      46.371557
     ]
@@ -1104,40 +933,6 @@
     "nacelle": true,
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300102",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.821744,
-     46.488103
-    ]
-   },
-   "properties": {
-    "name": "FRA00300114 — PIERREFITTE",
-    "description": "**Numéro de Work Order** : WO-224553 + WO-244552\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-02\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : le Bois Longeot\n**Numéro de département** : 3\n**Nom du site** : PIERREFITTE\n**Coordonnées** : 46.488103, 3.821744\n[[https://www.google.com/maps?q=46.488103,3.821744|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.488103,3.821744|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 14.5 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.4811,4.01045|Déchèterie de Digoin (Digoin, 14.5 km)]] — 0648643683\n[[https://www.google.com/maps?q=46.6242,3.73687|Déchèterie de Bourbon-lancy (nouvelle) (Bourbon-Lancy, 16.5 km)]] — 0385893018\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.488103,3.821744,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 16/09/2026 Na cockpit O+M : Site en accès libre",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "PIERREFITTE",
-    "adresse": "le Bois Longeot",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224553 + WO-244552",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 16/09/2026 Na cockpit O+M : Site en accès libre",
-    "date_planification": "2026-10-02",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300114",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
@@ -1314,41 +1109,6 @@
     "code_fra": "FRA00300126",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.625,
-     46.51
-    ]
-   },
-   "properties": {
-    "name": "FRA00300147 — LE_PAL",
-    "description": "**Numéro de Work Order** : WO-224023 + WO-244563\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-06\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Délai de prévenance** : 2 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Tuilerie Parc d attractions D181\n**Numéro de département** : 3\n**Nom du site** : LE_PAL\n**Coordonnées** : 46.510000, 3.625000\n[[https://www.google.com/maps?q=46.510000,3.625000|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.510000,3.625000|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6242,3.73687|Déchèterie de Bourbon-lancy (nouvelle) (Bourbon-Lancy, 15.3 km)]] — 0385893018\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 21.1 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 28.3 km)]] — 0685017218\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.510000,3.625000,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: A DEMANDER A MR CAMBON Badge: Boite à clés: Portail / Portillon: Bailleur Délais de prévenance: 2.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Clé bailleur Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 27/07/2026 Na cockpit O+M : À titre informatif, merci d'envoyer un mail à brunocambon@lepal.com , 48 heures à l'avance Accès en autonomie : boîte à clés présente sur site. Contact: - CAMBON Bruno: 📧brunocambon@lepal.com 📞0681582781",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LE_PAL",
-    "adresse": "Lieu-dit La Tuilerie Parc d attractions D181",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224023 + WO-244563",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: A DEMANDER A MR CAMBON Badge: Boite à clés: Portail / Portillon: Bailleur Délais de prévenance: 2.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Clé bailleur Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 27/07/2026 Na cockpit O+M : À titre informatif, merci d'envoyer un mail à brunocambon@lepal.com , 48 heures à l'avance Accès en autonomie : boîte à clés présente sur site. Contact: - CAMBON Bruno: 📧brunocambon@lepal.com 📞0681582781",
-    "date_planification": "2026-10-06",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300147",
-    "das_prevenance": "2 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "boîte à clés sur site",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Default"
