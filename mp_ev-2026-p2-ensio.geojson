@@ -156,7 +156,7 @@
    },
    "properties": {
     "name": "FRA01800025 — FUSSY",
-    "description": "**Numéro de Work Order** : WO-204420 + WO-227772 + WO-243326\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 4 W Route de Paris\n**Numéro de département** : 18\n**Nom du site** : FUSSY\n**Coordonnées** : 47.148503, 2.428366\n[[https://www.google.com/maps?q=47.148503,2.428366|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.148503,2.428366|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2163,2.40139|Déchèterie de Saint Martin d'Auxigny (Saint-Martin-d'Auxigny, 7.8 km)]] — 0248645502\n[[https://www.google.com/maps?q=47.1919,2.60233|Déchèterie de Rians (Rians, 14.0 km)]] — 0248644335\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 14.2 km)]] — 0800897730\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.148503,2.428366,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: PORTILLON (DENY B23117 DON9118P) Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-204420 + WO-227772 + WO-243326\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-22\n**Équipe affectée** : Manu\n**Semaine ISO d'intervention** : 37\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 4 W Route de Paris\n**Numéro de département** : 18\n**Nom du site** : FUSSY\n**Coordonnées** : 47.148503, 2.428366\n[[https://www.google.com/maps?q=47.148503,2.428366|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.148503,2.428366|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2163,2.40139|Déchèterie de Saint Martin d'Auxigny (Saint-Martin-d'Auxigny, 7.8 km)]] — 0248645502\n[[https://www.google.com/maps?q=47.1919,2.60233|Déchèterie de Rians (Rians, 14.0 km)]] — 0248644335\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 14.2 km)]] — 0800897730\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.148503,2.428366,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: PORTILLON (DENY B23117 DON9118P) Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -172,12 +172,15 @@
     "nacelle": true,
     "equipe": "Manu",
     "semaine": 37,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-22",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800025",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball",
      "iconUrl": "M"
     }
