@@ -713,7 +713,7 @@
    },
    "properties": {
     "name": "FRA01800073 — SAVIGNY_EN_SEPTAINE",
-    "description": "**Numéro de Work Order** : WO-204431 + WO-227783 + WO-243353\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : aucune\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Ferme sur les LES COUDRES à OSMOY\n**Numéro de département** : 18\n**Nom du site** : SAVIGNY_EN_SEPTAINE\n**Coordonnées** : 47.053702, 2.531361\n[[https://www.google.com/maps?q=47.053702,2.531361|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.053702,2.531361|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0364,2.65862|Déchèterie d'Avord (Avord, 9.8 km)]]\n[[https://www.google.com/maps?q=47.0839,2.71416|Déchèterie de Baugy (Baugy*, 14.2 km)]]\n[[https://www.google.com/maps?q=47.1919,2.60233|Déchèterie de Rians (Rians, 16.3 km)]] — 0248644335\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.053702,2.531361,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 0.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: Commentaire moyen d'accès: - Digicode :Non - Boite Cle :SO SO/SO/SO/SO/Clés abloy pour portillon et Shelter + cadenas anti montée ok le 06/04/2022 / LIBRE ACCES / abloy shelter et anti montée ok le 06/04/2022",
+    "description": "**Numéro de Work Order** : WO-204431 + WO-227783 + WO-243353\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : aucune\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-22\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Ferme sur les LES COUDRES à OSMOY\n**Numéro de département** : 18\n**Nom du site** : SAVIGNY_EN_SEPTAINE\n**Coordonnées** : 47.053702, 2.531361\n[[https://www.google.com/maps?q=47.053702,2.531361|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.053702,2.531361|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0364,2.65862|Déchèterie d'Avord (Avord, 9.8 km)]]\n[[https://www.google.com/maps?q=47.0839,2.71416|Déchèterie de Baugy (Baugy*, 14.2 km)]]\n[[https://www.google.com/maps?q=47.1919,2.60233|Déchèterie de Rians (Rians, 16.3 km)]] — 0248644335\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.053702,2.531361,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 0.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: Commentaire moyen d'accès: - Digicode :Non - Boite Cle :SO SO/SO/SO/SO/Clés abloy pour portillon et Shelter + cadenas anti montée ok le 06/04/2022 / LIBRE ACCES / abloy shelter et anti montée ok le 06/04/2022",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -726,13 +726,16 @@
     "wo": "WO-204431 + WO-227783 + WO-243353",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 0.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: Commentaire moyen d'accès: - Digicode :Non - Boite Cle :SO SO/SO/SO/SO/Clés abloy pour portillon et Shelter + cadenas anti montée ok le 06/04/2022 / LIBRE ACCES / abloy shelter et anti montée ok le 06/04/2022",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-22",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800073",
     "das_prevenance": "aucune",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
