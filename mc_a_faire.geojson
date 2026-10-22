@@ -1040,7 +1040,7 @@
    },
    "properties": {
     "name": "FRA03700189 — HUISMES",
-    "description": "**Numéro de Work Order** : WO-246363\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser l'espace vert. Le site est démonté mais est propriété TOTEM\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-19\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Provenance du repère** : airtable\n**Numéro de département** : 37\n**Nom du site** : HUISMES\n**Coordonnées** : 47.231871, 0.253709\n[[https://www.google.com/maps?q=47.231871,0.253709|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231871,0.253709|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1788,0.250095|Déchèterie de Chinon (Chinon, 5.9 km)]] — 0247980656\n[[https://www.google.com/maps?q=47.2851,0.309461|Déchèterie de Saint Patrice (Saint-Patrice, 7.3 km)]]\n[[https://www.google.com/maps?q=47.2114,0.162276|Déchèterie de Savigny en Véron (Savigny-en-Véron, 7.3 km)]] — 0247589419\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231871,0.253709,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1H1e1ayilgwyDVL3FxpNmFragTPQSxRYY/view|BAILLEUR-TOTEM-035-XDS1-20260910134800-00003.pdf]]\n[[https://drive.google.com/drive/folders/1xVbIpSIYFJzNj4Db2SHcyYtEof5WEK3e|📁 Toutes les pièces (1)]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: - SERRURE HS Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/12/2025 Na cockpit O+M: Site démonté : veuillez trouver ci-dessous le document relatif au démontage.",
+    "description": "**Numéro de Work Order** : WO-246363\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser l'espace vert. Le site est démonté mais est propriété TOTEM\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Date de planification** : 2026-10-19\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Sous-traitant affecté** : Enzo\n**Provenance du repère** : airtable\n**Numéro de département** : 37\n**Nom du site** : HUISMES\n**Coordonnées** : 47.231871, 0.253709\n[[https://www.google.com/maps?q=47.231871,0.253709|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.231871,0.253709|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1788,0.250095|Déchèterie de Chinon (Chinon, 5.9 km)]] — 0247980656\n[[https://www.google.com/maps?q=47.2851,0.309461|Déchèterie de Saint Patrice (Saint-Patrice, 7.3 km)]]\n[[https://www.google.com/maps?q=47.2114,0.162276|Déchèterie de Savigny en Véron (Savigny-en-Véron, 7.3 km)]] — 0247589419\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.231871,0.253709,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1H1e1ayilgwyDVL3FxpNmFragTPQSxRYY/view|BAILLEUR-TOTEM-035-XDS1-20260910134800-00003.pdf]]\n[[https://drive.google.com/drive/folders/1xVbIpSIYFJzNj4Db2SHcyYtEof5WEK3e|📁 Toutes les pièces (1)]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: - SERRURE HS Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/12/2025 Na cockpit O+M: Site démonté : veuillez trouver ci-dessous le document relatif au démontage.",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "HUISMES",
@@ -1052,13 +1052,15 @@
     "consignation": "Consigne Particulière",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: - SERRURE HS Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 12/12/2025 Na cockpit O+M: Site démonté : veuillez trouver ci-dessous le document relatif au démontage.",
     "date_planification": "2026-10-19",
+    "sous_traitant": "Enzo",
     "calque": "mc",
     "code_fra": "FRA03700189",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "E"
     }
    }
   },
