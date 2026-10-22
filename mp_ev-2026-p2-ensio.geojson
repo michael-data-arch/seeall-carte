@@ -487,7 +487,7 @@
    },
    "properties": {
     "name": "FRA01800055 — HUMBLIGNY",
-    "description": "**Numéro de Work Order** : WO-204427 + WO-227779 + WO-243344\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Pylone Meteo. sur le bord Nord de la D955\n**Numéro de département** : 18\n**Nom du site** : HUMBLIGNY\n**Coordonnées** : 47.245137, 2.667698\n[[https://www.google.com/maps?q=47.245137,2.667698|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.245137,2.667698|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1919,2.60233|Déchèterie de Rians (Rians, 7.7 km)]] — 0248644335\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 12.8 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.2957,2.50457|Déchèterie d'Henrichemont (Henrichemont, 13.5 km)]] — 0248267832\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.245137,2.667698,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 16/04/2026 Na cockpit O+M : Après confirmation auprès du propriétaire : sans prévenance Accès en Autonomie Contact: - Mme PENE: 06 30 38 83 06",
+    "description": "**Numéro de Work Order** : WO-204427 + WO-227779 + WO-243344\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-22\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Pylone Meteo. sur le bord Nord de la D955\n**Numéro de département** : 18\n**Nom du site** : HUMBLIGNY\n**Coordonnées** : 47.245137, 2.667698\n[[https://www.google.com/maps?q=47.245137,2.667698|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.245137,2.667698|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1919,2.60233|Déchèterie de Rians (Rians, 7.7 km)]] — 0248644335\n[[https://www.google.com/maps?q=47.2953,2.82031|Déchèterie de Vinon (Vinon, 12.8 km)]] — 0248792571\n[[https://www.google.com/maps?q=47.2957,2.50457|Déchèterie d'Henrichemont (Henrichemont, 13.5 km)]] — 0248267832\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.245137,2.667698,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 16/04/2026 Na cockpit O+M : Après confirmation auprès du propriétaire : sans prévenance Accès en Autonomie Contact: - Mme PENE: 06 30 38 83 06",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -501,12 +501,15 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 16/04/2026 Na cockpit O+M : Après confirmation auprès du propriétaire : sans prévenance Accès en Autonomie Contact: - Mme PENE: 06 30 38 83 06",
     "date_planification": "2026-10-31",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-22",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800055",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
