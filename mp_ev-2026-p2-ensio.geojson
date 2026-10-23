@@ -226,7 +226,7 @@
    },
    "properties": {
     "name": "FRA01800042 — VENESMES",
-    "description": "**Numéro de Work Order** : WO-204411 + WO-227763 + WO-243338\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 15 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau\n**Numéro de département** : 18\n**Nom du site** : VENESMES\n**Coordonnées** : 46.853713, 2.303086\n[[https://www.google.com/maps?q=46.853713,2.303086|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.853713,2.303086|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8679,2.30169|Déchèterie de Venesmes (Venesmes, 1.6 km)]] — 0248606690\n[[https://www.google.com/maps?q=46.8056,2.36593|Déchèterie de Vallenay (Vallenay, 7.2 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.9356,2.39866|Déchèterie de Levet (Levet, 11.6 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.853713,2.303086,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 15.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 21/04/2026 M cockpit O+M *Pour toute intervention, merci d'envoyer un mail à smeacl@orange.fr *Délai de prévenance: 15 jours à l'avance *Horaires d'intervention: tous les jours de la semaine sauf le vendredi *Pas d'accès en autonomie. *En cas de besoin le contact de M. CROISIER Olivier: 0784651140",
+    "description": "**Numéro de Work Order** : WO-204411 + WO-227763 + WO-243338\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 15 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-23\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau\n**Numéro de département** : 18\n**Nom du site** : VENESMES\n**Coordonnées** : 46.853713, 2.303086\n[[https://www.google.com/maps?q=46.853713,2.303086|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.853713,2.303086|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8679,2.30169|Déchèterie de Venesmes (Venesmes, 1.6 km)]] — 0248606690\n[[https://www.google.com/maps?q=46.8056,2.36593|Déchèterie de Vallenay (Vallenay, 7.2 km)]] — 0248606689\n[[https://www.google.com/maps?q=46.9356,2.39866|Déchèterie de Levet (Levet, 11.6 km)]] — 0248606689\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.853713,2.303086,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 15.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 21/04/2026 M cockpit O+M *Pour toute intervention, merci d'envoyer un mail à smeacl@orange.fr *Délai de prévenance: 15 jours à l'avance *Horaires d'intervention: tous les jours de la semaine sauf le vendredi *Pas d'accès en autonomie. *En cas de besoin le contact de M. CROISIER Olivier: 0784651140",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -240,13 +240,16 @@
     "acces_detail": "Digicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 15.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 21/04/2026 M cockpit O+M *Pour toute intervention, merci d'envoyer un mail à smeacl@orange.fr *Délai de prévenance: 15 jours à l'avance *Horaires d'intervention: tous les jours de la semaine sauf le vendredi *Pas d'accès en autonomie. *En cas de besoin le contact de M. CROISIER Olivier: 0784651140",
     "date_planification": "2026-10-31",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-23",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800042",
     "das_prevenance": "15 jours",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
