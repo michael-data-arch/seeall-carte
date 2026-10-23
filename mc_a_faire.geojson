@@ -1849,13 +1849,14 @@
    },
    "properties": {
     "name": "FRA07600345 — BLANGY_SUR_BRESLE_FT",
-    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-10-23\n**Provenance du repère** : ensio\n**Nom du site** : BLANGY_SUR_BRESLE_FT\n**Coordonnées** : 49.928802, 1.631330\n[[https://www.google.com/maps?q=49.928802,1.631330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.928802,1.631330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.9334,1.62739|Déchèterie Foucarmont (Foucarmont, 0.6 km)]]\n[[https://www.google.com/maps?q=49.9305,1.64181|Déchèterie de Blangy-sur-bresle (Blangy-sur-Bresle, 0.8 km)]] — 0235933991\n[[https://www.google.com/maps?q=50.0101,1.51984|Déchèterie de Beauchamps (Beauchamps, 12.1 km)]] — 0227282078\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.928802,1.631330,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Délai de prévenance** : aucune\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-10-23\n**Provenance du repère** : ensio\n**Nom du site** : BLANGY_SUR_BRESLE_FT\n**Coordonnées** : 49.928802, 1.631330\n[[https://www.google.com/maps?q=49.928802,1.631330|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.928802,1.631330|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.9334,1.62739|Déchèterie Foucarmont (Foucarmont, 0.6 km)]]\n[[https://www.google.com/maps?q=49.9305,1.64181|Déchèterie de Blangy-sur-bresle (Blangy-sur-Bresle, 0.8 km)]] — 0235933991\n[[https://www.google.com/maps?q=50.0101,1.51984|Déchèterie de Beauchamps (Beauchamps, 12.1 km)]] — 0227282078\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.928802,1.631330,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "declare_par": "Michael",
     "declare_le": "2026-10-23",
     "nom_site": "BLANGY_SUR_BRESLE_FT",
     "calque": "mc",
     "code_fra": "FRA07600345",
+    "das_prevenance": "aucune",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
