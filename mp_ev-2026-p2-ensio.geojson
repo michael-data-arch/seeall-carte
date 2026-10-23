@@ -460,7 +460,7 @@
    },
    "properties": {
     "name": "FRA01800075 — ST_FLORENT_CHER_NORD",
-    "description": "**Numéro de Work Order** : WO-204432 + WO-227784 + WO-243354\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Rue de Verdun - Réf. cad. AI 597\n**Numéro de département** : 18\n**Nom du site** : ST_FLORENT_CHER_NORD\n**Coordonnées** : 47.004907, 2.254411\n[[https://www.google.com/maps?q=47.004907,2.254411|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.004907,2.254411|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0042,2.25801|Déchèterie de Saint Florent sur Cher (Saint-Florent-sur-Cher, 0.3 km)]] — 0248551601\n[[https://www.google.com/maps?q=46.9356,2.39866|Déchèterie de Levet (Levet, 13.4 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 14.9 km)]] — 0800897730\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.004907,2.254411,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: - CADENAS ABLOY OR/AANFR SUR PORTAIL D’ACCES AU SITE Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-204432 + WO-227784 + WO-243354\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-23\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Rue de Verdun - Réf. cad. AI 597\n**Numéro de département** : 18\n**Nom du site** : ST_FLORENT_CHER_NORD\n**Coordonnées** : 47.004907, 2.254411\n[[https://www.google.com/maps?q=47.004907,2.254411|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.004907,2.254411|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0042,2.25801|Déchèterie de Saint Florent sur Cher (Saint-Florent-sur-Cher, 0.3 km)]] — 0248551601\n[[https://www.google.com/maps?q=46.9356,2.39866|Déchèterie de Levet (Levet, 13.4 km)]] — 0248606689\n[[https://www.google.com/maps?q=47.1388,2.24156|Déchèterie de Mehun sur Yèvre (Mehun-sur-Yèvre, 14.9 km)]] — 0800897730\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.004907,2.254411,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: - CADENAS ABLOY OR/AANFR SUR PORTAIL D’ACCES AU SITE Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -473,12 +473,15 @@
     "wo": "WO-204432 + WO-227784 + WO-243354",
     "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: - CADENAS ABLOY OR/AANFR SUR PORTAIL D’ACCES AU SITE Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Cadenas à code Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-23",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA01800075",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
