@@ -371,7 +371,7 @@
    },
    "properties": {
     "name": "FRA04500223 — SARAN_NORD",
-    "description": "**Numéro de Work Order** : WO-205007\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0246998\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-10-22\n**Fin de validité** : 2026-10-22\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : N20 SOUS STATION ELECTRIQUE SNCF\n**Numéro de département** : 45\n**Nom du site** : SARAN_NORD\n**Coordonnées** : 47.963026, 1.889381\n[[https://www.google.com/maps?q=47.963026,1.889381|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.963026,1.889381|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9483,1.90679|Déchèterie de Saran (Saran, 2.1 km)]] — 0238730757\n[[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 2.3 km)]]\n[[https://www.google.com/maps?q=47.9123,1.94369|Déchèterie de Saint  Jean de Braye (Saint-Jean-de-Braye, 6.9 km)]] — 0238836760\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.963026,1.889381,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 30/09/2026 D cockpit O+M\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
+    "description": "**Numéro de Work Order** : WO-205007\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0246998\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-10-22\n**Fin de validité** : 2026-10-22\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : N20 SOUS STATION ELECTRIQUE SNCF\n**Numéro de département** : 45\n**Nom du site** : SARAN_NORD\n**Coordonnées** : 47.963026, 1.889381\n[[https://www.google.com/maps?q=47.963026,1.889381|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.963026,1.889381|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9483,1.90679|Déchèterie de Saran (Saran, 2.1 km)]] — 0238730757\n[[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 2.3 km)]]\n[[https://www.google.com/maps?q=47.9123,1.94369|Déchèterie de Saint  Jean de Braye (Saint-Jean-de-Braye, 6.9 km)]] — 0238836760\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.963026,1.889381,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 30/09/2026 D cockpit O+M\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -385,7 +385,7 @@
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 30/09/2026 D cockpit O+M\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
     "date_planification": "2026-10-22",
     "das_numero": "DAS-N0246998",
-    "das_statut": "En attente",
+    "das_statut": "Refusée",
     "das_debut": "2026-10-22",
     "das_fin": "2026-10-22",
     "das_provenance": "airtable",
@@ -411,7 +411,7 @@
    },
    "properties": {
     "name": "FRA04500264 — BRICY",
-    "description": "**Numéro de Work Order** : WO-205807\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0247254\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-10-26\n**Fin de validité** : 2026-10-26\n**Délai de prévenance** : 4 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Base Aerienne 123\n**Numéro de département** : 45\n**Nom du site** : BRICY\n**Coordonnées** : 47.982806, 1.775532\n[[https://www.google.com/maps?q=47.982806,1.775532|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.982806,1.775532|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 7.0 km)]]\n[[https://www.google.com/maps?q=47.9117,1.822|Végé'tri d'Ingré (Ingré, 8.6 km)]]\n[[https://www.google.com/maps?q=47.9109,1.82134|Déchèterie de Ingre (Ingré, 8.7 km)]] — 0238437973\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.982806,1.775532,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 4.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: monter au 3ème étage du PC2\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/06/25 D cockpit O+M:\nResponsable d'accès: 0677702283\nPrévenance obligatoire par mail: jeremy.caugant@intradef.gouv.fr/ 96h à l'avance\nAccès: non autonome; il sera accompagné",
+    "description": "**Numéro de Work Order** : WO-205807\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0247254\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-26\n**Fin de validité** : 2026-10-26\n**Délai de prévenance** : 4 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Base Aerienne 123\n**Numéro de département** : 45\n**Nom du site** : BRICY\n**Coordonnées** : 47.982806, 1.775532\n[[https://www.google.com/maps?q=47.982806,1.775532|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.982806,1.775532|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 7.0 km)]]\n[[https://www.google.com/maps?q=47.9117,1.822|Végé'tri d'Ingré (Ingré, 8.6 km)]]\n[[https://www.google.com/maps?q=47.9109,1.82134|Déchèterie de Ingre (Ingré, 8.7 km)]] — 0238437973\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.982806,1.775532,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 4.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: monter au 3ème étage du PC2\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/06/25 D cockpit O+M:\nResponsable d'accès: 0677702283\nPrévenance obligatoire par mail: jeremy.caugant@intradef.gouv.fr/ 96h à l'avance\nAccès: non autonome; il sera accompagné",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -425,7 +425,7 @@
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 4.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: monter au 3ème étage du PC2\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/06/25 D cockpit O+M:\nResponsable d'accès: 0677702283\nPrévenance obligatoire par mail: jeremy.caugant@intradef.gouv.fr/ 96h à l'avance\nAccès: non autonome; il sera accompagné",
     "date_planification": "2026-10-26",
     "das_numero": "DAS-N0247254",
-    "das_statut": "En attente",
+    "das_statut": "Acceptée",
     "das_debut": "2026-10-26",
     "das_fin": "2026-10-26",
     "das_provenance": "airtable",
@@ -476,50 +476,6 @@
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.1065338,
-     49.4366395
-    ]
-   },
-   "properties": {
-    "name": "FRA07600018 — ROUEN_UAP",
-    "description": "**Numéro de Work Order** : WO-205669\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-16\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0241579\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-10-16\n**Fin de validité** : 2026-10-16\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-19\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 4, Rue du Champs de Mars\n**Numéro de département** : 76\n**Nom du site** : ROUEN_UAP\n**Coordonnées** : 49.436639, 1.106534\n[[https://www.google.com/maps?q=49.436639,1.106534|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.436639,1.106534|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 0.3 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 14.5 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 16.0 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.436639,1.106534,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: Magnetique(entrée de l’immeuble)\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 2.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: RE-CDS EXPERIS 21/10/2026:\nPour toute demande d'accès veuillez réaliser la demande via le lien ci après :\nhttps://myaccess.tdf.fr/\nCODE IG: 765401Z",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ROUEN_UAP",
-    "adresse": "4, Rue du Champs de Mars",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205669",
-    "acces_detail": "Digicode:\nBadge: Magnetique(entrée de l’immeuble)\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 2.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: RE-CDS EXPERIS 21/10/2026:\nPour toute demande d'accès veuillez réaliser la demande via le lien ci après :\nhttps://myaccess.tdf.fr/\nCODE IG: 765401Z",
-    "date_planification": "2026-10-16",
-    "nacelle": true,
-    "das_numero": "DAS-N0241579",
-    "das_statut": "Refusée",
-    "das_debut": "2026-10-16",
-    "das_fin": "2026-10-16",
-    "das_provenance": "airtable",
-    "das_prevenance": "2 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-19",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600018",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
@@ -681,49 +637,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.0944346,
-     49.4481583
-    ]
-   },
-   "properties": {
-    "name": "FRA07600038 — ROUEN_POSTE_DEM",
-    "description": "**Numéro de Work Order** : WO-205896\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Numéro de DAS** : DAS-N0241577\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-16\n**Fin de validité** : 2026-10-16\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-19\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 128, Rue Jeanne d Arc\n**Numéro de département** : 76\n**Nom du site** : ROUEN_POSTE_DEM\n**Coordonnées** : 49.448158, 1.094435\n[[https://www.google.com/maps?q=49.448158,1.094435|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.448158,1.094435|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 1.6 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 14.8 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 16.1 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.448158,1.094435,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 3.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 21/11/25 N cockpit O+M :\nFaire une DAS à\noceane@jourdainneaktion.fr, 72 h à l’avance.\nTous les accès sont à récupérer auprès de l’agence : 95 rue Jeanne d’Arc, 76000 Rouen.\nL’accueil de l’agence est ouvert de 9 h à 12 h et de 14 h à 18 h.\nContact agence : +33 2 32 76 75 84\nAccès en autonomie.",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ROUEN_POSTE_DEM",
-    "adresse": "128, Rue Jeanne d Arc",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205896",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 3.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 21/11/25 N cockpit O+M :\nFaire une DAS à\noceane@jourdainneaktion.fr, 72 h à l’avance.\nTous les accès sont à récupérer auprès de l’agence : 95 rue Jeanne d’Arc, 76000 Rouen.\nL’accueil de l’agence est ouvert de 9 h à 12 h et de 14 h à 18 h.\nContact agence : +33 2 32 76 75 84\nAccès en autonomie.",
-    "date_planification": "2026-10-16",
-    "das_numero": "DAS-N0241577",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-16",
-    "das_fin": "2026-10-16",
-    "das_provenance": "airtable",
-    "das_prevenance": "3 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-19",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600038",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "moyens d'accès à récupérer sur place",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.314189,
      49.7374822
     ]
@@ -771,7 +684,7 @@
    },
    "properties": {
     "name": "FRA07600089 — ROUEN_PARC_CHARTREUX_NEW",
-    "description": "**Numéro de Work Order** : WO-205907\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-16\n**État de consignation du site** : Consignation\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0215494\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-01\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 14 Rue Gaston Donnette\n**Numéro de département** : 76\n**Nom du site** : ROUEN_PARC_CHARTREUX_NEW\n**Coordonnées** : 49.429194, 1.062677\n[[https://www.google.com/maps?q=49.429194,1.062677|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.429194,1.062677|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 3.1 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 14.5 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 15.5 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.429194,1.062677,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-205907\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0215494\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-08-31\n**Fin de validité** : 2026-09-01\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 14 Rue Gaston Donnette\n**Numéro de département** : 76\n**Nom du site** : ROUEN_PARC_CHARTREUX_NEW\n**Coordonnées** : 49.429194, 1.062677\n[[https://www.google.com/maps?q=49.429194,1.062677|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.429194,1.062677|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 3.1 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 14.5 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 15.5 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.429194,1.062677,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -782,7 +695,6 @@
     "scope": "EVT - Environnement Technique + SH - Structure Haute",
     "etat_wo": "Travaux planifiés",
     "wo": "WO-205907",
-    "consignation": "Consignation",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-10-16",
     "das_numero": "DAS-N0215494",
@@ -848,49 +760,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.0873077,
-     49.4239986
-    ]
-   },
-   "properties": {
-    "name": "FRA07600147 — ROUEN_BARBES",
-    "description": "**Numéro de Work Order** : WO-205914\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0240565\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-21\n**Fin de validité** : 2026-10-21\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-21\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 1 Rue Grainville\n**Numéro de département** : 76\n**Nom du site** : ROUEN_BARBES\n**Coordonnées** : 49.423999, 1.087308\n[[https://www.google.com/maps?q=49.423999,1.087308|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.423999,1.087308|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 1.7 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 14.0 km)]] — 0235231926\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 15.0 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.423999,1.087308,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 15.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge: DANS LA BAC\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 18/02/26 D cockpit O+M:\nSylvie GUILLARD: 0668050736\nPrévenance à faire par mail: sylvie.gillard@icfhabitat.fr/ 15j à l'avance\nLes moyens d’accès doivent être explicitement demandés dans ce courriel.\nNB: Le mail de prévenance doit être rédigé de manière précise et détaillée afin que l’agence puisse le transmettre efficacement au responsable du site, notamment en ce qui concerne les modalités d’accès",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ROUEN_BARBES",
-    "adresse": "1 Rue Grainville",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205914",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Non\nDélais de prévenance: 15.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge: DANS LA BAC\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 18/02/26 D cockpit O+M:\nSylvie GUILLARD: 0668050736\nPrévenance à faire par mail: sylvie.gillard@icfhabitat.fr/ 15j à l'avance\nLes moyens d’accès doivent être explicitement demandés dans ce courriel.\nNB: Le mail de prévenance doit être rédigé de manière précise et détaillée afin que l’agence puisse le transmettre efficacement au responsable du site, notamment en ce qui concerne les modalités d’accès",
-    "date_planification": "2026-10-21",
-    "das_numero": "DAS-N0240565",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-21",
-    "das_fin": "2026-10-21",
-    "das_provenance": "airtable",
-    "das_prevenance": "15 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-21",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600147",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.0636968,
      49.2606694
     ]
@@ -931,51 +800,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.0413229,
-     49.2762981
-    ]
-   },
-   "properties": {
-    "name": "FRA07600153 — ELBEUF",
-    "description": "**Numéro de Work Order** : WO-205882\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-15\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Numéro de DAS** : DAS-N0240446\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-15\n**Fin de validité** : 2026-10-15\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-15\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : place de la Résistance\n**Numéro de département** : 76\n**Nom du site** : ELBEUF\n**Coordonnées** : 49.276298, 1.041323\n[[https://www.google.com/maps?q=49.276298,1.041323|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.276298,1.041323|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.2303,1.08118|Déchèterie la Haye Malherbe (HAYE-MALHERBE, 5.9 km)]] — 0232404563\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 8.5 km)]]\n[[https://www.google.com/maps?q=49.2171,0.933619|Déchèterie d'Amfreville St-Amand (Amfreville-la-Campagne*, 10.2 km)]] — 0232353682\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.276298,1.041323,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: RA 11/4/25\n- Contact : Florence Etcheto\n- Téléphone : 02 32 96 95 74\n- Téléphone : 06 14 33 06 68\nE-mails :\n- fetcheto@pierrotin.fr\n- edesjardins@pierrotin.fr\n- GSM_St_Louis@pierrotin.fr\n\n12/05/2025 Mi cockpit O+M :\n\n* SERVICE TECHNIQUE DE LA MAIRIE\n02 32 96 95 70 ( mairie )\n02 32 96 94 55 ( service urbanisme )\ntechnique@pierrotin.fr\n\nIl faut un délai minimum de 10 jours pour les prévenir par mail au technique@pierrotin.fr et les techniciens doivent prendre les clés à la mairie avant chaque intervention.",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ELBEUF",
-    "adresse": "place de la Résistance",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205882",
-    "consignation": "Consigne Particulière",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: RA 11/4/25\n- Contact : Florence Etcheto\n- Téléphone : 02 32 96 95 74\n- Téléphone : 06 14 33 06 68\nE-mails :\n- fetcheto@pierrotin.fr\n- edesjardins@pierrotin.fr\n- GSM_St_Louis@pierrotin.fr\n\n12/05/2025 Mi cockpit O+M :\n\n* SERVICE TECHNIQUE DE LA MAIRIE\n02 32 96 95 70 ( mairie )\n02 32 96 94 55 ( service urbanisme )\ntechnique@pierrotin.fr\n\nIl faut un délai minimum de 10 jours pour les prévenir par mail au technique@pierrotin.fr et les techniciens doivent prendre les clés à la mairie avant chaque intervention.",
-    "date_planification": "2026-10-15",
-    "nacelle": true,
-    "das_numero": "DAS-N0240446",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-15",
-    "das_fin": "2026-10-15",
-    "das_provenance": "airtable",
-    "das_prevenance": "10 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-15",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600153",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "moyens d'accès à récupérer sur place",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.5691667,
      49.4802778
     ]
@@ -1003,178 +827,6 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.9491094,
-     49.5512126
-    ]
-   },
-   "properties": {
-    "name": "FRA07600164 — BARENTIN_NORD",
-    "description": "**Numéro de Work Order** : WO-205847\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : présence d'un tiers obligatoire\n**Numéro de DAS** : DAS-N0241583\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-15\n**Fin de validité** : 2026-10-15\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-21\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau - Rue Paul Niclause - La Malaise\n**Numéro de département** : 76\n**Nom du site** : BARENTIN_NORD\n**Coordonnées** : 49.551213, 0.949109\n[[https://www.google.com/maps?q=49.551213,0.949109|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.551213,0.949109|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 3.5 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.6032,0.843458|Déchèterie de Croix-mare (Croix-Mare, 9.6 km)]] — 0607907785\n[[https://www.google.com/maps?q=49.6659,0.879327|Déchèterie Yerville (Yerville, 13.7 km)]] — 0235962263\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.551213,0.949109,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SO\nBadge: SO\nBoite à clés:\nPortail / Portillon: Bailleur\nDélais de prévenance: 3.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 04/11/25 P cockpit O+M\nPrévenance à effectuer 3 jours avant l’intervention par mail à :\nantenniste76.eau-no@veolia.com\nEn copie : kevin.parent@veolia.com, arnaud.morin@veolia.com, l.ouillon@cc-caux-austreberthe.fr\nOuverture du site : uniquement en présence d’un agent.\nDocuments à fournir :\nPièce d’identité des intervenants\nFiche opérateur antenniste à compléter",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "BARENTIN_NORD",
-    "adresse": "Château d'eau - Rue Paul Niclause - La Malaise",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205847",
-    "acces_detail": "Digicode: SO\nBadge: SO\nBoite à clés:\nPortail / Portillon: Bailleur\nDélais de prévenance: 3.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 04/11/25 P cockpit O+M\nPrévenance à effectuer 3 jours avant l’intervention par mail à :\nantenniste76.eau-no@veolia.com\nEn copie : kevin.parent@veolia.com, arnaud.morin@veolia.com, l.ouillon@cc-caux-austreberthe.fr\nOuverture du site : uniquement en présence d’un agent.\nDocuments à fournir :\nPièce d’identité des intervenants\nFiche opérateur antenniste à compléter",
-    "date_planification": "2026-10-15",
-    "das_numero": "DAS-N0241583",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-15",
-    "das_fin": "2026-10-15",
-    "das_provenance": "airtable",
-    "das_prevenance": "3 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-21",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600164",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "présence d'un tiers obligatoire",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.5895119,
-     49.8472175
-    ]
-   },
-   "properties": {
-    "name": "FRA07600201 — VEULETTE_SUR_MER_OUEST",
-    "description": "**Numéro de Work Order** : WO-206008\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : BAC contenant la clé, clé électronique ABLOY équipement et aérien.\n**Numéro de DAS** : DAS-N0240464\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-21\n**Fin de validité** : 2026-10-21\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-21\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Sentier du Château d'eau\n**Numéro de département** : 76\n**Nom du site** : VEULETTE_SUR_MER_OUEST\n**Coordonnées** : 49.847217, 0.589512\n[[https://www.google.com/maps?q=49.847217,0.589512|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.847217,0.589512|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.781,0.651522|Déchèterie de la Vallée (cany-barville) (Cany-Barville, 8.6 km)]] — 0626060429\n[[https://www.google.com/maps?q=49.865,0.724746|Déchèterie du Littoral (st Valéry en Caux) (Saint-Valery-en-Caux, 9.9 km)]] — 0627280306\n[[https://www.google.com/maps?q=49.7617,0.536278|Déchèterie Intercommunale Theuville-aux-maillots (Theuville-aux-Maillots, 10.2 km)]] — 0235105407\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.847217,0.589512,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - Clé dans BAC\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 14/10/2026 CDS EXPERIS\nC'est EAU D'albatre qui gére les accés au CDE\nNB: ne sont pas ouvert les mercredis:\nPrévenance par mail :\nalexandre.philippe@eaux-de-normandie.fr 02351019331\nlaura.huchet@cote-albatre.com 0607143504 - 0235575055\nEn copie:\nstephane.caron@cote-albatre.com\nangeline.fleurat-lessard@suez.com\n0235572167\n\n09/10/2026 : Contact principal : 0235101931\n26/03/26 D cockpit O+M:\nCOMMUNE DE VEULETTES SUR MER: 02 35 97 54 00\nPrévenance à faire par mail: info@ville-veulettes-sur-mer.fr/ 15j à l'avance\nLes moyens d'accès sont à solliciter dans le mail\n\n06/10/2026 CZ EXPERIS\nPrévenance à la communauté de communes de la Côte d’Albâtre 02.35.57.85.00 nicolas.levassereur@cote-abatre.com",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "VEULETTE_SUR_MER_OUEST",
-    "adresse": "Sentier du Château d'eau",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-206008",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: - Clé dans BAC\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 14/10/2026 CDS EXPERIS\nC'est EAU D'albatre qui gére les accés au CDE\nNB: ne sont pas ouvert les mercredis:\nPrévenance par mail :\nalexandre.philippe@eaux-de-normandie.fr 02351019331\nlaura.huchet@cote-albatre.com 0607143504 - 0235575055\nEn copie:\nstephane.caron@cote-albatre.com\nangeline.fleurat-lessard@suez.com\n0235572167\n\n09/10/2026 : Contact principal : 0235101931\n26/03/26 D cockpit O+M:\nCOMMUNE DE VEULETTES SUR MER: 02 35 97 54 00\nPrévenance à faire par mail: info@ville-veulettes-sur-mer.fr/ 15j à l'avance\nLes moyens d'accès sont à solliciter dans le mail\n\n06/10/2026 CZ EXPERIS\nPrévenance à la communauté de communes de la Côte d’Albâtre 02.35.57.85.00 nicolas.levassereur@cote-abatre.com",
-    "date_planification": "2026-10-30",
-    "das_numero": "DAS-N0240464",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-21",
-    "das_fin": "2026-10-21",
-    "das_provenance": "airtable",
-    "das_prevenance": "15 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-21",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600201",
-    "acces_autonome": "autonome",
-    "acces_motif": "BAC contenant la clé, clé électronique ABLOY équipement et aérien.",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.8703726,
-     49.4966141
-    ]
-   },
-   "properties": {
-    "name": "FRA07600209 — DUCLAIR",
-    "description": "**Numéro de Work Order** : WO-206011\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : site Back to Back, modalités à obtenir via Orange\n**Numéro de DAS** : DAS-N0240561\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-21\n**Fin de validité** : 2026-10-21\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-21\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau Lieu-dit Ferme du tronc\n**Numéro de département** : 76\n**Nom du site** : DUCLAIR\n**Coordonnées** : 49.496614, 0.870373\n[[https://www.google.com/maps?q=49.496614,0.870373|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.496614,0.870373|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 5.0 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.4705,0.74472|Déchèterie la Mailleraye sur Seine (La Mailleraye-sur-Seine*, 9.5 km)]] — 0235781446\n[[https://www.google.com/maps?q=49.6032,0.843458|Déchèterie de Croix-mare (Croix-Mare, 12.0 km)]] — 0607907785\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.496614,0.870373,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique -\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\nEnvoyer le FORMULAIRE\n⚠️Site Back to Back :\nUne fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur\nEnvoyer un mail à acces.ouest@orange.com",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "DUCLAIR",
-    "adresse": "Château d'eau Lieu-dit Ferme du tronc",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-206011",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique -\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\nEnvoyer le FORMULAIRE\n⚠️Site Back to Back :\nUne fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur\nEnvoyer un mail à acces.ouest@orange.com",
-    "date_planification": "2026-10-30",
-    "das_numero": "DAS-N0240561",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-21",
-    "das_fin": "2026-10-21",
-    "das_provenance": "airtable",
-    "das_prevenance": "15 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-21",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600209",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "site Back to Back, modalités à obtenir via Orange",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.1507286,
-     49.4883399
-    ]
-   },
-   "properties": {
-    "name": "FRA07600245 — LE_HAVRE_DOCK",
-    "description": "**Numéro de Work Order** : WO-205922\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : passage obligatoire par un accueil\n**Numéro de DAS** : DAS-N0240554\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-20\n**Fin de validité** : 2026-10-20\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-20\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 4 Boulevard JULES DURAND\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_DOCK\n**Coordonnées** : 49.488340, 0.150729\n[[https://www.google.com/maps?q=49.488340,0.150729|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.488340,0.150729|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4125,0.262325|Déchèterie de Honfleur (Honfleur, 11.7 km)]]\n[[https://www.google.com/maps?q=49.3696,0.130053|Déchèterie la Croix Sonnet-touques (Touques, 13.3 km)]]\n[[https://www.google.com/maps?q=49.5335,0.36589|Déchèterie de Saint Romain de Colbosc (Saint-Romain-de-Colbosc, 16.3 km)]] — 0235309513\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.488340,0.150729,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 21/07/2025 Mi cockpit O+M :\nSociété DUCHESNE BOSSIERE\n02 35 26 78 89\n* Mode de prévenance : envoi mail aux deux adresses :\n- sarah.bazire@dban.fr\n- olivier.maesen@fourelagadec.com\n* Délai de prévenance : 15j avant l'intervention\n* Accès : il faut se présenter à l'accueil de la STE FOURE LAGADEC",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LE_HAVRE_DOCK",
-    "adresse": "4 Boulevard JULES DURAND",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205922",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 21/07/2025 Mi cockpit O+M :\nSociété DUCHESNE BOSSIERE\n02 35 26 78 89\n* Mode de prévenance : envoi mail aux deux adresses :\n- sarah.bazire@dban.fr\n- olivier.maesen@fourelagadec.com\n* Délai de prévenance : 15j avant l'intervention\n* Accès : il faut se présenter à l'accueil de la STE FOURE LAGADEC",
-    "date_planification": "2026-10-20",
-    "das_numero": "DAS-N0240554",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-20",
-    "das_fin": "2026-10-20",
-    "das_provenance": "airtable",
-    "das_prevenance": "15 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-20",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600245",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "passage obligatoire par un accueil",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
@@ -1378,50 +1030,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.3638693,
-     49.5900842
-    ]
-   },
-   "properties": {
-    "name": "FRA07600296 — BUCHY",
-    "description": "**Numéro de Work Order** : WO-205300\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute\n**Date de planification** : 2026-10-20\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0240544\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-20\n**Fin de validité** : 2026-10-20\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-20\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau. Chemin communal de BLAINVILLE\n**Numéro de département** : 76\n**Nom du site** : BUCHY\n**Coordonnées** : 49.590084, 1.363869\n[[https://www.google.com/maps?q=49.590084,1.363869|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.590084,1.363869|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5912,1.34958|Déchèterie Buchy (Buchy*, 1.0 km)]] — 0235231883\n[[https://www.google.com/maps?q=49.6861,1.35221|Decheterie Maucomble (Maucomble, 10.7 km)]] — 0235934372\n[[https://www.google.com/maps?q=49.635,1.54528|Déchèterie de Serqueux (Serqueux, 14.0 km)]] — 0235909264\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.590084,1.363869,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - Bailleur dans boite à clé\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL - A prioriser",
-    "nom_site": "BUCHY",
-    "adresse": "Château d'eau. Chemin communal de BLAINVILLE",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205300",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - Bailleur dans boite à clé\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
-    "date_planification": "2026-10-20",
-    "nacelle": true,
-    "das_numero": "DAS-N0240544",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-20",
-    "das_fin": "2026-10-20",
-    "das_provenance": "airtable",
-    "das_prevenance": "15 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-20",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600296",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.9175921,
      49.6688878
     ]
@@ -1488,49 +1096,6 @@
     "acces_motif": "la fiche déclare l'accès autonome",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.486049,
-     49.579407
-    ]
-   },
-   "properties": {
-    "name": "FRA07600430 — BOLBEC_LE_MONT_NEW",
-    "description": "**Numéro de Work Order** : WO-206018\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Numéro de DAS** : DAS-N0240549\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-10-20\n**Fin de validité** : 2026-10-20\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-20\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 38 A Rue du Réservoir\n**Numéro de département** : 76\n**Nom du site** : BOLBEC_LE_MONT_NEW\n**Coordonnées** : 49.579407, 0.486049\n[[https://www.google.com/maps?q=49.579407,0.486049|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.579407,0.486049|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.5879,0.484063|Decheterie Bolbec (BOLBEC, 1.0 km)]] — 0232840497\n[[https://www.google.com/maps?q=49.5102,0.535645|Déchèterie de Lillebonne (Lillebonne, 8.5 km)]] — 0235310794\n[[https://www.google.com/maps?q=49.5335,0.36589|Déchèterie de Saint Romain de Colbosc (Saint-Romain-de-Colbosc, 10.1 km)]] — 0235309513\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.579407,0.486049,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 5.0\nAccès autonome ?\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 25/02/2026 Na cockpit O+M :\nService technique: 0232845151\n\nPour toute intervention, merci d'envoyer un mail à services.techniques@bolbec.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès : toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "BOLBEC_LE_MONT_NEW",
-    "adresse": "38 A Rue du Réservoir",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-206018",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 5.0\nAccès autonome ?\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 25/02/2026 Na cockpit O+M :\nService technique: 0232845151\n\nPour toute intervention, merci d'envoyer un mail à services.techniques@bolbec.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès : toutes les informations relatives à l’accès seront indiquées dans leur message. Veillez à les demander dans le courriel de prévenance.",
-    "date_planification": "2026-10-30",
-    "das_numero": "DAS-N0240549",
-    "das_statut": "Refusée",
-    "das_debut": "2026-10-20",
-    "das_fin": "2026-10-20",
-    "das_provenance": "airtable",
-    "das_prevenance": "5 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-20",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600430",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "le bailleur n'a pas encore donné les modalités",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
