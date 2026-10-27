@@ -290,7 +290,7 @@
    },
    "properties": {
     "name": "FRA04500125 — BOYNES",
-    "description": "**Numéro de Work Order** : WO-205973\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0245413\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-26\n**Fin de validité** : 2026-10-26\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : non_fait\n**Commentaire terrain** : guêpes\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-08-27\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 13 Rue de Gaubertin\n**Numéro de département** : 45\n**Nom du site** : BOYNES\n**Coordonnées** : 48.120491, 2.364781\n[[https://www.google.com/maps?q=48.120491,2.364781|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.120491,2.364781|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0809,2.43411|Déchèterie de Beaune la Rolande (Beaune-la-Rolande, 6.8 km)]] — 0238333091\n[[https://www.google.com/maps?q=48.2059,2.45416|Déchèterie de Puiseaux (PUISEAUX, 11.6 km)]] — 0238335370\n[[https://www.google.com/maps?q=48.187,2.23992|Déchèterie de Pithiviers (Pithiviers, 11.9 km)]] — 0238306600\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.120491,2.364781,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 15.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 20/04/26 D cockpit O+M:\n(à titre informatif)\nCOMMUNE DE BOYNES: 02 38 33 13 84\nPrévenance à faire par mail: contact@boynes.fr/ 15 à l'avance\nAutonome",
+    "description": "**Numéro de Work Order** : WO-205973\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0245413\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-26\n**Fin de validité** : 2026-10-26\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-27\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 13 Rue de Gaubertin\n**Numéro de département** : 45\n**Nom du site** : BOYNES\n**Coordonnées** : 48.120491, 2.364781\n[[https://www.google.com/maps?q=48.120491,2.364781|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.120491,2.364781|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0809,2.43411|Déchèterie de Beaune la Rolande (Beaune-la-Rolande, 6.8 km)]] — 0238333091\n[[https://www.google.com/maps?q=48.2059,2.45416|Déchèterie de Puiseaux (PUISEAUX, 11.6 km)]] — 0238335370\n[[https://www.google.com/maps?q=48.187,2.23992|Déchèterie de Pithiviers (Pithiviers, 11.9 km)]] — 0238306600\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.120491,2.364781,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 15.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 20/04/26 D cockpit O+M:\n(à titre informatif)\nCOMMUNE DE BOYNES: 02 38 33 13 84\nPrévenance à faire par mail: contact@boynes.fr/ 15 à l'avance\nAutonome",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -309,16 +309,15 @@
     "das_fin": "2026-10-26",
     "das_provenance": "airtable",
     "das_prevenance": "15 jours",
-    "etat_terrain": "non_fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-08-27",
-    "commentaire_terrain": "guêpes",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-10-27",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA04500125",
     "acces_autonome": "autonome",
     "acces_motif": "la fiche déclare l'accès autonome",
     "_umap_options": {
-     "color": "#7B8494",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
