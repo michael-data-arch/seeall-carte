@@ -411,7 +411,7 @@
    },
    "properties": {
     "name": "FRA04500264 — BRICY",
-    "description": "**Numéro de Work Order** : WO-205807\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0247254\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-26\n**Fin de validité** : 2026-10-26\n**Délai de prévenance** : 4 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Base Aerienne 123\n**Numéro de département** : 45\n**Nom du site** : BRICY\n**Coordonnées** : 47.982806, 1.775532\n[[https://www.google.com/maps?q=47.982806,1.775532|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.982806,1.775532|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 7.0 km)]]\n[[https://www.google.com/maps?q=47.9117,1.822|Végé'tri d'Ingré (Ingré, 8.6 km)]]\n[[https://www.google.com/maps?q=47.9109,1.82134|Déchèterie de Ingre (Ingré, 8.7 km)]] — 0238437973\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.982806,1.775532,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 4.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: monter au 3ème étage du PC2\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/06/25 D cockpit O+M:\nResponsable d'accès: 0677702283\nPrévenance obligatoire par mail: jeremy.caugant@intradef.gouv.fr/ 96h à l'avance\nAccès: non autonome; il sera accompagné",
+    "description": "**Numéro de Work Order** : WO-205807\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0247254\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-26\n**Fin de validité** : 2026-10-26\n**Délai de prévenance** : 4 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-27\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Base Aerienne 123\n**Numéro de département** : 45\n**Nom du site** : BRICY\n**Coordonnées** : 47.982806, 1.775532\n[[https://www.google.com/maps?q=47.982806,1.775532|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.982806,1.775532|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 7.0 km)]]\n[[https://www.google.com/maps?q=47.9117,1.822|Végé'tri d'Ingré (Ingré, 8.6 km)]]\n[[https://www.google.com/maps?q=47.9109,1.82134|Déchèterie de Ingre (Ingré, 8.7 km)]] — 0238437973\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.982806,1.775532,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 4.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: monter au 3ème étage du PC2\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/06/25 D cockpit O+M:\nResponsable d'accès: 0677702283\nPrévenance obligatoire par mail: jeremy.caugant@intradef.gouv.fr/ 96h à l'avance\nAccès: non autonome; il sera accompagné",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -430,12 +430,15 @@
     "das_fin": "2026-10-26",
     "das_provenance": "airtable",
     "das_prevenance": "4 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-10-27",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA04500264",
     "acces_autonome": "non_autonome",
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
