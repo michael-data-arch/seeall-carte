@@ -287,49 +287,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.3647815,
-     48.1204905
-    ]
-   },
-   "properties": {
-    "name": "FRA04500125 — BOYNES",
-    "description": "**Numéro de Work Order** : WO-205973\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0245413\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-26\n**Fin de validité** : 2026-10-26\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-27\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 13 Rue de Gaubertin\n**Numéro de département** : 45\n**Nom du site** : BOYNES\n**Coordonnées** : 48.120491, 2.364781\n[[https://www.google.com/maps?q=48.120491,2.364781|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.120491,2.364781|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0809,2.43411|Déchèterie de Beaune la Rolande (Beaune-la-Rolande, 6.8 km)]] — 0238333091\n[[https://www.google.com/maps?q=48.2059,2.45416|Déchèterie de Puiseaux (PUISEAUX, 11.6 km)]] — 0238335370\n[[https://www.google.com/maps?q=48.187,2.23992|Déchèterie de Pithiviers (Pithiviers, 11.9 km)]] — 0238306600\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.120491,2.364781,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 15.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 20/04/26 D cockpit O+M:\n(à titre informatif)\nCOMMUNE DE BOYNES: 02 38 33 13 84\nPrévenance à faire par mail: contact@boynes.fr/ 15 à l'avance\nAutonome",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "BOYNES",
-    "adresse": "13 Rue de Gaubertin",
-    "departement": "45",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205973",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 15.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 20/04/26 D cockpit O+M:\n(à titre informatif)\nCOMMUNE DE BOYNES: 02 38 33 13 84\nPrévenance à faire par mail: contact@boynes.fr/ 15 à l'avance\nAutonome",
-    "date_planification": "2026-10-26",
-    "das_numero": "DAS-N0245413",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-26",
-    "das_fin": "2026-10-26",
-    "das_provenance": "airtable",
-    "das_prevenance": "15 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-27",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA04500125",
-    "acces_autonome": "autonome",
-    "acces_motif": "la fiche déclare l'accès autonome",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.7161399,
      47.9749724
     ]
@@ -398,49 +355,6 @@
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.7755317,
-     47.9828062
-    ]
-   },
-   "properties": {
-    "name": "FRA04500264 — BRICY",
-    "description": "**Numéro de Work Order** : WO-205807\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0247254\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-26\n**Fin de validité** : 2026-10-26\n**Délai de prévenance** : 4 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-27\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Base Aerienne 123\n**Numéro de département** : 45\n**Nom du site** : BRICY\n**Coordonnées** : 47.982806, 1.775532\n[[https://www.google.com/maps?q=47.982806,1.775532|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.982806,1.775532|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 7.0 km)]]\n[[https://www.google.com/maps?q=47.9117,1.822|Végé'tri d'Ingré (Ingré, 8.6 km)]]\n[[https://www.google.com/maps?q=47.9109,1.82134|Déchèterie de Ingre (Ingré, 8.7 km)]] — 0238437973\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.982806,1.775532,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 4.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: monter au 3ème étage du PC2\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/06/25 D cockpit O+M:\nResponsable d'accès: 0677702283\nPrévenance obligatoire par mail: jeremy.caugant@intradef.gouv.fr/ 96h à l'avance\nAccès: non autonome; il sera accompagné",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "BRICY",
-    "adresse": "Base Aerienne 123",
-    "departement": "45",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205807",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 4.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: monter au 3ème étage du PC2\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/06/25 D cockpit O+M:\nResponsable d'accès: 0677702283\nPrévenance obligatoire par mail: jeremy.caugant@intradef.gouv.fr/ 96h à l'avance\nAccès: non autonome; il sera accompagné",
-    "date_planification": "2026-10-26",
-    "das_numero": "DAS-N0247254",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-26",
-    "das_fin": "2026-10-26",
-    "das_provenance": "airtable",
-    "das_prevenance": "4 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-27",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA04500264",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "la fiche déclare l'accès non autonome",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
@@ -832,49 +746,6 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.1171951,
-     49.5052316
-    ]
-   },
-   "properties": {
-    "name": "FRA07600262 — LE_HAVRE_PARC_OR",
-    "description": "**Numéro de Work Order** : WO-205930\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0241580\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-10-19\n**Fin de validité** : 2026-10-19\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-10-19\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Immeuble ALCEANE - 14 Rue Charles Yvray\n**Numéro de département** : 76\n**Nom du site** : LE_HAVRE_PARC_OR\n**Coordonnées** : 49.505232, 0.117195\n[[https://www.google.com/maps?q=49.505232,0.117195|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.505232,0.117195|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4125,0.262325|Déchèterie de Honfleur (Honfleur, 14.7 km)]]\n[[https://www.google.com/maps?q=49.3696,0.130053|Déchèterie la Croix Sonnet-touques (Touques, 15.1 km)]]\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 17.5 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.505232,0.117195,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge: BADGE ABSENT\nBoite à clés: Oui\nPortail / Portillon:\nDélais de prévenance: 2.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 20/07/2026 M cockpit O+M :\n*Pour toute intervention sans nacelle, merci d'envoyer un mail de prévenance informative a\nM.Letellier@alceane.fr\nC.Desaintnicolas@alceane.fr\nA.Maze@alceane.fr\nA.Joly@alceane.fr\n\n*Pour les petits travaux de maintenances:\n- Accès en autonomie\n\n*Pour les gros travaux avec des engins: 15 jours ouvrés à l'avance\n\n*Pour les commandes de badges (150€ HT) ou de clefs d’accès (50€ HT) en cas de pertes ou de détériorations des accès initialement remis par le bailleur: operateur.commandeacces@alceane.fr",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LE_HAVRE_PARC_OR",
-    "adresse": "Immeuble ALCEANE - 14 Rue Charles Yvray",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205930",
-    "acces_detail": "Digicode:\nBadge: BADGE ABSENT\nBoite à clés: Oui\nPortail / Portillon:\nDélais de prévenance: 2.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 20/07/2026 M cockpit O+M :\n*Pour toute intervention sans nacelle, merci d'envoyer un mail de prévenance informative a\nM.Letellier@alceane.fr\nC.Desaintnicolas@alceane.fr\nA.Maze@alceane.fr\nA.Joly@alceane.fr\n\n*Pour les petits travaux de maintenances:\n- Accès en autonomie\n\n*Pour les gros travaux avec des engins: 15 jours ouvrés à l'avance\n\n*Pour les commandes de badges (150€ HT) ou de clefs d’accès (50€ HT) en cas de pertes ou de détériorations des accès initialement remis par le bailleur: operateur.commandeacces@alceane.fr",
-    "date_planification": "2026-10-19",
-    "das_numero": "DAS-N0241580",
-    "das_statut": "Refusée",
-    "das_debut": "2026-10-19",
-    "das_fin": "2026-10-19",
-    "das_provenance": "airtable",
-    "das_prevenance": "2 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-10-19",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600262",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
