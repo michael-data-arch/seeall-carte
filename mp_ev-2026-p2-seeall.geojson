@@ -471,7 +471,7 @@
    },
    "properties": {
     "name": "FRA00300068 — BEAULON",
-    "description": "**Numéro de Work Order** : WO-224822 + WO-244521\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-23\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit la Curesse\n**Numéro de département** : 3\n**Nom du site** : BEAULON\n**Coordonnées** : 46.604157, 3.654717\n[[https://www.google.com/maps?q=46.604157,3.654717|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.604157,3.654717|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6242,3.73687|Déchèterie de Bourbon-lancy (nouvelle) (Bourbon-Lancy, 6.7 km)]] — 0385893018\n[[https://www.google.com/maps?q=46.7021,3.96189|Déchèterie d'Issy l'Eveque (Issy-l'Évêque, 25.9 km)]] — 0385249608\n[[https://www.google.com/maps?q=46.8523,3.63817|Déchèterie de Cercy la Tour (CERCY-LA-TOUR, 27.6 km)]] — 0386500337\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.604157,3.654717,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 28/10/2025 Na cockpit O+M: Site DIG 2, accès en autonomie, Full TOTEM",
+    "description": "**Numéro de Work Order** : WO-224822 + WO-244521\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-23\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-29\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit la Curesse\n**Numéro de département** : 3\n**Nom du site** : BEAULON\n**Coordonnées** : 46.604157, 3.654717\n[[https://www.google.com/maps?q=46.604157,3.654717|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.604157,3.654717|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6242,3.73687|Déchèterie de Bourbon-lancy (nouvelle) (Bourbon-Lancy, 6.7 km)]] — 0385893018\n[[https://www.google.com/maps?q=46.7021,3.96189|Déchèterie d'Issy l'Eveque (Issy-l'Évêque, 25.9 km)]] — 0385249608\n[[https://www.google.com/maps?q=46.8523,3.63817|Déchèterie de Cercy la Tour (CERCY-LA-TOUR, 27.6 km)]] — 0386500337\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.604157,3.654717,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 28/10/2025 Na cockpit O+M: Site DIG 2, accès en autonomie, Full TOTEM",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -484,12 +484,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: Badge: Boite à clés: Oui Portail / Portillon: Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 28/10/2025 Na cockpit O+M: Site DIG 2, accès en autonomie, Full TOTEM",
     "date_planification": "2026-09-23",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-29",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300068",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
