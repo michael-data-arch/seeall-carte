@@ -180,44 +180,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.710134,
-     46.369061
-    ]
-   },
-   "properties": {
-    "name": "FRA00300047 — ST_ANGEL",
-    "description": "**Numéro de Work Order** : WO-223752 + WO-244508\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-18\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 10 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-29\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit CROCHAVENT\n**Numéro de département** : 3\n**Nom du site** : ST_ANGEL\n**Coordonnées** : 46.369061, 2.710134\n[[https://www.google.com/maps?q=46.369061,2.710134|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.369061,2.710134|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2868,2.76052|Déchèterie de Commentry (Commentry, 9.9 km)]] — 0470641167\n[[https://www.google.com/maps?q=46.3714,2.56809|Déchèterie de Domerat (Domérat, 10.9 km)]] — 0470030760\n[[https://www.google.com/maps?q=46.3975,2.86243|Déchèterie de Villefranche-d'allier (Villefranche-d'Allier, 12.1 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.369061,2.710134,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - a récupére a l’agence Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: RA 23/6/25 Conditions d'accès : Accès libre, prévenir le SIVOM avant intervention Contact : - Téléphone : 04 70 07 70 52 - Email : secretariat@regionminiere.fr Commentaire moyen d'accès: - Digicode :Mécanique - Boite Cle :Boîte à clefs électronique ABLOY dans mur sur la gauche, en bas des marches escaliers entrée portillon OR/ACCGH a récupére a l’agence/dans boite a clef/Les axes des gongs du portillon sont cassés faire attention lors de l’ouverture de celui ci.",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ST_ANGEL",
-    "adresse": "Lieu-dit CROCHAVENT",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-223752 + WO-244508",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - a récupére a l’agence Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: RA 23/6/25 Conditions d'accès : Accès libre, prévenir le SIVOM avant intervention Contact : - Téléphone : 04 70 07 70 52 - Email : secretariat@regionminiere.fr Commentaire moyen d'accès: - Digicode :Mécanique - Boite Cle :Boîte à clefs électronique ABLOY dans mur sur la gauche, en bas des marches escaliers entrée portillon OR/ACCGH a récupére a l’agence/dans boite a clef/Les axes des gongs du portillon sont cassés faire attention lors de l’ouverture de celui ci.",
-    "date_planification": "2026-09-18",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-10-29",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300047",
-    "das_prevenance": "10 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.436964,
      46.109402
     ]
@@ -364,7 +326,7 @@
    },
    "properties": {
     "name": "FRA00300064 — ZB2_ML_CHATILLON_D_ALLIER",
-    "description": "**Numéro de Work Order** : WO-224820 + WO-244517\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-22\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Délai de prévenance** : 5 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Butte 20, Rue de la Mine\n**Numéro de département** : 3\n**Nom du site** : ZB2_ML_CHATILLON_D_ALLIER\n**Coordonnées** : 46.482217, 3.133600\n[[https://www.google.com/maps?q=46.482217,3.133600|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.482217,3.133600|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.423,3.07617|Déchèterie du Tronget (Tronget, 7.9 km)]] — 0473673673\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 16.3 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.3975,2.86243|Déchèterie de Villefranche-d'allier (Villefranche-d'Allier, 22.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.482217,3.133600,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - pas de clef sur le portail du stade, portail fermé par une caine avec mousqueton visé Délais de prévenance: 5.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : COMMUNE DE NOYANT D'ALLIER: 04 70 47 21 14 Pour toute intervention, merci d'envoyer un mail à mairie@noyantdallier.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès non autonome.",
+    "description": "**Numéro de Work Order** : WO-224820 + WO-244517\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-22\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Délai de prévenance** : 5 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-29\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Butte 20, Rue de la Mine\n**Numéro de département** : 3\n**Nom du site** : ZB2_ML_CHATILLON_D_ALLIER\n**Coordonnées** : 46.482217, 3.133600\n[[https://www.google.com/maps?q=46.482217,3.133600|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.482217,3.133600|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.423,3.07617|Déchèterie du Tronget (Tronget, 7.9 km)]] — 0473673673\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 16.3 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.3975,2.86243|Déchèterie de Villefranche-d'allier (Villefranche-d'Allier, 22.8 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.482217,3.133600,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - pas de clef sur le portail du stade, portail fermé par une caine avec mousqueton visé Délais de prévenance: 5.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : COMMUNE DE NOYANT D'ALLIER: 04 70 47 21 14 Pour toute intervention, merci d'envoyer un mail à mairie@noyantdallier.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès non autonome.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -377,13 +339,16 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - pas de clef sur le portail du stade, portail fermé par une caine avec mousqueton visé Délais de prévenance: 5.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : COMMUNE DE NOYANT D'ALLIER: 04 70 47 21 14 Pour toute intervention, merci d'envoyer un mail à mairie@noyantdallier.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès non autonome.",
     "date_planification": "2026-09-22",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-29",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300064",
     "das_prevenance": "5 jours",
     "acces_autonome": "non_autonome",
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
@@ -606,7 +571,7 @@
    },
    "properties": {
     "name": "FRA00300073 — ND_RS_BOIS_DE_VIALLE_ORF",
-    "description": "**Numéro de Work Order** : WO-224308 + WO-244525\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Délai de prévenance** : 1 jour\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Font Carrée\n**Numéro de département** : 3\n**Nom du site** : ND_RS_BOIS_DE_VIALLE_ORF\n**Coordonnées** : 45.978777, 3.679020\n[[https://www.google.com/maps?q=45.978777,3.679020|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.978777,3.679020|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.0582,3.65774|Déchèterie de Mayet de Montagne (Le Mayet-de-Montagne, 9.0 km)]] — 0685017217\n[[https://www.google.com/maps?q=45.8819,3.59646|Déchèterie de Saint Rémy sur Durolle (Saint-Rémy-sur-Durolle, 12.5 km)]] — 0473801211\n[[https://www.google.com/maps?q=45.9147,3.83665|Déchèterie Saint-just-en-chevalet (Saint-Just-en-Chevalet, 14.1 km)]] — 0477651224\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.978777,3.679020,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 30/10/2025 M cockpit O+M: *Pour toute intervention, merci d'envoyer un mail à mairie.lavoine@wanadoo.fr *Délai de prévenance: 24H à l'avance *Accès en autonomie. *En cas de besoin, le contact du Maire Mr Pierre GERARD: 06.60.72.76.76",
+    "description": "**Numéro de Work Order** : WO-224308 + WO-244525\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Délai de prévenance** : 1 jour\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Font Carrée\n**Numéro de département** : 3\n**Nom du site** : ND_RS_BOIS_DE_VIALLE_ORF\n**Coordonnées** : 45.978777, 3.679020\n[[https://www.google.com/maps?q=45.978777,3.679020|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.978777,3.679020|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.0582,3.65774|Déchèterie de Mayet de Montagne (Le Mayet-de-Montagne, 9.0 km)]] — 0685017217\n[[https://www.google.com/maps?q=45.8819,3.59646|Déchèterie de Saint Rémy sur Durolle (Saint-Rémy-sur-Durolle, 12.5 km)]] — 0473801211\n[[https://www.google.com/maps?q=45.9147,3.83665|Déchèterie Saint-just-en-chevalet (Saint-Just-en-Chevalet, 14.1 km)]] — 0477651224\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.978777,3.679020,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: RE-CDS EXPERIS: 28/10/2026: Prévenance a réaliser par mail: secretariat@commune-lavoine.fr 30/10/2025 M cockpit O+M: *Pour toute intervention, merci d'envoyer un mail à mairie.lavoine@wanadoo.fr *Délai de prévenance: 24H à l'avance *Accès en autonomie. *En cas de besoin, le contact du Maire Mr Pierre GERARD: 06.60.72.76.76",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -617,7 +582,7 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-224308 + WO-244525",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 30/10/2025 M cockpit O+M: *Pour toute intervention, merci d'envoyer un mail à mairie.lavoine@wanadoo.fr *Délai de prévenance: 24H à l'avance *Accès en autonomie. *En cas de besoin, le contact du Maire Mr Pierre GERARD: 06.60.72.76.76",
+    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: RE-CDS EXPERIS: 28/10/2026: Prévenance a réaliser par mail: secretariat@commune-lavoine.fr 30/10/2025 M cockpit O+M: *Pour toute intervention, merci d'envoyer un mail à mairie.lavoine@wanadoo.fr *Délai de prévenance: 24H à l'avance *Accès en autonomie. *En cas de besoin, le contact du Maire Mr Pierre GERARD: 06.60.72.76.76",
     "date_planification": "2026-09-24",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300073",
