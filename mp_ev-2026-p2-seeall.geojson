@@ -150,7 +150,7 @@
    },
    "properties": {
     "name": "FRA00300040 — CHAZEUIL",
-    "description": "**Numéro de Work Order** : WO-224018 + WO-244506\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-17\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Délai de prévenance** : 1 jour\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 61 Route de Moulins\n**Numéro de département** : 3\n**Nom du site** : CHAZEUIL\n**Coordonnées** : 46.336111, 3.382500\n[[https://www.google.com/maps?q=46.336111,3.382500|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.336111,3.382500|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 4.0 km)]] — 0685017218\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 8.8 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.2542,3.28227|Déchèterie de Bayet (Bayet, 11.9 km)]] — 0684747035\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.336111,3.382500,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique Cadenas: Commentaire d'accès: 21/10/2025 Na cockpit O+M: Monsieur BOIT Roger : 33608282108 Pour toute intervention, merci de contacter Monsieur BOIT Roger au 33608282108 Délai de prévenance: 1 jour à l'avance Accès en autonomie.",
+    "description": "**Numéro de Work Order** : WO-224018 + WO-244506\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-17\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Délai de prévenance** : 1 jour\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-10-30\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 61 Route de Moulins\n**Numéro de département** : 3\n**Nom du site** : CHAZEUIL\n**Coordonnées** : 46.336111, 3.382500\n[[https://www.google.com/maps?q=46.336111,3.382500|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.336111,3.382500|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 4.0 km)]] — 0685017218\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 8.8 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.2542,3.28227|Déchèterie de Bayet (Bayet, 11.9 km)]] — 0684747035\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.336111,3.382500,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique Cadenas: Commentaire d'accès: 21/10/2025 Na cockpit O+M: Monsieur BOIT Roger : 33608282108 Pour toute intervention, merci de contacter Monsieur BOIT Roger au 33608282108 Délai de prévenance: 1 jour à l'avance Accès en autonomie.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -164,13 +164,16 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique Cadenas: Commentaire d'accès: 21/10/2025 Na cockpit O+M: Monsieur BOIT Roger : 33608282108 Pour toute intervention, merci de contacter Monsieur BOIT Roger au 33608282108 Délai de prévenance: 1 jour à l'avance Accès en autonomie.",
     "date_planification": "2026-09-17",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-10-30",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300040",
     "das_prevenance": "1 jour",
     "acces_autonome": "autonome",
     "acces_motif": "la fiche déclare l'accès autonome",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
