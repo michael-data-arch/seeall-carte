@@ -991,7 +991,7 @@
    },
    "properties": {
     "name": "FRA03600067 — LUCAY_LE_MALE",
-    "description": "**Numéro de Work Order** : WO-243468\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Délai de prévenance** : 5 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau sur la D151\n**Numéro de département** : 36\n**Nom du site** : LUCAY_LE_MALE\n**Coordonnées** : 47.115613, 1.442580\n[[https://www.google.com/maps?q=47.115613,1.442580|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.115613,1.442580|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1528,1.5304|Déchèterie de Valençay (Valençay, 7.8 km)]] — 0608898130\n[[https://www.google.com/maps?q=47.0341,1.35161|Déchèterie de Heugnes (Heugnes, 11.4 km)]] — 0254390020\n[[https://www.google.com/maps?q=47.1421,1.27624|Déchèterie de Nouans les Fontaines (Nouans-les-Fontaines, 12.9 km)]] — 0675283457\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.115613,1.442580,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique - PORTAIL SYNDICAT DES EAUX Délais de prévenance: 5.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 25/02/2026 Na cockpit O+M : Pour toute intervention, merci d'envoyer le plan de prévention ci-dessous par mail à accueil@sebn3641.fr Délai de prévenance: 5 jours ouvrés à l'avance Horaires d'intervention: du lundi au jeudi midi Un accompagnement est obligatoire pour l'accès au site.",
+    "description": "**Numéro de Work Order** : WO-243468\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Délai de prévenance** : 5 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil (via Michael)\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau sur la D151\n**Numéro de département** : 36\n**Nom du site** : LUCAY_LE_MALE\n**Coordonnées** : 47.115613, 1.442580\n[[https://www.google.com/maps?q=47.115613,1.442580|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.115613,1.442580|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1528,1.5304|Déchèterie de Valençay (Valençay, 7.8 km)]] — 0608898130\n[[https://www.google.com/maps?q=47.0341,1.35161|Déchèterie de Heugnes (Heugnes, 11.4 km)]] — 0254390020\n[[https://www.google.com/maps?q=47.1421,1.27624|Déchèterie de Nouans les Fontaines (Nouans-les-Fontaines, 12.9 km)]] — 0675283457\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.115613,1.442580,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique - PORTAIL SYNDICAT DES EAUX Délais de prévenance: 5.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 25/02/2026 Na cockpit O+M : Pour toute intervention, merci d'envoyer le plan de prévention ci-dessous par mail à accueil@sebn3641.fr Délai de prévenance: 5 jours ouvrés à l'avance Horaires d'intervention: du lundi au jeudi midi Un accompagnement est obligatoire pour l'accès au site.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1004,13 +1004,16 @@
     "wo": "WO-243468",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Mécanique - PORTAIL SYNDICAT DES EAUX Délais de prévenance: 5.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 25/02/2026 Na cockpit O+M : Pour toute intervention, merci d'envoyer le plan de prévention ci-dessous par mail à accueil@sebn3641.fr Délai de prévenance: 5 jours ouvrés à l'avance Horaires d'intervention: du lundi au jeudi midi Un accompagnement est obligatoire pour l'accès au site.",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Adil (via Michael)",
+    "declare_le": "2026-10-31",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600067",
     "das_prevenance": "5 jours",
     "acces_autonome": "non_autonome",
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
