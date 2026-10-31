@@ -516,7 +516,7 @@
    },
    "properties": {
     "name": "FRA03600042 — ZB_MERIGNY",
-    "description": "**Numéro de Work Order** : WO-204922 + WO-228140 + WO-243454\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : la Poirelle\n**Numéro de département** : 36\n**Nom du site** : ZB_MERIGNY\n**Coordonnées** : 46.630585, 0.937083\n[[https://www.google.com/maps?q=46.630585,0.937083|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.630585,0.937083|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6831,0.843065|Déchèterie de Saint Pierre de Maille (SAINT-PIERRE-DE-MAILLE, 9.3 km)]] — 0549841709\n[[https://www.google.com/maps?q=46.5606,0.849475|Déchèterie de Saint Savin (SAINT-SAVIN, 10.3 km)]] — 0549481880\n[[https://www.google.com/maps?q=46.6244,1.08113|Déchèterie le Blanc (Le Blanc, 11.0 km)]] — 0254286518\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.630585,0.937083,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: non Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Cadenas à code Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-204922 + WO-228140 + WO-243454\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : la Poirelle\n**Numéro de département** : 36\n**Nom du site** : ZB_MERIGNY\n**Coordonnées** : 46.630585, 0.937083\n[[https://www.google.com/maps?q=46.630585,0.937083|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.630585,0.937083|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6831,0.843065|Déchèterie de Saint Pierre de Maille (SAINT-PIERRE-DE-MAILLE, 9.3 km)]] — 0549841709\n[[https://www.google.com/maps?q=46.5606,0.849475|Déchèterie de Saint Savin (SAINT-SAVIN, 10.3 km)]] — 0549481880\n[[https://www.google.com/maps?q=46.6244,1.08113|Déchèterie le Blanc (Le Blanc, 11.0 km)]] — 0254286518\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.630585,0.937083,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: non Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Cadenas à code Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -529,12 +529,15 @@
     "wo": "WO-204922 + WO-228140 + WO-243454",
     "acces_detail": "Digicode: non Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Cadenas à code Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-10-31",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600042",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
