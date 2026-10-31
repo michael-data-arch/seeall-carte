@@ -1438,7 +1438,7 @@
    },
    "properties": {
     "name": "FRA03700087 — ILE_BOUCHARD_FT",
-    "description": "**Numéro de Work Order** : WO-204590 + WO-227867 + WO-243501\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Rue de la Commanderie\n**Numéro de département** : 37\n**Nom du site** : ILE_BOUCHARD_FT\n**Coordonnées** : 47.110841, 0.411612\n[[https://www.google.com/maps?q=47.110841,0.411612|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.110841,0.411612|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1237,0.435958|Déchèterie de l'île Bouchard (L'Île-Bouchard, 2.3 km)]] — 0247970214\n[[https://www.google.com/maps?q=47.0292,0.325686|Déchèterie de Richelieu (Richelieu, 11.2 km)]] — 0247582774\n[[https://www.google.com/maps?q=47.115,0.575574|Déchèterie de Noyant de Touraine (Noyant-de-Touraine, 12.4 km)]] — 0247658827\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.110841,0.411612,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - CADENAS A CODE 3737 Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 23/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-204590 + WO-227867 + WO-243501\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Rue de la Commanderie\n**Numéro de département** : 37\n**Nom du site** : ILE_BOUCHARD_FT\n**Coordonnées** : 47.110841, 0.411612\n[[https://www.google.com/maps?q=47.110841,0.411612|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.110841,0.411612|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.1237,0.435958|Déchèterie de l'île Bouchard (L'Île-Bouchard, 2.3 km)]] — 0247970214\n[[https://www.google.com/maps?q=47.0292,0.325686|Déchèterie de Richelieu (Richelieu, 11.2 km)]] — 0247582774\n[[https://www.google.com/maps?q=47.115,0.575574|Déchèterie de Noyant de Touraine (Noyant-de-Touraine, 12.4 km)]] — 0247658827\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.110841,0.411612,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - CADENAS A CODE 3737 Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 23/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1452,12 +1452,15 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - CADENAS A CODE 3737 Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 23/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
     "date_planification": "2026-11-15",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-10-31",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700087",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
