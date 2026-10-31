@@ -1550,25 +1550,21 @@
    },
    "properties": {
     "name": "FRA03700118 — TAUXIGNY",
-    "description": "**Numéro de Work Order** : WO-204575 + WO-227853 + WO-243516\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0246752\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-29\n**Fin de validité** : 2026-10-30\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil (via Michael)\n**Date de la déclaration** : 2026-10-28\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : CHAT D EAU SUR LA D83\n**Numéro de département** : 37\n**Nom du site** : TAUXIGNY\n**Coordonnées** : 47.219448, 0.843606\n[[https://www.google.com/maps?q=47.219448,0.843606|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.219448,0.843606|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 4.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 6.6 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 9.5 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.219448,0.843606,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
-    "origine": "airtable",
+    "description": "**Scope de maintenance** : EV\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0246752\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-29\n**Fin de validité** : 2026-10-30\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil (via Michael)\n**Date de la déclaration** : 2026-10-28\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : import\n**Adresse du site** : CHAT D EAU SUR LA D83\n**Numéro de département** : 37\n**Nom du site** : TAUXIGNY\n**Coordonnées** : 47.219448, 0.843606\n[[https://www.google.com/maps?q=47.219448,0.843606|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.219448,0.843606|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 4.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 6.6 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 9.5 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.219448,0.843606,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
+    "origine": "import",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
     "ressources": "SEE ALL (ST ENSIO)",
     "nom_site": "TAUXIGNY",
     "adresse": "CHAT D EAU SUR LA D83",
     "departement": "37",
-    "scope": "EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-204575 + WO-227853 + WO-243516",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
+    "scope": "EV",
     "das_numero": "DAS-N0246752",
     "das_statut": "Acceptée",
     "das_debut": "2026-10-29",
     "das_fin": "2026-10-30",
     "das_provenance": "airtable",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
     "das_prevenance": "15 jours",
     "etat_terrain": "fait",
     "declare_par": "Adil (via Michael)",
@@ -1622,13 +1618,47 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     0.488497,
+     47.4957
+    ]
+   },
+   "properties": {
+    "name": "FRA03700128 — SONZAY",
+    "description": "**Scope de maintenance** : EV\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Délai de prévenance** : non renseigné par TOTEM\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Enzo (via Michael)\n**Date de la déclaration** : 2026-09-12\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : import\n**Adresse du site** : Lieu-dit Parc Chauveau Parcelle 36 section H\n**Numéro de département** : 37\n**Nom du site** : SONZAY\n**Coordonnées** : 47.495700, 0.488497\n[[https://www.google.com/maps?q=47.495700,0.488497|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.495700,0.488497|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.4369,0.518596|Déchèterie de Pernay (Pernay, 6.9 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 10.1 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.5977,0.519769|Déchèterie de Saint Paterne Racan (Saint-Paterne-Racan, 11.6 km)]] — 0247293950\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.495700,0.488497,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "import",
+    "campagne": "Espaces Verts 2026 P2-ENSIO",
+    "towerco": "TOTEM",
+    "ressources": "SEE ALL (ST ENSIO)",
+    "nom_site": "SONZAY",
+    "adresse": "Lieu-dit Parc Chauveau Parcelle 36 section H",
+    "departement": "37",
+    "scope": "EV",
+    "etat_terrain": "fait",
+    "declare_par": "Enzo (via Michael)",
+    "declare_le": "2026-09-12",
+    "calque": "mp-ev-2026-p2-ensio",
+    "code_fra": "FRA03700128",
+    "das_prevenance": "non renseigné par TOTEM",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#15803D",
+     "iconClass": "Ball"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      0.161517,
      47.209237
     ]
    },
    "properties": {
     "name": "FRA03700145 — BEAUMONT_EN_VERON",
-    "description": "**Numéro de Work Order** : WO-204942 + WO-228160 + WO-243530\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LE RIDOIT\n**Numéro de département** : 37\n**Nom du site** : BEAUMONT_EN_VERON\n**Coordonnées** : 47.209237, 0.161517\n[[https://www.google.com/maps?q=47.209237,0.161517|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.209237,0.161517|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2114,0.162276|Déchèterie de Savigny en Véron (Savigny-en-Véron, 0.2 km)]] — 0247589419\n[[https://www.google.com/maps?q=47.2736,0.160955|Déchèterie de Bourgueuil (BOURGUEIL, 7.2 km)]] — 0247978975\n[[https://www.google.com/maps?q=47.1788,0.250095|Déchèterie de Chinon (Chinon, 7.5 km)]] — 0247980656\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.209237,0.161517,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 09/09/26 D cockpit O+M: Site DIG 21, responsable à contacter en cas de soucis d'accès: yannick.lemorvan@orange.com en copie sylvain.berrueco@orange.com",
+    "description": "**Numéro de Work Order** : WO-204942 + WO-228160 + WO-243530\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LE RIDOIT\n**Numéro de département** : 37\n**Nom du site** : BEAUMONT_EN_VERON\n**Coordonnées** : 47.209237, 0.161517\n[[https://www.google.com/maps?q=47.209237,0.161517|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.209237,0.161517|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2114,0.162276|Déchèterie de Savigny en Véron (Savigny-en-Véron, 0.2 km)]] — 0247589419\n[[https://www.google.com/maps?q=47.2736,0.160955|Déchèterie de Bourgueuil (BOURGUEIL, 7.2 km)]] — 0247978975\n[[https://www.google.com/maps?q=47.1788,0.250095|Déchèterie de Chinon (Chinon, 7.5 km)]] — 0247980656\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.209237,0.161517,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 09/09/26 D cockpit O+M: Site DIG 21, responsable à contacter en cas de soucis d'accès: yannick.lemorvan@orange.com en copie sylvain.berrueco@orange.com",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -1641,12 +1671,15 @@
     "wo": "WO-204942 + WO-228160 + WO-243530",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 09/09/26 D cockpit O+M: Site DIG 21, responsable à contacter en cas de soucis d'accès: yannick.lemorvan@orange.com en copie sylvain.berrueco@orange.com",
     "date_planification": "2026-11-15",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-10-31",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03700145",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
