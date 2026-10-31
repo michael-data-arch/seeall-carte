@@ -226,7 +226,7 @@
    },
    "properties": {
     "name": "FRA03600022 — COINGS",
-    "description": "**Numéro de Work Order** : WO-204563 + WO-227842 + WO-243446\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Délai de prévenance** : 10 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau au bout de l aerodrome\n**Numéro de département** : 36\n**Nom du site** : COINGS\n**Coordonnées** : 46.872785, 1.725391\n[[https://www.google.com/maps?q=46.872785,1.725391|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.872785,1.725391|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 16.7 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.9672,2.00423|Déchèterie d'Issoudun (Issoudun, 23.6 km)]] — 0254217992\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 30.6 km)]] — 0254309570\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.872785,1.725391,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé bailleur Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 07/01/2026 M cockpit O+M : 📝 Formulaire à remplir par TOTEM : 👉 www.antennistegdo.toutsurmesservices.fr ⏳ Délai de prévenance : 10 jours à l’avance 🔑 Accès : Les modalités seront précisées par le bailleur dans sa réponse",
+    "description": "**Numéro de Work Order** : WO-204563 + WO-227842 + WO-243446\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Délai de prévenance** : 10 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil (via Michael)\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau au bout de l aerodrome\n**Numéro de département** : 36\n**Nom du site** : COINGS\n**Coordonnées** : 46.872785, 1.725391\n[[https://www.google.com/maps?q=46.872785,1.725391|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.872785,1.725391|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 16.7 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.9672,2.00423|Déchèterie d'Issoudun (Issoudun, 23.6 km)]] — 0254217992\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 30.6 km)]] — 0254309570\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.872785,1.725391,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé bailleur Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 07/01/2026 M cockpit O+M : 📝 Formulaire à remplir par TOTEM : 👉 www.antennistegdo.toutsurmesservices.fr ⏳ Délai de prévenance : 10 jours à l’avance 🔑 Accès : Les modalités seront précisées par le bailleur dans sa réponse",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -240,13 +240,16 @@
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Mécanique Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé bailleur Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 07/01/2026 M cockpit O+M : 📝 Formulaire à remplir par TOTEM : 👉 www.antennistegdo.toutsurmesservices.fr ⏳ Délai de prévenance : 10 jours à l’avance 🔑 Accès : Les modalités seront précisées par le bailleur dans sa réponse",
     "date_planification": "2026-10-31",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Adil (via Michael)",
+    "declare_le": "2026-10-31",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600022",
     "das_prevenance": "10 jours",
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
