@@ -736,7 +736,7 @@
    },
    "properties": {
     "name": "FRA03600049 — ECUEILLE",
-    "description": "**Numéro de Work Order** : WO-204555 + WO-227834 + WO-243460\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin rural d Ecueille a st aignant\n**Numéro de département** : 36\n**Nom du site** : ECUEILLE\n**Coordonnées** : 47.092343, 1.342258\n[[https://www.google.com/maps?q=47.092343,1.342258|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.092343,1.342258|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0341,1.35161|Déchèterie de Heugnes (Heugnes, 6.5 km)]] — 0254390020\n[[https://www.google.com/maps?q=47.1421,1.27624|Déchèterie de Nouans les Fontaines (Nouans-les-Fontaines, 7.5 km)]] — 0675283457\n[[https://www.google.com/maps?q=46.9897,1.22095|Déchèterie de Chatillon sur Indre (Châtillon-sur-Indre, 14.7 km)]] — 0254386979\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.092343,1.342258,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 24/06/26 D cockpit O+M: Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-204555 + WO-227834 + WO-243460\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil (via Michael)\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin rural d Ecueille a st aignant\n**Numéro de département** : 36\n**Nom du site** : ECUEILLE\n**Coordonnées** : 47.092343, 1.342258\n[[https://www.google.com/maps?q=47.092343,1.342258|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.092343,1.342258|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.0341,1.35161|Déchèterie de Heugnes (Heugnes, 6.5 km)]] — 0254390020\n[[https://www.google.com/maps?q=47.1421,1.27624|Déchèterie de Nouans les Fontaines (Nouans-les-Fontaines, 7.5 km)]] — 0675283457\n[[https://www.google.com/maps?q=46.9897,1.22095|Déchèterie de Chatillon sur Indre (Châtillon-sur-Indre, 14.7 km)]] — 0254386979\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.092343,1.342258,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 24/06/26 D cockpit O+M: Site en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -750,12 +750,15 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 24/06/26 D cockpit O+M: Site en accès libre",
     "date_planification": "2026-10-31",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Adil (via Michael)",
+    "declare_le": "2026-10-31",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600049",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
