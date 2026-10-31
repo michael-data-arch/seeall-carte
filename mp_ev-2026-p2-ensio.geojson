@@ -877,7 +877,7 @@
    },
    "properties": {
     "name": "FRA03600058 — PAULNAY",
-    "description": "**Numéro de Work Order** : WO-205544 + WO-228552 + WO-243465\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit les hauts Avineaux\n**Numéro de département** : 36\n**Nom du site** : PAULNAY\n**Coordonnées** : 46.858375, 1.145998\n[[https://www.google.com/maps?q=46.858375,1.145998|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.858375,1.145998|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8124,1.20248|Déchèterie de Saint Michel en Brenne (Saint-Michel-en-Brenne, 6.7 km)]] — 0254381103\n[[https://www.google.com/maps?q=46.9897,1.22095|Déchèterie de Chatillon sur Indre (Châtillon-sur-Indre, 15.7 km)]] — 0254386979\n[[https://www.google.com/maps?q=46.7941,0.951117|Déchèterie de Bossay sur Claise (Bossay-sur-Claise, 16.5 km)]] — 0247945914\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.858375,1.145998,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Sans objet Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 24/07/26 D cockpit O+M: Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-205544 + WO-228552 + WO-243465\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil (via Michael)\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit les hauts Avineaux\n**Numéro de département** : 36\n**Nom du site** : PAULNAY\n**Coordonnées** : 46.858375, 1.145998\n[[https://www.google.com/maps?q=46.858375,1.145998|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.858375,1.145998|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.8124,1.20248|Déchèterie de Saint Michel en Brenne (Saint-Michel-en-Brenne, 6.7 km)]] — 0254381103\n[[https://www.google.com/maps?q=46.9897,1.22095|Déchèterie de Chatillon sur Indre (Châtillon-sur-Indre, 15.7 km)]] — 0254386979\n[[https://www.google.com/maps?q=46.7941,0.951117|Déchèterie de Bossay sur Claise (Bossay-sur-Claise, 16.5 km)]] — 0247945914\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.858375,1.145998,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Sans objet Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 24/07/26 D cockpit O+M: Site en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -890,12 +890,15 @@
     "wo": "WO-205544 + WO-228552 + WO-243465",
     "acces_detail": "Digicode: Sans objet Badge: Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 24/07/26 D cockpit O+M: Site en accès libre",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Adil (via Michael)",
+    "declare_le": "2026-10-31",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600058",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
