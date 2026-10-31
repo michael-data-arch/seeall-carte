@@ -783,7 +783,7 @@
    },
    "properties": {
     "name": "FRA03600051 — ST_MAUR_INDRE",
-    "description": "**Numéro de Work Order** : WO-204566 + WO-227845 + WO-243461\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Délai de prévenance** : 2 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau\n**Numéro de département** : 36\n**Nom du site** : ST_MAUR_INDRE\n**Coordonnées** : 46.836227, 1.617908\n[[https://www.google.com/maps?q=46.836227,1.617908|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.836227,1.617908|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 17.6 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.6405,1.39515|Déchèterie de Rivarennes (Rivarennes, 27.6 km)]] — 0254479733\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 29.0 km)]] — 0254309570\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.836227,1.617908,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - BAILLEUR (SAUR) Délais de prévenance: 2.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 17/02/2026 M cockpit O+M : *Pour toute intervention, merci d'envoyer un mail à fabien.bouty@saur.com *Délai de prévenance: 2 jours ouvrés à l'avance *Horaires d'intervention: 8h - 17h *Accompagnement obligatoire",
+    "description": "**Numéro de Work Order** : WO-204566 + WO-227845 + WO-243461\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Délai de prévenance** : 2 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau\n**Numéro de département** : 36\n**Nom du site** : ST_MAUR_INDRE\n**Coordonnées** : 46.836227, 1.617908\n[[https://www.google.com/maps?q=46.836227,1.617908|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.836227,1.617908|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 17.6 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.6405,1.39515|Déchèterie de Rivarennes (Rivarennes, 27.6 km)]] — 0254479733\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 29.0 km)]] — 0254309570\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.836227,1.617908,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - BAILLEUR (SAUR) Délais de prévenance: 2.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 17/02/2026 M cockpit O+M : *Pour toute intervention, merci d'envoyer un mail à fabien.bouty@saur.com *Délai de prévenance: 2 jours ouvrés à l'avance *Horaires d'intervention: 8h - 17h *Accompagnement obligatoire",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -797,13 +797,16 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - BAILLEUR (SAUR) Délais de prévenance: 2.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 17/02/2026 M cockpit O+M : *Pour toute intervention, merci d'envoyer un mail à fabien.bouty@saur.com *Délai de prévenance: 2 jours ouvrés à l'avance *Horaires d'intervention: 8h - 17h *Accompagnement obligatoire",
     "date_planification": "2026-10-31",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-10-31",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600051",
     "das_prevenance": "2 jours",
     "acces_autonome": "non_autonome",
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
