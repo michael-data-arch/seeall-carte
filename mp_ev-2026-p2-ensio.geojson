@@ -88,7 +88,7 @@
    },
    "properties": {
     "name": "FRA03600012 — CHATEAUROUX_ROCHAT",
-    "description": "**Numéro de Work Order** : WO-205540 + WO-228548 + WO-243442\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Avenue du Parc des Loisirs\n**Numéro de département** : 36\n**Nom du site** : CHATEAUROUX_ROCHAT\n**Coordonnées** : 46.821961, 1.693947\n[[https://www.google.com/maps?q=46.821961,1.693947|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.821961,1.693947|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 20.5 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 25.5 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.9672,2.00423|Déchèterie d'Issoudun (Issoudun, 28.6 km)]] — 0254217992\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.821961,1.693947,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 26/06/26 D cockpit O+M: Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-205540 + WO-228548 + WO-243442\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-01\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Avenue du Parc des Loisirs\n**Numéro de département** : 36\n**Nom du site** : CHATEAUROUX_ROCHAT\n**Coordonnées** : 46.821961, 1.693947\n[[https://www.google.com/maps?q=46.821961,1.693947|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.821961,1.693947|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 20.5 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 25.5 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.9672,2.00423|Déchèterie d'Issoudun (Issoudun, 28.6 km)]] — 0254217992\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.821961,1.693947,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 26/06/26 D cockpit O+M: Site en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -101,12 +101,15 @@
     "wo": "WO-205540 + WO-228548 + WO-243442",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 26/06/26 D cockpit O+M: Site en accès libre",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-01",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600012",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
