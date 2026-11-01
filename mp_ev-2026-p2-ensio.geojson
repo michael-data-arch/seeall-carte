@@ -162,7 +162,7 @@
    },
    "properties": {
     "name": "FRA03600014 — CHATEAUROUX_ZI_EST",
-    "description": "**Numéro de Work Order** : WO-204551 + WO-227830 + WO-243444\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 15 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 27 Bd d Anvaux\n**Numéro de département** : 36\n**Nom du site** : CHATEAUROUX_ZI_EST\n**Coordonnées** : 46.803540, 1.736198\n[[https://www.google.com/maps?q=46.803540,1.736198|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.803540,1.736198|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 22.9 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 23.7 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.9672,2.00423|Déchèterie d'Issoudun (Issoudun, 27.3 km)]] — 0254217992\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.803540,1.736198,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: SO Boite à clés: Portail / Portillon: Non Délais de prévenance: 15.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 25/09/25 D cockpit O+M: APW FRANCE: 07 56 42 48 23 Mode de prévenance par mail: patrimoine@apwfrance.fr Délai de prévenance: 2 semaines à l'avance Accès: en autonomie",
+    "description": "**Numéro de Work Order** : WO-204551 + WO-227830 + WO-243444\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 15 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-01\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 27 Bd d Anvaux\n**Numéro de département** : 36\n**Nom du site** : CHATEAUROUX_ZI_EST\n**Coordonnées** : 46.803540, 1.736198\n[[https://www.google.com/maps?q=46.803540,1.736198|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.803540,1.736198|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 22.9 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 23.7 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.9672,2.00423|Déchèterie d'Issoudun (Issoudun, 27.3 km)]] — 0254217992\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.803540,1.736198,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: SO Boite à clés: Portail / Portillon: Non Délais de prévenance: 15.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 25/09/25 D cockpit O+M: APW FRANCE: 07 56 42 48 23 Mode de prévenance par mail: patrimoine@apwfrance.fr Délai de prévenance: 2 semaines à l'avance Accès: en autonomie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -176,13 +176,16 @@
     "acces_detail": "Digicode: NON Badge: SO Boite à clés: Portail / Portillon: Non Délais de prévenance: 15.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 25/09/25 D cockpit O+M: APW FRANCE: 07 56 42 48 23 Mode de prévenance par mail: patrimoine@apwfrance.fr Délai de prévenance: 2 semaines à l'avance Accès: en autonomie",
     "date_planification": "2026-10-31",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-01",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600014",
     "das_prevenance": "15 jours",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
