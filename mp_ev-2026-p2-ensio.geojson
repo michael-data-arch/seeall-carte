@@ -318,7 +318,7 @@
    },
    "properties": {
     "name": "FRA03600055 — EGUZON_CENTRE",
-    "description": "**Numéro de Work Order** : WO-204557 + WO-227836 + WO-243463\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Site FT\n**Numéro de département** : 36\n**Nom du site** : EGUZON_CENTRE\n**Coordonnées** : 46.435682, 1.569396\n[[https://www.google.com/maps?q=46.435682,1.569396|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.435682,1.569396|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.323,1.66553|Déchèterie de Dun-le-palestel (Dun-le-Palestel, 14.5 km)]] — 0555898600\n[[https://www.google.com/maps?q=46.4344,1.37265|Déchèterie de la Châtre Langlin (La Châtre-Langlin, 15.1 km)]] — 0254248451\n[[https://www.google.com/maps?q=46.3263,1.34601|Decheterie de Mailhac sur Benaize (Mailhac-sur-Benaize, 21.0 km)]] — 0555762278\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.435682,1.569396,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: CODE PORTE SERRURE 3 MOLETTES 652 Badge: SO Boite à clés: Portail / Portillon: Non la clé du portail DANS LA BAC Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 26/11/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-204557 + WO-227836 + WO-243463\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-02\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Site FT\n**Numéro de département** : 36\n**Nom du site** : EGUZON_CENTRE\n**Coordonnées** : 46.435682, 1.569396\n[[https://www.google.com/maps?q=46.435682,1.569396|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.435682,1.569396|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.323,1.66553|Déchèterie de Dun-le-palestel (Dun-le-Palestel, 14.5 km)]] — 0555898600\n[[https://www.google.com/maps?q=46.4344,1.37265|Déchèterie de la Châtre Langlin (La Châtre-Langlin, 15.1 km)]] — 0254248451\n[[https://www.google.com/maps?q=46.3263,1.34601|Decheterie de Mailhac sur Benaize (Mailhac-sur-Benaize, 21.0 km)]] — 0555762278\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.435682,1.569396,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: CODE PORTE SERRURE 3 MOLETTES 652 Badge: SO Boite à clés: Portail / Portillon: Non la clé du portail DANS LA BAC Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 26/11/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -332,12 +332,15 @@
     "acces_detail": "Digicode: CODE PORTE SERRURE 3 MOLETTES 652 Badge: SO Boite à clés: Portail / Portillon: Non la clé du portail DANS LA BAC Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 26/11/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
     "date_planification": "2026-10-31",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-02",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600055",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
