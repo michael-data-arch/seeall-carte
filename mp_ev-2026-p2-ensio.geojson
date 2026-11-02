@@ -205,7 +205,7 @@
    },
    "properties": {
     "name": "FRA03600038 — ST_MARCEL_A20",
-    "description": "**Numéro de Work Order** : WO-205542 + WO-228550 + WO-243453\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Le Champ de la Couture\n**Numéro de département** : 36\n**Nom du site** : ST_MARCEL_A20\n**Coordonnées** : 46.616605, 1.515909\n[[https://www.google.com/maps?q=46.616605,1.515909|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.616605,1.515909|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6405,1.39515|Déchèterie de Rivarennes (Rivarennes, 9.6 km)]] — 0254479733\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 20.1 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.4344,1.37265|Déchèterie de la Châtre Langlin (La Châtre-Langlin, 23.0 km)]] — 0254248451\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.616605,1.515909,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: Digicode :Non - Boite Cle :SO Abloy OR/ABLGJ/SO/serrure abloy portail / cadenas abloy anti monter ok le 12/05/2022/NON/SO",
+    "description": "**Numéro de Work Order** : WO-205542 + WO-228550 + WO-243453\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-02\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Le Champ de la Couture\n**Numéro de département** : 36\n**Nom du site** : ST_MARCEL_A20\n**Coordonnées** : 46.616605, 1.515909\n[[https://www.google.com/maps?q=46.616605,1.515909|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.616605,1.515909|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.6405,1.39515|Déchèterie de Rivarennes (Rivarennes, 9.6 km)]] — 0254479733\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 20.1 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.4344,1.37265|Déchèterie de la Châtre Langlin (La Châtre-Langlin, 23.0 km)]] — 0254248451\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.616605,1.515909,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: Digicode :Non - Boite Cle :SO Abloy OR/ABLGJ/SO/serrure abloy portail / cadenas abloy anti monter ok le 12/05/2022/NON/SO",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -218,12 +218,15 @@
     "wo": "WO-205542 + WO-228550 + WO-243453",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: Digicode :Non - Boite Cle :SO Abloy OR/ABLGJ/SO/serrure abloy portail / cadenas abloy anti monter ok le 12/05/2022/NON/SO",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-02",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600038",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
