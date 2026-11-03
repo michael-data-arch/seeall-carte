@@ -166,7 +166,7 @@
    },
    "properties": {
     "name": "FRA03600048 — ST_DENIS_DE_JOUHET",
-    "description": "**Numéro de Work Order** : WO-205543 + WO-228551 + WO-243459\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 7 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Rue du 14 Juillet 1789\n**Numéro de département** : 36\n**Nom du site** : ST_DENIS_DE_JOUHET\n**Coordonnées** : 46.526419, 1.862527\n[[https://www.google.com/maps?q=46.526419,1.862527|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.526419,1.862527|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.4453,1.86991|Déchèterie d'Aigurande (Aigurande, 9.0 km)]] — 0254063733\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 10.4 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.5931,1.97452|Déchèterie de Montgivray (Montgivray, 11.3 km)]] — 0254060887\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.526419,1.862527,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SANS OBJET Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 01/10/25 D cockpit O+M: LOUIS Jean Paul: 0687675206 Mode de prévenance par téléphone: 0687675206/ 1 semaine à l'avance Accès: en autonomie",
+    "description": "**Numéro de Work Order** : WO-205543 + WO-228551 + WO-243459\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-10-31\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 7 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : Rue du 14 Juillet 1789\n**Numéro de département** : 36\n**Nom du site** : ST_DENIS_DE_JOUHET\n**Coordonnées** : 46.526419, 1.862527\n[[https://www.google.com/maps?q=46.526419,1.862527|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.526419,1.862527|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.4453,1.86991|Déchèterie d'Aigurande (Aigurande, 9.0 km)]] — 0254063733\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 10.4 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.5931,1.97452|Déchèterie de Montgivray (Montgivray, 11.3 km)]] — 0254060887\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.526419,1.862527,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: SANS OBJET Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 01/10/25 D cockpit O+M: LOUIS Jean Paul: 0687675206 Mode de prévenance par téléphone: 0687675206/ 1 semaine à l'avance Accès: en autonomie",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -179,13 +179,16 @@
     "wo": "WO-205543 + WO-228551 + WO-243459",
     "acces_detail": "Digicode: SANS OBJET Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 01/10/25 D cockpit O+M: LOUIS Jean Paul: 0687675206 Mode de prévenance par téléphone: 0687675206/ 1 semaine à l'avance Accès: en autonomie",
     "date_planification": "2026-10-31",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-03",
     "calque": "mp-ev-2026-p2-ensio",
     "code_fra": "FRA03600048",
     "das_prevenance": "7 jours",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Ball"
     }
    }
