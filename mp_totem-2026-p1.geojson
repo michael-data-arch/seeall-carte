@@ -1002,7 +1002,7 @@
    },
    "properties": {
     "name": "FRA07600376 — CRIQUETOT_L_ESNEVAL_NEW",
-    "description": "**Numéro de Work Order** : WO-206012\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 330 Route des Catelets\n**Numéro de département** : 76\n**Nom du site** : CRIQUETOT_L_ESNEVAL_NEW\n**Coordonnées** : 49.658838, 0.255117\n[[https://www.google.com/maps?q=49.658838,0.255117|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.658838,0.255117|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 3.0 km)]] — 0235289868\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 8.7 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 10.0 km)]] — 0235292898\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.658838,0.255117,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Accès aérien(s): Commentaire d'accès: 10/02/26 D cockpit O+M: HAUTOT Nicole: 02 35 27 27 66 Il est pas nécessaire de prévenir Autonome",
+    "description": "**Numéro de Work Order** : WO-206012\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 330 Route des Catelets\n**Numéro de département** : 76\n**Nom du site** : CRIQUETOT_L_ESNEVAL_NEW\n**Coordonnées** : 49.658838, 0.255117\n[[https://www.google.com/maps?q=49.658838,0.255117|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.658838,0.255117|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 3.0 km)]] — 0235289868\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 8.7 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 10.0 km)]] — 0235292898\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.658838,0.255117,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Accès aérien(s): Commentaire d'accès: 10/02/26 D cockpit O+M: HAUTOT Nicole: 02 35 27 27 66 Il est pas nécessaire de prévenir Autonome",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -1015,12 +1015,15 @@
     "wo": "WO-206012",
     "acces_detail": "Digicode: Badge: Boite à clés: Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Accès aérien(s): Commentaire d'accès: 10/02/26 D cockpit O+M: HAUTOT Nicole: 02 35 27 27 66 Il est pas nécessaire de prévenir Autonome",
     "date_planification": "2026-10-30",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-11-03",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600376",
     "acces_autonome": "autonome",
     "acces_motif": "la fiche déclare l'accès autonome",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
