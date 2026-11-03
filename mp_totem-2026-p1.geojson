@@ -519,7 +519,7 @@
    },
    "properties": {
     "name": "FRA07600069 — YPORT",
-    "description": "**Numéro de Work Order** : WO-205900\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-02\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0247089\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-02\n**Fin de validité** : 2026-11-02\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Eglise - Place de Verdun\n**Numéro de département** : 76\n**Nom du site** : YPORT\n**Coordonnées** : 49.737482, 0.314189\n[[https://www.google.com/maps?q=49.737482,0.314189|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.737482,0.314189|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 4.0 km)]] — 0235292898\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 11.5 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 12.4 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.737482,0.314189,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 22/10/25 D cockpit O+M:\nCOMMUNE D'YPORT: 02 35 27 30 24\nMode de prévenance par mail: mairie@ville-yport.fr/ 1 semaine à l'avance\nAccès: non autonomie; l’accès lui sera ouvert par un technicien de la mairie",
+    "description": "**Numéro de Work Order** : WO-205900\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-02\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0247089\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-02\n**Fin de validité** : 2026-11-02\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Eglise - Place de Verdun\n**Numéro de département** : 76\n**Nom du site** : YPORT\n**Coordonnées** : 49.737482, 0.314189\n[[https://www.google.com/maps?q=49.737482,0.314189|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.737482,0.314189|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 4.0 km)]] — 0235292898\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 11.5 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 12.4 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.737482,0.314189,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 22/10/25 D cockpit O+M:\nCOMMUNE D'YPORT: 02 35 27 30 24\nMode de prévenance par mail: mairie@ville-yport.fr/ 1 semaine à l'avance\nAccès: non autonomie; l’accès lui sera ouvert par un technicien de la mairie",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -539,12 +539,15 @@
     "das_fin": "2026-11-02",
     "das_provenance": "airtable",
     "das_prevenance": "7 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Manu",
+    "declare_le": "2026-11-03",
     "calque": "mp-totem-2026-p1",
     "code_fra": "FRA07600069",
     "acces_autonome": "non_autonome",
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
