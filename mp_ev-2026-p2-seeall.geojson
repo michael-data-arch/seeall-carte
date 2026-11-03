@@ -1959,7 +1959,7 @@
    },
    "properties": {
     "name": "FRA06300101 — CELLES_SUR_DUROLLE",
-    "description": "**Numéro de Work Order** : WO-225851 + WO-244668\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-09\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LIEU DIT LES LAVANDES LA GRIMARDIE\n**Numéro de département** : 63\n**Nom du site** : CELLES_SUR_DUROLLE\n**Coordonnées** : 45.846764, 3.598336\n[[https://www.google.com/maps?q=45.846764,3.598336|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.846764,3.598336|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8819,3.59646|Déchèterie de Saint Rémy sur Durolle (Saint-Rémy-sur-Durolle, 3.9 km)]] — 0473801211\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 6.7 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 10.0 km)]] — 0473512512\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.846764,3.598336,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Code cadenas: 1563 Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 17/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM Cadenas ILOQ 19121833 sur le portillon Cadenas ILOQ 19145485 sur le pylône Cadenas ILOQ 19163620 sur le local technique",
+    "description": "**Numéro de Work Order** : WO-225851 + WO-244668\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-09\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LIEU DIT LES LAVANDES LA GRIMARDIE\n**Numéro de département** : 63\n**Nom du site** : CELLES_SUR_DUROLLE\n**Coordonnées** : 45.846764, 3.598336\n[[https://www.google.com/maps?q=45.846764,3.598336|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.846764,3.598336|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8819,3.59646|Déchèterie de Saint Rémy sur Durolle (Saint-Rémy-sur-Durolle, 3.9 km)]] — 0473801211\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 6.7 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 10.0 km)]] — 0473512512\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.846764,3.598336,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Code cadenas: 1563 Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 17/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM Cadenas ILOQ 19121833 sur le portillon Cadenas ILOQ 19145485 sur le pylône Cadenas ILOQ 19163620 sur le local technique",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1973,12 +1973,15 @@
     "consignation": "Consigne Particulière",
     "acces_detail": "Digicode: Code cadenas: 1563 Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 17/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM Cadenas ILOQ 19121833 sur le portillon Cadenas ILOQ 19145485 sur le pylône Cadenas ILOQ 19163620 sur le local technique",
     "date_planification": "2026-11-09",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-03",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300101",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
