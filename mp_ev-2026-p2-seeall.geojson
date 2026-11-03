@@ -644,7 +644,7 @@
    },
    "properties": {
     "name": "FRA00300119 — ST_POURCAIN_BEAUBREUIL",
-    "description": "**Numéro de Work Order** : WO-224313 + WO-244556\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-05\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 31 b RUE CHAMPS FEUILLET\n**Numéro de département** : 3\n**Nom du site** : ST_POURCAIN_BEAUBREUIL\n**Coordonnées** : 46.304209, 3.283921\n[[https://www.google.com/maps?q=46.304209,3.283921|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.304209,3.283921|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2542,3.28227|Déchèterie de Bayet (Bayet, 5.6 km)]] — 0684747035\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 8.8 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 9.5 km)]] — 0685017218\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.304209,3.283921,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - JPM G00293DF21 NON DISPONIBLE DANS LA BAC ABLOY ORANGE Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-224313 + WO-244556\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-05\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 31 b RUE CHAMPS FEUILLET\n**Numéro de département** : 3\n**Nom du site** : ST_POURCAIN_BEAUBREUIL\n**Coordonnées** : 46.304209, 3.283921\n[[https://www.google.com/maps?q=46.304209,3.283921|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.304209,3.283921|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2542,3.28227|Déchèterie de Bayet (Bayet, 5.6 km)]] — 0684747035\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 8.8 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 9.5 km)]] — 0685017218\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.304209,3.283921,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - JPM G00293DF21 NON DISPONIBLE DANS LA BAC ABLOY ORANGE Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -658,12 +658,15 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Electronique - JPM G00293DF21 NON DISPONIBLE DANS LA BAC ABLOY ORANGE Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès:",
     "date_planification": "2026-10-05",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-03",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300119",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
