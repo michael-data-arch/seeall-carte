@@ -2307,7 +2307,7 @@
    },
    "properties": {
     "name": "FRA06300146 — LARMENTIER",
-    "description": "**Numéro de Work Order** : WO-225854 + WO-244695\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-17\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Délai de prévenance** : 10 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LA FONTANE\n**Numéro de département** : 63\n**Nom du site** : LARMENTIER\n**Coordonnées** : 45.885814, 3.620686\n[[https://www.google.com/maps?q=45.885814,3.620686|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.885814,3.620686|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8819,3.59646|Déchèterie de Saint Rémy sur Durolle (Saint-Rémy-sur-Durolle, 1.9 km)]] — 0473801211\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 10.0 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.9501,3.48088|Déchèterie de Puy-guillaume (Puy-Guillaume, 13.0 km)]] — 0473946739\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.885814,3.620686,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 10.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 17/03/26 D cockpit O+M: COMMUNE DE PALLADUC: 04 73 94 32 41 Prévenance à faire par mail: contact@commune-palladuc.fr/ 10j à l'avance Les moyens d'accès sont à solliciter dans le mail",
+    "description": "**Numéro de Work Order** : WO-225854 + WO-244695\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-17\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : le bailleur n'a pas encore donné les modalités\n**Délai de prévenance** : 10 jours\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LA FONTANE\n**Numéro de département** : 63\n**Nom du site** : LARMENTIER\n**Coordonnées** : 45.885814, 3.620686\n[[https://www.google.com/maps?q=45.885814,3.620686|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.885814,3.620686|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8819,3.59646|Déchèterie de Saint Rémy sur Durolle (Saint-Rémy-sur-Durolle, 1.9 km)]] — 0473801211\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 10.0 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.9501,3.48088|Déchèterie de Puy-guillaume (Puy-Guillaume, 13.0 km)]] — 0473946739\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.885814,3.620686,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 10.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 17/03/26 D cockpit O+M: COMMUNE DE PALLADUC: 04 73 94 32 41 Prévenance à faire par mail: contact@commune-palladuc.fr/ 10j à l'avance Les moyens d'accès sont à solliciter dans le mail",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2320,13 +2320,16 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 10.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 17/03/26 D cockpit O+M: COMMUNE DE PALLADUC: 04 73 94 32 41 Prévenance à faire par mail: contact@commune-palladuc.fr/ 10j à l'avance Les moyens d'accès sont à solliciter dans le mail",
     "date_planification": "2026-11-17",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-03",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300146",
     "das_prevenance": "10 jours",
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
