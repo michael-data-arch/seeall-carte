@@ -359,7 +359,7 @@
    },
    "properties": {
     "name": "FRA00300072 — LE_MAYET_DE_MONTAGNE",
-    "description": "**Numéro de Work Order** : WO-224307 + WO-244524\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : accès libre\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit la Roche\n**Numéro de département** : 3\n**Nom du site** : LE_MAYET_DE_MONTAGNE\n**Coordonnées** : 46.061620, 3.651050\n[[https://www.google.com/maps?q=46.061620,3.651050|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.061620,3.651050|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.0582,3.65774|Déchèterie de Mayet de Montagne (Le Mayet-de-Montagne, 0.6 km)]] — 0685017217\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 14.8 km)]] — 0685017215\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 18.0 km)]] — 0470962261\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.061620,3.651050,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 02/06/2026 Na cockpit O+M : Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-224307 + WO-244524\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : accès libre\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit la Roche\n**Numéro de département** : 3\n**Nom du site** : LE_MAYET_DE_MONTAGNE\n**Coordonnées** : 46.061620, 3.651050\n[[https://www.google.com/maps?q=46.061620,3.651050|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.061620,3.651050|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.0582,3.65774|Déchèterie de Mayet de Montagne (Le Mayet-de-Montagne, 0.6 km)]] — 0685017217\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 14.8 km)]] — 0685017215\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 18.0 km)]] — 0470962261\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.061620,3.651050,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 02/06/2026 Na cockpit O+M : Site en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -372,12 +372,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 02/06/2026 Na cockpit O+M : Site en accès libre",
     "date_planification": "2026-09-24",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-03",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300072",
     "acces_autonome": "autonome",
     "acces_motif": "accès libre",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
