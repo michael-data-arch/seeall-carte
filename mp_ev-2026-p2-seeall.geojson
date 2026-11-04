@@ -2505,7 +2505,7 @@
    },
    "properties": {
     "name": "FRA06300153 — OLLIERGUES_D906",
-    "description": "**Numéro de Work Order** : WO-225231 + WO-244702\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258027\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Garret Prés de D225\n**Numéro de département** : 63\n**Nom du site** : OLLIERGUES_D906\n**Coordonnées** : 45.696389, 3.584993\n[[https://www.google.com/maps?q=45.696389,3.584993|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.696389,3.584993|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 8.4 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 16.4 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.714,3.35215|Déchèterie de Billom (Montmorin, 18.2 km)]] — 0473620251\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.696389,3.584993,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 09/10/25 D cockpit O+M:\nTAILLANDIER Didier: 06 62 73 61 81\nSans prévenance\nAccès: en autonomie\n\n02/07/2026 Cockpit O+M / A\nCadenas ILOQ 16928954 sur le portillon\nCadenas ILOQ 64036538 sur le pylône",
+    "description": "**Numéro de Work Order** : WO-225231 + WO-244702\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258027\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Garret Prés de D225\n**Numéro de département** : 63\n**Nom du site** : OLLIERGUES_D906\n**Coordonnées** : 45.696389, 3.584993\n[[https://www.google.com/maps?q=45.696389,3.584993|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.696389,3.584993|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 8.4 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 16.4 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.714,3.35215|Déchèterie de Billom (Montmorin, 18.2 km)]] — 0473620251\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.696389,3.584993,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 09/10/25 D cockpit O+M:\nTAILLANDIER Didier: 06 62 73 61 81\nSans prévenance\nAccès: en autonomie\n\n02/07/2026 Cockpit O+M / A\nCadenas ILOQ 16928954 sur le portillon\nCadenas ILOQ 64036538 sur le pylône",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2523,12 +2523,15 @@
     "das_debut": "2026-11-04",
     "das_fin": "2026-11-05",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300153",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
