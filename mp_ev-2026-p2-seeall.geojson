@@ -491,7 +491,7 @@
    },
    "properties": {
     "name": "FRA00300082 — CREUZIER_LE_VIEUX",
-    "description": "**Numéro de Work Order** : WO-224310 + WO-244528\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 W Rue du Commandant Aubrey\n**Numéro de département** : 3\n**Nom du site** : CREUZIER_LE_VIEUX\n**Coordonnées** : 46.162705, 3.412592\n[[https://www.google.com/maps?q=46.162705,3.412592|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.162705,3.412592|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 2.4 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 3.6 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.2126,3.44066|Déchèterie de Saint Germain des Fossés (Saint-Germain-des-Fossés, 6.0 km)]] — 0685017214\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.162705,3.412592,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY_portail OR/ACBCK (en stock sous CWB !) Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-224310 + WO-244528\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 W Rue du Commandant Aubrey\n**Numéro de département** : 3\n**Nom du site** : CREUZIER_LE_VIEUX\n**Coordonnées** : 46.162705, 3.412592\n[[https://www.google.com/maps?q=46.162705,3.412592|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.162705,3.412592|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 2.4 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 3.6 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.2126,3.44066|Déchèterie de Saint Germain des Fossés (Saint-Germain-des-Fossés, 6.0 km)]] — 0685017214\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.162705,3.412592,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY_portail OR/ACBCK (en stock sous CWB !) Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -505,13 +505,16 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY_portail OR/ACBCK (en stock sous CWB !) Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
     "date_planification": "2026-09-24",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300082",
     "das_prevenance": "1 jour",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
