@@ -2474,7 +2474,7 @@
    },
    "properties": {
     "name": "FRA06300152 — ZB2_TOURS_SUR_MEYMONT",
-    "description": "**Numéro de Work Order** : WO-223930 + WO-244701\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit L Oligne D.225 - Rte Dptale de Veyre-Monton\n**Numéro de département** : 63\n**Nom du site** : ZB2_TOURS_SUR_MEYMONT\n**Coordonnées** : 45.663606, 3.577218\n[[https://www.google.com/maps?q=45.663606,3.577218|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.663606,3.577218|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 11.7 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.714,3.35215|Déchèterie de Billom (Montmorin, 18.4 km)]] — 0473620251\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 19.7 km)]] — 0473801506\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.663606,3.577218,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 30/07/2026 cockpit O+M / A Cadenas ILOQ 16929134 sur le portillon Cadenas ILOQ 19105529 sur le pylône",
+    "description": "**Numéro de Work Order** : WO-223930 + WO-244701\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit L Oligne D.225 - Rte Dptale de Veyre-Monton\n**Numéro de département** : 63\n**Nom du site** : ZB2_TOURS_SUR_MEYMONT\n**Coordonnées** : 45.663606, 3.577218\n[[https://www.google.com/maps?q=45.663606,3.577218|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.663606,3.577218|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 11.7 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.714,3.35215|Déchèterie de Billom (Montmorin, 18.4 km)]] — 0473620251\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 19.7 km)]] — 0473801506\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.663606,3.577218,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 30/07/2026 cockpit O+M / A Cadenas ILOQ 16929134 sur le portillon Cadenas ILOQ 19105529 sur le pylône",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2487,12 +2487,15 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 30/07/2026 cockpit O+M / A Cadenas ILOQ 16929134 sur le portillon Cadenas ILOQ 19105529 sur le pylône",
     "date_planification": "2026-11-19",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300152",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
