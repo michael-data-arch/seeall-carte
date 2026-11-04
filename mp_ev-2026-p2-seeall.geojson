@@ -50,7 +50,7 @@
    },
    "properties": {
     "name": "FRA00300033 — LE_DONJON",
-    "description": "**Numéro de Work Order** : WO-223742 + WO-244499\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-16\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0257999\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Les Padeliers CD15 - chemin des Padeliers - Site FT\n**Numéro de département** : 3\n**Nom du site** : LE_DONJON\n**Coordonnées** : 46.344992, 3.803054\n[[https://www.google.com/maps?q=46.344992,3.803054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.344992,3.803054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 1.8 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.2374,3.64286|Déchèterie de Saint Prix (Saint-Prix, 17.2 km)]] — 0685017216\n[[https://www.google.com/maps?q=46.2727,4.03581|Déchèterie de Marcigny (MARCIGNY, 19.6 km)]] — 0385252209\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.344992,3.803054,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non\nBadge:\nBoite à clés:\nPortail / Portillon: Non - Clé Socotel dans la BAC Abloy\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 01/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-223742 + WO-244499\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-16\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0257999\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Les Padeliers CD15 - chemin des Padeliers - Site FT\n**Numéro de département** : 3\n**Nom du site** : LE_DONJON\n**Coordonnées** : 46.344992, 3.803054\n[[https://www.google.com/maps?q=46.344992,3.803054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.344992,3.803054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 1.8 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.2374,3.64286|Déchèterie de Saint Prix (Saint-Prix, 17.2 km)]] — 0685017216\n[[https://www.google.com/maps?q=46.2727,4.03581|Déchèterie de Marcigny (MARCIGNY, 19.6 km)]] — 0385252209\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.344992,3.803054,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non\nBadge:\nBoite à clés:\nPortail / Portillon: Non - Clé Socotel dans la BAC Abloy\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 01/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -69,12 +69,15 @@
     "das_debut": "2026-11-04",
     "das_fin": "2026-11-04",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300033",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
@@ -691,7 +694,7 @@
    },
    "properties": {
     "name": "FRA00300122 — MOLINET_N79",
-    "description": "**Numéro de Work Order** : WO-226101 + WO-244558\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257988\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu - dit Chem rural\n**Numéro de département** : 3\n**Nom du site** : MOLINET_N79\n**Coordonnées** : 46.456379, 3.900002\n[[https://www.google.com/maps?q=46.456379,3.900002|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.456379,3.900002|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.4811,4.01045|Déchèterie de Digoin (Digoin, 8.9 km)]] — 0648643683\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 13.6 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.4573,4.10688|Déchèterie de Paray-le-monial (Paray-le-Monial, 15.8 km)]] — 0385819458\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.456379,3.900002,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 17/04/2026 Na cockpit O+M :\nAprès confirmation auprès du bailleur: sans prévenance\n\nAccès en Autonomie\n\nContact:\n- M. MARMILLOT : 03 85 88 51 17",
+    "description": "**Numéro de Work Order** : WO-226101 + WO-244558\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257988\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu - dit Chem rural\n**Numéro de département** : 3\n**Nom du site** : MOLINET_N79\n**Coordonnées** : 46.456379, 3.900002\n[[https://www.google.com/maps?q=46.456379,3.900002|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.456379,3.900002|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.4811,4.01045|Déchèterie de Digoin (Digoin, 8.9 km)]] — 0648643683\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 13.6 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.4573,4.10688|Déchèterie de Paray-le-monial (Paray-le-Monial, 15.8 km)]] — 0385819458\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.456379,3.900002,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 17/04/2026 Na cockpit O+M :\nAprès confirmation auprès du bailleur: sans prévenance\n\nAccès en Autonomie\n\nContact:\n- M. MARMILLOT : 03 85 88 51 17",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -709,12 +712,15 @@
     "das_debut": "2026-11-04",
     "das_fin": "2026-11-04",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300122",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
@@ -1824,7 +1830,7 @@
    },
    "properties": {
     "name": "FRA06300078 — ORLEAT",
-    "description": "**Numéro de Work Order** : WO-224449 + WO-244651\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-03\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257994\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : BTS LDT LES SALARDS ORLEAT\n**Numéro de département** : 63\n**Nom du site** : ORLEAT\n**Coordonnées** : 45.853904, 3.445910\n[[https://www.google.com/maps?q=45.853904,3.445910|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.853904,3.445910|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 5.7 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 6.3 km)]] — 0473626928\n[[https://www.google.com/maps?q=45.9501,3.48088|Déchèterie de Puy-guillaume (Puy-Guillaume, 11.0 km)]] — 0473946739\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.853904,3.445910,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: Commentaire aérien: ABLOY_Pylône OR/ABUUHClés ABLOY - Anti-intrusion Autre : NON- Digicode :NON CADENAS ABLOY / 24h/24 7j/7\nCommentaire moyen d'accès:ABLOY OR/ABUQI",
+    "description": "**Numéro de Work Order** : WO-224449 + WO-244651\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-03\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257994\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : BTS LDT LES SALARDS ORLEAT\n**Numéro de département** : 63\n**Nom du site** : ORLEAT\n**Coordonnées** : 45.853904, 3.445910\n[[https://www.google.com/maps?q=45.853904,3.445910|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.853904,3.445910|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 5.7 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 6.3 km)]] — 0473626928\n[[https://www.google.com/maps?q=45.9501,3.48088|Déchèterie de Puy-guillaume (Puy-Guillaume, 11.0 km)]] — 0473946739\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.853904,3.445910,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: Commentaire aérien: ABLOY_Pylône OR/ABUUHClés ABLOY - Anti-intrusion Autre : NON- Digicode :NON CADENAS ABLOY / 24h/24 7j/7\nCommentaire moyen d'accès:ABLOY OR/ABUQI",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1842,12 +1848,15 @@
     "das_debut": "2026-11-04",
     "das_fin": "2026-11-05",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300078",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
