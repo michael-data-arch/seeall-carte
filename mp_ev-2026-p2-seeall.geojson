@@ -364,7 +364,7 @@
    },
    "properties": {
     "name": "FRA00300067 — ZB2_THIONNE",
-    "description": "**Numéro de Work Order** : WO-225095 + WO-244520\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-23\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0257997\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-11-06\n**Fin de validité** : 2026-11-06\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Le Château d'eau RD 102 EDF : ST VOIR\n**Numéro de département** : 3\n**Nom du site** : ZB2_THIONNE\n**Coordonnées** : 46.409159, 3.544715\n[[https://www.google.com/maps?q=46.409159,3.544715|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.409159,3.544715|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 15.7 km)]] — 0685017218\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 17.3 km)]] — 0680844934\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 19.7 km)]] — 0673673673\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.409159,3.544715,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-225095 + WO-244520\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-23\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0257997\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-11-06\n**Fin de validité** : 2026-11-06\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Le Château d'eau RD 102 EDF : ST VOIR\n**Numéro de département** : 3\n**Nom du site** : ZB2_THIONNE\n**Coordonnées** : 46.409159, 3.544715\n[[https://www.google.com/maps?q=46.409159,3.544715|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.409159,3.544715|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 15.7 km)]] — 0685017218\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 17.3 km)]] — 0680844934\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 19.7 km)]] — 0673673673\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.409159,3.544715,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -383,12 +383,15 @@
     "das_fin": "2026-11-06",
     "das_provenance": "airtable",
     "das_prevenance": "1 jour",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300067",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
