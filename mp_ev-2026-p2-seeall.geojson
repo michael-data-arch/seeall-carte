@@ -322,7 +322,7 @@
    },
    "properties": {
     "name": "FRA00300066 — ZB2_TREZELLES",
-    "description": "**Numéro de Work Order** : WO-224821 + WO-244519\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257990\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Décampe Chem de Trezelles\n**Numéro de département** : 3\n**Nom du site** : ZB2_TREZELLES\n**Coordonnées** : 46.339996, 3.614168\n[[https://www.google.com/maps?q=46.339996,3.614168|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.339996,3.614168|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2374,3.64286|Déchèterie de Saint Prix (Saint-Prix, 11.6 km)]] — 0685017216\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 11.8 km)]] — 0680844934\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 13.8 km)]] — 0470318382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.339996,3.614168,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-224821 + WO-244519\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257990\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Décampe Chem de Trezelles\n**Numéro de département** : 3\n**Nom du site** : ZB2_TREZELLES\n**Coordonnées** : 46.339996, 3.614168\n[[https://www.google.com/maps?q=46.339996,3.614168|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.339996,3.614168|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2374,3.64286|Déchèterie de Saint Prix (Saint-Prix, 11.6 km)]] — 0685017216\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 11.8 km)]] — 0680844934\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 13.8 km)]] — 0470318382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.339996,3.614168,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -340,12 +340,15 @@
     "das_debut": "2026-11-04",
     "das_fin": "2026-11-04",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300066",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
