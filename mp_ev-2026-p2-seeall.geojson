@@ -2886,7 +2886,7 @@
    },
    "properties": {
     "name": "FRA06300192 — SERMENTIZON_FT",
-    "description": "**Numéro de Work Order** : WO-225857 + WO-244726\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258006\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit RICOU\n**Numéro de département** : 63\n**Nom du site** : SERMENTIZON_FT\n**Coordonnées** : 45.760548, 3.475278\n[[https://www.google.com/maps?q=45.760548,3.475278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.760548,3.475278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 5.2 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 8.8 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 9.5 km)]] — 0473626928\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.760548,3.475278,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: cle socotel\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/02/2026: COCKPIT O+M / JO\nDIG 2; autonome (Full TOTEM)\n20004672 ILOQ POR Shelter\n19163094 ILOQ POR-ZT",
+    "description": "**Numéro de Work Order** : WO-225857 + WO-244726\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258006\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit RICOU\n**Numéro de département** : 63\n**Nom du site** : SERMENTIZON_FT\n**Coordonnées** : 45.760548, 3.475278\n[[https://www.google.com/maps?q=45.760548,3.475278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.760548,3.475278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 5.2 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 8.8 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 9.5 km)]] — 0473626928\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.760548,3.475278,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: cle socotel\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/02/2026: COCKPIT O+M / JO\nDIG 2; autonome (Full TOTEM)\n20004672 ILOQ POR Shelter\n19163094 ILOQ POR-ZT",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2904,12 +2904,15 @@
     "das_debut": "2026-11-04",
     "das_fin": "2026-11-05",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300192",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
