@@ -44,140 +44,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.803054,
-     46.344992
-    ]
-   },
-   "properties": {
-    "name": "FRA00300033 — LE_DONJON",
-    "description": "**Numéro de Work Order** : WO-223742 + WO-244499\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-16\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0257999\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Les Padeliers CD15 - chemin des Padeliers - Site FT\n**Numéro de département** : 3\n**Nom du site** : LE_DONJON\n**Coordonnées** : 46.344992, 3.803054\n[[https://www.google.com/maps?q=46.344992,3.803054|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.344992,3.803054|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 1.8 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.2374,3.64286|Déchèterie de Saint Prix (Saint-Prix, 17.2 km)]] — 0685017216\n[[https://www.google.com/maps?q=46.2727,4.03581|Déchèterie de Marcigny (MARCIGNY, 19.6 km)]] — 0385252209\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.344992,3.803054,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Non\nBadge:\nBoite à clés:\nPortail / Portillon: Non - Clé Socotel dans la BAC Abloy\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 01/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LE_DONJON",
-    "adresse": "Lieu-dit Les Padeliers CD15 - chemin des Padeliers - Site FT",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-223742 + WO-244499",
-    "scope": "EV - Espaces Verts",
-    "consignation": "Consigne Particulière",
-    "acces_detail": "Digicode: Non\nBadge:\nBoite à clés:\nPortail / Portillon: Non - Clé Socotel dans la BAC Abloy\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 01/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
-    "date_planification": "2026-09-16",
-    "das_numero": "DAS-N0257999",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-04",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "Adil Adil",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300033",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.758889,
-     46.28333
-    ]
-   },
-   "properties": {
-    "name": "FRA00300034 — LODDES",
-    "description": "**Numéro de Work Order** : WO-224304 + WO-244500\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-16\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0257989\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Mont St Joseph D127 Mont St Joseph\n**Numéro de département** : 3\n**Nom du site** : LODDES\n**Coordonnées** : 46.283330, 3.758889\n[[https://www.google.com/maps?q=46.283330,3.758889|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.283330,3.758889|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 8.8 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.2374,3.64286|Déchèterie de Saint Prix (Saint-Prix, 10.3 km)]] — 0685017216\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 18.3 km)]] — 0680844934\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.283330,3.758889,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: FRA00300034\nDIG 2; autonome (Full TOTEM)",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LODDES",
-    "adresse": "Lieu-dit Mont St Joseph D127 Mont St Joseph",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224304 + WO-244500",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: FRA00300034\nDIG 2; autonome (Full TOTEM)",
-    "date_planification": "2026-09-16",
-    "das_numero": "DAS-N0257989",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-04",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "Adil Adil",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300034",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.473306,
-     46.275674
-    ]
-   },
-   "properties": {
-    "name": "FRA00300039 — LANGY",
-    "description": "**Numéro de Work Order** : WO-224017 + WO-244505\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-17\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0257735\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-03\n**Fin de validité** : 2026-11-03\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 0 Route du Château d'Eau\n**Numéro de département** : 3\n**Nom du site** : LANGY\n**Coordonnées** : 46.275674, 3.473306\n[[https://www.google.com/maps?q=46.275674,3.473306|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.275674,3.473306|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 4.6 km)]] — 0680844934\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 6.0 km)]] — 0685017218\n[[https://www.google.com/maps?q=46.2126,3.44066|Déchèterie de Saint Germain des Fossés (Saint-Germain-des-Fossés, 7.4 km)]] — 0685017214\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.275674,3.473306,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: OR/ACAUM\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 17/11/2025 Na cockpit O+M:\nSite DIG 2, Accès en Autonomie, Full TOTEM",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LANGY",
-    "adresse": "0 Route du Château d'Eau",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224017 + WO-244505",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: OR/ACAUM\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 17/11/2025 Na cockpit O+M:\nSite DIG 2, Accès en Autonomie, Full TOTEM",
-    "date_planification": "2026-09-17",
-    "das_numero": "DAS-N0257735",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-03",
-    "das_fin": "2026-11-03",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "Adil Adil",
-    "declare_le": "2026-11-03",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300039",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.436964,
      46.109402
     ]
    },
    "properties": {
     "name": "FRA00300058 — VICHY_PRESQU_ILE",
-    "description": "**Numéro de Work Order** : WO-224305 + WO-244512\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-21\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin des Placats\n**Numéro de département** : 3\n**Nom du site** : VICHY_PRESQU_ILE\n**Coordonnées** : 46.109402, 3.436964\n[[https://www.google.com/maps?q=46.109402,3.436964|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.109402,3.436964|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 3.8 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 4.2 km)]] — 0685017215\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 6.2 km)]] — 0684839604\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.109402,3.436964,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - A demander à la mairie d’Abrest Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-224305 + WO-244512\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-21\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258496\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin des Placats\n**Numéro de département** : 3\n**Nom du site** : VICHY_PRESQU_ILE\n**Coordonnées** : 46.109402, 3.436964\n[[https://www.google.com/maps?q=46.109402,3.436964|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.109402,3.436964|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 3.8 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 4.2 km)]] — 0685017215\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 6.2 km)]] — 0684839604\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.109402,3.436964,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - A demander à la mairie d’Abrest\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -188,9 +61,14 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-224305 + WO-244512",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - A demander à la mairie d’Abrest Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - A demander à la mairie d’Abrest\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-09-21",
     "nacelle": true,
+    "das_numero": "DAS-N0258496",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-04",
+    "das_fin": "2026-11-04",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300058",
     "acces_autonome": "autonome",
@@ -212,7 +90,7 @@
    },
    "properties": {
     "name": "FRA00300059 — VICHY_GRAMONT",
-    "description": "**Numéro de Work Order** : WO-225926 + WO-244513\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-21\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Place de la Gare\n**Numéro de département** : 3\n**Nom du site** : VICHY_GRAMONT\n**Coordonnées** : 46.128077, 3.430908\n[[https://www.google.com/maps?q=46.128077,3.430908|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.128077,3.430908|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 2.2 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 4.5 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 6.3 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.128077,3.430908,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès: 22/05/2026 Na cockpit O+M : 🏢 Site SNCF RÉSEAU 📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire : 👉 https://rmp.telecom.reseau.sncf.fr/demande 📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire. *Maintenance autonome : 5 jours ouvrés *Maintenance autonome urgente : 2 jours ouvrés avec la possibilité de traiter les demandes les plus urgentes sous 24h. *Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM *Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
+    "description": "**Numéro de Work Order** : WO-225926 + WO-244513\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-21\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0258455\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Place de la Gare\n**Numéro de département** : 3\n**Nom du site** : VICHY_GRAMONT\n**Coordonnées** : 46.128077, 3.430908\n[[https://www.google.com/maps?q=46.128077,3.430908|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.128077,3.430908|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 2.2 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 4.5 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 6.3 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.128077,3.430908,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 22/05/2026 Na cockpit O+M :\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -223,9 +101,14 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-225926 + WO-244513",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Cadenas: Commentaire d'accès: 22/05/2026 Na cockpit O+M : 🏢 Site SNCF RÉSEAU 📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire : 👉 https://rmp.telecom.reseau.sncf.fr/demande 📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire. *Maintenance autonome : 5 jours ouvrés *Maintenance autonome urgente : 2 jours ouvrés avec la possibilité de traiter les demandes les plus urgentes sous 24h. *Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM *Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 22/05/2026 Na cockpit O+M :\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
     "date_planification": "2026-09-21",
     "nacelle": true,
+    "das_numero": "DAS-N0258455",
+    "das_statut": "En attente",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-05",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300059",
     "acces_autonome": "non_autonome",
@@ -247,7 +130,7 @@
    },
    "properties": {
     "name": "FRA00300060 — VICHY_HOPITAL",
-    "description": "**Numéro de Work Order** : WO-225097 + WO-244514\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-21\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Emprise SNCF Rue de la Gare EDF : Face au 40 bld de l Hôpital\n**Numéro de département** : 3\n**Nom du site** : VICHY_HOPITAL\n**Coordonnées** : 46.122165, 3.432783\n[[https://www.google.com/maps?q=46.122165,3.432783|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.122165,3.432783|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 2.6 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 5.0 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 5.6 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.122165,3.432783,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - ? PORTAIL SNCF (Normalement toujours ouvert en HO) Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Non Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 22/05/2026 D cockpit O+M 🏢 Site SNCF RÉSEAU 📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire : 👉 https://rmp.telecom.reseau.sncf.fr/demande 📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire. *Maintenance autonome : 5 jours ouvrés *Maintenance autonome urgente : 2 jours ouvrés avec la possibilité de traiter les demandes les plus urgentes sous 24h. *Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM *Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
+    "description": "**Numéro de Work Order** : WO-225097 + WO-244514\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-21\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0258456\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Emprise SNCF Rue de la Gare EDF : Face au 40 bld de l Hôpital\n**Numéro de département** : 3\n**Nom du site** : VICHY_HOPITAL\n**Coordonnées** : 46.122165, 3.432783\n[[https://www.google.com/maps?q=46.122165,3.432783|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.122165,3.432783|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 2.6 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 5.0 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 5.6 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.122165,3.432783,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - ? PORTAIL SNCF (Normalement toujours ouvert en HO)\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge: Non\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 22/05/2026 D cockpit O+M\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -258,100 +141,20 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-225097 + WO-244514",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - ? PORTAIL SNCF (Normalement toujours ouvert en HO) Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Non Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 22/05/2026 D cockpit O+M 🏢 Site SNCF RÉSEAU 📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire : 👉 https://rmp.telecom.reseau.sncf.fr/demande 📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire. *Maintenance autonome : 5 jours ouvrés *Maintenance autonome urgente : 2 jours ouvrés avec la possibilité de traiter les demandes les plus urgentes sous 24h. *Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM *Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - ? PORTAIL SNCF (Normalement toujours ouvert en HO)\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge: Non\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 22/05/2026 D cockpit O+M\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
     "date_planification": "2026-09-21",
     "nacelle": true,
+    "das_numero": "DAS-N0258456",
+    "das_statut": "En attente",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-05",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300060",
     "acces_autonome": "non_autonome",
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.610685,
-     46.384351
-    ]
-   },
-   "properties": {
-    "name": "FRA00300065 — JALIGNY",
-    "description": "**Numéro de Work Order** : WO-225290 + WO-244518\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-22\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257991\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LES POULARDS\n**Numéro de département** : 3\n**Nom du site** : JALIGNY\n**Coordonnées** : 46.384351, 3.610685\n[[https://www.google.com/maps?q=46.384351,3.610685|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.384351,3.610685|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 14.2 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 15.9 km)]] — 0680844934\n[[https://www.google.com/maps?q=46.2374,3.64286|Déchèterie de Saint Prix (Saint-Prix, 16.5 km)]] — 0685017216\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.384351,3.610685,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 03/06/26 D cockpit O+M:\nSite en accès libre",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "JALIGNY",
-    "adresse": "Lieu-dit LES POULARDS",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225290 + WO-244518",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 03/06/26 D cockpit O+M:\nSite en accès libre",
-    "date_planification": "2026-09-22",
-    "nacelle": true,
-    "das_numero": "DAS-N0257991",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-04",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "Adil Adil",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300065",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.614168,
-     46.339996
-    ]
-   },
-   "properties": {
-    "name": "FRA00300066 — ZB2_TREZELLES",
-    "description": "**Numéro de Work Order** : WO-224821 + WO-244519\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257990\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Décampe Chem de Trezelles\n**Numéro de département** : 3\n**Nom du site** : ZB2_TREZELLES\n**Coordonnées** : 46.339996, 3.614168\n[[https://www.google.com/maps?q=46.339996,3.614168|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.339996,3.614168|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2374,3.64286|Déchèterie de Saint Prix (Saint-Prix, 11.6 km)]] — 0685017216\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 11.8 km)]] — 0680844934\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 13.8 km)]] — 0470318382\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.339996,3.614168,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ZB2_TREZELLES",
-    "adresse": "Lieu-dit La Décampe Chem de Trezelles",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224821 + WO-244519",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
-    "date_planification": "2026-09-22",
-    "das_numero": "DAS-N0257990",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-04",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "Adil Adil",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300066",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Default"
     }
    }
@@ -447,51 +250,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.441797,
-     46.219209
-    ]
-   },
-   "properties": {
-    "name": "FRA00300077 — BILLY",
-    "description": "**Numéro de Work Order** : WO-225098 + WO-244526\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : aucune\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LDT LA CHASSAIGNE CD 173\n**Numéro de département** : 3\n**Nom du site** : BILLY\n**Coordonnées** : 46.219209, 3.441797\n[[https://www.google.com/maps?q=46.219209,3.441797|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.219209,3.441797|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2126,3.44066|Déchèterie de Saint Germain des Fossés (Saint-Germain-des-Fossés, 0.7 km)]] — 0685017214\n[[https://www.google.com/maps?q=46.2541,3.52402|Déchèterie de Saint Gérand le Puy (Saint-Gérand-le-Puy, 7.4 km)]] — 0680844934\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 8.5 km)]] — 0470962261\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.219209,3.441797,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 0.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 30/07/2026 Cockpit O+M / A Serrure ILOQ 19068112 Cadenas ILOQ 16927662 sur le pylône",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "BILLY",
-    "adresse": "LDT LA CHASSAIGNE CD 173",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225098 + WO-244526",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: 0.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 30/07/2026 Cockpit O+M / A Serrure ILOQ 19068112 Cadenas ILOQ 16927662 sur le pylône",
-    "date_planification": "2026-09-24",
-    "etat_terrain": "fait",
-    "declare_par": "Adil Adil",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300077",
-    "das_prevenance": "aucune",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.412592,
      46.162705
     ]
    },
    "properties": {
     "name": "FRA00300082 — CREUZIER_LE_VIEUX",
-    "description": "**Numéro de Work Order** : WO-224310 + WO-244528\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 W Rue du Commandant Aubrey\n**Numéro de département** : 3\n**Nom du site** : CREUZIER_LE_VIEUX\n**Coordonnées** : 46.162705, 3.412592\n[[https://www.google.com/maps?q=46.162705,3.412592|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.162705,3.412592|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 2.4 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 3.6 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.2126,3.44066|Déchèterie de Saint Germain des Fossés (Saint-Germain-des-Fossés, 6.0 km)]] — 0685017214\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.162705,3.412592,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY_portail OR/ACBCK (en stock sous CWB !) Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-224310 + WO-244528\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258426\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-06\n**Fin de validité** : 2026-11-06\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 W Rue du Commandant Aubrey\n**Numéro de département** : 3\n**Nom du site** : CREUZIER_LE_VIEUX\n**Coordonnées** : 46.162705, 3.412592\n[[https://www.google.com/maps?q=46.162705,3.412592|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.162705,3.412592|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 2.4 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 3.6 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.2126,3.44066|Déchèterie de Saint Germain des Fossés (Saint-Germain-des-Fossés, 6.0 km)]] — 0685017214\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.162705,3.412592,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - ABLOY_portail OR/ACBCK (en stock sous CWB !)\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -502,15 +267,20 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-224310 + WO-244528",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Non - ABLOY_portail OR/ACBCK (en stock sous CWB !) Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - ABLOY_portail OR/ACBCK (en stock sous CWB !)\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-09-24",
     "nacelle": true,
+    "das_numero": "DAS-N0258426",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-06",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
+    "das_prevenance": "1 jour",
     "etat_terrain": "fait",
     "declare_par": "Adil Adil",
     "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300082",
-    "das_prevenance": "1 jour",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
@@ -530,7 +300,7 @@
    },
    "properties": {
     "name": "FRA00300083 — VICHY_ZI",
-    "description": "**Numéro de Work Order** : WO-223744 + WO-244529\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 36, Rue AMPERE ZI\n**Numéro de département** : 3\n**Nom du site** : VICHY_ZI\n**Coordonnées** : 46.140965, 3.439800\n[[https://www.google.com/maps?q=46.140965,3.439800|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.140965,3.439800|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 0.8 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 4.4 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 7.4 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.140965,3.439800,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-223744 + WO-244529\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0258453\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 36, Rue AMPERE ZI\n**Numéro de département** : 3\n**Nom du site** : VICHY_ZI\n**Coordonnées** : 46.140965, 3.439800\n[[https://www.google.com/maps?q=46.140965,3.439800|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.140965,3.439800|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 0.8 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 4.4 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 7.4 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.140965,3.439800,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -541,8 +311,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-223744 + WO-244529",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès:",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-09-25",
+    "das_numero": "DAS-N0258453",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-05",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300083",
     "acces_autonome": "a_confirmer",
@@ -564,7 +339,7 @@
    },
    "properties": {
     "name": "FRA00300084 — CREUZIER_CHARMES",
-    "description": "**Numéro de Work Order** : WO-223745 + WO-244530\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Les Varennes EDF : Rue des Vergnes\n**Numéro de département** : 3\n**Nom du site** : CREUZIER_CHARMES\n**Coordonnées** : 46.155431, 3.423325\n[[https://www.google.com/maps?q=46.155431,3.423325|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.155431,3.423325|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 2.5 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 3.0 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.2126,3.44066|Déchèterie de Saint Germain des Fossés (Saint-Germain-des-Fossés, 6.5 km)]] — 0685017214\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.155431,3.423325,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-223745 + WO-244530\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-25\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258449\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Les Varennes EDF : Rue des Vergnes\n**Numéro de département** : 3\n**Nom du site** : CREUZIER_CHARMES\n**Coordonnées** : 46.155431, 3.423325\n[[https://www.google.com/maps?q=46.155431,3.423325|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.155431,3.423325|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 2.5 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 3.0 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.2126,3.44066|Déchèterie de Saint Germain des Fossés (Saint-Germain-des-Fossés, 6.5 km)]] — 0685017214\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.155431,3.423325,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -575,8 +350,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-223745 + WO-244530",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès:",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-09-25",
+    "das_numero": "DAS-N0258449",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-05",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300084",
     "acces_autonome": "autonome",
@@ -598,7 +378,7 @@
    },
    "properties": {
     "name": "FRA00300085 — VICHY_RTE_DE_PARIS",
-    "description": "**Numéro de Work Order** : WO-224830 + WO-244531\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-25\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Délai de prévenance** : 15 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 53 Route de Paris\n**Numéro de département** : 3\n**Nom du site** : VICHY_RTE_DE_PARIS\n**Coordonnées** : 46.142977, 3.456695\n[[https://www.google.com/maps?q=46.142977,3.456695|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.142977,3.456695|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 0.5 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 5.6 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 7.5 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.142977,3.456695,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique - 1 clé BERN pour le portail d’accès au site Délais de prévenance: 15.0 Accès autonome ? Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 09/02/26 D cockpit O+M: APW FRANCE: 01 78 90 14 00 Prévenance obligatoire par mail: patrimoine@apwfrance.fr Délai de prévenance: 2 semaines à l'avance Les informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance",
+    "description": "**Numéro de Work Order** : WO-224830 + WO-244531\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-25\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0258450\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-20\n**Fin de validité** : 2026-11-20\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 53 Route de Paris\n**Numéro de département** : 3\n**Nom du site** : VICHY_RTE_DE_PARIS\n**Coordonnées** : 46.142977, 3.456695\n[[https://www.google.com/maps?q=46.142977,3.456695|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.142977,3.456695|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 0.5 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 5.6 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 7.5 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.142977,3.456695,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Mécanique - 1 clé BERN pour le portail d’accès au site\nDélais de prévenance: 15.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 09/02/26 D cockpit O+M:\nAPW FRANCE: 01 78 90 14 00\nPrévenance obligatoire par mail: patrimoine@apwfrance.fr\nDélai de prévenance: 2 semaines à l'avance\nLes informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -609,12 +389,17 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-224830 + WO-244531",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique - 1 clé BERN pour le portail d’accès au site Délais de prévenance: 15.0 Accès autonome ? Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 09/02/26 D cockpit O+M: APW FRANCE: 01 78 90 14 00 Prévenance obligatoire par mail: patrimoine@apwfrance.fr Délai de prévenance: 2 semaines à l'avance Les informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance",
+    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Mécanique - 1 clé BERN pour le portail d’accès au site\nDélais de prévenance: 15.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 09/02/26 D cockpit O+M:\nAPW FRANCE: 01 78 90 14 00\nPrévenance obligatoire par mail: patrimoine@apwfrance.fr\nDélai de prévenance: 2 semaines à l'avance\nLes informations d’accès seront communiquées dans leur message. Pensez à les solliciter dans le courriel de prévenance",
     "date_planification": "2026-09-25",
     "nacelle": true,
+    "das_numero": "DAS-N0258450",
+    "das_statut": "Vérification",
+    "das_debut": "2026-11-20",
+    "das_fin": "2026-11-20",
+    "das_provenance": "airtable",
+    "das_prevenance": "15 jours",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300085",
-    "das_prevenance": "15 jours",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
@@ -634,7 +419,7 @@
    },
    "properties": {
     "name": "FRA00300086 — VICHY_GRAVES",
-    "description": "**Numéro de Work Order** : WO-224311 + WO-244532\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-25\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 24 Chemin des Bartins\n**Numéro de département** : 3\n**Nom du site** : VICHY_GRAVES\n**Coordonnées** : 46.137842, 3.428839\n[[https://www.google.com/maps?q=46.137842,3.428839|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.137842,3.428839|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 1.7 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 3.8 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 7.3 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.137842,3.428839,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé bailleur Cadenas: Commentaire d'accès: Accès24hl24h,7jl7j par le Chemin des Bartins",
+    "description": "**Numéro de Work Order** : WO-224311 + WO-244532\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-25\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258454\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 24 Chemin des Bartins\n**Numéro de département** : 3\n**Nom du site** : VICHY_GRAVES\n**Coordonnées** : 46.137842, 3.428839\n[[https://www.google.com/maps?q=46.137842,3.428839|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.137842,3.428839|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.1428,3.44978|Déchèterie de Cusset (Cusset, 1.7 km)]] — 0470962261\n[[https://www.google.com/maps?q=46.1524,3.38485|Déchèterie de Charmeil (Charmeil, 3.8 km)]] — 0684839604\n[[https://www.google.com/maps?q=46.0756,3.46009|Déchèterie de Saint Yorre (Saint-Yorre, 7.3 km)]] — 0685017215\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.137842,3.428839,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Non\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: Accès24hl24h,7jl7j par le Chemin des Bartins",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -645,100 +430,20 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-224311 + WO-244532",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé bailleur Cadenas: Commentaire d'accès: Accès24hl24h,7jl7j par le Chemin des Bartins",
+    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Non\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: Accès24hl24h,7jl7j par le Chemin des Bartins",
     "date_planification": "2026-09-25",
     "nacelle": true,
+    "das_numero": "DAS-N0258454",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-05",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA00300086",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.283921,
-     46.304209
-    ]
-   },
-   "properties": {
-    "name": "FRA00300119 — ST_POURCAIN_BEAUBREUIL",
-    "description": "**Numéro de Work Order** : WO-224313 + WO-244556\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-05\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257667\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-03\n**Fin de validité** : 2026-11-03\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 31 b RUE CHAMPS FEUILLET\n**Numéro de département** : 3\n**Nom du site** : ST_POURCAIN_BEAUBREUIL\n**Coordonnées** : 46.304209, 3.283921\n[[https://www.google.com/maps?q=46.304209,3.283921|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.304209,3.283921|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2542,3.28227|Déchèterie de Bayet (Bayet, 5.6 km)]] — 0684747035\n[[https://www.google.com/maps?q=46.3833,3.29093|Déchèterie de Monetay sur Allier (Monétay-sur-Allier, 8.8 km)]] — 0673673673\n[[https://www.google.com/maps?q=46.3046,3.40756|Déchèterie de Varennes (Varennes-sur-Allier, 9.5 km)]] — 0685017218\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.304209,3.283921,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique - JPM G00293DF21 NON DISPONIBLE DANS LA BAC ABLOY ORANGE\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ST_POURCAIN_BEAUBREUIL",
-    "adresse": "31 b RUE CHAMPS FEUILLET",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224313 + WO-244556",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique - JPM G00293DF21 NON DISPONIBLE DANS LA BAC ABLOY ORANGE\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
-    "date_planification": "2026-10-05",
-    "nacelle": true,
-    "das_numero": "DAS-N0257667",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-03",
-    "das_fin": "2026-11-03",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "Adil Adil",
-    "declare_le": "2026-11-03",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300119",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.900002,
-     46.456379
-    ]
-   },
-   "properties": {
-    "name": "FRA00300122 — MOLINET_N79",
-    "description": "**Numéro de Work Order** : WO-226101 + WO-244558\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-05\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257988\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-04\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu - dit Chem rural\n**Numéro de département** : 3\n**Nom du site** : MOLINET_N79\n**Coordonnées** : 46.456379, 3.900002\n[[https://www.google.com/maps?q=46.456379,3.900002|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.456379,3.900002|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.4811,4.01045|Déchèterie de Digoin (Digoin, 8.9 km)]] — 0648643683\n[[https://www.google.com/maps?q=46.359,3.79229|Déchèterie de le Donjon (Le Donjon, 13.6 km)]] — 0470318382\n[[https://www.google.com/maps?q=46.4573,4.10688|Déchèterie de Paray-le-monial (Paray-le-Monial, 15.8 km)]] — 0385819458\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.456379,3.900002,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 17/04/2026 Na cockpit O+M :\nAprès confirmation auprès du bailleur: sans prévenance\n\nAccès en Autonomie\n\nContact:\n- M. MARMILLOT : 03 85 88 51 17",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "MOLINET_N79",
-    "adresse": "Lieu - dit Chem rural",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-226101 + WO-244558",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 17/04/2026 Na cockpit O+M :\nAprès confirmation auprès du bailleur: sans prévenance\n\nAccès en Autonomie\n\nContact:\n- M. MARMILLOT : 03 85 88 51 17",
-    "date_planification": "2026-10-05",
-    "das_numero": "DAS-N0257988",
-    "das_statut": "Refusée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-04",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "Adil Adil",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300122",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Default"
     }
    }
@@ -857,7 +562,7 @@
    },
    "properties": {
     "name": "FRA04300013 — AUREC",
-    "description": "**Numéro de Work Order** : WO-224178 + WO-244610\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Délai de prévenance** : 10 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Route de Nurols\n**Numéro de département** : 43\n**Nom du site** : AUREC\n**Coordonnées** : 45.375552, 4.197218\n[[https://www.google.com/maps?q=45.375552,4.197218|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.375552,4.197218|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 9.0 km)]]\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 11.7 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 13.7 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.375552,4.197218,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 10.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 23/04/26 D cockpit O+M: (à titre informatif) COMMUNE DE AUREC SUR LOIRE: 04 77 35 40 13 Prévenance à faire par mail: mairie@mairie-aurec.fr (à l’attention de M. BOYER)/ 10j à l'avance Autonome",
+    "description": "**Numéro de Work Order** : WO-224178 + WO-244610\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0258442\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-16\n**Fin de validité** : 2026-11-17\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Route de Nurols\n**Numéro de département** : 43\n**Nom du site** : AUREC\n**Coordonnées** : 45.375552, 4.197218\n[[https://www.google.com/maps?q=45.375552,4.197218|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.375552,4.197218|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 9.0 km)]]\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 11.7 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 13.7 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.375552,4.197218,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance: 10.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 23/04/26 D cockpit O+M:\n(à titre informatif)\nCOMMUNE DE AUREC SUR LOIRE: 04 77 35 40 13\nPrévenance à faire par mail: mairie@mairie-aurec.fr (à l’attention de M. BOYER)/ 10j à l'avance\nAutonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -868,11 +573,16 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-224178 + WO-244610",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: 10.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 23/04/26 D cockpit O+M: (à titre informatif) COMMUNE DE AUREC SUR LOIRE: 04 77 35 40 13 Prévenance à faire par mail: mairie@mairie-aurec.fr (à l’attention de M. BOYER)/ 10j à l'avance Autonome",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance: 10.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 23/04/26 D cockpit O+M:\n(à titre informatif)\nCOMMUNE DE AUREC SUR LOIRE: 04 77 35 40 13\nPrévenance à faire par mail: mairie@mairie-aurec.fr (à l’attention de M. BOYER)/ 10j à l'avance\nAutonome",
     "date_planification": "2026-10-21",
+    "das_numero": "DAS-N0258442",
+    "das_statut": "Vérification",
+    "das_debut": "2026-11-16",
+    "das_fin": "2026-11-17",
+    "das_provenance": "airtable",
+    "das_prevenance": "10 jours",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300013",
-    "das_prevenance": "10 jours",
     "acces_autonome": "autonome",
     "acces_motif": "la fiche déclare l'accès autonome",
     "_umap_options": {
@@ -892,7 +602,7 @@
    },
    "properties": {
     "name": "FRA04300014 — MONISTROL",
-    "description": "**Numéro de Work Order** : WO-226022 + WO-244611\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 W Zone industrielle Chavanon\n**Numéro de département** : 43\n**Nom du site** : MONISTROL\n**Coordonnées** : 45.274636, 4.193900\n[[https://www.google.com/maps?q=45.274636,4.193900|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.274636,4.193900|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 0.5 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 7.6 km)]]\n[[https://www.google.com/maps?q=45.2173,4.02388|Déchèterie de Retournac (RETOURNAC, 14.8 km)]] — 0471652342\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.274636,4.193900,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-226022 + WO-244611\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258445\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 W Zone industrielle Chavanon\n**Numéro de département** : 43\n**Nom du site** : MONISTROL\n**Coordonnées** : 45.274636, 4.193900\n[[https://www.google.com/maps?q=45.274636,4.193900|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.274636,4.193900|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 0.5 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 7.6 km)]]\n[[https://www.google.com/maps?q=45.2173,4.02388|Déchèterie de Retournac (RETOURNAC, 14.8 km)]] — 0471652342\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.274636,4.193900,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY - Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -903,8 +613,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-226022 + WO-244611",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY - Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Clé électronique ABLOY Cadenas: Commentaire d'accès:",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY - Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-10-21",
+    "das_numero": "DAS-N0258445",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300014",
     "acces_autonome": "autonome",
@@ -994,7 +709,7 @@
    },
    "properties": {
     "name": "FRA04300022 — ST_JULIEN_CHAPTEUIL",
-    "description": "**Numéro de Work Order** : WO-224179 + WO-244615\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 244 D Zone Artisanale\n**Numéro de département** : 43\n**Nom du site** : ST_JULIEN_CHAPTEUIL\n**Coordonnées** : 45.028330, 4.058332\n[[https://www.google.com/maps?q=45.028330,4.058332|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.028330,4.058332|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0408,4.05833|Déchèterie de Saint-julien-chapteuil (Saint-Julien-Chapteuil, 1.4 km)]]\n[[https://www.google.com/maps?q=45.0521,3.96273|Déchèterie de Saint Germain Laprade (Saint-Germain-Laprade, 8.0 km)]] — 0471035500\n[[https://www.google.com/maps?q=44.9451,3.99076|Déchèterie le Monastier-sur-gazeille Bourlatas (Le Monastier-sur-Gazeille, 10.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.028330,4.058332,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé mécanique Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: MALLET Marcel: 0623050836 Il est pas nécessaire de prévenir Autonome",
+    "description": "**Numéro de Work Order** : WO-224179 + WO-244615\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0258451\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 244 D Zone Artisanale\n**Numéro de département** : 43\n**Nom du site** : ST_JULIEN_CHAPTEUIL\n**Coordonnées** : 45.028330, 4.058332\n[[https://www.google.com/maps?q=45.028330,4.058332|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.028330,4.058332|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0408,4.05833|Déchèterie de Saint-julien-chapteuil (Saint-Julien-Chapteuil, 1.4 km)]]\n[[https://www.google.com/maps?q=45.0521,3.96273|Déchèterie de Saint Germain Laprade (Saint-Germain-Laprade, 8.0 km)]] — 0471035500\n[[https://www.google.com/maps?q=44.9451,3.99076|Déchèterie le Monastier-sur-gazeille Bourlatas (Le Monastier-sur-Gazeille, 10.7 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.028330,4.058332,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Non\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 12/02/26 D cockpit O+M:\nMALLET Marcel: 0623050836\nIl est pas nécessaire de prévenir\nAutonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1005,8 +720,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-224179 + WO-244615",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Non Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Clé mécanique Cadenas: Commentaire d'accès: 12/02/26 D cockpit O+M: MALLET Marcel: 0623050836 Il est pas nécessaire de prévenir Autonome",
+    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Non\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 12/02/26 D cockpit O+M:\nMALLET Marcel: 0623050836\nIl est pas nécessaire de prévenir\nAutonome",
     "date_planification": "2026-10-22",
+    "das_numero": "DAS-N0258451",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300022",
     "acces_autonome": "autonome",
@@ -1028,7 +748,7 @@
    },
    "properties": {
     "name": "FRA04300023 — MONTFAUCON",
-    "description": "**Numéro de Work Order** : WO-225621 + WO-244616\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit les Barbières\n**Numéro de département** : 43\n**Nom du site** : MONTFAUCON\n**Coordonnées** : 45.186104, 4.310831\n[[https://www.google.com/maps?q=45.186104,4.310831|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.186104,4.310831|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 3.3 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 13.3 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 15.0 km)]] — 0471659302\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.186104,4.310831,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 17/03/2026 : Jo cockpit O+M Accès autonome , site full ILOQ : 19166365 : ILOQ portillon ZT pylône 19161765 : ILOQ Porte coutier 19081035 : ILOQ Porte shelter",
+    "description": "**Numéro de Work Order** : WO-225621 + WO-244616\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258447\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit les Barbières\n**Numéro de département** : 43\n**Nom du site** : MONTFAUCON\n**Coordonnées** : 45.186104, 4.310831\n[[https://www.google.com/maps?q=45.186104,4.310831|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.186104,4.310831|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 3.3 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 13.3 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 15.0 km)]] — 0471659302\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.186104,4.310831,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 17/03/2026 : Jo cockpit O+M\nAccès autonome , site full ILOQ :\n19166365 : ILOQ portillon ZT pylône\n19161765 : ILOQ Porte coutier\n19081035 : ILOQ Porte shelter",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1039,8 +759,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-225621 + WO-244616",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 17/03/2026 : Jo cockpit O+M Accès autonome , site full ILOQ : 19166365 : ILOQ portillon ZT pylône 19161765 : ILOQ Porte coutier 19081035 : ILOQ Porte shelter",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 17/03/2026 : Jo cockpit O+M\nAccès autonome , site full ILOQ :\n19166365 : ILOQ portillon ZT pylône\n19161765 : ILOQ Porte coutier\n19081035 : ILOQ Porte shelter",
     "date_planification": "2026-10-22",
+    "das_numero": "DAS-N0258447",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300023",
     "acces_autonome": "autonome",
@@ -1164,7 +889,7 @@
    },
    "properties": {
     "name": "FRA04300027 — MONTESSUS",
-    "description": "**Numéro de Work Order** : WO-225208 + WO-244620\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-23\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin du VARAN AU PINAY TERRE de VILLENEUVE\n**Numéro de département** : 43\n**Nom du site** : MONTESSUS\n**Coordonnées** : 45.364444, 4.264444\n[[https://www.google.com/maps?q=45.364444,4.264444|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.364444,4.264444|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 11.9 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 12.6 km)]]\n[[https://www.google.com/maps?q=45.5099,4.27434|Déchèterie Saint-just-saint-rambert (Saint-Just-Saint-Rambert, 16.2 km)]] — 0477369148\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.364444,4.264444,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - Clé ABLOY Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 05/03/2026 Na cockpit O+M : COMMUNE DE ST FERREOL D AUROURE : 04 77 35 50 25 Pour toute intervention, merci d'envoyer un mail à commune.saint.ferreol@orange.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès en autonomie.",
+    "description": "**Numéro de Work Order** : WO-225208 + WO-244620\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-23\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258443\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin du VARAN AU PINAY TERRE de VILLENEUVE\n**Numéro de département** : 43\n**Nom du site** : MONTESSUS\n**Coordonnées** : 45.364444, 4.264444\n[[https://www.google.com/maps?q=45.364444,4.264444|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.364444,4.264444|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 11.9 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 12.6 km)]]\n[[https://www.google.com/maps?q=45.5099,4.27434|Déchèterie Saint-just-saint-rambert (Saint-Just-Saint-Rambert, 16.2 km)]] — 0477369148\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.364444,4.264444,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - Clé ABLOY\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 05/03/2026 Na cockpit O+M :\nCOMMUNE DE ST FERREOL D AUROURE : 04 77 35 50 25\n\nPour toute intervention, merci d'envoyer un mail à commune.saint.ferreol@orange.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès en autonomie.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1175,8 +900,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-225208 + WO-244620",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique - Clé ABLOY Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 05/03/2026 Na cockpit O+M : COMMUNE DE ST FERREOL D AUROURE : 04 77 35 50 25 Pour toute intervention, merci d'envoyer un mail à commune.saint.ferreol@orange.fr Délai de prévenance: 5 jours ouvrés à l'avance Accès en autonomie.",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - Clé ABLOY\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 05/03/2026 Na cockpit O+M :\nCOMMUNE DE ST FERREOL D AUROURE : 04 77 35 50 25\n\nPour toute intervention, merci d'envoyer un mail à commune.saint.ferreol@orange.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès en autonomie.",
     "date_planification": "2026-10-23",
+    "das_numero": "DAS-N0258443",
+    "das_statut": "Vérification",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300027",
     "acces_autonome": "autonome",
@@ -1233,7 +963,7 @@
    },
    "properties": {
     "name": "FRA04300029 — CHAMBON_SUR_LIGNON",
-    "description": "**Numéro de Work Order** : WO-225838 + WO-244622\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-26\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : le Bois de Peybroussou\n**Numéro de département** : 43\n**Nom du site** : CHAMBON_SUR_LIGNON\n**Coordonnées** : 45.070833, 4.316667\n[[https://www.google.com/maps?q=45.070833,4.316667|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.070833,4.316667|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 2.4 km)]] — 0471659302\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 14.2 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.1434,4.12535|Déchèterie d'Yssingeaux (Yssingeaux, 17.0 km)]] — 0471560178\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.070833,4.316667,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 25/11/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-225838 + WO-244622\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-26\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258448\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : le Bois de Peybroussou\n**Numéro de département** : 43\n**Nom du site** : CHAMBON_SUR_LIGNON\n**Coordonnées** : 45.070833, 4.316667\n[[https://www.google.com/maps?q=45.070833,4.316667|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.070833,4.316667|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 2.4 km)]] — 0471659302\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 14.2 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.1434,4.12535|Déchèterie d'Yssingeaux (Yssingeaux, 17.0 km)]] — 0471560178\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.070833,4.316667,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 25/11/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1244,9 +974,14 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-225838 + WO-244622",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 25/11/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 25/11/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "date_planification": "2026-10-26",
     "nacelle": true,
+    "das_numero": "DAS-N0258448",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300029",
     "acces_autonome": "non_autonome",
@@ -1303,7 +1038,7 @@
    },
    "properties": {
     "name": "FRA04300034 — CRAPONNE_SUR_ARZON",
-    "description": "**Numéro de Work Order** : WO-223916 + WO-244627\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-27\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Prunerolles\n**Numéro de département** : 43\n**Nom du site** : CRAPONNE_SUR_ARZON\n**Coordonnées** : 45.339721, 3.849993\n[[https://www.google.com/maps?q=45.339721,3.849993|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.339721,3.849993|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 2.2 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 11.1 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 11.8 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.339721,3.849993,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 23/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-223916 + WO-244627\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-27\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258439\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Prunerolles\n**Numéro de département** : 43\n**Nom du site** : CRAPONNE_SUR_ARZON\n**Coordonnées** : 45.339721, 3.849993\n[[https://www.google.com/maps?q=45.339721,3.849993|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.339721,3.849993|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 2.2 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 11.1 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 11.8 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.339721,3.849993,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 23/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1314,8 +1049,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-223916 + WO-244627",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 23/12/25 D cockpit O+M: DIG 2; autonome (Full TOTEM)",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 23/12/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "date_planification": "2026-10-27",
+    "das_numero": "DAS-N0258439",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300034",
     "acces_autonome": "non_autonome",
@@ -1371,7 +1111,7 @@
    },
    "properties": {
     "name": "FRA04300037 — SERVISSAC_D15",
-    "description": "**Numéro de Work Order** : WO-225839 + WO-244629\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-27\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit : La Sabotte\n**Numéro de département** : 43\n**Nom du site** : SERVISSAC_D15\n**Coordonnées** : 45.016105, 3.967777\n[[https://www.google.com/maps?q=45.016105,3.967777|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.016105,3.967777|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0521,3.96273|Déchèterie de Saint Germain Laprade (Saint-Germain-Laprade, 4.0 km)]] — 0471035500\n[[https://www.google.com/maps?q=45.0035,3.87928|Déchèterie du Puy-en-velay (Le Puy-en-Velay, 7.1 km)]] — 0471095423\n[[https://www.google.com/maps?q=45.0408,4.05833|Déchèterie de Saint-julien-chapteuil (Saint-Julien-Chapteuil, 7.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.016105,3.967777,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 05/06/26 D cockpit O+M: Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-225839 + WO-244629\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-27\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258452\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit : La Sabotte\n**Numéro de département** : 43\n**Nom du site** : SERVISSAC_D15\n**Coordonnées** : 45.016105, 3.967777\n[[https://www.google.com/maps?q=45.016105,3.967777|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.016105,3.967777|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0521,3.96273|Déchèterie de Saint Germain Laprade (Saint-Germain-Laprade, 4.0 km)]] — 0471035500\n[[https://www.google.com/maps?q=45.0035,3.87928|Déchèterie du Puy-en-velay (Le Puy-en-Velay, 7.1 km)]] — 0471095423\n[[https://www.google.com/maps?q=45.0408,4.05833|Déchèterie de Saint-julien-chapteuil (Saint-Julien-Chapteuil, 7.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.016105,3.967777,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/06/26 D cockpit O+M:\nSite en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1382,8 +1122,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-225839 + WO-244629",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 05/06/26 D cockpit O+M: Site en accès libre",
+    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 05/06/26 D cockpit O+M:\nSite en accès libre",
     "date_planification": "2026-10-27",
+    "das_numero": "DAS-N0258452",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300037",
     "acces_autonome": "autonome",
@@ -1473,7 +1218,7 @@
    },
    "properties": {
     "name": "FRA04300055 — SAINT_PAL_DE_CHALENCON_FT",
-    "description": "**Numéro de Work Order** : WO-223917 + WO-244632\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-28\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit GRENOUILLOUX\n**Numéro de département** : 43\n**Nom du site** : SAINT_PAL_DE_CHALENCON_FT\n**Coordonnées** : 45.355274, 3.971940\n[[https://www.google.com/maps?q=45.355274,3.971940|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.355274,3.971940|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 1.6 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 9.9 km)]] — 0477507483\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 11.3 km)]] — 0471033715\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.355274,3.971940,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 16/07/2026 Na cockpit O+M : Site DIG 3, responsable à contacter en cas de soucis d'accès: isabelle.gonzalez@orange.com / mickael.lheritier@orange.com mettre en copie herve.dhermy@orange.com NB: Veuillez trouver ci‑dessous le document indiquant la procédure à suivre en cas de problème d’accès.",
+    "description": "**Numéro de Work Order** : WO-223917 + WO-244632\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-28\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258440\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit GRENOUILLOUX\n**Numéro de département** : 43\n**Nom du site** : SAINT_PAL_DE_CHALENCON_FT\n**Coordonnées** : 45.355274, 3.971940\n[[https://www.google.com/maps?q=45.355274,3.971940|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.355274,3.971940|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 1.6 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 9.9 km)]] — 0477507483\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 11.3 km)]] — 0471033715\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.355274,3.971940,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 16/07/2026 Na cockpit O+M :\nSite DIG 3, responsable à contacter en cas de soucis d'accès: isabelle.gonzalez@orange.com / mickael.lheritier@orange.com mettre en copie herve.dhermy@orange.com\n\nNB: Veuillez trouver ci‑dessous le document indiquant la procédure à suivre en cas de problème d’accès.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1484,8 +1229,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-223917 + WO-244632",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 16/07/2026 Na cockpit O+M : Site DIG 3, responsable à contacter en cas de soucis d'accès: isabelle.gonzalez@orange.com / mickael.lheritier@orange.com mettre en copie herve.dhermy@orange.com NB: Veuillez trouver ci‑dessous le document indiquant la procédure à suivre en cas de problème d’accès.",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 16/07/2026 Na cockpit O+M :\nSite DIG 3, responsable à contacter en cas de soucis d'accès: isabelle.gonzalez@orange.com / mickael.lheritier@orange.com mettre en copie herve.dhermy@orange.com\n\nNB: Veuillez trouver ci‑dessous le document indiquant la procédure à suivre en cas de problème d’accès.",
     "date_planification": "2026-10-28",
+    "das_numero": "DAS-N0258440",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300055",
     "acces_autonome": "non_autonome",
@@ -1842,55 +1592,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.44591,
-     45.853904
-    ]
-   },
-   "properties": {
-    "name": "FRA06300078 — ORLEAT",
-    "description": "**Numéro de Work Order** : WO-224449 + WO-244651\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-03\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257994\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : BTS LDT LES SALARDS ORLEAT\n**Numéro de département** : 63\n**Nom du site** : ORLEAT\n**Coordonnées** : 45.853904, 3.445910\n[[https://www.google.com/maps?q=45.853904,3.445910|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.853904,3.445910|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 5.7 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 6.3 km)]] — 0473626928\n[[https://www.google.com/maps?q=45.9501,3.48088|Déchèterie de Puy-guillaume (Puy-Guillaume, 11.0 km)]] — 0473946739\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.853904,3.445910,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: Commentaire aérien: ABLOY_Pylône OR/ABUUHClés ABLOY - Anti-intrusion Autre : NON- Digicode :NON CADENAS ABLOY / 24h/24 7j/7\nCommentaire moyen d'accès:ABLOY OR/ABUQI",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ORLEAT",
-    "adresse": "BTS LDT LES SALARDS ORLEAT",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224449 + WO-244651",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: Commentaire aérien: ABLOY_Pylône OR/ABUUHClés ABLOY - Anti-intrusion Autre : NON- Digicode :NON CADENAS ABLOY / 24h/24 7j/7\nCommentaire moyen d'accès:ABLOY OR/ABUQI",
-    "date_planification": "2026-11-03",
-    "das_numero": "DAS-N0257994",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-05",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300078",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.38111,
      45.828611
     ]
    },
    "properties": {
     "name": "FRA06300079 — LEZOUX_VILLE",
-    "description": "**Numéro de Work Order** : WO-225647 + WO-244652\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-03\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0258019\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-10\n**Fin de validité** : 2026-11-11\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 4 Rue Saint Taurin\n**Numéro de département** : 63\n**Nom du site** : LEZOUX_VILLE\n**Coordonnées** : 45.828611, 3.381110\n[[https://www.google.com/maps?q=45.828611,3.381110|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.828611,3.381110|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 1.3 km)]] — 0473626928\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 10.3 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.9244,3.3426|Déchèterie de Maringues (Maringues, 11.1 km)]] — 0473792268\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.828611,3.381110,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 5.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge: Non\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés:\nCadenas:\n\nCommentaire d'accès: MK - 19/08/25\nMail à utiliser pour les prévenances : service.technique@mrmonrepos.fr",
+    "description": "**Numéro de Work Order** : WO-225647 + WO-244652\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-03\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0258019\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-11-10\n**Fin de validité** : 2026-11-11\n**Délai de prévenance** : 5 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 4 Rue Saint Taurin\n**Numéro de département** : 63\n**Nom du site** : LEZOUX_VILLE\n**Coordonnées** : 45.828611, 3.381110\n[[https://www.google.com/maps?q=45.828611,3.381110|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.828611,3.381110|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 1.3 km)]] — 0473626928\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 10.3 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.9244,3.3426|Déchèterie de Maringues (Maringues, 11.1 km)]] — 0473792268\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.828611,3.381110,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance: 5.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge: Non\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés:\nCadenas:\n\nCommentaire d'accès: MK - 19/08/25\nMail à utiliser pour les prévenances : service.technique@mrmonrepos.fr",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1905,7 +1613,7 @@
     "date_planification": "2026-11-03",
     "nacelle": true,
     "das_numero": "DAS-N0258019",
-    "das_statut": "Vérification",
+    "das_statut": "Suspendue",
     "das_debut": "2026-11-10",
     "das_fin": "2026-11-11",
     "das_provenance": "airtable",
@@ -1934,7 +1642,7 @@
    },
    "properties": {
     "name": "FRA06300093 — ARLANC",
-    "description": "**Numéro de Work Order** : WO-224451 + WO-244661\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-05\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue DOCTEUR SABATERIE Site FT\n**Numéro de département** : 63\n**Nom du site** : ARLANC\n**Coordonnées** : 45.415000, 3.725556\n[[https://www.google.com/maps?q=45.415000,3.725556|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.415000,3.725556|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 9.7 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 13.3 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 21.9 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.415000,3.725556,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique - Dans la BAC ( mais inutile serrure portail HS) Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 05/05/26 D cockpit O+M: Site DIG 3, responsable à contacter en cas de soucis d'accès: laurent.leblay@orange.com / nadege.lassalas@orange.com mettre en copie herve.dhermy@orange.com NB: Veuillez trouver ci‑dessous le document indiquant la procédure à suivre en cas de problème d’accès.",
+    "description": "**Numéro de Work Order** : WO-224451 + WO-244661\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-05\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258437\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue DOCTEUR SABATERIE Site FT\n**Numéro de département** : 63\n**Nom du site** : ARLANC\n**Coordonnées** : 45.415000, 3.725556\n[[https://www.google.com/maps?q=45.415000,3.725556|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.415000,3.725556|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 9.7 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 13.3 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 21.9 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.415000,3.725556,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Mécanique - Dans la BAC ( mais inutile serrure portail HS)\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 05/05/26 D cockpit O+M:\nSite DIG 3, responsable à contacter en cas de soucis d'accès: laurent.leblay@orange.com / nadege.lassalas@orange.com mettre en copie herve.dhermy@orange.com\n\nNB: Veuillez trouver ci‑dessous le document indiquant la procédure à suivre en cas de problème d’accès.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1945,8 +1653,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-224451 + WO-244661",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Mécanique - Dans la BAC ( mais inutile serrure portail HS) Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 05/05/26 D cockpit O+M: Site DIG 3, responsable à contacter en cas de soucis d'accès: laurent.leblay@orange.com / nadege.lassalas@orange.com mettre en copie herve.dhermy@orange.com NB: Veuillez trouver ci‑dessous le document indiquant la procédure à suivre en cas de problème d’accès.",
+    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Mécanique - Dans la BAC ( mais inutile serrure portail HS)\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 05/05/26 D cockpit O+M:\nSite DIG 3, responsable à contacter en cas de soucis d'accès: laurent.leblay@orange.com / nadege.lassalas@orange.com mettre en copie herve.dhermy@orange.com\n\nNB: Veuillez trouver ci‑dessous le document indiquant la procédure à suivre en cas de problème d’accès.",
     "date_planification": "2026-11-05",
+    "das_numero": "DAS-N0258437",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300093",
     "acces_autonome": "non_autonome",
@@ -1968,7 +1681,7 @@
    },
    "properties": {
     "name": "FRA06300094 — ZB2_MEDEYROLLES",
-    "description": "**Numéro de Work Order** : WO-225000 + WO-244662\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-06\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 15 jours\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Casse Chemin rural\n**Numéro de département** : 63\n**Nom du site** : ZB2_MEDEYROLLES\n**Coordonnées** : 45.404942, 3.807184\n[[https://www.google.com/maps?q=45.404942,3.807184|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.404942,3.807184|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 9.3 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 11.8 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 15.6 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.404942,3.807184,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 15.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 19/03/2026 Na cockpit O+M : COMMUNE DE MEDEYROLLES:04 73 95 90 68 À titre informatif, merci d'envoyer un mail à medeyrolles-mairie@orange.fr Délai de prévenance: 15 jours à l'avance Accès en autonomie. 29/06/2026 Cockpit O+M / A Serrure ILOQ 64036578 sur le portillon Cadenas ILOQ 16929124 sur le pylône",
+    "description": "**Numéro de Work Order** : WO-225000 + WO-244662\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-06\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258438\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-26\n**Fin de validité** : 2026-11-27\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Casse Chemin rural\n**Numéro de département** : 63\n**Nom du site** : ZB2_MEDEYROLLES\n**Coordonnées** : 45.404942, 3.807184\n[[https://www.google.com/maps?q=45.404942,3.807184|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.404942,3.807184|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 9.3 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 11.8 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 15.6 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.404942,3.807184,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance: 15.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 19/03/2026 Na cockpit O+M :\nCOMMUNE DE MEDEYROLLES:04 73 95 90 68\n\nÀ titre informatif, merci d'envoyer un mail à medeyrolles-mairie@orange.fr\n\nDélai de prévenance: 15 jours à l'avance\n\nAccès en autonomie.\n\n29/06/2026 Cockpit O+M / A\nSerrure ILOQ 64036578 sur le portillon\nCadenas ILOQ 16929124 sur le pylône",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1979,11 +1692,16 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-225000 + WO-244662",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 15.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 19/03/2026 Na cockpit O+M : COMMUNE DE MEDEYROLLES:04 73 95 90 68 À titre informatif, merci d'envoyer un mail à medeyrolles-mairie@orange.fr Délai de prévenance: 15 jours à l'avance Accès en autonomie. 29/06/2026 Cockpit O+M / A Serrure ILOQ 64036578 sur le portillon Cadenas ILOQ 16929124 sur le pylône",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance: 15.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 19/03/2026 Na cockpit O+M :\nCOMMUNE DE MEDEYROLLES:04 73 95 90 68\n\nÀ titre informatif, merci d'envoyer un mail à medeyrolles-mairie@orange.fr\n\nDélai de prévenance: 15 jours à l'avance\n\nAccès en autonomie.\n\n29/06/2026 Cockpit O+M / A\nSerrure ILOQ 64036578 sur le portillon\nCadenas ILOQ 16929124 sur le pylône",
     "date_planification": "2026-11-06",
+    "das_numero": "DAS-N0258438",
+    "das_statut": "Vérification",
+    "das_debut": "2026-11-26",
+    "das_fin": "2026-11-27",
+    "das_provenance": "airtable",
+    "das_prevenance": "15 jours",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300094",
-    "das_prevenance": "15 jours",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
@@ -2068,43 +1786,6 @@
     "code_fra": "FRA06300109",
     "acces_autonome": "non_autonome",
     "acces_motif": "intervention accompagnée",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.502607,
-     45.855157
-    ]
-   },
-   "properties": {
-    "name": "FRA06300110 — PRADOUX",
-    "description": "**Numéro de Work Order** : WO-244674\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-10\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 9997 Zone industrielle de Felet\n**Numéro de département** : 63\n**Nom du site** : PRADOUX\n**Coordonnées** : 45.855157, 3.502607\n[[https://www.google.com/maps?q=45.855157,3.502607|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.855157,3.502607|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 2.4 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.8819,3.59646|Déchèterie de Saint Rémy sur Durolle (Saint-Rémy-sur-Durolle, 7.9 km)]] — 0473801211\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 10.1 km)]] — 0473626928\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.855157,3.502607,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "PRADOUX",
-    "adresse": "9997 Zone industrielle de Felet",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-244674",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès:",
-    "date_planification": "2026-11-10",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300110",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#15803D",
      "iconClass": "Default"
@@ -2340,43 +2021,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.367549,
-     45.54747
-    ]
-   },
-   "properties": {
-    "name": "FRA06300135 — SAUXILLANGES",
-    "description": "**Numéro de Work Order** : WO-223928 + WO-244689\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-16\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Complexe Sportif\n**Numéro de département** : 63\n**Nom du site** : SAUXILLANGES\n**Coordonnées** : 45.547470, 3.367549\n[[https://www.google.com/maps?q=45.547470,3.367549|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.547470,3.367549|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5516,3.36848|Déchèterie de Sauxillanges (SAUXILLANGES, 0.5 km)]] — 0473968892\n[[https://www.google.com/maps?q=45.5546,3.26724|Déchèterie d'Issoire (ISSOIRE, 7.9 km)]] — 0473893275\n[[https://www.google.com/maps?q=45.4191,3.33776|Déchèterie de Brassac (Brassac les mines, 14.5 km)]] — 0473542348\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.547470,3.367549,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "SAUXILLANGES",
-    "adresse": "Lieu-dit Complexe Sportif",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-223928 + WO-244689",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès:",
-    "date_planification": "2026-11-16",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300135",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.620686,
      45.885814
     ]
@@ -2415,166 +2059,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.465272,
-     45.476384
-    ]
-   },
-   "properties": {
-    "name": "FRA06300150 — VERNET_LA_VARENNE",
-    "description": "**Numéro de Work Order** : WO-224458 + WO-244699\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-18\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Pylône FT - (C1) - VERNET LA VARENNE\n**Numéro de département** : 63\n**Nom du site** : VERNET_LA_VARENNE\n**Coordonnées** : 45.476384, 3.465272\n[[https://www.google.com/maps?q=45.476384,3.465272|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.476384,3.465272|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.5516,3.36848|Déchèterie de Sauxillanges (SAUXILLANGES, 11.3 km)]] — 0473968892\n[[https://www.google.com/maps?q=45.4191,3.33776|Déchèterie de Brassac (Brassac les mines, 11.8 km)]] — 0473542348\n[[https://www.google.com/maps?q=45.5546,3.26724|Déchèterie d'Issoire (ISSOIRE, 17.7 km)]] — 0473893275\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.476384,3.465272,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : DIG 2, Full TOTEM",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "VERNET_LA_VARENNE",
-    "adresse": "Lieu-dit Pylône FT - (C1) - VERNET LA VARENNE",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224458 + WO-244699",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Non Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: NON Badge: Non Clés: Cadenas: Commentaire d'accès: 22/01/2026 Na cockpit O+M : DIG 2, Full TOTEM",
-    "date_planification": "2026-11-18",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300150",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.557848,
-     45.640173
-    ]
-   },
-   "properties": {
-    "name": "FRA06300151 — CUNLHAT",
-    "description": "**Numéro de Work Order** : WO-223929 + WO-244700\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-18\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit ROUSSY\n**Numéro de département** : 63\n**Nom du site** : CUNLHAT\n**Coordonnées** : 45.640173, 3.557848\n[[https://www.google.com/maps?q=45.640173,3.557848|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.640173,3.557848|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 14.0 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.5516,3.36848|Déchèterie de Sauxillanges (SAUXILLANGES, 17.7 km)]] — 0473968892\n[[https://www.google.com/maps?q=45.714,3.35215|Déchèterie de Billom (Montmorin, 18.0 km)]] — 0473620251\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.640173,3.557848,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Clé électronique ABLOY Cadenas: Commentaire d'accès: 18/11/2025 Na cockpit O+M: COTTE Thierry: 06 83 22 79 16 Après confirmation auprès du propriétaire: sans prévenance Accès en Autonomie",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "CUNLHAT",
-    "adresse": "Lieu-dit ROUSSY",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-223929 + WO-244700",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Portail / Portillon: Mécanique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Clé électronique ABLOY Cadenas: Commentaire d'accès: 18/11/2025 Na cockpit O+M: COTTE Thierry: 06 83 22 79 16 Après confirmation auprès du propriétaire: sans prévenance Accès en Autonomie",
-    "date_planification": "2026-11-18",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300151",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.577218,
-     45.663606
-    ]
-   },
-   "properties": {
-    "name": "FRA06300152 — ZB2_TOURS_SUR_MEYMONT",
-    "description": "**Numéro de Work Order** : WO-223930 + WO-244701\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit L Oligne D.225 - Rte Dptale de Veyre-Monton\n**Numéro de département** : 63\n**Nom du site** : ZB2_TOURS_SUR_MEYMONT\n**Coordonnées** : 45.663606, 3.577218\n[[https://www.google.com/maps?q=45.663606,3.577218|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.663606,3.577218|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 11.7 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.714,3.35215|Déchèterie de Billom (Montmorin, 18.4 km)]] — 0473620251\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 19.7 km)]] — 0473801506\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.663606,3.577218,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 30/07/2026 cockpit O+M / A Cadenas ILOQ 16929134 sur le portillon Cadenas ILOQ 19105529 sur le pylône",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ZB2_TOURS_SUR_MEYMONT",
-    "adresse": "Lieu-dit L Oligne D.225 - Rte Dptale de Veyre-Monton",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-223930 + WO-244701",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 30/07/2026 cockpit O+M / A Cadenas ILOQ 16929134 sur le portillon Cadenas ILOQ 19105529 sur le pylône",
-    "date_planification": "2026-11-19",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300152",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.584993,
-     45.696389
-    ]
-   },
-   "properties": {
-    "name": "FRA06300153 — OLLIERGUES_D906",
-    "description": "**Numéro de Work Order** : WO-225231 + WO-244702\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258027\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Garret Prés de D225\n**Numéro de département** : 63\n**Nom du site** : OLLIERGUES_D906\n**Coordonnées** : 45.696389, 3.584993\n[[https://www.google.com/maps?q=45.696389,3.584993|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.696389,3.584993|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 8.4 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 16.4 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.714,3.35215|Déchèterie de Billom (Montmorin, 18.2 km)]] — 0473620251\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.696389,3.584993,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 09/10/25 D cockpit O+M:\nTAILLANDIER Didier: 06 62 73 61 81\nSans prévenance\nAccès: en autonomie\n\n02/07/2026 Cockpit O+M / A\nCadenas ILOQ 16928954 sur le portillon\nCadenas ILOQ 64036538 sur le pylône",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "OLLIERGUES_D906",
-    "adresse": "Lieu-dit Le Garret Prés de D225",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225231 + WO-244702",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 09/10/25 D cockpit O+M:\nTAILLANDIER Didier: 06 62 73 61 81\nSans prévenance\nAccès: en autonomie\n\n02/07/2026 Cockpit O+M / A\nCadenas ILOQ 16928954 sur le portillon\nCadenas ILOQ 64036538 sur le pylône",
-    "date_planification": "2026-11-19",
-    "das_numero": "DAS-N0258027",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-05",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300153",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.734866,
      45.545183
     ]
    },
    "properties": {
     "name": "FRA06300155 — AMBERT_ZI",
-    "description": "**Numéro de Work Order** : WO-226042 + WO-244703\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Gustave Eiffel Parcelle 144\n**Numéro de département** : 63\n**Nom du site** : AMBERT_ZI\n**Coordonnées** : 45.545183, 3.734866\n[[https://www.google.com/maps?q=45.545183,3.734866|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.545183,3.734866|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 24.1 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 25.9 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 27.0 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.545183,3.734866,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-226042 + WO-244703\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258226\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-11-06\n**Fin de validité** : 2026-11-07\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Gustave Eiffel Parcelle 144\n**Numéro de département** : 63\n**Nom du site** : AMBERT_ZI\n**Coordonnées** : 45.545183, 3.734866\n[[https://www.google.com/maps?q=45.545183,3.734866|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.545183,3.734866|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 24.1 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 25.9 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 27.0 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.545183,3.734866,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2585,15 +2076,20 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-226042 + WO-244703",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-11-19",
     "nacelle": true,
+    "das_numero": "DAS-N0258226",
+    "das_statut": "Suspendue",
+    "das_debut": "2026-11-06",
+    "das_fin": "2026-11-07",
+    "das_provenance": "airtable",
+    "das_prevenance": "1 jour",
     "etat_terrain": "fait",
     "declare_par": "L K",
     "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300155",
-    "das_prevenance": "1 jour",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
@@ -2613,7 +2109,7 @@
    },
    "properties": {
     "name": "FRA06300156 — ZB2_ST_JUST",
-    "description": "**Numéro de Work Order** : WO-223931 + WO-244704\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Suc du Tour Chemin rural\n**Numéro de département** : 63\n**Nom du site** : ZB2_ST_JUST\n**Coordonnées** : 45.465781, 3.790989\n[[https://www.google.com/maps?q=45.465781,3.790989|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.465781,3.790989|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 16.2 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 16.7 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 19.8 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.465781,3.790989,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 29/07/2026 M cockpit O+M : Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-223931 + WO-244704\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258434\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Suc du Tour Chemin rural\n**Numéro de département** : 63\n**Nom du site** : ZB2_ST_JUST\n**Coordonnées** : 45.465781, 3.790989\n[[https://www.google.com/maps?q=45.465781,3.790989|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.465781,3.790989|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 16.2 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 16.7 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 19.8 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.465781,3.790989,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 29/07/2026 M cockpit O+M :\nSite en accès libre",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2624,8 +2120,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-223931 + WO-244704",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 29/07/2026 M cockpit O+M : Site en accès libre",
+    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 29/07/2026 M cockpit O+M :\nSite en accès libre",
     "date_planification": "2026-11-19",
+    "das_numero": "DAS-N0258434",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300156",
     "acces_autonome": "autonome",
@@ -2647,7 +2148,7 @@
    },
    "properties": {
     "name": "FRA06300159 — ZB2_LA_CHAULME",
-    "description": "**Numéro de Work Order** : WO-225407 + WO-244706\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Capay\n**Numéro de département** : 63\n**Nom du site** : ZB2_LA_CHAULME\n**Coordonnées** : 45.477407, 3.938931\n[[https://www.google.com/maps?q=45.477407,3.938931|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.477407,3.938931|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 9.4 km)]] — 0477507483\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 14.6 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.6012,4.10492|Déchèterie Savigneux (Savigneux, 18.9 km)]] — 0477587869\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.477407,3.938931,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 11/03/26 D cockpit O+M: CREPET Gerard: 0682429090 Il est pas nécessaire de prévenir Autonome",
+    "description": "**Numéro de Work Order** : WO-225407 + WO-244706\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258436\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Le Capay\n**Numéro de département** : 63\n**Nom du site** : ZB2_LA_CHAULME\n**Coordonnées** : 45.477407, 3.938931\n[[https://www.google.com/maps?q=45.477407,3.938931|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.477407,3.938931|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 9.4 km)]] — 0477507483\n[[https://www.google.com/maps?q=45.3516,3.99166|Decheterie de St Pal de Chalencon (Saint-Pal-de-Chalencon, 14.6 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.6012,4.10492|Déchèterie Savigneux (Savigneux, 18.9 km)]] — 0477587869\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.477407,3.938931,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 11/03/26 D cockpit O+M:\nCREPET Gerard: 0682429090\nIl est pas nécessaire de prévenir\nAutonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2658,8 +2159,13 @@
     "etat_wo": "Travaux planifiés",
     "wo": "WO-225407 + WO-244706",
     "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 11/03/26 D cockpit O+M: CREPET Gerard: 0682429090 Il est pas nécessaire de prévenir Autonome",
+    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 11/03/26 D cockpit O+M:\nCREPET Gerard: 0682429090\nIl est pas nécessaire de prévenir\nAutonome",
     "date_planification": "2026-11-20",
+    "das_numero": "DAS-N0258436",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-11-05",
+    "das_fin": "2026-11-06",
+    "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300159",
     "acces_autonome": "autonome",
@@ -2862,90 +2368,6 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.4593,
-     45.831142
-    ]
-   },
-   "properties": {
-    "name": "FRA06300185 — PESCHADOIRES_N89",
-    "description": "**Numéro de Work Order** : WO-224204 + WO-244723\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-26\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257995\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Bois de la Font\n**Numéro de département** : 63\n**Nom du site** : PESCHADOIRES_N89\n**Coordonnées** : 45.831142, 3.459300\n[[https://www.google.com/maps?q=45.831142,3.459300|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.831142,3.459300|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 4.3 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 6.0 km)]] — 0473626928\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 9.7 km)]] — 0473512512\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.831142,3.459300,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 20/05/26 D cockpit O+M:\nAccès: autonome, sans prévenance",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "PESCHADOIRES_N89",
-    "adresse": "Lieu-dit Bois de la Font",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224204 + WO-244723",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 20/05/26 D cockpit O+M:\nAccès: autonome, sans prévenance",
-    "date_planification": "2026-11-26",
-    "das_numero": "DAS-N0257995",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-05",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300185",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.475278,
-     45.760548
-    ]
-   },
-   "properties": {
-    "name": "FRA06300192 — SERMENTIZON_FT",
-    "description": "**Numéro de Work Order** : WO-225857 + WO-244726\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258006\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit RICOU\n**Numéro de département** : 63\n**Nom du site** : SERMENTIZON_FT\n**Coordonnées** : 45.760548, 3.475278\n[[https://www.google.com/maps?q=45.760548,3.475278|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.760548,3.475278|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7657,3.54218|Déchèterie de Courpière (Courpière, 5.2 km)]] — 0473512512\n[[https://www.google.com/maps?q=45.8352,3.51399|Decheterie de Thiers (THIERS, 8.8 km)]] — 0473801506\n[[https://www.google.com/maps?q=45.8175,3.38385|Pôle de valorisation de Lezoux (Lezoux, 9.5 km)]] — 0473626928\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.760548,3.475278,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: cle socotel\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/02/2026: COCKPIT O+M / JO\nDIG 2; autonome (Full TOTEM)\n20004672 ILOQ POR Shelter\n19163094 ILOQ POR-ZT",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "SERMENTIZON_FT",
-    "adresse": "Lieu-dit RICOU",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225857 + WO-244726",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: cle socotel\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 06/02/2026: COCKPIT O+M / JO\nDIG 2; autonome (Full TOTEM)\n20004672 ILOQ POR Shelter\n19163094 ILOQ POR-ZT",
-    "date_planification": "2026-11-26",
-    "das_numero": "DAS-N0258006",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-05",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300192",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Default"
     }
    }
