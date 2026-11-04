@@ -2571,7 +2571,7 @@
    },
    "properties": {
     "name": "FRA06300155 — AMBERT_ZI",
-    "description": "**Numéro de Work Order** : WO-226042 + WO-244703\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Gustave Eiffel Parcelle 144\n**Numéro de département** : 63\n**Nom du site** : AMBERT_ZI\n**Coordonnées** : 45.545183, 3.734866\n[[https://www.google.com/maps?q=45.545183,3.734866|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.545183,3.734866|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 24.1 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 25.9 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 27.0 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.545183,3.734866,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-226042 + WO-244703\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Gustave Eiffel Parcelle 144\n**Numéro de département** : 63\n**Nom du site** : AMBERT_ZI\n**Coordonnées** : 45.545183, 3.734866\n[[https://www.google.com/maps?q=45.545183,3.734866|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.545183,3.734866|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 24.1 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 25.9 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 27.0 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.545183,3.734866,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -2585,13 +2585,16 @@
     "acces_detail": "Digicode: NON Badge: Boite à clés: Oui Portail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée Délais de prévenance: 1.0 Accès autonome ? Accès équipement(s): Badge: Clés: Clé électronique ILOQ Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès:",
     "date_planification": "2026-11-19",
     "nacelle": true,
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-04",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300155",
     "das_prevenance": "1 jour",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
