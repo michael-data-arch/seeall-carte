@@ -904,7 +904,7 @@
    },
    "properties": {
     "name": "FRA04300027 — MONTESSUS",
-    "description": "**Numéro de Work Order** : WO-225208 + WO-244620\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-23\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258443\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin du VARAN AU PINAY TERRE de VILLENEUVE\n**Numéro de département** : 43\n**Nom du site** : MONTESSUS\n**Coordonnées** : 45.364444, 4.264444\n[[https://www.google.com/maps?q=45.364444,4.264444|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.364444,4.264444|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 11.9 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 12.6 km)]]\n[[https://www.google.com/maps?q=45.5099,4.27434|Déchèterie Saint-just-saint-rambert (Saint-Just-Saint-Rambert, 16.2 km)]] — 0477369148\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.364444,4.264444,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - Clé ABLOY\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 05/03/2026 Na cockpit O+M :\nCOMMUNE DE ST FERREOL D AUROURE : 04 77 35 50 25\n\nPour toute intervention, merci d'envoyer un mail à commune.saint.ferreol@orange.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès en autonomie.",
+    "description": "**Numéro de Work Order** : WO-225208 + WO-244620\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-23\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258443\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Chemin du VARAN AU PINAY TERRE de VILLENEUVE\n**Numéro de département** : 43\n**Nom du site** : MONTESSUS\n**Coordonnées** : 45.364444, 4.264444\n[[https://www.google.com/maps?q=45.364444,4.264444|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.364444,4.264444|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 11.9 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 12.6 km)]]\n[[https://www.google.com/maps?q=45.5099,4.27434|Déchèterie Saint-just-saint-rambert (Saint-Just-Saint-Rambert, 16.2 km)]] — 0477369148\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.364444,4.264444,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique - Clé ABLOY\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 05/03/2026 Na cockpit O+M :\nCOMMUNE DE ST FERREOL D AUROURE : 04 77 35 50 25\n\nPour toute intervention, merci d'envoyer un mail à commune.saint.ferreol@orange.fr\n\nDélai de prévenance: 5 jours ouvrés à l'avance\n\nAccès en autonomie.",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -922,12 +922,15 @@
     "das_debut": "2026-11-05",
     "das_fin": "2026-11-06",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-05",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300027",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
