@@ -617,7 +617,7 @@
    },
    "properties": {
     "name": "FRA04300014 — MONISTROL",
-    "description": "**Numéro de Work Order** : WO-226022 + WO-244611\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258445\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 W Zone industrielle Chavanon\n**Numéro de département** : 43\n**Nom du site** : MONISTROL\n**Coordonnées** : 45.274636, 4.193900\n[[https://www.google.com/maps?q=45.274636,4.193900|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.274636,4.193900|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 0.5 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 7.6 km)]]\n[[https://www.google.com/maps?q=45.2173,4.02388|Déchèterie de Retournac (RETOURNAC, 14.8 km)]] — 0471652342\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.274636,4.193900,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY - Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-226022 + WO-244611\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-21\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258445\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 2 W Zone industrielle Chavanon\n**Numéro de département** : 43\n**Nom du site** : MONISTROL\n**Coordonnées** : 45.274636, 4.193900\n[[https://www.google.com/maps?q=45.274636,4.193900|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.274636,4.193900|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 0.5 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.3172,4.11828|Déchèterie de Bas en Basset (Bas-en-Basset, 7.6 km)]]\n[[https://www.google.com/maps?q=45.2173,4.02388|Déchèterie de Retournac (RETOURNAC, 14.8 km)]] — 0471652342\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.274636,4.193900,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY - Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -635,12 +635,15 @@
     "das_debut": "2026-11-05",
     "das_fin": "2026-11-06",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-05",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300014",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
