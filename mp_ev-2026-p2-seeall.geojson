@@ -766,7 +766,7 @@
    },
    "properties": {
     "name": "FRA04300023 — MONTFAUCON",
-    "description": "**Numéro de Work Order** : WO-225621 + WO-244616\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258447\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit les Barbières\n**Numéro de département** : 43\n**Nom du site** : MONTFAUCON\n**Coordonnées** : 45.186104, 4.310831\n[[https://www.google.com/maps?q=45.186104,4.310831|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.186104,4.310831|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 3.3 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 13.3 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 15.0 km)]] — 0471659302\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.186104,4.310831,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 17/03/2026 : Jo cockpit O+M\nAccès autonome , site full ILOQ :\n19166365 : ILOQ portillon ZT pylône\n19161765 : ILOQ Porte coutier\n19081035 : ILOQ Porte shelter",
+    "description": "**Numéro de Work Order** : WO-225621 + WO-244616\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258447\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-05\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu dit les Barbières\n**Numéro de département** : 43\n**Nom du site** : MONTFAUCON\n**Coordonnées** : 45.186104, 4.310831\n[[https://www.google.com/maps?q=45.186104,4.310831|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.186104,4.310831|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 3.3 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.2707,4.19038|Decheterie de Monistrol sur Loire (Monistrol-sur-Loire, 13.3 km)]] — 0471759299\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 15.0 km)]] — 0471659302\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.186104,4.310831,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 17/03/2026 : Jo cockpit O+M\nAccès autonome , site full ILOQ :\n19166365 : ILOQ portillon ZT pylône\n19161765 : ILOQ Porte coutier\n19081035 : ILOQ Porte shelter",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -784,12 +784,15 @@
     "das_debut": "2026-11-05",
     "das_fin": "2026-11-06",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-05",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300023",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
