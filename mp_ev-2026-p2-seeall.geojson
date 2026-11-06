@@ -1783,7 +1783,7 @@
    },
    "properties": {
     "name": "FRA06300131 — PEAGE_DES_MARTRES",
-    "description": "**Numéro de Work Order** : WO-225406 + WO-244686\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-13\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257993\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-11-13\n**Fin de validité** : 2026-11-14\n**Délai de prévenance** : 8 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LA SUCHARDE\n**Numéro de département** : 63\n**Nom du site** : PEAGE_DES_MARTRES\n**Coordonnées** : 45.828330, 3.253496\n[[https://www.google.com/maps?q=45.828330,3.253496|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.828330,3.253496|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7823,3.23804|Déchèterie de Pont du Chateau (PONT DU CHATEAU, 5.3 km)]]\n[[https://www.google.com/maps?q=45.9061,3.25155|Déchèterie de Ennezat (Ennezat, 8.6 km)]] — 0473648355\n[[https://www.google.com/maps?q=45.8255,3.13467|Déchèterie de Gerzat (Gerzat, 9.2 km)]] — 0463669530\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.828330,3.253496,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: CLE ABLOY\nDélais de prévenance: 8.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 03/06/26 D cockpit O+M:\nRaymond VINCENT: 04.73.83.24.60\nRaymond VINCENT: 04.73.83.24.60\nPrévenance à faire par mail: mairie-les-martres-dartiere@wanadoo.fr/ 8j à l'avance\nAutonome",
+    "description": "**Numéro de Work Order** : WO-225406 + WO-244686\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-13\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257993\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-11-13\n**Fin de validité** : 2026-11-14\n**Délai de prévenance** : 8 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-06\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LA SUCHARDE\n**Numéro de département** : 63\n**Nom du site** : PEAGE_DES_MARTRES\n**Coordonnées** : 45.828330, 3.253496\n[[https://www.google.com/maps?q=45.828330,3.253496|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.828330,3.253496|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7823,3.23804|Déchèterie de Pont du Chateau (PONT DU CHATEAU, 5.3 km)]]\n[[https://www.google.com/maps?q=45.9061,3.25155|Déchèterie de Ennezat (Ennezat, 8.6 km)]] — 0473648355\n[[https://www.google.com/maps?q=45.8255,3.13467|Déchèterie de Gerzat (Gerzat, 9.2 km)]] — 0463669530\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.828330,3.253496,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: CLE ABLOY\nDélais de prévenance: 8.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 03/06/26 D cockpit O+M:\nRaymond VINCENT: 04.73.83.24.60\nRaymond VINCENT: 04.73.83.24.60\nPrévenance à faire par mail: mairie-les-martres-dartiere@wanadoo.fr/ 8j à l'avance\nAutonome",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1802,12 +1802,15 @@
     "das_fin": "2026-11-14",
     "das_provenance": "airtable",
     "das_prevenance": "8 jours",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-06",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300131",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
