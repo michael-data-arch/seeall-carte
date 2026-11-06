@@ -52,7 +52,7 @@
    },
    "properties": {
     "name": "FRA02800105 — BRISSARD",
-    "description": "**Numéro de Work Order** : WO-204460\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Délai de prévenance** : 10 jours\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : Imp. de la Corne de Cerf\n**Numéro de département** : 28\n**Nom du site** : BRISSARD\n**Coordonnées** : 48.773701, 1.436849\n[[https://www.google.com/maps?q=48.773701,1.436849|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.773701,1.436849|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.8078,1.48914|Déchèterie de Bû (Bû, 5.4 km)]] — 0686811224\n[[https://www.google.com/maps?q=48.7548,1.36637|Déchèterie de Dreux (Dreux, 5.6 km)]] — 0237500598\n[[https://www.google.com/maps?q=48.8645,1.45787|Déchèterie d'Anet (Anet, 10.2 km)]] — 0686813001\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.773701,1.436849,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Non - Clé lyonnaise des euax Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 10/09/2026 LC TOTEM : 📝 Formulaire à remplir par TOTEM : 👉 www.antennistegdo.toutsurmesservices.fr ⏳ Délai de prévenance: 10 jours à l'avance 🕑 Horaires d'intervention: jours ouvrés de 08h45-11h45 et 13h30-16h30 👷 Un technicien SUEZ sera présent pour l’ouverture et l' accompagnement",
+    "description": "**Numéro de Work Order** : WO-204460\n**État du WO** : CR Refusé\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Délai de prévenance** : 10 jours\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL - A prioriser\n**Provenance du repère** : airtable\n**Adresse du site** : Imp. de la Corne de Cerf\n**Numéro de département** : 28\n**Nom du site** : BRISSARD\n**Coordonnées** : 48.773701, 1.436849\n[[https://www.google.com/maps?q=48.773701,1.436849|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.773701,1.436849|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.8078,1.48914|Déchèterie de Bû (Bû, 5.4 km)]] — 0686811224\n[[https://www.google.com/maps?q=48.7548,1.36637|Déchèterie de Dreux (Dreux, 5.6 km)]] — 0237500598\n[[https://www.google.com/maps?q=48.8645,1.45787|Déchèterie d'Anet (Anet, 10.2 km)]] — 0686813001\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.773701,1.436849,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Non - Clé lyonnaise des euax Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 10/09/2026 LC TOTEM : 📝 Formulaire à remplir par TOTEM : 👉 www.antennistegdo.toutsurmesservices.fr ⏳ Délai de prévenance: 10 jours à l'avance 🕑 Horaires d'intervention: jours ouvrés de 08h45-11h45 et 13h30-16h30 👷 Un technicien SUEZ sera présent pour l’ouverture et l' accompagnement",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -61,7 +61,7 @@
     "adresse": "Imp. de la Corne de Cerf",
     "departement": "28",
     "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
+    "etat_wo": "CR Refusé",
     "wo": "WO-204460",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Non - Clé lyonnaise des euax Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 10/09/2026 LC TOTEM : 📝 Formulaire à remplir par TOTEM : 👉 www.antennistegdo.toutsurmesservices.fr ⏳ Délai de prévenance: 10 jours à l'avance 🕑 Horaires d'intervention: jours ouvrés de 08h45-11h45 et 13h30-16h30 👷 Un technicien SUEZ sera présent pour l’ouverture et l' accompagnement",
     "date_planification": "2026-11-30",
@@ -72,7 +72,7 @@
     "acces_autonome": "non_autonome",
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#DB2777",
      "iconClass": "Drop"
     }
    }
@@ -437,49 +437,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.0949208,
-     49.4417488
-    ]
-   },
-   "properties": {
-    "name": "FRA07600029 — ROUEN_CATHEDRALE_NORD_1",
-    "description": "**Numéro de Work Order** : WO-206010\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Numéro de DAS** : DAS-N0241578\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-16\n**Fin de validité** : 2026-10-16\n**Délai de prévenance** : 3 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Hôtel des Arcardes\n**Numéro de département** : 76\n**Nom du site** : ROUEN_CATHEDRALE_NORD_1\n**Coordonnées** : 49.441749, 1.094921\n[[https://www.google.com/maps?q=49.441749,1.094921|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.441749,1.094921|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 1.0 km)]] — 0235889258\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 15.3 km)]] — 0235619139\n[[https://www.google.com/maps?q=49.3182,1.19194|Déchèterie d'Alizay (Alizay, 15.4 km)]] — 0235231926\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.441749,1.094921,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 3.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: CDS : 29/10/2025 : vous devez impérativement contacter également par téléphone..\nVous devez contacter au 02 35 71 93 47\n\n05/11/2025 M cockpit O+M:\n*Pour toute intervention, merci d'envoyer un mail à hotel_des_arcades@yahoo.fr\n\n*Pour les travaux de maintenances: 3 jours à l'avance\n\n*Pour les gros travaux nécessitant l'utilisation d'un engin: 5 jours ouvrés à l'avance\n\n*Les clés sont à récupérer à l'accueil.\n\n*Merci de privilégier les interventions les matins à partir de 9h\n\n*Contact: 02.76.27.67.62",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ROUEN_CATHEDRALE_NORD_1",
-    "adresse": "Hôtel des Arcardes",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-206010",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 3.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: CDS : 29/10/2025 : vous devez impérativement contacter également par téléphone..\nVous devez contacter au 02 35 71 93 47\n\n05/11/2025 M cockpit O+M:\n*Pour toute intervention, merci d'envoyer un mail à hotel_des_arcades@yahoo.fr\n\n*Pour les travaux de maintenances: 3 jours à l'avance\n\n*Pour les gros travaux nécessitant l'utilisation d'un engin: 5 jours ouvrés à l'avance\n\n*Les clés sont à récupérer à l'accueil.\n\n*Merci de privilégier les interventions les matins à partir de 9h\n\n*Contact: 02.76.27.67.62",
-    "date_planification": "2026-10-30",
-    "das_numero": "DAS-N0241578",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-16",
-    "das_fin": "2026-10-16",
-    "das_provenance": "airtable",
-    "das_prevenance": "3 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-11-04",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600029",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "moyens d'accès à récupérer sur place",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.0824815,
      49.4495526
     ]
@@ -604,7 +561,7 @@
    },
    "properties": {
     "name": "FRA07600152 — ST_PIERRE_LES_ELBEUF",
-    "description": "**Numéro de Work Order** : WO-205846\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-02\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : présence d'un tiers obligatoire\n**Numéro de DAS** : DAS-N0247156\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-02\n**Fin de validité** : 2026-11-02\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau du BOSC TARD\n**Numéro de département** : 76\n**Nom du site** : ST_PIERRE_LES_ELBEUF\n**Coordonnées** : 49.260669, 1.063697\n[[https://www.google.com/maps?q=49.260669,1.063697|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.260669,1.063697|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.2303,1.08118|Déchèterie la Haye Malherbe (HAYE-MALHERBE, 3.6 km)]] — 0232404563\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 7.6 km)]]\n[[https://www.google.com/maps?q=49.2037,1.14967|Déchèterie Louviers (Louviers, 8.9 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.260669,1.063697,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Bailleur\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n⚠️Site Back to Back :\nUne fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur\nEnvoyer un mail à acces.ouest@orange.com\n\n📎 Joindre en pièce jointe :\n• ✅ Formulaire complété\n• ✅ Règles d’accès signées par le MOE\n\n👷 Accès : Intervention non autonome (présence obligatoire)",
+    "description": "**Numéro de Work Order** : WO-205846\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-02\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : présence d'un tiers obligatoire\n**Numéro de DAS** : DAS-N0247156\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-02\n**Fin de validité** : 2026-11-02\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau du BOSC TARD\n**Numéro de département** : 76\n**Nom du site** : ST_PIERRE_LES_ELBEUF\n**Coordonnées** : 49.260669, 1.063697\n[[https://www.google.com/maps?q=49.260669,1.063697|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.260669,1.063697|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.2303,1.08118|Déchèterie la Haye Malherbe (HAYE-MALHERBE, 3.6 km)]] — 0232404563\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 7.6 km)]]\n[[https://www.google.com/maps?q=49.2037,1.14967|Déchèterie Louviers (Louviers, 8.9 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.260669,1.063697,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Bailleur\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n⚠️Site Back to Back :\nUne fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur\nEnvoyer un mail à acces.ouest@orange.com\n\n📎 Joindre en pièce jointe :\n• ✅ Formulaire complété\n• ✅ Règles d’accès signées par le MOE\n\n👷 Accès : Intervention non autonome (présence obligatoire)",
     "origine": "airtable",
     "campagne": "TOTEM 2026 passage 1",
     "towerco": "TOTEM",
@@ -615,6 +572,7 @@
     "scope": "EVT - Environnement Technique + SH - Structure Haute",
     "etat_wo": "Travaux planifiés",
     "wo": "WO-205846",
+    "consignation": "Consigne Particulière",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: Bailleur\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 25/08/2026 Lou CAMBOULIVES TOTEM\n⚠️Site Back to Back :\nUne fois la DAS réalisée, TOTEM doit contacter ORANGE pour qu'il sollicite le bailleur\nEnvoyer un mail à acces.ouest@orange.com\n\n📎 Joindre en pièce jointe :\n• ✅ Formulaire complété\n• ✅ Règles d’accès signées par le MOE\n\n👷 Accès : Intervention non autonome (présence obligatoire)",
     "date_planification": "2026-11-02",
     "nacelle": true,
@@ -902,92 +860,6 @@
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.9175921,
-     49.6688878
-    ]
-   },
-   "properties": {
-    "name": "FRA07600299 — YERVILLE",
-    "description": "**Numéro de Work Order** : WO-205620\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-11-03\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Numéro de DAS** : DAS-N0247241\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-03\n**Fin de validité** : 2026-11-03\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Château d'eau\n**Numéro de département** : 76\n**Nom du site** : YERVILLE\n**Coordonnées** : 49.668888, 0.917592\n[[https://www.google.com/maps?q=49.668888,0.917592|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.668888,0.917592|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6659,0.879327|Déchèterie Yerville (Yerville, 2.8 km)]] — 0235962263\n[[https://www.google.com/maps?q=49.6032,0.843458|Déchèterie de Croix-mare (Croix-Mare, 9.0 km)]] — 0607907785\n[[https://www.google.com/maps?q=49.6999,1.07605|Déchèterie Vassonville (Vassonville, 11.9 km)]] — 0235793070\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.668888,0.917592,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: RA 3/6/25\nConditions d'accès :\n- Pour toute intervention, remplir le formulaire et l’envoyer au fermier.\n\nContact bailleur :\n- Nom : M. GENDRIN\n- Téléphone : 02 32 70 14 46\n- Email : samuel.gendrin@siaepa-yerville.fr\nBoite Cle :La boite à clé se situe dans un plot béton sur la gauche du portail d’entrée /Vide / Attention, le site longe la N29 où circulent beaucoup de véhicules. Se garer sur la place de parking devant le château d’eau, ou à l’intérieur de la parcelle. Pour accéder au site, prévenir kevin.parent@veolia.com / antenniste76.eau-no@veolia.com\n\nAttention, le site longe la N29 où circulent beaucoup de véhicules. Se garer sur la place de parking devant le château d’eau, ou à l’intérieur de la parcelle. Pour accéder au site, prévenir Monsieur Nicolas LERIBLE (06 20 82 50 84) et demander les clefs à Monsieur Christophe SENECAL (06 20 30 68 85) - Effectuer la demande auprès de Samuel.Gendrin@siaepa-yerville.fr en priorité 1 semaine avant l’intervention",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "YERVILLE",
-    "adresse": "Château d'eau",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-205620",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: RA 3/6/25\nConditions d'accès :\n- Pour toute intervention, remplir le formulaire et l’envoyer au fermier.\n\nContact bailleur :\n- Nom : M. GENDRIN\n- Téléphone : 02 32 70 14 46\n- Email : samuel.gendrin@siaepa-yerville.fr\nBoite Cle :La boite à clé se situe dans un plot béton sur la gauche du portail d’entrée /Vide / Attention, le site longe la N29 où circulent beaucoup de véhicules. Se garer sur la place de parking devant le château d’eau, ou à l’intérieur de la parcelle. Pour accéder au site, prévenir kevin.parent@veolia.com / antenniste76.eau-no@veolia.com\n\nAttention, le site longe la N29 où circulent beaucoup de véhicules. Se garer sur la place de parking devant le château d’eau, ou à l’intérieur de la parcelle. Pour accéder au site, prévenir Monsieur Nicolas LERIBLE (06 20 82 50 84) et demander les clefs à Monsieur Christophe SENECAL (06 20 30 68 85) - Effectuer la demande auprès de Samuel.Gendrin@siaepa-yerville.fr en priorité 1 semaine avant l’intervention",
-    "date_planification": "2026-11-03",
-    "nacelle": true,
-    "das_numero": "DAS-N0247241",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-03",
-    "das_fin": "2026-11-03",
-    "das_provenance": "airtable",
-    "das_prevenance": "15 jours",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-11-03",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600299",
-    "acces_autonome": "autonome",
-    "acces_motif": "boîte à clés sur site",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.2551166,
-     49.6588377
-    ]
-   },
-   "properties": {
-    "name": "FRA07600376 — CRIQUETOT_L_ESNEVAL_NEW",
-    "description": "**Numéro de Work Order** : WO-206012\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Date de planification** : 2026-10-30\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0257574\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-03\n**Fin de validité** : 2026-11-03\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : TOTEM 2026 passage 1\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 330 Route des Catelets\n**Numéro de département** : 76\n**Nom du site** : CRIQUETOT_L_ESNEVAL_NEW\n**Coordonnées** : 49.658838, 0.255117\n[[https://www.google.com/maps?q=49.658838,0.255117|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.658838,0.255117|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 3.0 km)]] — 0235289868\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 8.7 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 10.0 km)]] — 0235292898\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.658838,0.255117,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 10/02/26 D cockpit O+M:\nHAUTOT Nicole: 02 35 27 27 66\nIl est pas nécessaire de prévenir\nAutonome",
-    "origine": "airtable",
-    "campagne": "TOTEM 2026 passage 1",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "CRIQUETOT_L_ESNEVAL_NEW",
-    "adresse": "330 Route des Catelets",
-    "departement": "76",
-    "scope": "EVT - Environnement Technique + SH - Structure Haute",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-206012",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\n\nAccès aérien(s):\n\nCommentaire d'accès: 10/02/26 D cockpit O+M:\nHAUTOT Nicole: 02 35 27 27 66\nIl est pas nécessaire de prévenir\nAutonome",
-    "date_planification": "2026-10-30",
-    "das_numero": "DAS-N0257574",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-03",
-    "das_fin": "2026-11-03",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-11-03",
-    "calque": "mp-totem-2026-p1",
-    "code_fra": "FRA07600376",
-    "acces_autonome": "autonome",
-    "acces_motif": "la fiche déclare l'accès autonome",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
