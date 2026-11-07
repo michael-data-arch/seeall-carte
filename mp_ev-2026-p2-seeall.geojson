@@ -1415,7 +1415,7 @@
    },
    "properties": {
     "name": "FRA06300121 — CLT_GANDAILLAT_BIS",
-    "description": "**Numéro de Work Order** : WO-224455 + WO-244681\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0257904\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LES DEBAS NORD\n**Numéro de département** : 63\n**Nom du site** : CLT_GANDAILLAT_BIS\n**Coordonnées** : 45.773548, 3.167481\n[[https://www.google.com/maps?q=45.773548,3.167481|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.773548,3.167481|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 3.9 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7397,3.19798|Déchèterie de Cournon (COURNON-D'AUVERGNE, 4.4 km)]] — 0473844344\n[[https://www.google.com/maps?q=45.7823,3.23804|Déchèterie de Pont du Chateau (PONT DU CHATEAU, 5.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.773548,3.167481,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-224455 + WO-244681\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0257904\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LES DEBAS NORD\n**Numéro de département** : 63\n**Nom du site** : CLT_GANDAILLAT_BIS\n**Coordonnées** : 45.773548, 3.167481\n[[https://www.google.com/maps?q=45.773548,3.167481|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.773548,3.167481|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 3.9 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7397,3.19798|Déchèterie de Cournon (COURNON-D'AUVERGNE, 4.4 km)]] — 0473844344\n[[https://www.google.com/maps?q=45.7823,3.23804|Déchèterie de Pont du Chateau (PONT DU CHATEAU, 5.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.773548,3.167481,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1433,12 +1433,15 @@
     "das_debut": "2026-11-04",
     "das_fin": "2026-11-05",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-07",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300121",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
