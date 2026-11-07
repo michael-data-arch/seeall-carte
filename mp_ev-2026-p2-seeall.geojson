@@ -980,7 +980,7 @@
    },
    "properties": {
     "name": "FRA06300050 — CLERMONT_RONZIERE",
-    "description": "**Numéro de Work Order** : WO-224198 + WO-244640\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0257901\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 192 Avenue du Brézet\n**Numéro de département** : 63\n**Nom du site** : CLERMONT_RONZIERE\n**Coordonnées** : 45.779161, 3.139161\n[[https://www.google.com/maps?q=45.779161,3.139161|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.779161,3.139161|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 2.1 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7431,3.10739|Déchèterie de Romagnat (ROMAGNAT, 4.7 km)]] — 0473449726\n[[https://www.google.com/maps?q=45.8255,3.13467|Déchèterie de Gerzat (Gerzat, 5.2 km)]] — 0463669530\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.779161,3.139161,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès: - Boite Cle :a coté du portillon CLE PARTILLON ROUILLE",
+    "description": "**Numéro de Work Order** : WO-224198 + WO-244640\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0257901\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 192 Avenue du Brézet\n**Numéro de département** : 63\n**Nom du site** : CLERMONT_RONZIERE\n**Coordonnées** : 45.779161, 3.139161\n[[https://www.google.com/maps?q=45.779161,3.139161|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.779161,3.139161|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 2.1 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7431,3.10739|Déchèterie de Romagnat (ROMAGNAT, 4.7 km)]] — 0473449726\n[[https://www.google.com/maps?q=45.8255,3.13467|Déchèterie de Gerzat (Gerzat, 5.2 km)]] — 0463669530\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.779161,3.139161,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès: - Boite Cle :a coté du portillon CLE PARTILLON ROUILLE",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1000,12 +1000,15 @@
     "das_fin": "2026-11-06",
     "das_provenance": "airtable",
     "das_prevenance": "1 jour",
+    "etat_terrain": "fait",
+    "declare_par": "Adil Adil",
+    "declare_le": "2026-11-07",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA06300050",
     "acces_autonome": "a_confirmer",
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
