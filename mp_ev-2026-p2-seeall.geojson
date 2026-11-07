@@ -533,7 +533,7 @@
    },
    "properties": {
     "name": "FRA04300029 — CHAMBON_SUR_LIGNON",
-    "description": "**Numéro de Work Order** : WO-225838 + WO-244622\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-26\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258448\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : le Bois de Peybroussou\n**Numéro de département** : 43\n**Nom du site** : CHAMBON_SUR_LIGNON\n**Coordonnées** : 45.070833, 4.316667\n[[https://www.google.com/maps?q=45.070833,4.316667|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.070833,4.316667|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 2.4 km)]] — 0471659302\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 14.2 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.1434,4.12535|Déchèterie d'Yssingeaux (Yssingeaux, 17.0 km)]] — 0471560178\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.070833,4.316667,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 25/11/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
+    "description": "**Numéro de Work Order** : WO-225838 + WO-244622\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-26\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258448\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : le Bois de Peybroussou\n**Numéro de département** : 43\n**Nom du site** : CHAMBON_SUR_LIGNON\n**Coordonnées** : 45.070833, 4.316667\n[[https://www.google.com/maps?q=45.070833,4.316667|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.070833,4.316667|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 2.4 km)]] — 0471659302\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 14.2 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.1434,4.12535|Déchèterie d'Yssingeaux (Yssingeaux, 17.0 km)]] — 0471560178\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.070833,4.316667,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 25/11/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -552,12 +552,15 @@
     "das_debut": "2026-11-05",
     "das_fin": "2026-11-06",
     "das_provenance": "airtable",
+    "etat_terrain": "fait",
+    "declare_par": "L K",
+    "declare_le": "2026-11-07",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300029",
     "acces_autonome": "non_autonome",
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Default"
     }
    }
