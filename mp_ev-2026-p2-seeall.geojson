@@ -84,49 +84,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.67902,
-     45.978777
-    ]
-   },
-   "properties": {
-    "name": "FRA00300073 — ND_RS_BOIS_DE_VIALLE_ORF",
-    "description": "**Numéro de Work Order** : WO-224308 + WO-244525\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-09-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0257792\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-03\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Font Carrée\n**Numéro de département** : 3\n**Nom du site** : ND_RS_BOIS_DE_VIALLE_ORF\n**Coordonnées** : 45.978777, 3.679020\n[[https://www.google.com/maps?q=45.978777,3.679020|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.978777,3.679020|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.0582,3.65774|Déchèterie de Mayet de Montagne (Le Mayet-de-Montagne, 9.0 km)]] — 0685017217\n[[https://www.google.com/maps?q=45.8819,3.59646|Déchèterie de Saint Rémy sur Durolle (Saint-Rémy-sur-Durolle, 12.5 km)]] — 0473801211\n[[https://www.google.com/maps?q=45.9147,3.83665|Déchèterie Saint-just-en-chevalet (Saint-Just-en-Chevalet, 14.1 km)]] — 0477651224\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.978777,3.679020,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance: 1.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: RE-CDS EXPERIS: 28/10/2026:\nPrévenance a réaliser par mail:\nsecretariat@commune-lavoine.fr\n\n30/10/2025 M cockpit O+M:\n*Pour toute intervention, merci d'envoyer un mail à mairie.lavoine@wanadoo.fr\n\n*Délai de prévenance: 24H à l'avance\n\n*Accès en autonomie.\n\n*En cas de besoin, le contact du Maire Mr Pierre GERARD: 06.60.72.76.76",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "ND_RS_BOIS_DE_VIALLE_ORF",
-    "adresse": "Lieu-dit La Font Carrée",
-    "departement": "3",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224308 + WO-244525",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance: 1.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: RE-CDS EXPERIS: 28/10/2026:\nPrévenance a réaliser par mail:\nsecretariat@commune-lavoine.fr\n\n30/10/2025 M cockpit O+M:\n*Pour toute intervention, merci d'envoyer un mail à mairie.lavoine@wanadoo.fr\n\n*Délai de prévenance: 24H à l'avance\n\n*Accès en autonomie.\n\n*En cas de besoin, le contact du Maire Mr Pierre GERARD: 06.60.72.76.76",
-    "date_planification": "2026-09-24",
-    "das_numero": "DAS-N0257792",
-    "das_statut": "Refusée",
-    "das_debut": "2026-11-05",
-    "das_fin": "2026-11-06",
-    "das_provenance": "airtable",
-    "das_prevenance": "1 jour",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-03",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA00300073",
-    "acces_autonome": "autonome",
-    "acces_motif": "la fiche déclare l'accès autonome",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.456695,
      46.142977
     ]
@@ -527,49 +484,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.316667,
-     45.070833
-    ]
-   },
-   "properties": {
-    "name": "FRA04300029 — CHAMBON_SUR_LIGNON",
-    "description": "**Numéro de Work Order** : WO-225838 + WO-244622\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-26\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0258448\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : le Bois de Peybroussou\n**Numéro de département** : 43\n**Nom du site** : CHAMBON_SUR_LIGNON\n**Coordonnées** : 45.070833, 4.316667\n[[https://www.google.com/maps?q=45.070833,4.316667|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.070833,4.316667|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0521,4.3323|Déchèterie de Chambon (LE CHAMBON-SUR-LIGNON, 2.4 km)]] — 0471659302\n[[https://www.google.com/maps?q=45.1964,4.35021|Déchèterie de Dunières (Dunières, 14.2 km)]] — 0471619499\n[[https://www.google.com/maps?q=45.1434,4.12535|Déchèterie d'Yssingeaux (Yssingeaux, 17.0 km)]] — 0471560178\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.070833,4.316667,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 25/11/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "CHAMBON_SUR_LIGNON",
-    "adresse": "le Bois de Peybroussou",
-    "departement": "43",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225838 + WO-244622",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès: 25/11/25 D cockpit O+M:\nDIG 2; autonome (Full TOTEM)",
-    "date_planification": "2026-10-26",
-    "nacelle": true,
-    "das_numero": "DAS-N0258448",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-05",
-    "das_fin": "2026-11-06",
-    "das_provenance": "airtable",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-07",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA04300029",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.90027,
      44.790395
     ]
@@ -831,7 +745,7 @@
    },
    "properties": {
     "name": "FRA06300031 — CLERMONT_CTRE_COM",
-    "description": "**Numéro de Work Order** : WO-225848 + WO-244636\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-29\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0257900\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 98bis Avenue du Brézet\n**Numéro de département** : 63\n**Nom du site** : CLERMONT_CTRE_COM\n**Coordonnées** : 45.778329, 3.129711\n[[https://www.google.com/maps?q=45.778329,3.129711|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.778329,3.129711|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 2.0 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7431,3.10739|Déchèterie de Romagnat (ROMAGNAT, 4.3 km)]] — 0473449726\n[[https://www.google.com/maps?q=45.8255,3.13467|Déchèterie de Gerzat (Gerzat, 5.3 km)]] — 0463669530\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.778329,3.129711,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non - 1 clé FTH disponible dans la BAC\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-225848 + WO-244636\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-29\n**État de consignation du site** : Consigne Particulière\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0259821\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-07\n**Fin de validité** : 2026-11-07\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 98bis Avenue du Brézet\n**Numéro de département** : 63\n**Nom du site** : CLERMONT_CTRE_COM\n**Coordonnées** : 45.778329, 3.129711\n[[https://www.google.com/maps?q=45.778329,3.129711|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.778329,3.129711|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 2.0 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7431,3.10739|Déchèterie de Romagnat (ROMAGNAT, 4.3 km)]] — 0473449726\n[[https://www.google.com/maps?q=45.8255,3.13467|Déchèterie de Gerzat (Gerzat, 5.3 km)]] — 0463669530\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.778329,3.129711,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non - 1 clé FTH disponible dans la BAC\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -846,10 +760,10 @@
     "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Non - 1 clé FTH disponible dans la BAC\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-10-29",
     "nacelle": true,
-    "das_numero": "DAS-N0257900",
+    "das_numero": "DAS-N0259821",
     "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-05",
+    "das_debut": "2026-11-07",
+    "das_fin": "2026-11-07",
     "das_provenance": "airtable",
     "etat_terrain": "fait",
     "declare_par": "Adil Adil",
@@ -986,7 +900,7 @@
    },
    "properties": {
     "name": "FRA06300050 — CLERMONT_RONZIERE",
-    "description": "**Numéro de Work Order** : WO-224198 + WO-244640\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0257901\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-05\n**Fin de validité** : 2026-11-06\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 192 Avenue du Brézet\n**Numéro de département** : 63\n**Nom du site** : CLERMONT_RONZIERE\n**Coordonnées** : 45.779161, 3.139161\n[[https://www.google.com/maps?q=45.779161,3.139161|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.779161,3.139161|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 2.1 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7431,3.10739|Déchèterie de Romagnat (ROMAGNAT, 4.7 km)]] — 0473449726\n[[https://www.google.com/maps?q=45.8255,3.13467|Déchèterie de Gerzat (Gerzat, 5.2 km)]] — 0463669530\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.779161,3.139161,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès: - Boite Cle :a coté du portillon CLE PARTILLON ROUILLE",
+    "description": "**Numéro de Work Order** : WO-224198 + WO-244640\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-30\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0259820\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-09\n**Fin de validité** : 2026-11-09\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : 192 Avenue du Brézet\n**Numéro de département** : 63\n**Nom du site** : CLERMONT_RONZIERE\n**Coordonnées** : 45.779161, 3.139161\n[[https://www.google.com/maps?q=45.779161,3.139161|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.779161,3.139161|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 2.1 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7431,3.10739|Déchèterie de Romagnat (ROMAGNAT, 4.7 km)]] — 0473449726\n[[https://www.google.com/maps?q=45.8255,3.13467|Déchèterie de Gerzat (Gerzat, 5.2 km)]] — 0463669530\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.779161,3.139161,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès: - Boite Cle :a coté du portillon CLE PARTILLON ROUILLE",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1000,10 +914,10 @@
     "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès: - Boite Cle :a coté du portillon CLE PARTILLON ROUILLE",
     "date_planification": "2026-10-30",
     "nacelle": true,
-    "das_numero": "DAS-N0257901",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-05",
-    "das_fin": "2026-11-06",
+    "das_numero": "DAS-N0259820",
+    "das_statut": "Vérification",
+    "das_debut": "2026-11-09",
+    "das_fin": "2026-11-09",
     "das_provenance": "airtable",
     "das_prevenance": "1 jour",
     "etat_terrain": "fait",
@@ -1424,7 +1338,7 @@
    },
    "properties": {
     "name": "FRA06300121 — CLT_GANDAILLAT_BIS",
-    "description": "**Numéro de Work Order** : WO-224455 + WO-244681\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0257904\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-04\n**Fin de validité** : 2026-11-05\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LES DEBAS NORD\n**Numéro de département** : 63\n**Nom du site** : CLT_GANDAILLAT_BIS\n**Coordonnées** : 45.773548, 3.167481\n[[https://www.google.com/maps?q=45.773548,3.167481|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.773548,3.167481|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 3.9 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7397,3.19798|Déchèterie de Cournon (COURNON-D'AUVERGNE, 4.4 km)]] — 0473844344\n[[https://www.google.com/maps?q=45.7823,3.23804|Déchèterie de Pont du Chateau (PONT DU CHATEAU, 5.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.773548,3.167481,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
+    "description": "**Numéro de Work Order** : WO-224455 + WO-244681\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-12\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0259817\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-07\n**Fin de validité** : 2026-11-07\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil Adil\n**Date de la déclaration** : 2026-11-07\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LES DEBAS NORD\n**Numéro de département** : 63\n**Nom du site** : CLT_GANDAILLAT_BIS\n**Coordonnées** : 45.773548, 3.167481\n[[https://www.google.com/maps?q=45.773548,3.167481|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.773548,3.167481|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7965,3.12879|Déchèterie de Gravanches Clermont-ferrand (Clermont-Ferrand, 3.9 km)]] — 0473248920\n[[https://www.google.com/maps?q=45.7397,3.19798|Déchèterie de Cournon (COURNON-D'AUVERGNE, 4.4 km)]] — 0473844344\n[[https://www.google.com/maps?q=45.7823,3.23804|Déchèterie de Pont du Chateau (PONT DU CHATEAU, 5.6 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.773548,3.167481,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-SEE ALL",
     "towerco": "TOTEM",
@@ -1437,10 +1351,10 @@
     "scope": "EV - Espaces Verts",
     "acces_detail": "Digicode: NON\nBadge:\nBoite à clés:\nPortail / Portillon: Mécanique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: Non\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
     "date_planification": "2026-11-12",
-    "das_numero": "DAS-N0257904",
+    "das_numero": "DAS-N0259817",
     "das_statut": "Acceptée",
-    "das_debut": "2026-11-04",
-    "das_fin": "2026-11-05",
+    "das_debut": "2026-11-07",
+    "das_fin": "2026-11-07",
     "das_provenance": "airtable",
     "etat_terrain": "fait",
     "declare_par": "Adil Adil",
@@ -1530,50 +1444,6 @@
     "das_prevenance": "10 jours",
     "acces_autonome": "a_confirmer",
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.734866,
-     45.545183
-    ]
-   },
-   "properties": {
-    "name": "FRA06300155 — AMBERT_ZI",
-    "description": "**Numéro de Work Order** : WO-226042 + WO-244703\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-19\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0258226\n**Statut de la DAS** : Refusée\n**Début de validité** : 2026-11-06\n**Fin de validité** : 2026-11-07\n**Délai de prévenance** : 1 jour\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-04\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Rue Gustave Eiffel Parcelle 144\n**Numéro de département** : 63\n**Nom du site** : AMBERT_ZI\n**Coordonnées** : 45.545183, 3.734866\n[[https://www.google.com/maps?q=45.545183,3.734866|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.545183,3.734866|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 24.1 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.3233,3.83417|Déchèterie de Craponne (Craponne-sur-Arzon, 25.9 km)]] — 0471033715\n[[https://www.google.com/maps?q=45.4307,4.03994|Déchèterie Estivareilles (Estivareilles, 27.0 km)]] — 0477507483\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.545183,3.734866,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "AMBERT_ZI",
-    "adresse": "Rue Gustave Eiffel Parcelle 144",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-226042 + WO-244703",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique - Clé inconnu (copie de clé) - Portillon d’entrée\nDélais de prévenance: 1.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
-    "date_planification": "2026-11-19",
-    "nacelle": true,
-    "das_numero": "DAS-N0258226",
-    "das_statut": "Refusée",
-    "das_debut": "2026-11-06",
-    "das_fin": "2026-11-07",
-    "das_provenance": "airtable",
-    "das_prevenance": "1 jour",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-04",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300155",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#15803D",
      "iconClass": "Default"
