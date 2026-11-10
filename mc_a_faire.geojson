@@ -1255,45 +1255,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.948856,
-     47.877732
-    ]
-   },
-   "properties": {
-    "name": "FRA04500187 — ST_DENIS_EN_VAL",
-    "description": "**Numéro de Work Order** : WO-113517\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Nettoyage du site (Château d'eau), cf. mail du bailleur.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-06\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Statut de la DAS** : Acceptée\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : ensio\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Manu\n**Date de la déclaration** : 2026-11-06\n**Provenance du repère** : ensio\n**Numéro de département** : 45\n**Nom du site** : ST_DENIS_EN_VAL\n**Coordonnées** : 47.877732, 1.948856\n[[https://www.google.com/maps?q=47.877732,1.948856|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.877732,1.948856|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.8452,1.94491|Déchèterie de Saint Cyr en Val (Saint-Cyr-en-Val, 3.6 km)]] — 0238760013\n[[https://www.google.com/maps?q=47.8452,1.94491|Végé'tri de Saint-cyr-en-val (Saint-Cyr-en-Val, 3.6 km)]]\n[[https://www.google.com/maps?q=47.9123,1.94369|Déchèterie de Saint  Jean de Braye (Saint-Jean-de-Braye, 3.9 km)]] — 0238836760\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.877732,1.948856,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (4) :\n[[https://drive.google.com/file/d/1nX2Kf6QRcjz8_p9_qeezamxPeIq6BLah/view|{{https://drive.google.com/thumbnail?id=1nX2Kf6QRcjz8_p9_qeezamxPeIq6BLah&sz=w200}}]] [[https://drive.google.com/file/d/1QFP7wb0yUnMWZKBzqxaL8zerMd2WJDwj/view|{{https://drive.google.com/thumbnail?id=1QFP7wb0yUnMWZKBzqxaL8zerMd2WJDwj&sz=w200}}]] [[https://drive.google.com/file/d/1shMqmmk87N7C4D7bTzUv2wuMo2a4Ipal/view|{{https://drive.google.com/thumbnail?id=1shMqmmk87N7C4D7bTzUv2wuMo2a4Ipal&sz=w200}}]] [[https://drive.google.com/file/d/1CjzzsPjTZ0YVYB6cV_X88FGFfr4c5qks/view|{{https://drive.google.com/thumbnail?id=1CjzzsPjTZ0YVYB6cV_X88FGFfr4c5qks&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1RiQjRv4w76Zc9v8rcRv_FhPw2sSYTHZM|📁 Toutes les pièces (4)]]\n**Contacts d'accès** :\nJames GRAVE — Accès — 06 72 11 87 46 — à prévenir — conforme le 2026-09-28\nKevin Tavares — Accès — 238697817\n**Parties liées** :\nORLEANS METROPOLE — Bailleur, Contact Bailleur (Migration GID part4) — 0238787575 — conforme le 2026-10-14\nFrédérique RICHER — Administratif, Contact bailleur — 0228792532 — conforme le 2026-09-10\nAdeline DA SILVA — Gestionnaire contrats — 0661565525 — conforme le 2026-09-10\nAQUALIGE — Accès, Contact Bailleur — 0977429434 — conforme le 2026-03-09\nQUENTIN FORESTIER — Administratif, Comptable — 03 44 29 36 36 — conforme le 2026-03-02\nVEOLIA EAU MAYENNE — Bailleur, Contact Bailleur (Migration GID part4) — 02 43 04 96 47\nCHRISTOPHE SARRE — administrative\n\n**Fiche d'accès**\nDigicode: NON Badge: SANS OBJET Boite à clés: Portail / Portillon: Mécanique - DANS BAC PORTAIL Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 24/08/2026 Lou CAMBOULIVES TOTEM : Demande d'accès à réaliser sur www.AntennisteGDO.toutsurmesservices.fr au moins 10 JO avant l'intervention En cas d'urgence le délai de prévenance est de 1 JO Pour toute question : visio.gdo.usines@suez.com En cas d’urgence : 02 40 18 26 93",
-    "origine": "ensio",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "ST_DENIS_EN_VAL",
-    "das_statut": "Acceptée",
-    "das_provenance": "ensio",
-    "wo": "WO-113517",
-    "travaux": "Nettoyage du site (Château d'eau), cf. mail du bailleur.",
-    "priorite": "Travaux Programmés",
-    "scope": "EV - Espaces Verts",
-    "departement": "45",
-    "acces_detail": "Digicode: NON Badge: SANS OBJET Boite à clés: Portail / Portillon: Mécanique - DANS BAC PORTAIL Délais de prévenance: 10.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé bailleur Cadenas: Commentaire d'accès: 24/08/2026 Lou CAMBOULIVES TOTEM : Demande d'accès à réaliser sur www.AntennisteGDO.toutsurmesservices.fr au moins 10 JO avant l'intervention En cas d'urgence le délai de prévenance est de 1 JO Pour toute question : visio.gdo.usines@suez.com En cas d’urgence : 02 40 18 26 93",
-    "date_planification": "2026-11-06",
-    "etat_terrain": "fait",
-    "declare_par": "Manu",
-    "declare_le": "2026-11-06",
-    "calque": "mc",
-    "code_fra": "FRA04500187",
-    "das_prevenance": "10 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "boîte à clés sur site",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "LargeCircle",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.8893812,
      47.9630264
     ]
