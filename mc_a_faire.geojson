@@ -1647,7 +1647,7 @@
    },
    "properties": {
     "name": "FRA07600069 — YPORT",
-    "description": "**Numéro de Work Order** : WO-246287\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nProjet de REAM S49 donc réalisé le nettoyage du site pour S48.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-23\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0247089\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-02\n**Fin de validité** : 2026-11-02\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : YPORT\n**Coordonnées** : 49.737482, 0.314189\n[[https://www.google.com/maps?q=49.737482,0.314189|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.737482,0.314189|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 4.0 km)]] — 0235292898\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 11.5 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 12.4 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.737482,0.314189,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nCOMMUNE D'YPORT — Accès — 02 35 27 30 24 — à prévenir — conforme le 2025-10-22\nMAIRIE — Accès\n**Parties liées** :\nCOMMUNE D'YPORT — Bailleur, Contact Bailleur (Migration GID part4) — conforme le 2026-02-03\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 22/10/25 D cockpit O+M:\nCOMMUNE D'YPORT: 02 35 27 30 24\nMode de prévenance par mail: mairie@ville-yport.fr/ 1 semaine à l'avance\nAccès: non autonomie; l’accès lui sera ouvert par un technicien de la mairie",
+    "description": "**Numéro de Work Order** : WO-246287\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nProjet de REAM S49 donc réalisé le nettoyage du site pour S48.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-23\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Numéro de DAS** : DAS-N0261351\n**Statut de la DAS** : Vérification\n**Début de validité** : 2026-11-23\n**Fin de validité** : 2026-11-24\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 76\n**Nom du site** : YPORT\n**Coordonnées** : 49.737482, 0.314189\n[[https://www.google.com/maps?q=49.737482,0.314189|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.737482,0.314189|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.7175,0.360011|Déchèterie de Fécamp (Épreville, 4.0 km)]] — 0235292898\n[[https://www.google.com/maps?q=49.6413,0.372365|Déchèterie Goderville (Goderville, 11.5 km)]] — 0235103259\n[[https://www.google.com/maps?q=49.6321,0.259922|Déchèterie Criquetot l'Esneval (Criquetot-l'Esneval, 12.4 km)]] — 0235289868\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.737482,0.314189,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nCOMMUNE D'YPORT — Accès — 02 35 27 30 24 — à prévenir — conforme le 2025-10-22\nMAIRIE — Accès\n**Parties liées** :\nCOMMUNE D'YPORT — Bailleur, Contact Bailleur (Migration GID part4) — conforme le 2026-02-03\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 22/10/25 D cockpit O+M:\nCOMMUNE D'YPORT: 02 35 27 30 24\nMode de prévenance par mail: mairie@ville-yport.fr/ 1 semaine à l'avance\nAccès: non autonomie; l’accès lui sera ouvert par un technicien de la mairie",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "YPORT",
@@ -1659,10 +1659,10 @@
     "consignation": "Consigne Particulière",
     "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance: 7.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 22/10/25 D cockpit O+M:\nCOMMUNE D'YPORT: 02 35 27 30 24\nMode de prévenance par mail: mairie@ville-yport.fr/ 1 semaine à l'avance\nAccès: non autonomie; l’accès lui sera ouvert par un technicien de la mairie",
     "date_planification": "2026-11-23",
-    "das_numero": "DAS-N0247089",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-02",
-    "das_fin": "2026-11-02",
+    "das_numero": "DAS-N0261351",
+    "das_statut": "Vérification",
+    "das_debut": "2026-11-23",
+    "das_fin": "2026-11-24",
     "das_provenance": "airtable",
     "das_prevenance": "7 jours",
     "calque": "mc",
@@ -2008,43 +2008,6 @@
      "color": "#2563EB",
      "iconClass": "Drop",
      "iconUrl": "M/A"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.631073,
-     48.918631
-    ]
-   },
-   "properties": {
-    "name": "FRA07700110 — LE_PIN_A104",
-    "description": "**Numéro de Work Order** : WO-246584\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Déconsignation : Sécurisation des RRU\n\nAttention :\n- Massif pylône ( Cf plan de 2024 )\n- RRU doivent rester accessible en maintenance\n- prévoir Iloq\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P2\n**Date de planification** : 2026-11-02\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : boîte à clés sur site\n**Délai de prévenance** : 3 jours\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-246584)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-11-12\n**Provenance du repère** : airtable\n**Numéro de département** : 77\n**Nom du site** : LE_PIN_A104\n**Coordonnées** : 48.918631, 2.631073\n[[https://www.google.com/maps?q=48.918631,2.631073|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.918631,2.631073|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9403,2.54125|Déchèterie de Sevran (Sevran, 7.0 km)]] — 0143845454\n[[https://www.google.com/maps?q=48.9792,2.56169|Déchèterie de Tremblay-en-france (Tremblay-en-france, 8.4 km)]] — 0141974141\n[[https://www.google.com/maps?q=48.9594,2.52788|Déchèterie de Villepinte (Villepinte, 8.8 km)]] — 0141521880\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.918631,2.631073,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (3) :\n[[https://drive.google.com/file/d/1ocNnz2wAweXKgf9Vv30e5a_3YWP6SXZR/view|{{https://drive.google.com/thumbnail?id=1ocNnz2wAweXKgf9Vv30e5a_3YWP6SXZR&sz=w200}}]]\n[[https://drive.google.com/file/d/1-TjeEEHfwNHOoBYUzOuBmao2NklxpQ_J/view|N000065839_Plan_Massif_171224.pdf]] · [[https://drive.google.com/file/d/1i6Yis7NhrGqNJ13M-Zpb4a9LruaUExxd/view|Consignation - FRA07700110 - 01102026.pdf]]\n[[https://drive.google.com/drive/folders/1IGtie_dsQXbuC55He_Ms04aMyebpS0DF|📁 Toutes les pièces (3)]]\n**Contacts d'accès** :\nM SZYSZKA Mickael (Responsable Services Techniques) — Accès — 0630706494 — à prévenir — conforme le 2026-02-04\nAccès, Gardien, Responsable Technique — conforme le 2026-02-04\nAccès, Gardien, Responsable Technique — conforme le 2026-02-04\n**Parties liées** :\nCOMMUNE LE PIN — Bailleur, Contact Bailleur (Migration GID part4) — conforme le 2026-10-23\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Oui Portail / Portillon: Non - Nouvelle serrure + nouvelle clé dans la BAC et double au gardien Délais de prévenance: 3.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 04/02/2026 Na cockpit O+M : Pour toute intervention, merci d'envoyer un mail à rst@mairielepin.fr mettre en copie services.techniques@mairielepin.fr Délai de prévenance: 3 jours ouvrés à l'avance Horaires d’intervention : du lundi, mardi, jeudi et vendredi de 8h00 à 12h00 et de 13h00 à 16h30. Aucune intervention n’est autorisée le mercredi ni le week-end, sauf en cas d’urgence. Accès en autonomie. Contact: - M SZYSZKA Mickael (Responsable Services Techniques): 📧 rst@mairielepin.fr 📞 0630706494",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "LE_PIN_A104",
-    "wo": "WO-246584",
-    "travaux": "Déconsignation : Sécurisation des RRU\n\nAttention :\n- Massif pylône ( Cf plan de 2024 )\n- RRU doivent rester accessible en maintenance\n- prévoir Iloq",
-    "priorite": "P2",
-    "scope": "EVT - Environnement Technique",
-    "departement": "77",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Oui Portail / Portillon: Non - Nouvelle serrure + nouvelle clé dans la BAC et double au gardien Délais de prévenance: 3.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: NON Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 04/02/2026 Na cockpit O+M : Pour toute intervention, merci d'envoyer un mail à rst@mairielepin.fr mettre en copie services.techniques@mairielepin.fr Délai de prévenance: 3 jours ouvrés à l'avance Horaires d’intervention : du lundi, mardi, jeudi et vendredi de 8h00 à 12h00 et de 13h00 à 16h30. Aucune intervention n’est autorisée le mercredi ni le week-end, sauf en cas d’urgence. Accès en autonomie. Contact: - M SZYSZKA Mickael (Responsable Services Techniques): 📧 rst@mairielepin.fr 📞 0630706494",
-    "date_planification": "2026-11-02",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-11-12",
-    "commentaire_terrain": "CRI déposé (WO-246584)",
-    "calque": "mc",
-    "code_fra": "FRA07700110",
-    "das_prevenance": "3 jours",
-    "acces_autonome": "autonome",
-    "acces_motif": "boîte à clés sur site",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
     }
    }
   },
