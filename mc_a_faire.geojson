@@ -2007,7 +2007,7 @@
    },
    "properties": {
     "name": "FRA07900025 — ROM_LE_POTEAU_LGV",
-    "description": "**Numéro de Work Order** : WO-247048\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour Michael,\n\nNous avons 3 sites sur lesquels nous avons de multiples vandalismes :\nFRA08600151\nFRA08600152\nFRA07900025\n\nMerci de procéder à l'installation de 2 caméras factices sur le pylône avec des panneaux de signalisation.\n\nCordialement\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Provenance du repère** : airtable\n**Numéro de département** : 79\n**Nom du site** : ROM_LE_POTEAU_LGV\n**Coordonnées** : 46.301102, 0.134051\n[[https://www.google.com/maps?q=46.301102,0.134051|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.301102,0.134051|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2844,0.180094|Déchèterie de Couhe (Couhé, 4.0 km)]] — 0549521438\n[[https://www.google.com/maps?q=46.2111,0.15867|Déchèterie de Chaunay (CHAUNAY, 10.2 km)]] — 0549437250\n[[https://www.google.com/maps?q=46.258,-0.005169|Déchèterie Lezay (Lezay, 11.7 km)]] — 0549275679\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.301102,0.134051,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nBEGUIN Philippe — Accès — 0619968015 — à prévenir — conforme le 2025-12-02\n**Parties liées** :\nPhilippe Et Chantal BEGUIN — Bailleur, Contact Bailleur (Migration GID part2) — conforme le 2026-10-07\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 05/10/2026 Cockpit O+M C Prévenance obligatoire auprès du propriétaire, M. BEGUIN Philippe (06 19 96 80 15), par téléphone au moins un jour avant l’intervention.",
+    "description": "**Numéro de Work Order** : WO-247048\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour Michael,\n\nNous avons 3 sites sur lesquels nous avons de multiples vandalismes :\nFRA08600151\nFRA08600152\nFRA07900025\n\nMerci de procéder à l'installation de 2 caméras factices sur le pylône avec des panneaux de signalisation.\n\nCordialement\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 1 jour\n**Équipe affectée** : Raed\n**Seconde personne de l'équipe** : Mehrez\n**Provenance du repère** : airtable\n**Numéro de département** : 79\n**Nom du site** : ROM_LE_POTEAU_LGV\n**Coordonnées** : 46.301102, 0.134051\n[[https://www.google.com/maps?q=46.301102,0.134051|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.301102,0.134051|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2844,0.180094|Déchèterie de Couhe (Couhé, 4.0 km)]] — 0549521438\n[[https://www.google.com/maps?q=46.2111,0.15867|Déchèterie de Chaunay (CHAUNAY, 10.2 km)]] — 0549437250\n[[https://www.google.com/maps?q=46.258,-0.005169|Déchèterie Lezay (Lezay, 11.7 km)]] — 0549275679\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.301102,0.134051,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nBEGUIN Philippe — Accès — 0619968015 — à prévenir — conforme le 2025-12-02\n**Parties liées** :\nPhilippe Et Chantal BEGUIN — Bailleur, Contact Bailleur (Migration GID part2) — conforme le 2026-10-07\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 05/10/2026 Cockpit O+M C Prévenance obligatoire auprès du propriétaire, M. BEGUIN Philippe (06 19 96 80 15), par téléphone au moins un jour avant l’intervention.",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "ROM_LE_POTEAU_LGV",
@@ -2018,6 +2018,8 @@
     "departement": "79",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: 1.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: 05/10/2026 Cockpit O+M C Prévenance obligatoire auprès du propriétaire, M. BEGUIN Philippe (06 19 96 80 15), par téléphone au moins un jour avant l’intervention.",
     "date_planification": "2026-11-24",
+    "equipe": "Raed",
+    "equipier": "Mehrez",
     "calque": "mc",
     "code_fra": "FRA07900025",
     "das_prevenance": "1 jour",
@@ -2025,7 +2027,8 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "R/Mz"
     }
    }
   },
