@@ -219,6 +219,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -0.588699,
+     49.172128
+    ]
+   },
+   "properties": {
+    "name": "FRA01400111 — FONTENAY_LE_PESNEL",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : De nombreuses mouches sur site voir pour un traitement et la cause.\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Provenance du repère** : ensio\n**Adresse du site** : Rue du Château d'Eau 14250 Fontenay-le-Pesnel\n**Nom du site** : FONTENAY_LE_PESNEL\n**Coordonnées** : 49.172128, -0.588699\n[[https://www.google.com/maps?q=49.172128,-0.588699|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.172128,-0.588699|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.1744,-0.58261|Déchèterie de Fontenay-le-Pesnel (FONTENAY-LE-PESNEL, 0.5 km)]]\n[[https://www.google.com/maps?q=49.2149,-0.50421|Déchèterie de Bretteville-l'Orgueilleuse (BRETTEVILLE-L'ORGUEILLEUSE, 7.8 km)]]\n[[https://www.google.com/maps?q=49.1541,-0.47948|Déchèterie de Mouen (MOUEN, 8.2 km)]] — 0633232288\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.172128,-0.588699,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "origine": "ensio",
+    "travaux": "De nombreuses mouches sur site voir pour un traitement et la cause.",
+    "etat_wo": "Activé",
+    "nom_site": "FONTENAY_LE_PESNEL",
+    "adresse": "Rue du Château d'Eau 14250 Fontenay-le-Pesnel",
+    "calque": "mc",
+    "code_fra": "FRA01400111",
+    "acces_autonome": "a_confirmer",
+    "acces_motif": "fiche d'accès vide",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -0.006525,
      49.320951
     ]
@@ -1798,6 +1826,41 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     1.0413229,
+     49.2762981
+    ]
+   },
+   "properties": {
+    "name": "FRA07600153 — ELBEUF",
+    "description": "**État du WO** : Activé\n**Travaux à réaliser** : Prévoir un nettoyage du chemin d'accès aux structures hautes et de la zone des structures hautes ( présence de pigeons morts et vivants ainsi qu'une grosse quantité de fientes) ; Prévoir l'enlèvement des pigeons morts ; Prévoir la clôture des ouvertures présentes dans les filets au niveau des cloches permettant aux pigeons de pénétrer à l'intérieur du site\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Numéro de DAS** : DAS-N0240446\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-15\n**Fin de validité** : 2026-10-15\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Provenance du repère** : ensio\n**Adresse du site** : 12 Rue aux Saulniers, Eglise St Louis 76320 SAINT PIERRE LES ELBEUF\n**Nom du site** : ELBEUF\n**Coordonnées** : 49.276298, 1.041323\n[[https://www.google.com/maps?q=49.276298,1.041323|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.276298,1.041323|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.2303,1.08118|Déchèterie la Haye Malherbe (HAYE-MALHERBE, 5.9 km)]] — 0232404563\n[[https://www.google.com/maps?q=49.296,1.1539|Déchèterie Pont de l'Arche (Pont-de-l'Arche, 8.5 km)]]\n[[https://www.google.com/maps?q=49.2171,0.933619|Déchèterie d'Amfreville St-Amand (Amfreville-la-Campagne*, 10.2 km)]] — 0232353682\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.276298,1.041323,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: RA 11/4/25\n- Contact : Florence Etcheto\n- Téléphone : 02 32 96 95 74\n- Téléphone : 06 14 33 06 68\nE-mails :\n- fetcheto@pierrotin.fr\n- edesjardins@pierrotin.fr\n- GSM_St_Louis@pierrotin.fr\n\n12/05/2025 Mi cockpit O+M :\n\n* SERVICE TECHNIQUE DE LA MAIRIE\n02 32 96 95 70 ( mairie )\n02 32 96 94 55 ( service urbanisme )\ntechnique@pierrotin.fr\n\nIl faut un délai minimum de 10 jours pour les prévenir par mail au technique@pierrotin.fr et les techniciens doivent prendre les clés à la mairie avant chaque intervention.",
+    "origine": "ensio",
+    "travaux": "Prévoir un nettoyage du chemin d'accès aux structures hautes et de la zone des structures hautes ( présence de pigeons morts et vivants ainsi qu'une grosse quantité de fientes) ; Prévoir l'enlèvement des pigeons morts ; Prévoir la clôture des ouvertures présentes dans les filets au niveau des cloches permettant aux pigeons de pénétrer à l'intérieur du site",
+    "etat_wo": "Activé",
+    "nom_site": "ELBEUF",
+    "adresse": "12 Rue aux Saulniers, Eglise St Louis 76320 SAINT PIERRE LES ELBEUF",
+    "das_numero": "DAS-N0240446",
+    "das_statut": "Acceptée",
+    "das_debut": "2026-10-15",
+    "das_fin": "2026-10-15",
+    "das_provenance": "airtable",
+    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé bailleur\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: RA 11/4/25\n- Contact : Florence Etcheto\n- Téléphone : 02 32 96 95 74\n- Téléphone : 06 14 33 06 68\nE-mails :\n- fetcheto@pierrotin.fr\n- edesjardins@pierrotin.fr\n- GSM_St_Louis@pierrotin.fr\n\n12/05/2025 Mi cockpit O+M :\n\n* SERVICE TECHNIQUE DE LA MAIRIE\n02 32 96 95 70 ( mairie )\n02 32 96 94 55 ( service urbanisme )\ntechnique@pierrotin.fr\n\nIl faut un délai minimum de 10 jours pour les prévenir par mail au technique@pierrotin.fr et les techniciens doivent prendre les clés à la mairie avant chaque intervention.",
+    "das_prevenance": "10 jours",
+    "calque": "mc",
+    "code_fra": "FRA07600153",
+    "acces_autonome": "non_autonome",
+    "acces_motif": "moyens d'accès à récupérer sur place",
+    "_umap_options": {
+     "color": "#DC2626",
+     "iconClass": "LargeCircle",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      0.923351,
      49.603428
     ]
@@ -2644,7 +2707,7 @@
    },
    "properties": {
     "name": "FRA09500086 — DOMONT_CENTRE",
-    "description": "**Numéro de Work Order** : WO-247500\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Réparer le regard\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-11-13\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 7 jours\n**Provenance du repère** : airtable\n**Numéro de département** : 95\n**Nom du site** : DOMONT_CENTRE\n**Coordonnées** : 49.022690, 2.323706\n[[https://www.google.com/maps?q=49.022690,2.323706|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.022690,2.323706|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9538,2.3677|Déchèterie de Pierrefitte (Pierrefitte-sur-Seine, 8.3 km)]]\n[[https://www.google.com/maps?q=48.9467,2.33666|Déchèterie Épinay-sur-seine (Épinay-sur-Seine, 8.5 km)]]\n[[https://www.google.com/maps?q=49.03,2.18842|DEchEterie de Bessancourt (Bessancourt, 9.9 km)]] — 0130408000\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.022690,2.323706,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1xum1FxLqSQwckOzftNZLCj70lZSdjzDP/view|FRA09500086_DOMONT_CENTRE_CP_06112026.pdf]]\n[[https://drive.google.com/drive/folders/1V6a8aOhS0OzFJfJyZhso_cYUDurZ_Rv6|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nAmiet — Accès, Services Techniques\nDuflessel — Accès, Services Techniques\n**Parties liées** :\nCOMMUNE DE DOMONT NAJ — Bailleur, Contact Bailleur (Migration GID part3) — 0139355500 — conforme le 2025-10-07\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: MK - 09/02/2026 Bailleur indique qu'on peut intervenir sans attendre leur accord, suffit de leur envoyer un mail informatif: techniques@domont.fr/ une semaine avant intervention",
+    "description": "**Numéro de Work Order** : WO-247500\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Réparer le regard\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-11-13\n**État de consignation du site** : Consigne Particulière\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : 7 jours\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-247500)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-11-13\n**Provenance du repère** : airtable\n**Numéro de département** : 95\n**Nom du site** : DOMONT_CENTRE\n**Coordonnées** : 49.022690, 2.323706\n[[https://www.google.com/maps?q=49.022690,2.323706|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.022690,2.323706|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.9538,2.3677|Déchèterie de Pierrefitte (Pierrefitte-sur-Seine, 8.3 km)]]\n[[https://www.google.com/maps?q=48.9467,2.33666|Déchèterie Épinay-sur-seine (Épinay-sur-Seine, 8.5 km)]]\n[[https://www.google.com/maps?q=49.03,2.18842|DEchEterie de Bessancourt (Bessancourt, 9.9 km)]] — 0130408000\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.022690,2.323706,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1xum1FxLqSQwckOzftNZLCj70lZSdjzDP/view|FRA09500086_DOMONT_CENTRE_CP_06112026.pdf]]\n[[https://drive.google.com/drive/folders/1V6a8aOhS0OzFJfJyZhso_cYUDurZ_Rv6|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nAmiet — Accès, Services Techniques\nDuflessel — Accès, Services Techniques\n**Parties liées** :\nCOMMUNE DE DOMONT NAJ — Bailleur, Contact Bailleur (Migration GID part3) — 0139355500 — conforme le 2025-10-07\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: MK - 09/02/2026 Bailleur indique qu'on peut intervenir sans attendre leur accord, suffit de leur envoyer un mail informatif: techniques@domont.fr/ une semaine avant intervention",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "DOMONT_CENTRE",
@@ -2656,13 +2719,17 @@
     "consignation": "Consigne Particulière",
     "acces_detail": "Digicode: Badge: Boite à clés: Oui Portail / Portillon: Mécanique Délais de prévenance: 7.0 Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ABLOY Cadenas: Commentaire d'accès: MK - 09/02/2026 Bailleur indique qu'on peut intervenir sans attendre leur accord, suffit de leur envoyer un mail informatif: techniques@domont.fr/ une semaine avant intervention",
     "date_planification": "2026-11-13",
+    "etat_terrain": "fait",
+    "declare_par": "Michael",
+    "declare_le": "2026-11-13",
+    "commentaire_terrain": "CRI déposé (WO-247500)",
     "calque": "mc",
     "code_fra": "FRA09500086",
     "das_prevenance": "7 jours",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#F59E0B",
+     "color": "#15803D",
      "iconClass": "Drop"
     }
    }
