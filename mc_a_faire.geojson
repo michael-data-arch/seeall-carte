@@ -2149,7 +2149,7 @@
    },
    "properties": {
     "name": "FRA08600151 — CHAUNAY_OUEST_LGV",
-    "description": "**Numéro de Work Order** : WO-247046\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour Michael,\n\nNous avons 3 sites sur lesquels nous avons de multiples vandalismes :\nFRA08600151\nFRA08600152\nFRA07900025\n\nMerci de procéder à l'installation de 2 caméras factices sur le pylône avec des panneaux de signalisation.\n\nCordialement\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 86\n**Nom du site** : CHAUNAY_OUEST_LGV\n**Coordonnées** : 46.194032, 0.132255\n[[https://www.google.com/maps?q=46.194032,0.132255|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.194032,0.132255|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2111,0.15867|Déchèterie de Chaunay (CHAUNAY, 2.8 km)]] — 0549437250\n[[https://www.google.com/maps?q=46.1335,0.119368|Déchèterie de Sauze-Vaussais (SAUZE-VAUSSAIS, 6.8 km)]] — 0549076941\n[[https://www.google.com/maps?q=46.2844,0.180094|Déchèterie de Couhe (Couhé, 10.7 km)]] — 0549521438\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.194032,0.132255,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nGuy SAUNIER — Bailleur, Contact Bailleur (Migration GID part2)\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 25/08/2026 M cockpit O+M : Site en accès libre",
+    "description": "**Numéro de Work Order** : WO-247046\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour Michael,\n\nNous avons 3 sites sur lesquels nous avons de multiples vandalismes :\nFRA08600151\nFRA08600152\nFRA07900025\n\nMerci de procéder à l'installation de 2 caméras factices sur le pylône avec des panneaux de signalisation.\n\nCordialement\n**Scope de maintenance** : EVT - Environnement Technique + SH - Structure Haute\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Délai de prévenance** : non renseigné par TOTEM\n**Équipe affectée** : Raed\n**Seconde personne de l'équipe** : Mehrez\n**Provenance du repère** : airtable\n**Numéro de département** : 86\n**Nom du site** : CHAUNAY_OUEST_LGV\n**Coordonnées** : 46.194032, 0.132255\n[[https://www.google.com/maps?q=46.194032,0.132255|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.194032,0.132255|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.2111,0.15867|Déchèterie de Chaunay (CHAUNAY, 2.8 km)]] — 0549437250\n[[https://www.google.com/maps?q=46.1335,0.119368|Déchèterie de Sauze-Vaussais (SAUZE-VAUSSAIS, 6.8 km)]] — 0549076941\n[[https://www.google.com/maps?q=46.2844,0.180094|Déchèterie de Couhe (Couhé, 10.7 km)]] — 0549521438\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.194032,0.132255,12z|Toutes les déchèteries autour du site 🗑️]]\n**Parties liées** :\nGuy SAUNIER — Bailleur, Contact Bailleur (Migration GID part2)\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 25/08/2026 M cockpit O+M : Site en accès libre",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "CHAUNAY_OUEST_LGV",
@@ -2160,6 +2160,8 @@
     "departement": "86",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 25/08/2026 M cockpit O+M : Site en accès libre",
     "date_planification": "2026-11-20",
+    "equipe": "Raed",
+    "equipier": "Mehrez",
     "calque": "mc",
     "code_fra": "FRA08600151",
     "das_prevenance": "non renseigné par TOTEM",
@@ -2167,7 +2169,8 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "R/Mz"
     }
    }
   },
