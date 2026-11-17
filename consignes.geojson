@@ -39,11 +39,11 @@
    },
    "properties": {
     "name": "⛔ CONSIGNÉ — FRA02700129 — LA_COUTURE_BOUSSEY",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nMC à faire — WO-245993 — Travaux planifiés",
+    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Acces Site-Site ou Accès Deteriore Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-09 Motif: ACCES PYLONE ET BASE DU PYLONE INTERDITS : UNE CHARNIERE DE LA PORTE COUTIER EST CASSEE ET DES CADAVRES DE PIGEONS SONT ENTRES DANS LA CUVE DESAFFECTEE OU SONT SITUES LES PIEDS DU PYLONE. RISQUE DE CHUTE ET DE PSITTACOSE\nMC à faire — WO-245993 — Travaux planifiés",
     "code_fra": "FRA02700129",
     "nom_site": "LA_COUTURE_BOUSSEY",
     "consignation": "Consignation",
-    "consignation_detail": null,
+    "consignation_detail": "Catégorie : Acces Site-Site ou Accès Deteriore Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-09 Motif: ACCES PYLONE ET BASE DU PYLONE INTERDITS : UNE CHARNIERE DE LA PORTE COUTIER EST CASSEE ET DES CADAVRES DE PIGEONS SONT ENTRES DANS LA CUVE DESAFFECTEE OU SONT SITUES LES PIEDS DU PYLONE. RISQUE DE CHUTE ET DE PSITTACOSE",
     "calques": [
      "MC à faire"
     ],
@@ -363,11 +363,11 @@
    },
    "properties": {
     "name": "⛔ CONSIGNÉ — FRA07600234 — LIMESY",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nMC à faire — WO-247038 — Travaux planifiés",
+    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Electrique-Passif Localisation de la consignation : Zone technique Date consignation : 2026-10-20 Motif: ACCES SITE INTERDIT : LA PLAQUE DE TERRE GENERALE EST ABSENTE. RISQUE D'ELECTRISATION\nMC à faire — WO-247038 — Travaux planifiés",
     "code_fra": "FRA07600234",
     "nom_site": "LIMESY",
     "consignation": "Consignation",
-    "consignation_detail": null,
+    "consignation_detail": "Catégorie : Electrique-Passif Localisation de la consignation : Zone technique Date consignation : 2026-10-20 Motif: ACCES SITE INTERDIT : LA PLAQUE DE TERRE GENERALE EST ABSENTE. RISQUE D'ELECTRISATION",
     "calques": [
      "MC à faire"
     ],
@@ -444,11 +444,11 @@
    },
    "properties": {
     "name": "⛔ CONSIGNÉ — FRA07600281 — FONTAINE_LE_BOURG",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nMC à faire — WO-246641 — Travaux planifiés",
+    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Organes De Securite-Ligne Vie Rail Soll Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-20 Motif: ASCENSION INTERDITE : DES CRANS DU RAIL SOLL SONT TORDUS. RISQUE DE CHUTE\nMC à faire — WO-246641 — Travaux planifiés",
     "code_fra": "FRA07600281",
     "nom_site": "FONTAINE_LE_BOURG",
     "consignation": "Consignation",
-    "consignation_detail": null,
+    "consignation_detail": "Catégorie : Organes De Securite-Ligne Vie Rail Soll Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-20 Motif: ASCENSION INTERDITE : DES CRANS DU RAIL SOLL SONT TORDUS. RISQUE DE CHUTE",
     "calques": [
      "MC à faire"
     ],
@@ -530,33 +530,6 @@
     "nom_site": "LES_ORMES_SUR_VOULZIE",
     "consignation": "Consignation",
     "consignation_detail": "Catégorie : Organes De Securite-Securite Individuelle Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-05 Motif: ACCES INTERDIT, SYSTÈME D’ARRÊT DE CHUTES SOLL AINSI QUE LA TRAPPE SONT NON CONFORMES., RISQUE DE CHUTE",
-    "calques": [
-     "MC à faire"
-    ],
-    "_umap_options": {
-     "color": "#C0392B",
-     "iconClass": "Drop",
-     "iconUrl": "⛔",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.236445,
-     48.398273
-    ]
-   },
-   "properties": {
-    "name": "⛔ CONSIGNÉ — FRA07700223 — BRAY_SUR_SEINE",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Acces Site-Site ou Accès Deteriore Localisation de la consignation : Tout le site Date consignation : 2026-10-13 Motif: ACCES INTERDIT, GRILLAGE ENDOMMAGÉ DE LA ZT ZT À NETTOYER + ÉQUIPEMENT NON RELIÉ À LA TERRE + FEEDERS MAL ATTACHÉS, RISQUE DE CHUTE AVEC LE VENT\nMC à faire — WO-246782 — Activé",
-    "code_fra": "FRA07700223",
-    "nom_site": "BRAY_SUR_SEINE",
-    "consignation": "Consignation",
-    "consignation_detail": "Catégorie : Acces Site-Site ou Accès Deteriore Localisation de la consignation : Tout le site Date consignation : 2026-10-13 Motif: ACCES INTERDIT, GRILLAGE ENDOMMAGÉ DE LA ZT ZT À NETTOYER + ÉQUIPEMENT NON RELIÉ À LA TERRE + FEEDERS MAL ATTACHÉS, RISQUE DE CHUTE AVEC LE VENT",
     "calques": [
      "MC à faire"
     ],
