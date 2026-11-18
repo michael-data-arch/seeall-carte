@@ -290,42 +290,30 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -3.222422,
-     48.848206
+     1.46782,
+     45.092344
     ]
    },
    "properties": {
-    "name": "FRA02200189 — PLOUGRESCANT",
-    "description": "**Numéro de Work Order** : WO-247368\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Ronce et plante piquante tres presente sur le site\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : la fiche déclare l'accès autonome\n**Numéro de DAS** : DAS-N0259825\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-16\n**Fin de validité** : 2026-11-16\n**Délai de prévenance** : 7 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : L K\n**Date de la déclaration** : 2026-11-12\n**Équipe affectée** : Lassana Konate\n**Seconde personne de l'équipe** : Salihou\n**Provenance du repère** : airtable\n**Numéro de département** : 22\n**Nom du site** : PLOUGRESCANT\n**Coordonnées** : 48.848206, -3.222422\n[[https://www.google.com/maps?q=48.848206,-3.222422|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.848206,-3.222422|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.7959,-3.14328|Déchèterie de Kerlogoden (Pleumeur-Gautier, 8.2 km)]] — 0296222139\n[[https://www.google.com/maps?q=48.767,-3.27018|Déchèterie de Minihy-Tréguier (Minihy-Tréguier, 9.7 km)]] — 0296929421\n[[https://www.google.com/maps?q=48.7886,-3.39273|Déchèterie de Louannec (Louannec, 14.1 km)]] — 0296910633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.848206,-3.222422,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1M02aKaB3GZqJ593LlQ-0I4nrIM7NFQlX/view|{{https://drive.google.com/thumbnail?id=1M02aKaB3GZqJ593LlQ-0I4nrIM7NFQlX&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1xVTDTfvBxLe3YhmBhDDQ6z-IbumjESnQ|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nRoland PATEZOUR — Accès — 0782461279 — à prévenir — conforme le 2026-04-17\n**Parties liées** :\nRoland PATEZOUR — Bailleur, Contact Bailleur (Migration GID part2) — 02 96 92 51 88\n\n**Fiche d'accès**\nDigicode: SANS OBJET\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 7.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 17/04/26 D cockpit O+M:\n(à titre informatif)\nPATEZOUR Roland: 0782461279\nPrévenance à faire par mail: roland.patezour@orange.fr/ 1 semaine à l'avance\nAutonome",
-    "etat_wo": "Travaux planifiés",
+    "name": "FRA01900066 — CHASTEAUX",
+    "description": "**Numéro de Work Order** : WO-247675\n**État du WO** : Activé\n**Travaux à réaliser** : Descriptif détaillé de la demande et des actions attendues : nettoyer les déjections pour que nous puissions intervenir en toute sécurité.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : moyens d'accès à récupérer sur place\n**Délai de prévenance** : 2 jours\n**Provenance du repère** : airtable\n**Numéro de département** : 19\n**Nom du site** : CHASTEAUX\n**Coordonnées** : 45.092344, 1.467820\n[[https://www.google.com/maps?q=45.092344,1.467820|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.092344,1.467820|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.1415,1.43991|Déchèterie de Saint-Pantaleon-de-Larche (Saint-Pantaléon-de-Larche, 5.9 km)]] — 0555879277\n[[https://www.google.com/maps?q=45.1022,1.57466|Déchèterie de Cosnac (Cosnac, 8.5 km)]] — 0555236986\n[[https://www.google.com/maps?q=45.1779,1.49479|Déchèterie de Ussac (Ussac, 9.7 km)]] — 0555232593\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.092344,1.467820,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1-FZF_rgaDwVknvTHhrWmumDmKci96vif/view|{{https://drive.google.com/thumbnail?id=1-FZF_rgaDwVknvTHhrWmumDmKci96vif&sz=w200}}]] [[https://drive.google.com/file/d/18_Omow5kqAyg-uYXfx2n6jVvAT0gQpHx/view|{{https://drive.google.com/thumbnail?id=18_Omow5kqAyg-uYXfx2n6jVvAT0gQpHx&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1rO2xPMfbUmivIQwq6_zG19v9q19cwbae|📁 Toutes les pièces (2)]]\n**Contacts d'accès** :\nMairie Chasteaux — Accès — 05 55 85 82 75 — à prévenir — conforme le 2026-10-21\n**Parties liées** :\nCOMMUNE DE CHASTEAUX — Bailleur, Contact Bailleur (Migration GID part3) — conforme le 2026-11-16\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: 2.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 27/05/2025 – Mi cockpit O+M 🔹 Mairie de Chasteaux 📞 Téléphone : 05 55 85 82 75 ✉️ Email : mairie.chasteaux@orange.fr 🔹 Procédure à suivre - Prévenir la mairie au moins 48 heures à l’avance en envoyant un email à mairie.chasteaux@orange.fr et en passant un appel au 05 55 85 82 75. - Se présenter à l’accueil de la mairie afin de récupérer les clés.",
+    "etat_wo": "Activé",
     "origine": "airtable",
-    "nom_site": "PLOUGRESCANT",
-    "wo": "WO-247368",
-    "travaux": "Ronce et plante piquante tres presente sur le site",
-    "priorite": "Travaux Programmés",
-    "scope": "EV - Espaces Verts",
-    "departement": "22",
-    "acces_detail": "Digicode: SANS OBJET\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Mécanique\nDélais de prévenance: 7.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 17/04/26 D cockpit O+M:\n(à titre informatif)\nPATEZOUR Roland: 0782461279\nPrévenance à faire par mail: roland.patezour@orange.fr/ 1 semaine à l'avance\nAutonome",
-    "date_planification": "2026-11-19",
-    "das_numero": "DAS-N0259825",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-16",
-    "das_fin": "2026-11-16",
-    "das_provenance": "airtable",
-    "das_prevenance": "7 jours",
-    "equipe": "Lassana Konate",
-    "equipier": "Salihou",
-    "etat_terrain": "fait",
-    "declare_par": "L K",
-    "declare_le": "2026-11-12",
+    "nom_site": "CHASTEAUX",
+    "wo": "WO-247675",
+    "travaux": "Descriptif détaillé de la demande et des actions attendues : nettoyer les déjections pour que nous puissions intervenir en toute sécurité.",
+    "priorite": "P4",
+    "scope": "EVT - Environnement Technique",
+    "departement": "19",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Non Délais de prévenance: 2.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 27/05/2025 – Mi cockpit O+M 🔹 Mairie de Chasteaux 📞 Téléphone : 05 55 85 82 75 ✉️ Email : mairie.chasteaux@orange.fr 🔹 Procédure à suivre - Prévenir la mairie au moins 48 heures à l’avance en envoyant un email à mairie.chasteaux@orange.fr et en passant un appel au 05 55 85 82 75. - Se présenter à l’accueil de la mairie afin de récupérer les clés.",
     "calque": "mc",
-    "code_fra": "FRA02200189",
-    "acces_autonome": "autonome",
-    "acces_motif": "la fiche déclare l'accès autonome",
+    "code_fra": "FRA01900066",
+    "das_prevenance": "2 jours",
+    "acces_autonome": "non_autonome",
+    "acces_motif": "moyens d'accès à récupérer sur place",
     "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop",
-     "iconUrl": "LK/Sl"
+     "color": "#DC2626",
+     "iconClass": "Drop"
     }
    }
   },
@@ -465,7 +453,7 @@
    },
    "properties": {
     "name": "FRA03100393 — MONTASTRUC_LA_CONSEILLERE_FT",
-    "description": "**Numéro de Work Order** : WO-247670\n**État du WO** : Activé\n**Travaux à réaliser** : MERCI de traiter les espaces verts dans l’emprise du pylône, car actuellement la clôture de la parcelle (envahie d’herbes hautes et de ronces)\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 31\n**Nom du site** : MONTASTRUC_LA_CONSEILLERE_FT\n**Coordonnées** : 43.719844, 1.589355\n[[https://www.google.com/maps?q=43.719844,1.589355|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.719844,1.589355|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.8419,1.76004|Déchèterie de Rabastens (Rabastens, 19.3 km)]] — 0563405728\n[[https://www.google.com/maps?q=43.9116,1.69949|Déchèterie Salvagnac (Salvagnac, 23.1 km)]] — 0563461927\n[[https://www.google.com/maps?q=43.5256,1.76153|Déchèterie de Caraman (Caraman, 25.7 km)]] — 0561814379\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.719844,1.589355,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 12/03/2026 Na cockpit O+M : Site DIG 3, responsable à contacter en cas de soucis d'accès: morgan.auffret@orange.com et françoise.dealmeida@orange.com",
+    "description": "**Numéro de Work Order** : WO-247670\n**État du WO** : Activé\n**Travaux à réaliser** : MERCI de traiter les espaces verts dans l’emprise du pylône, car actuellement la clôture de la parcelle (envahie d’herbes hautes et de ronces)\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : P4\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : airtable\n**Numéro de département** : 31\n**Nom du site** : MONTASTRUC_LA_CONSEILLERE_FT\n**Coordonnées** : 43.719844, 1.589355\n[[https://www.google.com/maps?q=43.719844,1.589355|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.719844,1.589355|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.8419,1.76004|Déchèterie de Rabastens (Rabastens, 19.3 km)]] — 0563405728\n[[https://www.google.com/maps?q=43.9116,1.69949|Déchèterie Salvagnac (Salvagnac, 23.1 km)]] — 0563461927\n[[https://www.google.com/maps?q=43.5256,1.76153|Déchèterie de Caraman (Caraman, 25.7 km)]] — 0561814379\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.719844,1.589355,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 17/11/2026 LC TOTEM : Badge NEDAP nécessaire pour l'accès au bâtiment Site DIG 3, responsable à contacter en cas de soucis d'accès: morgan.auffret@orange.com et françoise.dealmeida@orange.com",
     "etat_wo": "Activé",
     "origine": "airtable",
     "nom_site": "MONTASTRUC_LA_CONSEILLERE_FT",
@@ -474,7 +462,7 @@
     "priorite": "P4",
     "scope": "EV - Espaces Verts",
     "departement": "31",
-    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 12/03/2026 Na cockpit O+M : Site DIG 3, responsable à contacter en cas de soucis d'accès: morgan.auffret@orange.com et françoise.dealmeida@orange.com",
+    "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: Electronique Délais de prévenance: Accès autonome ? Accès équipement(s): Badge: Badge Clés: Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé électronique ILOQ Cadenas: Commentaire d'accès: 17/11/2026 LC TOTEM : Badge NEDAP nécessaire pour l'accès au bâtiment Site DIG 3, responsable à contacter en cas de soucis d'accès: morgan.auffret@orange.com et françoise.dealmeida@orange.com",
     "calque": "mc",
     "code_fra": "FRA03100393",
     "das_prevenance": "non renseigné par TOTEM",
@@ -483,93 +471,6 @@
     "_umap_options": {
      "color": "#DC2626",
      "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.729528,
-     48.083627
-    ]
-   },
-   "properties": {
-    "name": "FRA03500092 — ST_JACQUES_LANDE",
-    "description": "**Numéro de Work Order** : WO-247509\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : • Clôture et poteau sur le point de tomber\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-19\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0261217\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-17\n**Délai de prévenance** : aucune\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-247509)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-11-18\n**Provenance du repère** : airtable\n**Numéro de département** : 35\n**Nom du site** : ST_JACQUES_LANDE\n**Coordonnées** : 48.083627, -1.729528\n[[https://www.google.com/maps?q=48.083627,-1.729528|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=48.083627,-1.729528|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=48.0617,-1.72417|Déchèterie de Saint-Jacques-de-la-Lande (Saint-Jacques-de-la-Lande, 2.5 km)]]\n[[https://www.google.com/maps?q=48.1115,-1.7511|Déchèterie de Vezin-le-Coquet (Vezin-le-Coquet, 3.5 km)]]\n[[https://www.google.com/maps?q=48.0932,-1.78685|Plateforme Végétaux de le Rheu (Le Rheu, 4.4 km)]]\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@48.083627,-1.729528,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (4) :\n[[https://drive.google.com/file/d/1mgECiH56Ncv6XPEjJzlB0HbyySY6mmp6/view|{{https://drive.google.com/thumbnail?id=1mgECiH56Ncv6XPEjJzlB0HbyySY6mmp6&sz=w200}}]] [[https://drive.google.com/file/d/1YbWkl3p2N2KblWC8B3HVX4jTlYkM3Ig5/view|{{https://drive.google.com/thumbnail?id=1YbWkl3p2N2KblWC8B3HVX4jTlYkM3Ig5&sz=w200}}]] [[https://drive.google.com/file/d/1g5h8h0ohzdBIzeyinG9wRCRf3ZU3PagO/view|{{https://drive.google.com/thumbnail?id=1g5h8h0ohzdBIzeyinG9wRCRf3ZU3PagO&sz=w200}}]] [[https://drive.google.com/file/d/1eJH-0ikObrzqUHjmFUikGQAAdOVXIRDb/view|{{https://drive.google.com/thumbnail?id=1eJH-0ikObrzqUHjmFUikGQAAdOVXIRDb&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1IA--0AvlotX-rtDIrSF96oIK1bk3mvkx|📁 Toutes les pièces (4)]]\n**Contacts d'accès** :\nAccès — conforme le 2026-04-15\nAccès — conforme le 2026-04-15\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance: 0.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 15/04/2026 Na cockpit O+M :\nSite DIG 3, responsable à contacter en cas de soucis d'accès: gwenaelle.ogercouturier@orange.com",
-    "etat_wo": "Devis Envoyé",
-    "origine": "airtable",
-    "nom_site": "ST_JACQUES_LANDE",
-    "wo": "WO-247509",
-    "travaux": "• Clôture et poteau sur le point de tomber",
-    "priorite": "Travaux Programmés",
-    "scope": "EVT - Environnement Technique",
-    "departement": "35",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance: 0.0\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: 15/04/2026 Na cockpit O+M :\nSite DIG 3, responsable à contacter en cas de soucis d'accès: gwenaelle.ogercouturier@orange.com",
-    "date_planification": "2026-11-19",
-    "das_numero": "DAS-N0261217",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-17",
-    "das_provenance": "airtable",
-    "das_prevenance": "aucune",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-11-18",
-    "commentaire_terrain": "CRI déposé (WO-247509)",
-    "calque": "mc",
-    "code_fra": "FRA03500092",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.666389,
-     46.800278
-    ]
-   },
-   "properties": {
-    "name": "FRA03600013 — CHATEAUROUX_ARGENTON",
-    "description": "**Numéro de Work Order** : WO-247383\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Prévoir un débroussaillage et un dégagement du passage ( chemin d’accès)\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262398\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-16\n**Fin de validité** : 2026-11-17\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-247383)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-11-18\n**Équipe affectée** : Raed\n**Seconde personne de l'équipe** : Mehrez\n**Provenance du repère** : airtable\n**Numéro de département** : 36\n**Nom du site** : CHATEAUROUX_ARGENTON\n**Coordonnées** : 46.800278, 1.666389\n[[https://www.google.com/maps?q=46.800278,1.666389|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.800278,1.666389|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.9939,1.59487|Déchèterie de Levroux (Levroux, 22.2 km)]] — 0254229028\n[[https://www.google.com/maps?q=46.5997,1.77739|Déchèterie de Neuvy Saint Sépulchre (Neuvy-Saint-Sépulchre, 23.9 km)]] — 0254309570\n[[https://www.google.com/maps?q=46.6405,1.39515|Déchèterie de Rivarennes (Rivarennes, 27.3 km)]] — 0254479733\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.800278,1.666389,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (5) :\n[[https://drive.google.com/file/d/1Xw9-NaitruK9cJgKxGcAfcgQXsvrvuxr/view|{{https://drive.google.com/thumbnail?id=1Xw9-NaitruK9cJgKxGcAfcgQXsvrvuxr&sz=w200}}]] [[https://drive.google.com/file/d/1O0TcPG5aiQ_Qak5MIZtGnueqRWAh2J56/view|{{https://drive.google.com/thumbnail?id=1O0TcPG5aiQ_Qak5MIZtGnueqRWAh2J56&sz=w200}}]] [[https://drive.google.com/file/d/1VLWSdxR-hes7K_0EPpIohwbmlz8R0az8/view|{{https://drive.google.com/thumbnail?id=1VLWSdxR-hes7K_0EPpIohwbmlz8R0az8&sz=w200}}]] [[https://drive.google.com/file/d/1Ccl3W3dabFQ-O2eDhcnImLj1NuLYKpZO/view|{{https://drive.google.com/thumbnail?id=1Ccl3W3dabFQ-O2eDhcnImLj1NuLYKpZO&sz=w200}}]]\n[[https://drive.google.com/drive/folders/15VjG7Ak7kW8RJzKzm_gx58gAqxUyyNG9|📁 Toutes les pièces (5)]]\n**Parties liées** :\nINTER TRANSPORTS SERVICES — Bailleur, Contact Bailleur (Migration GID part3) — 02 54 07 71 00\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "CHATEAUROUX_ARGENTON",
-    "wo": "WO-247383",
-    "travaux": "Prévoir un débroussaillage et un dégagement du passage ( chemin d’accès)",
-    "priorite": "Travaux Programmés",
-    "scope": "EV - Espaces Verts",
-    "departement": "36",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès:",
-    "date_planification": "2026-11-20",
-    "das_numero": "DAS-N0262398",
-    "das_statut": "Acceptée",
-    "das_provenance": "airtable",
-    "das_debut": "2026-11-16",
-    "das_fin": "2026-11-17",
-    "equipe": "Raed",
-    "equipier": "Mehrez",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-11-18",
-    "commentaire_terrain": "CRI déposé (WO-247383)",
-    "calque": "mc",
-    "code_fra": "FRA03600013",
-    "das_prevenance": "non renseigné par TOTEM",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop",
-     "iconUrl": "R/Mz"
     }
    }
   },
@@ -605,50 +506,6 @@
     "_umap_options": {
      "color": "#DC2626",
      "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.843606,
-     47.219448
-    ]
-   },
-   "properties": {
-    "name": "FRA03700118 — TAUXIGNY",
-    "description": "**Numéro de Work Order** : WO-235687\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Actions\n\n- Reprendre la clôture en très mauvais état s\n_ Le portillon d’accès à nos équipements.\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P4\n**Date de planification** : 2026-09-28\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0246752\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-10-29\n**Fin de validité** : 2026-10-30\n**Délai de prévenance** : 15 jours\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-235687)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-11-18\n**Sous-traitant affecté** : Enzo\n**Provenance du repère** : airtable\n**Numéro de département** : 37\n**Nom du site** : TAUXIGNY\n**Coordonnées** : 47.219448, 0.843606\n[[https://www.google.com/maps?q=47.219448,0.843606|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.219448,0.843606|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2584,0.832679|Déchèterie de Tauxigny St Bauld (Tauxigny*, 4.4 km)]] — 0247431866\n[[https://www.google.com/maps?q=47.2351,0.759403|Déchèterie les Coquettes Saint-branchs (Saint-Branchs, 6.6 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 9.5 km)]] — 0247267373\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.219448,0.843606,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1IA9JbFgkp6YKoM5LN4E2Fn0iJZV46Cy5/view|{{https://drive.google.com/thumbnail?id=1IA9JbFgkp6YKoM5LN4E2Fn0iJZV46Cy5&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1XTP_v74thy7bAnc3IbqG7cCkd3_qcgDV|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nLoches Sud Touraine — Accès\n**Parties liées** :\nFlavien PRADEAU — Bailleur, Contact Bailleur (Migration GID part4) — 0247590305 — conforme le 2026-10-20\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "TAUXIGNY",
-    "wo": "WO-235687",
-    "travaux": "Actions\n\n- Reprendre la clôture en très mauvais état s\n_ Le portillon d’accès à nos équipements.",
-    "priorite": "P4",
-    "scope": "EVT - Environnement Technique",
-    "departement": "37",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés:\nPortail / Portillon: - BAILLEUR\nDélais de prévenance: 15.0\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès: 30/09/2026 LC TOTEM :\n\nContact pour DAS :\n📧 eau@lochessudtouraine.com\n📞 02 47 59 03 05",
-    "date_planification": "2026-09-28",
-    "das_numero": "DAS-N0246752",
-    "das_provenance": "airtable",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-10-29",
-    "das_fin": "2026-10-30",
-    "das_prevenance": "15 jours",
-    "sous_traitant": "Enzo",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-11-18",
-    "commentaire_terrain": "CRI déposé (WO-235687)",
-    "calque": "mc",
-    "code_fra": "FRA03700118",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Drop",
-     "iconUrl": "E"
     }
    }
   },
@@ -812,8 +669,8 @@
    },
    "properties": {
     "name": "FRA04100029 — ZOO_BEAUVAL",
-    "description": "**Numéro de Work Order** : WO-247579\n**État du WO** : Devis Envoyé\n**Travaux à réaliser** : Ronces bloquant le portail et macaron de contrôle absent\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-27\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262388\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-16\n**Fin de validité** : 2026-11-17\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 41\n**Nom du site** : ZOO_BEAUVAL\n**Coordonnées** : 47.249698, 1.351277\n[[https://www.google.com/maps?q=47.249698,1.351277|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.249698,1.351277|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2873,1.3764|Decheterie de Noyers-sur-cher (Noyers-sur-Cher, 4.6 km)]] — 0254754852\n[[https://www.google.com/maps?q=47.1421,1.27624|Déchèterie de Nouans les Fontaines (Nouans-les-Fontaines, 13.2 km)]] — 0675283457\n[[https://www.google.com/maps?q=47.2921,1.52647|Decheterie de Billy (Billy, 14.0 km)]] — 0254977075\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.249698,1.351277,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/10dB34VTji5MjpVLjJm4ais9xYDrEqGrV/view|{{https://drive.google.com/thumbnail?id=10dB34VTji5MjpVLjJm4ais9xYDrEqGrV&sz=w200}}]]\n[[https://drive.google.com/drive/folders/11-HvirlzdbEQMVTw6UaNdup-JAkhKI_7|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nSylvain Spodar — Accès — 236392053\n**Parties liées** :\nSAS ZOOPARC DE BEAUVAL — Bailleur, Contact Bailleur (Migration GID part4)\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès: Boite à clés: BAC DENY DON 8141P SE TROUVE FACE AU PARKING DE L’AUTRE COTE DU PORTILLON CLOTURE - Clé du portillon ZT + CHAINE CADENAS A CODE 4141 ACCES PORTILLON PYLONE, LIBRE",
-    "etat_wo": "Devis Envoyé",
+    "description": "**Numéro de Work Order** : WO-247579\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Ronces bloquant le portail et macaron de contrôle absent\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-27\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262388\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-16\n**Fin de validité** : 2026-11-17\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 41\n**Nom du site** : ZOO_BEAUVAL\n**Coordonnées** : 47.249698, 1.351277\n[[https://www.google.com/maps?q=47.249698,1.351277|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.249698,1.351277|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.2873,1.3764|Decheterie de Noyers-sur-cher (Noyers-sur-Cher, 4.6 km)]] — 0254754852\n[[https://www.google.com/maps?q=47.1421,1.27624|Déchèterie de Nouans les Fontaines (Nouans-les-Fontaines, 13.2 km)]] — 0675283457\n[[https://www.google.com/maps?q=47.2921,1.52647|Decheterie de Billy (Billy, 14.0 km)]] — 0254977075\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.249698,1.351277,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/10dB34VTji5MjpVLjJm4ais9xYDrEqGrV/view|{{https://drive.google.com/thumbnail?id=10dB34VTji5MjpVLjJm4ais9xYDrEqGrV&sz=w200}}]]\n[[https://drive.google.com/drive/folders/11-HvirlzdbEQMVTw6UaNdup-JAkhKI_7|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nSylvain Spodar — Accès — 236392053\n**Parties liées** :\nSAS ZOOPARC DE BEAUVAL — Bailleur, Contact Bailleur (Migration GID part4)\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Commentaire moyen d'accès: Boite à clés: BAC DENY DON 8141P SE TROUVE FACE AU PARKING DE L’AUTRE COTE DU PORTILLON CLOTURE - Clé du portillon ZT + CHAINE CADENAS A CODE 4141 ACCES PORTILLON PYLONE, LIBRE",
+    "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "ZOO_BEAUVAL",
     "wo": "WO-247579",
@@ -834,7 +691,7 @@
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
-     "color": "#2563EB",
+     "color": "#F59E0B",
      "iconClass": "Drop"
     }
    }
@@ -1128,7 +985,7 @@
    },
    "properties": {
     "name": "FRA04500223 — SARAN_NORD",
-    "description": "**Numéro de Work Order** : WO-246930\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : bonjour, de la végatation est tombé sur le portillon et le grillage du site, ça n'empeche pas l'accès au site mais cela reste genant.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0259819\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-11-20\n**Fin de validité** : 2026-11-20\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 45\n**Nom du site** : SARAN_NORD\n**Coordonnées** : 47.963026, 1.889381\n[[https://www.google.com/maps?q=47.963026,1.889381|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.963026,1.889381|Street View]]\n**Déchèteries déchets verts** (vérifiées le 28/10/2026, ≤ 15 km) :\n✅ [[https://www.google.com/maps?q=47.9483,1.90679|Déchèterie de Saran (Saran, 2.1 km)]] — 0238569000 — Carte par véhicule (Kbis + carte grise), végétaux 15 € HT/m³, 5 m³/apport, pas de pros sam. après-midi/dim.\n✅ [[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 2.3 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.9123,1.94369|Déchèterie de Saint  Jean de Braye (Saint-Jean-de-Braye, 6.9 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.9123,1.94369|Végé'tri Saint-jean-de-braye (Saint-Jean-de-Braye, 6.9 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.9117,1.822|Végé'tri d'Ingré (Ingré, 7.6 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.9109,1.82134|Déchèterie de Ingre (Ingré, 7.7 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.884,1.86356|Végé'tri de Saint-pryvé-saint-mesmin (Saint-Pryvé-Saint-Mesmin, 9.0 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.8979,2.03958|Déchèterie de Chécy (Chécy, 13.3 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.8979,2.03958|Végé'tri de Chécy (Chécy, 13.3 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.8452,1.94491|Déchèterie de Saint Cyr en Val (Saint-Cyr-en-Val, 13.7 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.8452,1.94491|Végé'tri de Saint-cyr-en-val (Saint-Cyr-en-Val, 13.7 km)]] — 0238569000\n**À vérifier par téléphone** :\n❓ [[https://www.google.com/maps?q=47.8824,1.8822|Déchèterie d'Orléans (Orléans, 9.0 km)]] — 0238569000 (absente de la liste de la métropole)\n❓ [[https://www.google.com/maps?q=47.88,1.78|Veolia – déchetterie professionnelle de Chaingy (Chaingy, 12.0 km)]] — 0255595000 (DV absents de la liste déchetterie pro)\n❓ [[https://www.google.com/maps?q=47.8669,1.75999|Déchèterie Saint-ay (Saint-Ay, 14.4 km)]] — 0238445935 (règle hors territoire et DV pros non précisés)\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.963026,1.889381,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1nVICA6NVRhwLv5Y1gAYGXM3Fa7eQ2yEX/view|{{https://drive.google.com/thumbnail?id=1nVICA6NVRhwLv5Y1gAYGXM3Fa7eQ2yEX&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1xnVRW6jheAnl6PEqTpjl7STjb9WuJdQB|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nAccès — conforme le 2025-12-23\n**Parties liées** :\nSNCF RESEAU 2018 TVA — Bailleur, Contact Bailleur (Migration GID part4) — 0633190429 — conforme le 2026-10-16\nPatrick Sciortino-Monaco — conforme le 2026-06-26\nRichard Toulon — conforme le 2026-06-26\nKarine Hamami — conforme le 2026-06-26\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 30/09/2026 D cockpit O+M\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
+    "description": "**Numéro de Work Order** : WO-246930\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : bonjour, de la végatation est tombé sur le portillon et le grillage du site, ça n'empeche pas l'accès au site mais cela reste genant.\n**Scope de maintenance** : EV - Espaces Verts\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-20\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : intervention accompagnée\n**Numéro de DAS** : DAS-N0259819\n**Statut de la DAS** : En attente\n**Début de validité** : 2026-11-20\n**Fin de validité** : 2026-11-20\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Provenance du repère** : airtable\n**Numéro de département** : 45\n**Nom du site** : SARAN_NORD\n**Coordonnées** : 47.963026, 1.889381\n[[https://www.google.com/maps?q=47.963026,1.889381|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.963026,1.889381|Street View]]\n**Déchèteries déchets verts** (vérifiées le 28/10/2026, ≤ 15 km) :\n✅ [[https://www.google.com/maps?q=47.9483,1.90679|Déchèterie de Saran (Saran, 2.1 km)]] — 0238569000 — Carte par véhicule (Kbis + carte grise), végétaux 15 € HT/m³, 5 m³/apport, pas de pros sam. après-midi/dim.\n✅ [[https://www.google.com/maps?q=47.9555,1.86068|Végé'tri de Saran (Saran, 2.3 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.9123,1.94369|Déchèterie de Saint  Jean de Braye (Saint-Jean-de-Braye, 6.9 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.9123,1.94369|Végé'tri Saint-jean-de-braye (Saint-Jean-de-Braye, 6.9 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.9117,1.822|Végé'tri d'Ingré (Ingré, 7.6 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.9109,1.82134|Déchèterie de Ingre (Ingré, 7.7 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.884,1.86356|Végé'tri de Saint-pryvé-saint-mesmin (Saint-Pryvé-Saint-Mesmin, 9.0 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.8979,2.03958|Déchèterie de Chécy (Chécy, 13.3 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.8979,2.03958|Végé'tri de Chécy (Chécy, 13.3 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.8452,1.94491|Déchèterie de Saint Cyr en Val (Saint-Cyr-en-Val, 13.7 km)]] — 0238569000\n✅ [[https://www.google.com/maps?q=47.8452,1.94491|Végé'tri de Saint-cyr-en-val (Saint-Cyr-en-Val, 13.7 km)]] — 0238569000\n**À vérifier par téléphone** :\n❓ [[https://www.google.com/maps?q=47.8824,1.8822|Déchèterie d'Orléans (Orléans, 9.0 km)]] — 0238569000 (absente de la liste de la métropole)\n❓ [[https://www.google.com/maps?q=47.88,1.78|Veolia – déchetterie professionnelle de Chaingy (Chaingy, 12.0 km)]] — 0255595000 (DV absents de la liste déchetterie pro)\n❓ [[https://www.google.com/maps?q=47.8669,1.75999|Déchèterie Saint-ay (Saint-Ay, 14.4 km)]] — 0238445935 (règle hors territoire et DV pros non précisés)\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.963026,1.889381,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1nVICA6NVRhwLv5Y1gAYGXM3Fa7eQ2yEX/view|{{https://drive.google.com/thumbnail?id=1nVICA6NVRhwLv5Y1gAYGXM3Fa7eQ2yEX&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1xnVRW6jheAnl6PEqTpjl7STjb9WuJdQB|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nAccès — conforme le 2025-12-23\n**Parties liées** :\nSNCF RESEAU 2018 TVA — Bailleur, Contact Bailleur (Migration GID part4) — 0633190429 — conforme le 2026-11-18\nPatrick Sciortino-Monaco — conforme le 2026-06-26\nRichard Toulon — conforme le 2026-06-26\nKarine Hamami — conforme le 2026-06-26\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Non\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 30/09/2026 D cockpit O+M\n🏢 Site SNCF RÉSEAU\n\n📧 Demandes d’accès / maintenance / travaux : Toute demande concernant les stations radioélectriques situées en emprise SNCF RÉSEAU doit faire l’objet d’une expression de besoin via le portail partenaire :\n👉 https://rmp.telecom.reseau.sncf.fr/demande\n\n📎 Validation obligatoire : Au moment de la DAS, TOTEM doit disposer d’un mail de validation (à joindre) confirmant que le demandeur a bien rempli le formulaire SNCF via le portail partenaire.\n\n*Maintenance autonome : 5 jours ouvrés\n\n*Maintenance autonome urgente : 2 jours ouvrés avec la\npossibilité de traiter les demandes les plus urgentes sous 24h.\n\n*Maintenance avec accompagnement (présence d’un portail, d’une barrière etc) : 15 jours ouvrés à compter de la réception de la commande TOTEM\n\n*Maintenance particulière (utilisation d’un engin, cordes / poulies) : 15 jours ouvrés à compter de la réception de la commande TOTEM.",
     "etat_wo": "Travaux planifiés",
     "origine": "airtable",
     "nom_site": "SARAN_NORD",
@@ -2036,50 +1893,6 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Drop",
-     "iconUrl": "R/Mz"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     1.717386,
-     45.726076
-    ]
-   },
-   "properties": {
-    "name": "FRA08700056 — EYMOUTIERS_FT",
-    "description": "**Numéro de Work Order** : WO-247321\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Bonjour,\non nous remonte :\n- Rongeur mort dans le site\n- Déjections de rongeurs sur site\n\nMerci de procéder au traitement et nettoyage.\n\nCordialement\n**Priorité** : Travaux Programmés\n**Date de planification** : 2026-11-26\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0262570\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-18\n**Fin de validité** : 2026-11-20\n**Délai de prévenance** : non renseigné par TOTEM\n**Origine de la DAS** : airtable\n**Déclaration du terrain** : fait\n**Commentaire terrain** : CRI déposé (WO-247321)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-11-18\n**Équipe affectée** : Raed\n**Seconde personne de l'équipe** : Mehrez\n**Provenance du repère** : airtable\n**Numéro de département** : 87\n**Nom du site** : EYMOUTIERS_FT\n**Coordonnées** : 45.726076, 1.717386\n[[https://www.google.com/maps?q=45.726076,1.717386|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.726076,1.717386|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7361,1.70271|Déchèterie de Eymoutiers (Eymoutiers, 1.6 km)]] — 0555693714\n[[https://www.google.com/maps?q=45.7218,1.60243|Decheterie de Chateauneuf la Forêt (Châteauneuf-la-Forêt, 8.9 km)]] — 0555694491\n[[https://www.google.com/maps?q=45.5918,1.71795|Decheterie de Chamberet (Chamberet, 14.9 km)]] — 0679474173\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.726076,1.717386,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (2) :\n[[https://drive.google.com/file/d/1Klw4IuksU6rAlmzTtnll2TJ4m3A9c3-2/view|{{https://drive.google.com/thumbnail?id=1Klw4IuksU6rAlmzTtnll2TJ4m3A9c3-2&sz=w200}}]] [[https://drive.google.com/file/d/1IYIdQrjaUQTxRboKBF68yb-59SmvvxpQ/view|{{https://drive.google.com/thumbnail?id=1IYIdQrjaUQTxRboKBF68yb-59SmvvxpQ&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1WpjFLt1MedLuyY1976TTMeL6Ij5z6vdn|📁 Toutes les pièces (2)]]\n**Contacts d'accès** :\nAccès — conforme le 2025-11-26\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - CADENAS ABLOY OR/ABXBB POUR OUVERTURE PORTAIL\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 26/11/2025 M cockpit O+M:\nSite DIG 2, Full TOTEM , accès en autonomie",
-    "etat_wo": "Travaux planifiés",
-    "origine": "airtable",
-    "nom_site": "EYMOUTIERS_FT",
-    "wo": "WO-247321",
-    "travaux": "Bonjour,\non nous remonte :\n- Rongeur mort dans le site\n- Déjections de rongeurs sur site\n\nMerci de procéder au traitement et nettoyage.\n\nCordialement",
-    "priorite": "Travaux Programmés",
-    "departement": "87",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Non - CADENAS ABLOY OR/ABXBB POUR OUVERTURE PORTAIL\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 26/11/2025 M cockpit O+M:\nSite DIG 2, Full TOTEM , accès en autonomie",
-    "date_planification": "2026-11-26",
-    "das_numero": "DAS-N0262570",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-18",
-    "das_fin": "2026-11-20",
-    "das_provenance": "airtable",
-    "equipe": "Raed",
-    "equipier": "Mehrez",
-    "etat_terrain": "fait",
-    "declare_par": "Michael",
-    "declare_le": "2026-11-18",
-    "commentaire_terrain": "CRI déposé (WO-247321)",
-    "calque": "mc",
-    "code_fra": "FRA08700056",
-    "das_prevenance": "non renseigné par TOTEM",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
-    "_umap_options": {
-     "color": "#15803D",
      "iconClass": "Drop",
      "iconUrl": "R/Mz"
     }
