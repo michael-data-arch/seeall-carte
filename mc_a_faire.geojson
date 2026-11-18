@@ -1437,42 +1437,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.923351,
-     49.603428
-    ]
-   },
-   "properties": {
-    "name": "FRA07600234 — LIMESY",
-    "description": "**Numéro de Work Order** : WO-247038\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nVol PCT , vérifier l'ensemble du site\n**Scope de maintenance** : EVT - Environnement Technique\n**Priorité** : P3\n**Date de planification** : 2026-11-17\n**État de consignation du site** : Consignation\n**Détail de la consignation** : Catégorie : Electrique-Passif Localisation de la consignation : Zone technique Date consignation : 2026-10-20 Motif: ACCES SITE INTERDIT : LA PLAQUE DE TERRE GENERALE EST ABSENTE. RISQUE D'ELECTRISATION\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : la fiche déclare l'accès non autonome\n**Délai de prévenance** : 7 jours\n**Provenance du repère** : ensio\n**Numéro de département** : 76\n**Nom du site** : LIMESY\n**Coordonnées** : 49.603428, 0.923351\n[[https://www.google.com/maps?q=49.603428,0.923351|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.603428,0.923351|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.6032,0.843458|Déchèterie de Croix-mare (Croix-Mare, 5.8 km)]] — 0607907785\n[[https://www.google.com/maps?q=49.6659,0.879327|Déchèterie Yerville (Yerville, 7.6 km)]] — 0235962263\n[[https://www.google.com/maps?q=49.5236,0.925179|Déchèterie Villers Ecalles (Villers-Écalles, 8.9 km)]] — 0235619139\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.603428,0.923351,12z|Toutes les déchèteries autour du site 🗑️]]\n**Pièces jointes du WO** (1) :\n[[https://drive.google.com/file/d/1ecpatR7ehbSuLIkC3MUIa9JlH9TZP8ns/view|{{https://drive.google.com/thumbnail?id=1ecpatR7ehbSuLIkC3MUIa9JlH9TZP8ns&sz=w200}}]]\n[[https://drive.google.com/drive/folders/1JfqGpSmUcG9fIT_oPgp1wobf8YGfmfpq|📁 Toutes les pièces (1)]]\n**Contacts d'accès** :\nParent kevin — Accès — 0617039529 — à prévenir — conforme le 2026-07-27\n**Parties liées** :\nPascale TROLETTI — Bailleur, Directeur Régionale Normandie — 06 10 38 27 35 — conforme le 2026-10-20\nCéline TOUTAIN — Administratif, Contact bailleur — conforme le 2026-01-02\nLaurent OUILLON — Bailleur, Contact Bailleur (Migration GID part4) — 02 32 94 92 15\n\n**Fiche d'accès**\nDigicode: NON Badge: NON Boite à clés: Portail / Portillon: Non Délais de prévenance: 7.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 27/07/2026 Na cockpit O+M : Pour toute intervention, merci d'envoyer un mail à kevin.parent@veolia.com Délai de prévenance: - Si intervention préventive : 7 jours à l'avance - Si intervention urgente : 72h à l'avance Horaires d'intervention: de 8h00 à 12h00 et de 13h30 à 16h30 Accès non autonome : besoin systématique d’un agent Véolia pour l’ouverture du portail pour l’accès au sol, mais également pour l’ouverture du réservoir pour l’accès à la terrasse. 📞 Contact : - Parent kevin — kevin.parent@veolia.com — 0617039529",
-    "origine": "ensio",
-    "travaux": "Action\n\nVol PCT , vérifier l'ensemble du site",
-    "etat_wo": "Travaux planifiés",
-    "nom_site": "LIMESY",
-    "wo": "WO-247038",
-    "priorite": "P3",
-    "scope": "EVT - Environnement Technique",
-    "departement": "76",
-    "consignation": "Consignation",
-    "consignation_detail": "Catégorie : Electrique-Passif Localisation de la consignation : Zone technique Date consignation : 2026-10-20 Motif: ACCES SITE INTERDIT : LA PLAQUE DE TERRE GENERALE EST ABSENTE. RISQUE D'ELECTRISATION",
-    "acces_detail": "Digicode: NON Badge: NON Boite à clés: Portail / Portillon: Non Délais de prévenance: 7.0 Accès autonome ? Non Accès équipement(s): Badge: Clés: Clé mécanique Cadenas: Accès aérien(s): Digicode: Badge: Clés: Cadenas: Commentaire d'accès: 27/07/2026 Na cockpit O+M : Pour toute intervention, merci d'envoyer un mail à kevin.parent@veolia.com Délai de prévenance: - Si intervention préventive : 7 jours à l'avance - Si intervention urgente : 72h à l'avance Horaires d'intervention: de 8h00 à 12h00 et de 13h30 à 16h30 Accès non autonome : besoin systématique d’un agent Véolia pour l’ouverture du portail pour l’accès au sol, mais également pour l’ouverture du réservoir pour l’accès à la terrasse. 📞 Contact : - Parent kevin — kevin.parent@veolia.com — 0617039529",
-    "date_planification": "2026-11-17",
-    "calque": "mc",
-    "code_fra": "FRA07600234",
-    "das_prevenance": "7 jours",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "la fiche déclare l'accès non autonome",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "LargeCircle",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.3089042,
      49.676671
     ]

@@ -357,33 +357,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.923351,
-     49.603428
-    ]
-   },
-   "properties": {
-    "name": "⛔ CONSIGNÉ — FRA07600234 — LIMESY",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Electrique-Passif Localisation de la consignation : Zone technique Date consignation : 2026-10-20 Motif: ACCES SITE INTERDIT : LA PLAQUE DE TERRE GENERALE EST ABSENTE. RISQUE D'ELECTRISATION\nMC à faire — WO-247038 — Travaux planifiés",
-    "code_fra": "FRA07600234",
-    "nom_site": "LIMESY",
-    "consignation": "Consignation",
-    "consignation_detail": "Catégorie : Electrique-Passif Localisation de la consignation : Zone technique Date consignation : 2026-10-20 Motif: ACCES SITE INTERDIT : LA PLAQUE DE TERRE GENERALE EST ABSENTE. RISQUE D'ELECTRISATION",
-    "calques": [
-     "MC à faire"
-    ],
-    "_umap_options": {
-     "color": "#C0392B",
-     "iconClass": "Drop",
-     "iconUrl": "⛔",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.188249,
      49.500094
     ]
