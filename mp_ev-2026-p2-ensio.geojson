@@ -128,40 +128,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.039117,
-     46.809562
-    ]
-   },
-   "properties": {
-    "name": "FRA03600045 — MARTIZAY",
-    "description": "**Scope de maintenance** : EV\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Délai de prévenance** : non renseigné par TOTEM\n**Déclaration du terrain** : fait\n**Auteur de la déclaration** : Adil (via Michael)\n**Date de la déclaration** : 2026-10-31\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : import\n**Adresse du site** : La Metiverie\n**Numéro de département** : 36\n**Nom du site** : MARTIZAY\n**Coordonnées** : 46.809562, 1.039117\n[[https://www.google.com/maps?q=46.809562,1.039117|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=46.809562,1.039117|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=46.7941,0.951117|Déchèterie de Bossay sur Claise (Bossay-sur-Claise, 6.9 km)]] — 0247945914\n[[https://www.google.com/maps?q=46.737,0.980171|Déchèterie de Tournon Saint Martin (Tournon-Saint-Martin, 9.2 km)]] — 0254377597\n[[https://www.google.com/maps?q=46.8124,1.20248|Déchèterie de Saint Michel en Brenne (Saint-Michel-en-Brenne, 12.4 km)]] — 0254381103\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@46.809562,1.039117,12z|Toutes les déchèteries autour du site 🗑️]]",
-    "origine": "import",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "MARTIZAY",
-    "adresse": "La Metiverie",
-    "departement": "36",
-    "scope": "EV",
-    "etat_terrain": "fait",
-    "declare_par": "Adil (via Michael)",
-    "declare_le": "2026-10-31",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03600045",
-    "das_prevenance": "non renseigné par TOTEM",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "fiche d'accès vide",
-    "_umap_options": {
-     "color": "#15803D",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.0567,
      46.626321
     ]
@@ -208,7 +174,7 @@
    },
    "properties": {
     "name": "FRA03700046 — TOURS_DANEMARK_FT",
-    "description": "**Numéro de Work Order** : WO-204580 + WO-227858 + WO-243479\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0262872\n**Statut de la DAS** : Suspendue\n**Début de validité** : 2026-11-25\n**Fin de validité** : 2026-11-29\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 50 RUE DE FRANCHE COMTE ANGLE 83 AVENUE DANEMARK\n**Numéro de département** : 37\n**Nom du site** : TOURS_DANEMARK_FT\n**Coordonnées** : 47.430643, 0.677625\n[[https://www.google.com/maps?q=47.430643,0.677625|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.430643,0.677625|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 9.1 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 10.2 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.4369,0.518596|Déchèterie de Pernay (Pernay, 12.0 km)]] — 0247298100\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.430643,0.677625,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: Cobalt 37\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Cobalt 37\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Le reste est en Abloy le bâtiment 1 (bâtiment principal, là où sont les baies) et bâtiment 7 qui est le pylône (Tour métallique là où sont les antennes)\n\nCOCKPIT O+M FA 11/03/2026\n– Prévenance de 10 Jours obligatoire / CDS doit appeler et mailer le responsable du site de chez ORANGE: M. Adrien COURATIN Chargé Service et Sécurité +33 6 72 94 94 39 adrien.couratin@orange.com /\n- Bien s'assurer que l'intervenant est en possession d'une carte CMS\n- Accès nécessaire : badge : CMS\nClé : ABLOY",
+    "description": "**Numéro de Work Order** : WO-204580 + WO-227858 + WO-243479\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EVT - Environnement Technique + EV - Espaces Verts + SH - Structure Haute + EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0262872\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-25\n**Fin de validité** : 2026-11-29\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 50 RUE DE FRANCHE COMTE ANGLE 83 AVENUE DANEMARK\n**Numéro de département** : 37\n**Nom du site** : TOURS_DANEMARK_FT\n**Coordonnées** : 47.430643, 0.677625\n[[https://www.google.com/maps?q=47.430643,0.677625|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.430643,0.677625|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 9.1 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 10.2 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.4369,0.518596|Déchèterie de Pernay (Pernay, 12.0 km)]] — 0247298100\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.430643,0.677625,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: Cobalt 37\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Cobalt 37\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Le reste est en Abloy le bâtiment 1 (bâtiment principal, là où sont les baies) et bâtiment 7 qui est le pylône (Tour métallique là où sont les antennes)\n\nCOCKPIT O+M FA 11/03/2026\n– Prévenance de 10 Jours obligatoire / CDS doit appeler et mailer le responsable du site de chez ORANGE: M. Adrien COURATIN Chargé Service et Sécurité +33 6 72 94 94 39 adrien.couratin@orange.com /\n- Bien s'assurer que l'intervenant est en possession d'une carte CMS\n- Accès nécessaire : badge : CMS\nClé : ABLOY",
     "origine": "airtable",
     "campagne": "Espaces Verts 2026 P2-ENSIO",
     "towerco": "TOTEM",
@@ -223,7 +189,7 @@
     "date_planification": "2026-11-15",
     "nacelle": true,
     "das_numero": "DAS-N0262872",
-    "das_statut": "Suspendue",
+    "das_statut": "Acceptée",
     "das_debut": "2026-11-25",
     "das_fin": "2026-11-29",
     "das_provenance": "airtable",
