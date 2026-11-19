@@ -31,7 +31,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -65,7 +65,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -104,7 +104,7 @@
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -138,7 +138,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -178,7 +178,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -215,7 +215,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -255,7 +255,7 @@
     "acces_motif": "moyens d'accès à récupérer sur place",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -291,7 +291,7 @@
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
      "color": "#DB2777",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -328,7 +328,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -363,7 +363,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -397,7 +397,7 @@
     "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -431,7 +431,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -466,7 +466,7 @@
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -501,7 +501,7 @@
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -535,7 +535,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -569,7 +569,7 @@
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -606,7 +606,7 @@
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -644,7 +644,7 @@
     "acces_motif": "ouverture par interphone",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -684,7 +684,7 @@
     "acces_motif": "ouverture conditionnée à l'accord du bailleur",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -726,7 +726,7 @@
     "acces_motif": "le bailleur n'a pas encore donné les modalités",
     "_umap_options": {
      "color": "#DB2777",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -764,7 +764,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -804,7 +804,7 @@
     "acces_motif": "intervention accompagnée",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -839,7 +839,7 @@
     "acces_motif": "badge Cobalt à retirer au préalable",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -872,7 +872,7 @@
     "acces_motif": "badge Cobalt à retirer au préalable",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -912,7 +912,7 @@
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -952,7 +952,7 @@
     "acces_motif": "badge Cobalt à retirer au préalable",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -989,7 +989,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1026,7 +1026,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1065,7 +1065,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1106,7 +1106,7 @@
     "acces_motif": "présence d'un tiers obligatoire",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1143,7 +1143,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1179,7 +1179,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1222,7 +1222,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#15803D",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1265,7 +1265,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#15803D",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1307,7 +1307,7 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#15803D",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1345,7 +1345,7 @@
     "acces_motif": "moyens d'accès à récupérer sur place",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1381,7 +1381,7 @@
     "acces_motif": "la fiche ne tranche pas",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1419,7 +1419,7 @@
     "acces_motif": "la fiche déclare l'accès non autonome",
     "_umap_options": {
      "color": "#F59E0B",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   },
@@ -1463,7 +1463,7 @@
     "acces_motif": "boîte à clés sur site",
     "_umap_options": {
      "color": "#15803D",
-     "iconClass": "Circle"
+     "iconClass": "Drop"
     }
    }
   }
