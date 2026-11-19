@@ -128,123 +128,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.42666,
-     45.255551
-    ]
-   },
-   "properties": {
-    "name": "FRA04300009 — LAVAUDIEU",
-    "description": "**Numéro de Work Order** : WO-225394 + WO-244609\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-21\n**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : la fiche ne tranche pas\n**Numéro de DAS** : DAS-N0262853\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-21\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit Chantaillau EDF : Costes Cirgues\n**Numéro de département** : 43\n**Nom du site** : LAVAUDIEU\n**Coordonnées** : 45.255551, 3.426660\n[[https://www.google.com/maps?q=45.255551,3.426660|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.255551,3.426660|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3111,3.37105|Déchèterie de Brioude (BRIOUDE, 7.6 km)]] — 0471749551\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 18.4 km)]] — 0471230711\n[[https://www.google.com/maps?q=45.4191,3.33776|Déchèterie de Brassac (Brassac les mines, 19.5 km)]] — 0473542348\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.255551,3.426660,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LAVAUDIEU",
-    "adresse": "Lieu-dit Chantaillau EDF : Costes Cirgues",
-    "departement": "43",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225394 + WO-244609",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés:\nCadenas:\n\nCommentaire d'accès:",
-    "date_planification": "2026-10-21",
-    "das_numero": "DAS-N0262853",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-21",
-    "das_provenance": "airtable",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA04300009",
-    "acces_autonome": "a_confirmer",
-    "acces_motif": "la fiche ne tranche pas",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.622712,
-     45.130788
-    ]
-   },
-   "properties": {
-    "name": "FRA04300019 — STE_EUGENIE_DE_VILLENEUVE",
-    "description": "**Numéro de Work Order** : WO-224977 + WO-244612\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262850\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-21\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit La Pause EDF : Le Bourg\n**Numéro de département** : 43\n**Nom du site** : STE_EUGENIE_DE_VILLENEUVE\n**Coordonnées** : 45.130788, 3.622712\n[[https://www.google.com/maps?q=45.130788,3.622712|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.130788,3.622712|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0863,3.50642|Déchèterie de Langeac (LANGEAC, 10.4 km)]] — 0471771444\n[[https://www.google.com/maps?q=45.207,3.7282|Déchèterie d'Allegre (Allègre, 11.8 km)]] — 0471007633\n[[https://www.google.com/maps?q=45.0562,3.78936|Déchèterie de Sanssac l'Eglise (Sanssac-l'Église, 15.5 km)]] — 0471080684\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.130788,3.622712,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: non\nBoite à clés: Non\nPortail / Portillon: Non - ABLOY_Portail OR/ABUWH\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 20/08/2026 M cockpit O+M :\nSite en accès libre",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "STE_EUGENIE_DE_VILLENEUVE",
-    "adresse": "Lieu-dit La Pause EDF : Le Bourg",
-    "departement": "43",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224977 + WO-244612",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge: non\nBoite à clés: Non\nPortail / Portillon: Non - ABLOY_Portail OR/ABUWH\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 20/08/2026 M cockpit O+M :\nSite en accès libre",
-    "date_planification": "2026-10-22",
-    "das_numero": "DAS-N0262850",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-21",
-    "das_provenance": "airtable",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA04300019",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.51417,
-     45.19978
-    ]
-   },
-   "properties": {
-    "name": "FRA04300020 — PAULHAGUET",
-    "description": "**Numéro de Work Order** : WO-225207 + WO-244613\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-22\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262852\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-21\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LA PLANCHE EDF : Chemin du Chausse\n**Numéro de département** : 43\n**Nom du site** : PAULHAGUET\n**Coordonnées** : 45.199780, 3.514170\n[[https://www.google.com/maps?q=45.199780,3.514170|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.199780,3.514170|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0863,3.50642|Déchèterie de Langeac (LANGEAC, 12.6 km)]] — 0471771444\n[[https://www.google.com/maps?q=45.3111,3.37105|Déchèterie de Brioude (BRIOUDE, 16.7 km)]] — 0471749551\n[[https://www.google.com/maps?q=45.207,3.7282|Déchèterie d'Allegre (Allègre, 16.8 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.199780,3.514170,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 08/06/26 D cockpit O+M:\nTerrain acquis par TOTEM",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "PAULHAGUET",
-    "adresse": "LA PLANCHE EDF : Chemin du Chausse",
-    "departement": "43",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225207 + WO-244613",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 08/06/26 D cockpit O+M:\nTerrain acquis par TOTEM",
-    "date_planification": "2026-10-22",
-    "das_numero": "DAS-N0262852",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-21",
-    "das_provenance": "airtable",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA04300020",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      4.058332,
      45.02833
     ]
@@ -273,45 +156,6 @@
     "code_fra": "FRA04300022",
     "acces_autonome": "autonome",
     "acces_motif": "la fiche déclare l'accès autonome",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.46265,
-     45.103827
-    ]
-   },
-   "properties": {
-    "name": "FRA04300024 — LANGEAC",
-    "description": "**Numéro de Work Order** : WO-224437 + WO-244617\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-23\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Numéro de DAS** : DAS-N0262851\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-21\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : ENTREE DU VILLAGE PRENDRE A DROITE PUIS 600M\n**Numéro de département** : 43\n**Nom du site** : LANGEAC\n**Coordonnées** : 45.103827, 3.462650\n[[https://www.google.com/maps?q=45.103827,3.462650|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.103827,3.462650|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.0863,3.50642|Déchèterie de Langeac (LANGEAC, 4.0 km)]] — 0471771444\n[[https://www.google.com/maps?q=44.9573,3.52287|Decheterie de Saugues (Saugues, 17.0 km)]] — 0471778263\n[[https://www.google.com/maps?q=45.207,3.7282|Déchèterie d'Allegre (Allègre, 23.8 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.103827,3.462650,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Non\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés:\nCadenas:\n\nCommentaire d'accès: 22/01/2026 Na cockpit O+M :\nDIG 2, Full TOTEM",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "LANGEAC",
-    "adresse": "ENTREE DU VILLAGE PRENDRE A DROITE PUIS 600M",
-    "departement": "43",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224437 + WO-244617",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge: NON\nBoite à clés:\nPortail / Portillon:\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Non\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge: Non\nClés:\nCadenas:\n\nCommentaire d'accès: 22/01/2026 Na cockpit O+M :\nDIG 2, Full TOTEM",
-    "date_planification": "2026-10-23",
-    "das_numero": "DAS-N0262851",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-21",
-    "das_provenance": "airtable",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA04300024",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "site DIG Orange, non autonome par prudence",
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "Default"
@@ -388,46 +232,6 @@
     "das_provenance": "airtable",
     "calque": "mp-ev-2026-p2-seeall",
     "code_fra": "FRA04300026",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.325234,
-     45.327301
-    ]
-   },
-   "properties": {
-    "name": "FRA04300028 — BOURNONCLE",
-    "description": "**Numéro de Work Order** : WO-224180 + WO-244621\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-26\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262854\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-21\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Impasse de la Garenne\n**Numéro de département** : 43\n**Nom du site** : BOURNONCLE\n**Coordonnées** : 45.327301, 3.325234\n[[https://www.google.com/maps?q=45.327301,3.325234|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.327301,3.325234|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3111,3.37105|Déchèterie de Brioude (BRIOUDE, 4.0 km)]] — 0471749551\n[[https://www.google.com/maps?q=45.4191,3.33776|Déchèterie de Brassac (Brassac les mines, 10.3 km)]] — 0473542348\n[[https://www.google.com/maps?q=45.2609,3.19189|Déchèterie de Massiac (MASSIAC, 12.8 km)]] — 0471230711\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.327301,3.325234,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique - Dans la BAC\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "BOURNONCLE",
-    "adresse": "Impasse de la Garenne",
-    "departement": "43",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224180 + WO-244621",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon: Electronique - Dans la BAC\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé bailleur\nCadenas:\n\nCommentaire d'accès:",
-    "date_planification": "2026-10-26",
-    "nacelle": true,
-    "das_numero": "DAS-N0262854",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-21",
-    "das_provenance": "airtable",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA04300028",
     "acces_autonome": "autonome",
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
@@ -598,45 +402,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.501382,
-     45.355281
-    ]
-   },
-   "properties": {
-    "name": "FRA04300054 — CHAMPAGNAC_LE_VIEUX",
-    "description": "**Numéro de Work Order** : WO-225211 + WO-244631\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-10-28\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262855\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-21\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit LAYADE\n**Numéro de département** : 43\n**Nom du site** : CHAMPAGNAC_LE_VIEUX\n**Coordonnées** : 45.355281, 3.501382\n[[https://www.google.com/maps?q=45.355281,3.501382|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.355281,3.501382|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.3111,3.37105|Déchèterie de Brioude (BRIOUDE, 11.3 km)]] — 0471749551\n[[https://www.google.com/maps?q=45.4191,3.33776|Déchèterie de Brassac (Brassac les mines, 14.6 km)]] — 0473542348\n[[https://www.google.com/maps?q=45.3297,3.69991|Decheterie de la Chaise-dieu (La Chaise-Dieu, 15.8 km)]] — 0471007633\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.355281,3.501382,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 30/09/25 D cockpit O+M:\nSans prévenance\nAccès: en autonomie\nNB: en cas de besoin contact Mme Joelle à l'adresse mail: joellericoux@orange.fr",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "CHAMPAGNAC_LE_VIEUX",
-    "adresse": "Lieu-dit LAYADE",
-    "departement": "43",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225211 + WO-244631",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Non\nPortail / Portillon: Electronique\nDélais de prévenance:\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé électronique ILOQ\nCadenas:\n\nCommentaire d'accès: 30/09/25 D cockpit O+M:\nSans prévenance\nAccès: en autonomie\nNB: en cas de besoin contact Mme Joelle à l'adresse mail: joellericoux@orange.fr",
-    "date_planification": "2026-10-28",
-    "das_numero": "DAS-N0262855",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-21",
-    "das_provenance": "airtable",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA04300054",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      3.129711,
      45.778329
     ]
@@ -795,45 +560,6 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.134261,
-     45.740031
-    ]
-   },
-   "properties": {
-    "name": "FRA06300073 — PERIGNAT_LES_SARLIEVE",
-    "description": "**Numéro de Work Order** : WO-224998 + WO-244650\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-03\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262857\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-21\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : LDT PUY DE SOUNELY BTS PERIGNA\n**Numéro de département** : 63\n**Nom du site** : PERIGNAT_LES_SARLIEVE\n**Coordonnées** : 45.740031, 3.134261\n[[https://www.google.com/maps?q=45.740031,3.134261|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.740031,3.134261|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7431,3.10739|Déchèterie de Romagnat (ROMAGNAT, 2.1 km)]] — 0473449726\n[[https://www.google.com/maps?q=45.7397,3.19798|Déchèterie de Cournon (COURNON-D'AUVERGNE, 4.9 km)]] — 0473844344\n[[https://www.google.com/maps?q=45.6935,3.16097|Déchèterie de Veyre Monton (Veyre-Monton, 5.6 km)]] — 0473709287\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.740031,3.134261,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Cadenas ABLOY OR/ABUVH\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: non\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "PERIGNAT_LES_SARLIEVE",
-    "adresse": "LDT PUY DE SOUNELY BTS PERIGNA",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-224998 + WO-244650",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode: NON\nBadge:\nBoite à clés: Non\nPortail / Portillon: Cadenas ABLOY OR/ABUVH\nDélais de prévenance:\nAccès autonome ?\n\nAccès équipement(s):\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nAccès aérien(s):\nDigicode: non\nBadge:\nClés: Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès:",
-    "date_planification": "2026-11-03",
-    "das_numero": "DAS-N0262857",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-21",
-    "das_provenance": "airtable",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300073",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
      "iconClass": "Default"
     }
    }
@@ -1128,46 +854,6 @@
     "acces_motif": "clé électronique ILOQ ou ABLOY",
     "_umap_options": {
      "color": "#15803D",
-     "iconClass": "Default"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.167417,
-     45.748023
-    ]
-   },
-   "properties": {
-    "name": "FRA06300173 — COURNON_OUEST",
-    "description": "**Numéro de Work Order** : WO-225233 + WO-244715\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-24\n**Verdict d'autonomie** : autonome\n**Motif du verdict** : clé électronique ILOQ ou ABLOY\n**Numéro de DAS** : DAS-N0262856\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-17\n**Fin de validité** : 2026-11-21\n**Délai de prévenance** : 2 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-SEE ALL\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL\n**Provenance du repère** : airtable\n**Adresse du site** : Lieu-dit 9 Rue Jean Mermoz\n**Numéro de département** : 63\n**Nom du site** : COURNON_OUEST\n**Coordonnées** : 45.748023, 3.167417\n[[https://www.google.com/maps?q=45.748023,3.167417|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.748023,3.167417|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=45.7397,3.19798|Déchèterie de Cournon (COURNON-D'AUVERGNE, 2.5 km)]] — 0473844344\n[[https://www.google.com/maps?q=45.7431,3.10739|Déchèterie de Romagnat (ROMAGNAT, 4.7 km)]] — 0473449726\n[[https://www.google.com/maps?q=45.6935,3.16097|Déchèterie de Veyre Monton (Veyre-Monton, 6.1 km)]] — 0473709287\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@45.748023,3.167417,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon:\nDélais de prévenance: 2.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique - Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 16/11/26 / 0I:\nCode d'accès: 1453\n---\n18/03/26 D cockpit O+M:\nCUHADAR Hasan: 0777364719\nPrévenance à faire par mail: istikbal@erhameubles.com/ 48h à l'avance\nAutonome\nCode d'accés: 1453",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-SEE ALL",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL",
-    "nom_site": "COURNON_OUEST",
-    "adresse": "Lieu-dit 9 Rue Jean Mermoz",
-    "departement": "63",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-225233 + WO-244715",
-    "scope": "EV - Espaces Verts",
-    "acces_detail": "Digicode:\nBadge:\nBoite à clés: Oui\nPortail / Portillon:\nDélais de prévenance: 2.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge:\nClés: Clé mécanique\nCadenas:\n\nAccès aérien(s):\nDigicode:\nBadge:\nClés: Clé mécanique - Clé électronique ABLOY\nCadenas:\n\nCommentaire d'accès: 16/11/26 / 0I:\nCode d'accès: 1453\n---\n18/03/26 D cockpit O+M:\nCUHADAR Hasan: 0777364719\nPrévenance à faire par mail: istikbal@erhameubles.com/ 48h à l'avance\nAutonome\nCode d'accés: 1453",
-    "date_planification": "2026-11-24",
-    "das_numero": "DAS-N0262856",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-17",
-    "das_fin": "2026-11-21",
-    "das_provenance": "airtable",
-    "das_prevenance": "2 jours",
-    "calque": "mp-ev-2026-p2-seeall",
-    "code_fra": "FRA06300173",
-    "acces_autonome": "autonome",
-    "acces_motif": "clé électronique ILOQ ou ABLOY",
-    "_umap_options": {
-     "color": "#F59E0B",
      "iconClass": "Default"
     }
    }
