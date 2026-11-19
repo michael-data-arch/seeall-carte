@@ -1499,7 +1499,7 @@
    },
    "properties": {
     "name": "FRA07600281 — FONTAINE_LE_BOURG",
-    "description": "**Numéro de Work Order** : WO-246641\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser le contrôle SH et lever les non-conformités souligné en MP\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P3\n**Date de planification** : 2026-11-30\n**État de consignation du site** : Consignation\n**Détail de la consignation** : Catégorie : Organes De Securite-Ligne Vie Rail Soll Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-20 Motif: ASCENSION INTERDITE : DES CRANS DU RAIL SOLL SONT TORDUS. RISQUE DE CHUTE\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : non renseigné par TOTEM\n**Provenance du repère** : ensio\n**Numéro de département** : 76\n**Nom du site** : FONTAINE_LE_BOURG\n**Coordonnées** : 49.569727, 1.165234\n[[https://www.google.com/maps?q=49.569727,1.165234|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.569727,1.165234|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.635,1.17411|Déchèterie Bosc le Hard (Bosc-le-Hard, 7.3 km)]] — 0235769343\n[[https://www.google.com/maps?q=49.5912,1.34958|Déchèterie Buchy (Buchy*, 13.5 km)]] — 0235231883\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 15.6 km)]] — 0235889258\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.569727,1.165234,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nLamy Patrice — Accès\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: - serrure hs . cadenas a code 7676 Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 19/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
+    "description": "**Numéro de Work Order** : WO-246641\n**État du WO** : Travaux planifiés\n**Travaux à réaliser** : Action\n\nRéaliser le contrôle SH et lever les non-conformités souligné en MP\n**Scope de maintenance** : SH - Structure Haute\n**Priorité** : P3\n**Date de planification** : 2026-11-30\n**État de consignation du site** : Consignation\n**Détail de la consignation** : Catégorie : Organes De Securite-Ligne Vie Rail Soll Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-20 Motif: ASCENSION INTERDITE : DES CRANS DU RAIL SOLL SONT TORDUS. RISQUE DE CHUTE\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : site DIG Orange, non autonome par prudence\n**Délai de prévenance** : non renseigné par TOTEM\n**Équipe affectée** : Raed\n**Seconde personne de l'équipe** : Mehrez\n**Semaine ISO d'intervention** : 48\n**Provenance du repère** : ensio\n**Numéro de département** : 76\n**Nom du site** : FONTAINE_LE_BOURG\n**Coordonnées** : 49.569727, 1.165234\n[[https://www.google.com/maps?q=49.569727,1.165234|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=49.569727,1.165234|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=49.635,1.17411|Déchèterie Bosc le Hard (Bosc-le-Hard, 7.3 km)]] — 0235769343\n[[https://www.google.com/maps?q=49.5912,1.34958|Déchèterie Buchy (Buchy*, 13.5 km)]] — 0235231883\n[[https://www.google.com/maps?q=49.4348,1.10409|Déchèterie Rouen (Rouen, 15.6 km)]] — 0235889258\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@49.569727,1.165234,12z|Toutes les déchèteries autour du site 🗑️]]\n**Contacts d'accès** :\nLamy Patrice — Accès\n\n**Fiche d'accès**\nDigicode: Badge: Boite à clés: Non Portail / Portillon: - serrure hs . cadenas a code 7676 Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 19/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
     "origine": "ensio",
     "travaux": "Action\n\nRéaliser le contrôle SH et lever les non-conformités souligné en MP",
     "etat_wo": "Travaux planifiés",
@@ -1512,6 +1512,9 @@
     "consignation_detail": "Catégorie : Organes De Securite-Ligne Vie Rail Soll Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-20 Motif: ASCENSION INTERDITE : DES CRANS DU RAIL SOLL SONT TORDUS. RISQUE DE CHUTE",
     "acces_detail": "Digicode: Badge: Boite à clés: Non Portail / Portillon: - serrure hs . cadenas a code 7676 Délais de prévenance: Accès autonome ? Oui Accès équipement(s): Badge: Clés: Clé électronique ABLOY Cadenas: Accès aérien(s): Digicode: Badge: Clés: Clé mécanique Cadenas: Commentaire d'accès: 19/11/2025 Na cockpit O+M: Site DIG 2, Accès en Autonomie, Full TOTEM",
     "date_planification": "2026-11-30",
+    "equipe": "Raed",
+    "equipier": "Mehrez",
+    "semaine": 48,
     "calque": "mc",
     "code_fra": "FRA07600281",
     "das_prevenance": "non renseigné par TOTEM",
@@ -1520,7 +1523,8 @@
     "_umap_options": {
      "color": "#F59E0B",
      "iconClass": "LargeCircle",
-     "iconSize": 32
+     "iconSize": 32,
+     "iconUrl": "R/Mz"
     }
    }
   },
