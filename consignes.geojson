@@ -60,33 +60,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.531931,
-     46.592831
-    ]
-   },
-   "properties": {
-    "name": "⛔ CONSIGNÉ — FRA03600037 — ARGENTON_VERGER",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Organes De Securite-Securite Collective Localisation de la consignation : Infrastructures aériennes Date consignation : 2020-09-28 Motif: ACCES AUX AERIENS INTERDIT ET AU DOME DU CHATEAU D'EAU. GARDE-CORPS DETERIORES ET FRAGILISES - RISQUE DE CHUTE DE HAUTEUR.\nEspaces Verts 2026 P2-ENSIO — WO-204547 + WO-227826 + WO-243452 — Travaux planifiés",
-    "code_fra": "FRA03600037",
-    "nom_site": "ARGENTON_VERGER",
-    "consignation": "Consignation",
-    "consignation_detail": "Catégorie : Organes De Securite-Securite Collective Localisation de la consignation : Infrastructures aériennes Date consignation : 2020-09-28 Motif: ACCES AUX AERIENS INTERDIT ET AU DOME DU CHATEAU D'EAU. GARDE-CORPS DETERIORES ET FRAGILISES - RISQUE DE CHUTE DE HAUTEUR.",
-    "calques": [
-     "Espaces Verts 2026 P2-ENSIO"
-    ],
-    "_umap_options": {
-     "color": "#C0392B",
-     "iconClass": "Drop",
-     "iconUrl": "⛔",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      1.066097,
      46.85479
     ]
@@ -120,7 +93,7 @@
    },
    "properties": {
     "name": "⛔ CONSIGNÉ — FRA03700153 — SAVONNIERES",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Structure-Solidité Localisation de la consignation : Tout le site Date consignation : 2022-04-20 Motif: INTERDICTION D'ACCEDER AU SITE, PYLONET ET ACCESSOIRES NON-CONFORMES. RISQUE DE CHUTE DE HAUTEUR. RISQUE DE CHUTE D'OBJET.\nEspaces Verts 2026 P2-ENSIO — WO-204576 + WO-227854 + WO-243535 — Travaux planifiés",
+    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Structure-Solidité Localisation de la consignation : Tout le site Date consignation : 2022-04-20 Motif: INTERDICTION D'ACCEDER AU SITE, PYLONET ET ACCESSOIRES NON-CONFORMES. RISQUE DE CHUTE DE HAUTEUR. RISQUE DE CHUTE D'OBJET.\nEspaces Verts 2026 P2-ENSIO — WO-227854 + WO-243535 — Travaux planifiés",
     "code_fra": "FRA03700153",
     "nom_site": "SAVONNIERES",
     "consignation": "Consignation",
