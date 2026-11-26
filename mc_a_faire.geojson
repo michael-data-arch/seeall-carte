@@ -528,7 +528,7 @@
    },
    "properties": {
     "name": "FRA03700103 — LARCAY",
-    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Commentaire terrain** : PP le 01/12 à 12h (Michael, 2026-11-26)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-11-26\n**Provenance du repère** : ensio\n**Nom du site** : LARCAY\n**Coordonnées** : 47.355791, 0.770221\n[[https://www.google.com/maps?q=47.355791,0.770221|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.355791,0.770221|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 4.6 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 6.6 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 10.2 km)]] — 0247255550\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.355791,0.770221,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Délai de prévenance** : 1 jour\n**Commentaire terrain** : PP le 01/12 à 12h (Michael, 2026-11-26)\n**Auteur de la déclaration** : Michael\n**Date de la déclaration** : 2026-11-26\n**Provenance du repère** : ensio\n**Nom du site** : LARCAY\n**Coordonnées** : 47.355791, 0.770221\n[[https://www.google.com/maps?q=47.355791,0.770221|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.355791,0.770221|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 4.6 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.2984,0.794477|Déchèterie la Pommeraye Esvres sur Indre (Esvres, 6.6 km)]] — 0247267373\n[[https://www.google.com/maps?q=47.4327,0.84376|Déchèterie de Vernou sur Brenne (Vernou-sur-Brenne, 10.2 km)]] — 0247255550\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.355791,0.770221,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "ensio",
     "declare_par": "Michael",
     "declare_le": "2026-11-26",
@@ -536,6 +536,7 @@
     "commentaire_terrain": "PP le 01/12 à 12h (Michael, 2026-11-26)",
     "calque": "mc",
     "code_fra": "FRA03700103",
+    "das_prevenance": "1 jour",
     "acces_autonome": "a_confirmer",
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
