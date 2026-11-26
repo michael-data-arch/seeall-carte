@@ -461,11 +461,12 @@
    },
    "properties": {
     "name": "FRA03400389 — FERRIERES_POUSSAROU",
-    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Délai de prévenance** : non renseigné par TOTEM\n**Auteur de la déclaration** : Michael (session Claude)\n**Date de la déclaration** : 2026-11-24\n**Provenance du repère** : manuel\n**Nom du site** : FERRIERES_POUSSAROU\n**Coordonnées** : 43.498598, 2.908169\n[[https://www.google.com/maps?q=43.498598,2.908169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.498598,2.908169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.5487,2.89165|Déchèterie d'Olargues (Olargues, 5.7 km)]] — 0467239440\n[[https://www.google.com/maps?q=43.4966,2.78984|Déchèterie de Saint Pons de Thomieres (SAINT-PONS-DE-THOMIERES, 9.5 km)]] — 0467953644\n[[https://www.google.com/maps?q=43.4248,2.96875|Déchèterie de Pierrerue (Pierrerue, 9.6 km)]] — 0676490701\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.498598,2.908169,12z|Toutes les déchèteries autour du site 🗑️]]",
+    "description": "**Verdict d'autonomie** : a_confirmer\n**Motif du verdict** : fiche d'accès vide\n**Délai de prévenance** : non renseigné par TOTEM\n**Auteur de la déclaration** : Michael (session Claude)\n**Date de la déclaration** : 2026-11-24\n**Équipe affectée** : Romain\n**Provenance du repère** : manuel\n**Nom du site** : FERRIERES_POUSSAROU\n**Coordonnées** : 43.498598, 2.908169\n[[https://www.google.com/maps?q=43.498598,2.908169|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.498598,2.908169|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=43.5487,2.89165|Déchèterie d'Olargues (Olargues, 5.7 km)]] — 0467239440\n[[https://www.google.com/maps?q=43.4966,2.78984|Déchèterie de Saint Pons de Thomieres (SAINT-PONS-DE-THOMIERES, 9.5 km)]] — 0467953644\n[[https://www.google.com/maps?q=43.4248,2.96875|Déchèterie de Pierrerue (Pierrerue, 9.6 km)]] — 0676490701\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@43.498598,2.908169,12z|Toutes les déchèteries autour du site 🗑️]]",
     "origine": "manuel",
     "declare_par": "Michael (session Claude)",
     "declare_le": "2026-11-24",
     "nom_site": "FERRIERES_POUSSAROU",
+    "equipe": "Romain",
     "calque": "mc",
     "code_fra": "FRA03400389",
     "das_prevenance": "non renseigné par TOTEM",
@@ -473,7 +474,8 @@
     "acces_motif": "fiche d'accès vide",
     "_umap_options": {
      "color": "#67718A",
-     "iconClass": "Drop"
+     "iconClass": "Drop",
+     "iconUrl": "Ro"
     }
    }
   },
