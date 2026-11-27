@@ -330,33 +330,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     1.165234,
-     49.569727
-    ]
-   },
-   "properties": {
-    "name": "⛔ CONSIGNÉ — FRA07600281 — FONTAINE_LE_BOURG",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Organes De Securite-Ligne Vie Rail Soll Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-20 Motif: ASCENSION INTERDITE : DES CRANS DU RAIL SOLL SONT TORDUS. RISQUE DE CHUTE\nMC à faire — WO-246641 — Travaux planifiés",
-    "code_fra": "FRA07600281",
-    "nom_site": "FONTAINE_LE_BOURG",
-    "consignation": "Consignation",
-    "consignation_detail": "Catégorie : Organes De Securite-Ligne Vie Rail Soll Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-20 Motif: ASCENSION INTERDITE : DES CRANS DU RAIL SOLL SONT TORDUS. RISQUE DE CHUTE",
-    "calques": [
-     "MC à faire"
-    ],
-    "_umap_options": {
-     "color": "#C0392B",
-     "iconClass": "Drop",
-     "iconUrl": "⛔",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.231944,
      49.483056
     ]
