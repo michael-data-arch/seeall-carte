@@ -47,47 +47,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.677625,
-     47.430643
-    ]
-   },
-   "properties": {
-    "name": "FRA03700046 — TOURS_DANEMARK_FT",
-    "description": "**Numéro de Work Order** : WO-227858 + WO-243479\n**État du WO** : Travaux planifiés\n**Scope de maintenance** : EV - Espaces Verts\n**Date de planification** : 2026-11-15\n**Nécessité d'une nacelle** : oui\n**Verdict d'autonomie** : non_autonome\n**Motif du verdict** : badge Cobalt à retirer au préalable\n**Numéro de DAS** : DAS-N0262872\n**Statut de la DAS** : Acceptée\n**Début de validité** : 2026-11-25\n**Fin de validité** : 2026-11-29\n**Délai de prévenance** : 10 jours\n**Origine de la DAS** : airtable\n**Campagne d'appartenance** : Espaces Verts 2026 P2-ENSIO\n**Donneur d'ordre de la campagne** : TOTEM\n**Colonne Ressources du périmètre** : SEE ALL (ST ENSIO)\n**Provenance du repère** : airtable\n**Adresse du site** : 50 RUE DE FRANCHE COMTE ANGLE 83 AVENUE DANEMARK\n**Numéro de département** : 37\n**Nom du site** : TOURS_DANEMARK_FT\n**Coordonnées** : 47.430643, 0.677625\n[[https://www.google.com/maps?q=47.430643,0.677625|Google Maps 🌍]] · [[https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.430643,0.677625|Street View]]\n**Déchèteries pro les plus proches** :\n[[https://www.google.com/maps?q=47.5041,0.622974|Déchèterie de Saint Antoine du Rocher (Saint-Antoine-du-Rocher, 9.1 km)]] — 0247298100\n[[https://www.google.com/maps?q=47.3917,0.799823|Déchèterie de Montlouis sur Loire (Montlouis-sur-Loire, 10.2 km)]] — 0247255550\n[[https://www.google.com/maps?q=47.4369,0.518596|Déchèterie de Pernay (Pernay, 12.0 km)]] — 0247298100\n[[https://www.google.com/maps/search/d%C3%A9ch%C3%A8terie/@47.430643,0.677625,12z|Toutes les déchèteries autour du site 🗑️]]\n\n**Fiche d'accès**\nDigicode: NON\nBadge: Cobalt 37\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Cobalt 37\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Le reste est en Abloy le bâtiment 1 (bâtiment principal, là où sont les baies) et bâtiment 7 qui est le pylône (Tour métallique là où sont les antennes)\n\nCOCKPIT O+M FA 11/03/2026\n– Prévenance de 10 Jours obligatoire / CDS doit appeler et mailer le responsable du site de chez ORANGE: M. Adrien COURATIN Chargé Service et Sécurité +33 6 72 94 94 39 adrien.couratin@orange.com /\n- Bien s'assurer que l'intervenant est en possession d'une carte CMS\n- Accès nécessaire : badge : CMS\nClé : ABLOY",
-    "origine": "airtable",
-    "campagne": "Espaces Verts 2026 P2-ENSIO",
-    "towerco": "TOTEM",
-    "ressources": "SEE ALL (ST ENSIO)",
-    "nom_site": "TOURS_DANEMARK_FT",
-    "adresse": "50 RUE DE FRANCHE COMTE ANGLE 83 AVENUE DANEMARK",
-    "departement": "37",
-    "scope": "EV - Espaces Verts",
-    "etat_wo": "Travaux planifiés",
-    "wo": "WO-227858 + WO-243479",
-    "acces_detail": "Digicode: NON\nBadge: Cobalt 37\nBoite à clés: Non\nPortail / Portillon: Non\nDélais de prévenance: 10.0\nAccès autonome ? Oui\n\nAccès équipement(s):\nBadge: Cobalt 37\nClés:\nCadenas:\n\nAccès aérien(s):\nDigicode: NON\nBadge:\nClés: Clé mécanique\nCadenas:\n\nCommentaire d'accès: Le reste est en Abloy le bâtiment 1 (bâtiment principal, là où sont les baies) et bâtiment 7 qui est le pylône (Tour métallique là où sont les antennes)\n\nCOCKPIT O+M FA 11/03/2026\n– Prévenance de 10 Jours obligatoire / CDS doit appeler et mailer le responsable du site de chez ORANGE: M. Adrien COURATIN Chargé Service et Sécurité +33 6 72 94 94 39 adrien.couratin@orange.com /\n- Bien s'assurer que l'intervenant est en possession d'une carte CMS\n- Accès nécessaire : badge : CMS\nClé : ABLOY",
-    "date_planification": "2026-11-15",
-    "nacelle": true,
-    "das_numero": "DAS-N0262872",
-    "das_statut": "Acceptée",
-    "das_debut": "2026-11-25",
-    "das_fin": "2026-11-29",
-    "das_provenance": "airtable",
-    "das_prevenance": "10 jours",
-    "calque": "mp-ev-2026-p2-ensio",
-    "code_fra": "FRA03700046",
-    "acces_autonome": "non_autonome",
-    "acces_motif": "badge Cobalt à retirer au préalable",
-    "_umap_options": {
-     "color": "#F59E0B",
-     "iconClass": "Ball"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.683194,
      47.404568
     ]

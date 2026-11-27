@@ -384,60 +384,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.228188,
-     48.472331
-    ]
-   },
-   "properties": {
-    "name": "⛔ CONSIGNÉ — FRA07700064 — LES_ORMES_SUR_VOULZIE",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Organes De Securite-Securite Individuelle Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-05 Motif: ACCES INTERDIT, SYSTÈME D’ARRÊT DE CHUTES SOLL AINSI QUE LA TRAPPE SONT NON CONFORMES., RISQUE DE CHUTE\nMC à faire — WO-247632 — Travaux planifiés",
-    "code_fra": "FRA07700064",
-    "nom_site": "LES_ORMES_SUR_VOULZIE",
-    "consignation": "Consignation",
-    "consignation_detail": "Catégorie : Organes De Securite-Securite Individuelle Localisation de la consignation : Infrastructures aériennes Date consignation : 2026-10-05 Motif: ACCES INTERDIT, SYSTÈME D’ARRÊT DE CHUTES SOLL AINSI QUE LA TRAPPE SONT NON CONFORMES., RISQUE DE CHUTE",
-    "calques": [
-     "MC à faire"
-    ],
-    "_umap_options": {
-     "color": "#C0392B",
-     "iconClass": "Drop",
-     "iconUrl": "⛔",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.410278,
-     48.632778
-    ]
-   },
-   "properties": {
-    "name": "⛔ CONSIGNÉ — FRA07700244 — BEAUCHERY",
-    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Acces Site-Site ou Accès Deteriore Localisation de la consignation : Tout le site Date consignation : 2026-11-06 Motif: ACCES SITE INTERDIT : ARBRE TOMBE SUR LE PYLONE ET LE SHELTER - RISQUE DE CHUTE D'OBJETS\nMC à faire — WO-247628 — Travaux planifiés",
-    "code_fra": "FRA07700244",
-    "nom_site": "BEAUCHERY",
-    "consignation": "Consignation",
-    "consignation_detail": "Catégorie : Acces Site-Site ou Accès Deteriore Localisation de la consignation : Tout le site Date consignation : 2026-11-06 Motif: ACCES SITE INTERDIT : ARBRE TOMBE SUR LE PYLONE ET LE SHELTER - RISQUE DE CHUTE D'OBJETS",
-    "calques": [
-     "MC à faire"
-    ],
-    "_umap_options": {
-     "color": "#C0392B",
-     "iconClass": "Drop",
-     "iconUrl": "⛔",
-     "iconSize": 32
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      2.19515,
      48.680992
     ]
