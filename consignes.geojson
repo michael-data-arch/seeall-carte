@@ -60,6 +60,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     0.770221,
+     47.355791
+    ]
+   },
+   "properties": {
+    "name": "⛔ CONSIGNÉ — FRA03700103 — LARCAY",
+    "description": "**⛔ SITE CONSIGNÉ — accès interdit**\nCatégorie : Acces Site-Site ou Accès Deteriore Localisation de la consignation : Infrastructures aériennes Date consignation : 2024-10-30 Motif: ACCES SITE INTERDIT, CHUTE DE BETON AU NIVEAU DE LA PORTE D'ACCES DU CHATEAU D'EAU + AU NIVEAU DU CHEMIN DE CABLES HORIZONTAL ENTRE LE LOCAL ET LE CHATEAU D'EAU. RISQUE DE CHUTE D'OBJET, RISQUE DE HEURT.\nMC à faire — WO-233370 — Activé",
+    "code_fra": "FRA03700103",
+    "nom_site": "LARCAY",
+    "consignation": "Consignation",
+    "consignation_detail": "Catégorie : Acces Site-Site ou Accès Deteriore Localisation de la consignation : Infrastructures aériennes Date consignation : 2024-10-30 Motif: ACCES SITE INTERDIT, CHUTE DE BETON AU NIVEAU DE LA PORTE D'ACCES DU CHATEAU D'EAU + AU NIVEAU DU CHEMIN DE CABLES HORIZONTAL ENTRE LE LOCAL ET LE CHATEAU D'EAU. RISQUE DE CHUTE D'OBJET, RISQUE DE HEURT.",
+    "calques": [
+     "MC à faire"
+    ],
+    "_umap_options": {
+     "color": "#C0392B",
+     "iconClass": "Drop",
+     "iconUrl": "⛔",
+     "iconSize": 32
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      0.53317,
      47.342763
     ]
